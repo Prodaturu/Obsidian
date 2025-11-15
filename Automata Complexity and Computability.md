@@ -27,10 +27,18 @@ Tags: [[Information Theory]]
 - Complexity theory has pointed cryptographers towards hard problems around which they designed revolutionary new codes
 
 ## Computability Theory
+- **Definition:** Classification if a problem is solvable or not by a computer
 - Kurt Godel, Alan Turing, Alonzo Church discovered that certain basic problems cant be solved by computers
 - True or False mathematical statements are an example for problems that computers are bad at solving
 - Led to development of theoretical models of computers that would eventually help lead to actual computers
-- 
+
+## Automata Theory
+- Deals with definitions and properties of mathematical models of computation
+	- *finite momentum* - Text processing
+	- *context-free grammar* - programming languages and AI
+- Excellent place to start studying theory of computation
+
+
 # References
 
 
