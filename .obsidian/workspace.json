@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8cb0dc328dfa6bb",
+        "id": "19fe944b651873ed",
         "type": "tabs",
         "children": [
           {
-            "id": "06faee7372b181a9",
+            "id": "097c115b40532219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Introduction to Information Theory.md",
+                "file": "4 - Indexes/Information Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Information Theory"
+              "title": "Information Theory"
             }
           }
         ]
@@ -203,15 +203,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "06faee7372b181a9",
+  "active": "097c115b40532219",
   "lastOpenFiles": [
+    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "4 - Indexes/Information Theory.md",
+    "3 - Tags/Introduction to Information Theory 0.md",
+    "6 - Main Notes/Automata Complexity and Computability 0.1.md",
     "1 - Rough Notes/Remainders.md",
     "2 - Source Material/Books",
     "5 - Templates/Full Note.md",
-    "Mathematical Notions and Terminology in Information Theory.md",
-    "6 - Main Notes/Automata Complexity and Computability 0.1.md",
-    "3 - Tags/Introduction to Information Theory.md",
     "3 - Tags/TUM Bachelors.md",
     "test.md",
     "Untitled 1.md",

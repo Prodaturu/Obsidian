@@ -3,7 +3,7 @@
 
 Status: #child
 
-Tags: [[Information Theory]]  [[Introduction to Information Theory]] 
+Tags: [[Information Theory]]  [[Introduction to Information Theory 0]] 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ file:///home/sprodatu/Downloads/InformationTheoryTUMBook.pdf - Info-Theory TUM t
 
 -----------------------------------------------------------------------
  
-### Next -  [[Mathematical Notions and Terminology in Information Theory]]
+### Next -  [[Mathematical Notions and Terminology in Information Theory 0.2]]

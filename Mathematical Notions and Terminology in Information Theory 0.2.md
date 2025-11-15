@@ -5,7 +5,7 @@ Status: #baby
 
 Tags: 
 - [[Information Theory]] 
-- [[Introduction to Information Theory]] 
+- [[Introduction to Information Theory 0]] 
 
 ------------------------------------------------------------------------
 # Mathematical Notions and Terminology in Information Theory - 0.2
