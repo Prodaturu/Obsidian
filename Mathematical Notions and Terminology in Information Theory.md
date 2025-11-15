@@ -17,8 +17,8 @@ Tags:
 - **Notation** : {1, 2, 3, 4} - example of a set
 - $\in$ -> membership and $\notin$ -> non - membership
 ### Subset
-- A is subset of B if every member of A is also a member of B
-- A $\subset$
+- A is subset of B (**A $\subseteq$ B**) if every member of A is also a member of B
+- 
 # References
 
 
