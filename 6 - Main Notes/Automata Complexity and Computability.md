@@ -1,9 +1,9 @@
 
 2025-11-15 16:56
 
-Status: #baby
+Status: #child
 
-Tags: [[Information Theory]] 
+Tags: [[Information Theory]]  [[Introduction to Information Theory]] 
 
 ------------------------------------------------------------------------
 
@@ -37,10 +37,10 @@ Tags: [[Information Theory]]
 	- *finite momentum* - Text processing
 	- *context-free grammar* - programming languages and AI
 - Excellent place to start studying theory of computation
-
+- 
 
 # References
 
-
+file:///home/sprodatu/Downloads/InformationTheoryTUMBook.pdf - Info-Theory TUM text book on 42 Linux
 
 -----------------------------------------------------------------------
