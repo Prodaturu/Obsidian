@@ -48,6 +48,22 @@ pages: 3 - 16
 - A set with no elements / 0 elements is called an **empty set**
 - Denoted as $\emptyset$
 
+### Describing a Set
+- There are 10 ways or more ways to describe a set
+	1. Roster Notation
+	2. Set-Builder Notation
+	3. Predicate-Only Notation
+	4. Interval Notation
+	5. Describing with words
+	6. Recursive Definition
+	7. Definition by construction
+	8. Power Set Notation
+	9. Cartesian Product Form
+	10. Comprehension with Multiple Conditions
+- The main three we are concentrated upon 
+	1. Roster form (for small finite sets)
+	2. Set-builder form
+	3. Pattern form (languages)
 
 
 
