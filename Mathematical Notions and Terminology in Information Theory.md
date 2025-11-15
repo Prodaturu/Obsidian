@@ -12,8 +12,10 @@ Tags:
 
 ## Sets
 - Group of objects represented as a unit
-- Can contain any type of objects
-
+- Can contain any type of object, symbols, and even other sets\
+- **Member:**  Objects in a set
+- **Notation** : {1, 2, 3, 4} - example of a set
+- $$
 # References
 
 
