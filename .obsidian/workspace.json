@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a00a94debbeb3924",
+        "id": "80dba2c4de1e42c3",
         "type": "tabs",
         "children": [
           {
-            "id": "7ad6246d76692611",
+            "id": "0df3b0ba602ce93b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "3 - Tags/Information Theory.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": true,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Information Theory"
@@ -54,7 +64,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automata Complexity and Computability.md",
+                "file": "3 - Tags/Information Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Automata Complexity and Computability"
+              "title": "Backlinks for Information Theory"
             }
           },
           {
@@ -113,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Automata Complexity and Computability.md",
+                "file": "3 - Tags/Information Theory.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Automata Complexity and Computability"
+              "title": "Outgoing links from Information Theory"
             }
           },
           {
@@ -156,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Automata Complexity and Computability.md",
+                "file": "3 - Tags/Information Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Automata Complexity and Computability"
+              "title": "Outline of Information Theory"
             }
           },
           {
@@ -176,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 469.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,12 +206,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7ad6246d76692611",
+  "active": "0df3b0ba602ce93b",
   "lastOpenFiles": [
     "Automata Complexity and Computability.md",
     "3 - Tags/Information Theory.md",
     "3 - Tags/TUM Bachelors.md",
-    "Untitled.md",
+    "test.md",
     "5 - Templates/Full Note.md",
     "Untitled 1.md",
     "Untitled 2.md",
