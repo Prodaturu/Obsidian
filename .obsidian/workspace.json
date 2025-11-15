@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/Information Theory.md",
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Information Theory"
+              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "097c115b40532219",
   "lastOpenFiles": [
-    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "4 - Indexes/Information Theory.md",
+    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Tags/Introduction to Information Theory 0.md",
     "6 - Main Notes/Automata Complexity and Computability 0.1.md",
     "1 - Rough Notes/Remainders.md",
