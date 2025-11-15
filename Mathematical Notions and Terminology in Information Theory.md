@@ -15,7 +15,10 @@ Tags:
 - Can contain any type of object, symbols, and even other sets\
 - **Member:**  Objects in a set
 - **Notation** : {1, 2, 3, 4} - example of a set
-- $$
+- $\in$ -> membership and $\notin$ -> non - membership
+### Subset
+- A is subset of B if every member of A is also a member of B
+- A $\subset$
 # References
 
 
