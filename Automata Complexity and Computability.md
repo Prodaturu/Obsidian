@@ -21,7 +21,9 @@ Tags: [[Information Theory]]
 	2. Settle for less than a perfect solution to the problem
 	3. Some problems are only hard in the worst case scenario
 
-- One applied area that has 
+- Cryptography is an area that is directly affected by this area
+- most fields prefer easy computational problem but cryptography looks for the problem to be hard to break
+- 
 # References
 
 
