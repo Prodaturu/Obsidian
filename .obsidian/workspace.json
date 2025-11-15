@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8a8cb628b3980b8",
+        "id": "bd589a18ef5a12ba",
         "type": "tabs",
         "children": [
           {
-            "id": "13fe28668422356e",
+            "id": "b21caf6c27ac77f3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,11 +184,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "13fe28668422356e",
+  "active": "b21caf6c27ac77f3",
   "lastOpenFiles": [
+    "5 - Templates/Full Note.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled.md",
