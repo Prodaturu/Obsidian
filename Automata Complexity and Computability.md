@@ -16,7 +16,12 @@ Tags: [[Information Theory]]
 
 *What makes some problems computationally hard and others easy?*
 - Central question of complexity theory?
-- 
+- Several options when you confront a problem that appears to be computationally hard
+	1. Understanding which aspect of the problem is at root difficulty, we can alter it to make it more solvable
+	2. Settle for less than a perfect solution to the problem
+	3. Some problems are only hard in the worst case scenario
+
+- An 
 # References
 
 
