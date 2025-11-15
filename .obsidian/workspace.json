@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5023936b42838f1a",
+        "id": "a9dfce2bd1826969",
         "type": "tabs",
         "children": [
           {
-            "id": "b3105a84f5d68d30",
+            "id": "d040f5b33c1ab196",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -187,6 +188,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f90a992b88e4685c",
-  "lastOpenFiles": []
+  "active": "1bdde6ea670aca6a",
+  "lastOpenFiles": [
+    "Untitled",
+    "4 - Indexes",
+    "3 - Tags",
+    "Untitled.md",
+    "2 - Source Material",
+    "1 - Rough Notes"
+  ]
 }
