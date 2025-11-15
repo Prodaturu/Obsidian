@@ -11,10 +11,24 @@
             "id": "06faee7372b181a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/Introduction to Information Theory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Information Theory"
             }
           }
         ]
@@ -189,9 +203,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1bdde6ea670aca6a",
+  "active": "06faee7372b181a9",
   "lastOpenFiles": [
     "4 - Indexes/Information Theory.md",
+    "1 - Rough Notes/Remainders.md",
+    "2 - Source Material/Books",
     "5 - Templates/Full Note.md",
     "Mathematical Notions and Terminology in Information Theory.md",
     "6 - Main Notes/Automata Complexity and Computability 0.1.md",
