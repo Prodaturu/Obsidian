@@ -40,7 +40,8 @@ Tags: [[Information Theory]]  [[Introduction to Information Theory]]
 - 
 
 # References
-
 file:///home/sprodatu/Downloads/InformationTheoryTUMBook.pdf - Info-Theory TUM text book on 42 Linux
 
 -----------------------------------------------------------------------
+ 
+### Next -  [[Mathematical Notions and Terminology in Information Theory]]
