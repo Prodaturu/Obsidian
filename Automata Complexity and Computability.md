@@ -21,7 +21,7 @@ Tags: [[Information Theory]]
 	2. Settle for less than a perfect solution to the problem
 	3. Some problems are only hard in the worst case scenario
 
-- An 
+- One applied area that has 
 # References
 
 
