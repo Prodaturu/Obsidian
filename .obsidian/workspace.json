@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd589a18ef5a12ba",
+        "id": "a00a94debbeb3924",
         "type": "tabs",
         "children": [
           {
-            "id": "b21caf6c27ac77f3",
+            "id": "7ad6246d76692611",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Automata Complexity and Computability.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Automata Complexity and Computability"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Automata Complexity and Computability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Automata Complexity and Computability"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Automata Complexity and Computability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Automata Complexity and Computability"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Automata Complexity and Computability.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Automata Complexity and Computability"
             }
           },
           {
@@ -188,8 +195,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b21caf6c27ac77f3",
+  "active": "7ad6246d76692611",
   "lastOpenFiles": [
+    "Automata Complexity and Computability.md",
     "5 - Templates/Full Note.md",
     "Untitled 1.md",
     "Untitled 2.md",
