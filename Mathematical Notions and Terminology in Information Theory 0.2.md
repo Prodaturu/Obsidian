@@ -66,7 +66,9 @@ pages: 3 - 16
 	3. Pattern form (languages)
 
 #### Roster Form
-
+- Used when sets are small and finite
+- Examples:
+	1. 
 
 
 
