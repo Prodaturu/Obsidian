@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory.md",
+                "file": "4 - Indexes/Information Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematical Notions and Terminology in Information Theory"
+              "title": "Information Theory"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory.md",
+                "file": "4 - Indexes/Information Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mathematical Notions and Terminology in Information Theory"
+              "title": "Backlinks for Information Theory"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory.md",
+                "file": "4 - Indexes/Information Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mathematical Notions and Terminology in Information Theory"
+              "title": "Outgoing links from Information Theory"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory.md",
+                "file": "4 - Indexes/Information Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mathematical Notions and Terminology in Information Theory"
+              "title": "Outline of Information Theory"
             }
           },
           {
@@ -208,10 +208,10 @@
   },
   "active": "06faee7372b181a9",
   "lastOpenFiles": [
-    "6 - Main Notes/Automata Complexity and Computability 0.1.md",
-    "Mathematical Notions and Terminology in Information Theory.md",
-    "3 - Tags/Information Theory.md",
+    "4 - Indexes/Information Theory.md",
     "5 - Templates/Full Note.md",
+    "Mathematical Notions and Terminology in Information Theory.md",
+    "6 - Main Notes/Automata Complexity and Computability 0.1.md",
     "3 - Tags/Introduction to Information Theory.md",
     "3 - Tags/TUM Bachelors.md",
     "test.md",
