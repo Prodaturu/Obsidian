@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#baby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,13 +196,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "7ad6246d76692611",
+  "active": "a06f93e79f7627a4",
   "lastOpenFiles": [
+    "Untitled.md",
     "Automata Complexity and Computability.md",
     "5 - Templates/Full Note.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Untitled.md",
     "3 - Tags/TUM Bachelors.md",
     "6 - Main Notes",
     "3 - Tags/Information Theory.md",
