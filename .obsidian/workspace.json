@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98518a075445d422",
+        "id": "b8a8cb628b3980b8",
         "type": "tabs",
         "children": [
           {
-            "id": "8a2fa90e6f428707",
+            "id": "13fe28668422356e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,10 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bdde6ea670aca6a",
+  "active": "13fe28668422356e",
   "lastOpenFiles": [
-    "6 - Full Notes",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled.md",
     "3 - Tags/TUM Bachelors.md",
+    "6 - Main Notes",
     "3 - Tags/Information Theory.md",
     "2 - Source Material/Untitled.md",
     "5 - Templates",
