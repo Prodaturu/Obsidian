@@ -3,7 +3,7 @@
 
 Status: #baby
 
-Tags:
+Tags: [[Information Theory]] 
 
 ------------------------------------------------------------------------
 # Automata Complexity and Computability
