@@ -86,7 +86,9 @@ pages: 3 - 16
 - List of objects in some order
 - Order of objects matters in  a Sequence
 - Example: 
-	- $\{ 4\$
+	- $\{a, b, c\}$ and $\{c, a , b\}$ are not the same
+
+- ####
 
 
 ------------------------------------------------------------------------
