@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "c3e9737839eadc8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0f4d4b78e1608a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX symbols.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LaTeX symbols"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +235,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "477b15ac8374571f",
+  "active": "f0f4d4b78e1608a5",
   "lastOpenFiles": [
-    "3 - Tags/Introduction to Information Theory 0.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Tags/Introduction to Information Theory 0.md",
     "LaTeX symbols.md",
     "2025-11-16.md",
     "Untitled.md",

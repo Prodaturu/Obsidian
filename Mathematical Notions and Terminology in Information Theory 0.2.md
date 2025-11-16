@@ -129,9 +129,13 @@ pages: 3 - 16
 - Example: 
 	- The Absolute value function $abs$ takes a number $x$ as input & return $x$ if positive or $-x$ if negative
 		- $\therefore$ $abs(2) = abs(-2) = 2$
-
-- ### Domain
-	- 
+[[LaTeX symbols]]
+- ### Domain and Range
+	- Set of possible Inputs to a function is called <span class="color-green">Domain</span>
+	- Outputs of a function come from a set called it's <span class="color-green">Range</span>
+	- **Notation:** A function $f$ with <span class="color-green">Domain</span> $D$ and <span class="color-green">Range</span> $R$
+		- $f : D \arrow R$
+		- 
 
 ------------------------------------------------------------------------
 # References
