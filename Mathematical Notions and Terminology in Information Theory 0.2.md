@@ -83,13 +83,16 @@ pages: 3 - 16
 - { $9^{n}$ | $n$ $>$ $0$ }
 
 ### Sequences and Tuples
-- List of objects in some order
-- Order of objects matters in  a Sequence
+- **Definition:** List of objects in some order
+- Order and repetition of objects matters in  a Sequence
 - Example: 
-	- $\{a, b, c\}$ and $\{c, a , b\}$ are not the same
+	- $(a, b, c)$ and $(c, a , b)$ are not the same Sequence
+	- $(a, a, b, c)$ and $(a , b, c)$ are not the same Sequence
 
-- ####
-
+#### Tuples
+- **Definition:** A finite sequence is also called as a *tuple*
+- A sequence with *k* elements is called a *k-tuple*
+- 
 
 ------------------------------------------------------------------------
 # References
