@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "Latex symbols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Latex symbols"
             }
           }
         ]
@@ -207,13 +207,13 @@
   },
   "active": "097c115b40532219",
   "lastOpenFiles": [
-    "6 - Full Notes/Pasted image 20251116165539.png",
+    "6 - Main Notes/Automata Complexity and Computability 0.1.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "6 - Full Notes/Pasted image 20251116165539.png",
     "6 - Full Notes",
     "Latex symbols.md",
     "4 - Indexes/Mathematics.md",
     "3 - Tags/Latex.md",
-    "6 - Main Notes/Automata Complexity and Computability 0.1.md",
     "3 - Tags/Introduction to Information Theory 0.md",
     "5 - Templates/Full Note.md",
     "4 - Indexes/Information Theory.md",

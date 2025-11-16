@@ -84,8 +84,9 @@ pages: 3 - 16
 
 ### Sequences and Tuples
 - List of objects in some order
-- Order of 
-
+- Order of objects matters in  a Sequence
+- Example: 
+	- $\{ 4\$
 
 
 ------------------------------------------------------------------------
