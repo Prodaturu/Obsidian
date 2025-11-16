@@ -1,4 +1,9 @@
+status: #teen 
+
+tags: [[Latex]]
+
 # LaTeX Symbols Cheat Sheet
+
 
 ## Set Theory Symbols
 

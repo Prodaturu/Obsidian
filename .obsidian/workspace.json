@@ -12,13 +12,76 @@
             "id": "097c115b40532219",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX symbols.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LaTeX symbols"
+            }
+          },
+          {
+            "id": "608dcfad604a4b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Tags/Latex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Latex"
+            }
+          },
+          {
+            "id": "268c2767a6868c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Mathematics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mathematics"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c19e7a9fe8e57333",
@@ -81,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#teen",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +165,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,19 +287,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "097c115b40532219",
+  "active": "268c2767a6868c35",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "LaTeX symbols.md",
+    "3 - Tags/Latex.md",
+    "4 - Indexes/Information Theory.md",
+    "Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "Untitled.md",
     "4 - Indexes/Mathematics.md",
     "6 - Main Notes/Automata Complexity and Computability 0.1.md",
     "6 - Full Notes/Pasted image 20251116165539.png",
     "6 - Full Notes",
-    "3 - Tags/Latex.md",
     "3 - Tags/Introduction to Information Theory 0.md",
     "5 - Templates/Full Note.md",
-    "4 - Indexes/Information Theory.md",
     "1 - Rough Notes/Remainders.md",
     "2 - Source Material/Books",
     "3 - Tags/TUM Bachelors.md",
