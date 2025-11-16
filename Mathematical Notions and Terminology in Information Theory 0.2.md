@@ -65,12 +65,18 @@ pages: 3 - 16
 	2. Set-builder form
 	3. Pattern form (languages)
 
-#### Roster Form
+#### 1. Roster Form
 - Used when sets are small and finite
 - Examples:
-	1. 
+	1. A = {1, 3, 5}
+	2. Y = {$q_1$, $q_2$}
 
-
+#### 2. Set-Builder /Comprehension Notation
+- Used mainly for Infinite, rule-based sets
+- General Form:
+	- {x | condition on x}
+	- example: 
+		1. {x | x $\$ } 
 
 # References
 
