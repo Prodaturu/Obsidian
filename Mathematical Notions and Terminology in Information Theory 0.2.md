@@ -116,6 +116,7 @@ pages: 3 - 16
 	- we can use the shorthand $A \times A \times A \times ... _{ktimes} ...$ = $A^K$
 		- example: $A \times A \times A = A^3$
 
+## 
 
 ------------------------------------------------------------------------
 # References
