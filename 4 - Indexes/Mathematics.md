@@ -6,4 +6,4 @@ Status: #baby
 ------------------------------------------------------------------------
 
 # Latex
-[[Most common Latex symbols]]
+[[Latex symbols]]

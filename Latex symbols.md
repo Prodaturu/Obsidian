@@ -6,23 +6,23 @@ Status:
 Tags:
 
 ------------------------------------------------------------------------
-# Most common Latex symbols
+# Latex symbols
 
 ##  BASIC SET NOTATION
 
-x $\in$ A
+x $\in$ A - Belongs to (in)
 
-$\{a, b, c\}$
+x $\notin$ A - Does not belong to (notin)
 
-$\{\, x \mid \text{condition on } x \,\}$
+$\{a, b, c\}$ - Set
 
-x $\notin$ A
+$\{\, x \mid \text{condition on } x \,\}$ 
 
-A $\subseteq$ B
+A $\subseteq$ B - Subset or equal to (subseteq)
 
 A $\subset$ B
 
-$\emptyset$
+$\emptyset$ - Null / Empty Set
 
 $\Sigma^{*}$
 

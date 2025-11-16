@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most common Latex symbols.md",
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Most common Latex symbols"
+              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
             }
           }
         ]
@@ -200,19 +200,21 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "097c115b40532219",
   "lastOpenFiles": [
+    "Latex symbols.md",
+    "4 - Indexes/Mathematics.md",
+    "3 - Tags/Latex.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "Most common Latex symbols.md",
     "6 - Main Notes/Automata Complexity and Computability 0.1.md",
     "3 - Tags/Introduction to Information Theory 0.md",
-    "4 - Indexes/Mathematics.md",
     "5 - Templates/Full Note.md",
     "4 - Indexes/Information Theory.md",
-    "3 - Tags/Latex.md",
     "Untitled.md",
     "1 - Rough Notes/Remainders.md",
     "2 - Source Material/Books",
