@@ -82,9 +82,9 @@ pages: 3 - 16
 - Very common for languages
 - { $9^{n}$ | $n$ $>$ $0$ }
 
-## Sequences and Tuples
-
-- 
+### Sequences and Tuples
+- List of objects in some order
+- Order of 
 
 
 
