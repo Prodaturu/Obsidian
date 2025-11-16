@@ -78,7 +78,9 @@ pages: 3 - 16
 	- example: 
 		1. {x | x $\$ } 
 
-#### 3. Pattern Form ()
+#### 3. Pattern Form (Languages) / Mathematical Descriptions
+- Very common for languages
+- {a $\$ }
 
 ------------------------------------------------------------------------
 # References
