@@ -85,6 +85,8 @@ pages: 3 - 16
 
 
 -----------------------------------------------------------------------
+
+## Exercises - 
 ## Prev - [[Automata Complexity and Computability 0.1]]
 
 ## Next - 
