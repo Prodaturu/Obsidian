@@ -8,7 +8,7 @@ Tags:
 ------------------------------------------------------------------------
 # Most common Latex symbols
 
-% ===== BASIC SET NOTATION =====
+## ===== BASIC SET NOTATION =====
 
 x $\in$ A
 
@@ -181,6 +181,7 @@ $\mathbf{NP}$
 $\mathbf{PSPACE}$
 
 $V(x, y)$
+
 # References
 
 
