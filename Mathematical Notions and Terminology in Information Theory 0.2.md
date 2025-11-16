@@ -82,10 +82,10 @@ pages: 3 - 16
 - Very common for languages
 - { $9^{n}$ | $n$ $>$ $0$ }
 
-## Venn Diagrams
+## Sequences and Tuples
 
 - 
-![[Pasted image 20251116165539.png]]
+
 
 
 ------------------------------------------------------------------------
