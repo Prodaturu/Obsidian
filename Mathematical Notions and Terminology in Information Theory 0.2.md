@@ -92,8 +92,22 @@ pages: 3 - 16
 #### Tuples
 - **Definition:** A finite sequence is also called as a *tuple*
 - A sequence with <span class="color-green">k</span> elements is called a <span class="color-green">k-tuple</span>
-- 
+- A 2-tuple is also called a <span class="color-green">pair</span>
+- Sets and Sequences may appear as elements of other sets and sequences
 
+### Power set
+- Set of all subsets of a Set A is called as the <span class="color-green">Power Set of A</span>
+- **example:** 
+	- Consider $A$  = $\{0, 1\}$
+	- Subsets of $A$  are $\emptyset$, $\{0\}$, $\{1\}$, $\{0, 1\}$
+	- The set of all subsets of $A$ => Let it be $B$ = $\{\emptyset, \{0\}, \{1\}, \{0, 1\}\}$
+	- Then  Power set of $A$ =  $\mathcal{P}(A)$ = $B$ 
+
+### Cross Product - Cartesian Product
+- If $A$ and $B$ are two sets, the <span class="color-orange">Cartesian Product</span> or <span class="color-orange">Cross Product</span> of $A$ and $B$, written as 
+
+
+ 
 ------------------------------------------------------------------------
 # References
 

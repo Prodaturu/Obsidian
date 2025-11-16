@@ -46,7 +46,7 @@ $A^{c}$
 
 A $\times$ B
 
-$\mathcal{P}(A)$
+$\mathcal{P}(A)$ - power-set / power set
 
   
 
