@@ -3,7 +3,9 @@
 
 Status: #child
 
-Tags: [[Information Theory]]  [[Introduction to Information Theory 0]] 
+Tags: 
+- [[Information Theory]]  
+- [[Introduction to Information Theory 0]] 
 
 ------------------------------------------------------------------------
 
