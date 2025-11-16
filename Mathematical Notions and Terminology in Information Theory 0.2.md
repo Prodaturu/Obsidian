@@ -76,11 +76,12 @@ pages: 3 - 16
 - General Form:
 	- {x | condition on x}
 	- example: 
-		1. {x | x $\$ } 
+		1. {X | X $\in$ $\mathbb{N}$  } 
 
 #### 3. Pattern Form (Languages) / Mathematical Descriptions
 - Very common for languages
-- {a $\$ }
+- { $9^{n}$ | $n$ $>$ $0$ }
+
 
 ------------------------------------------------------------------------
 # References
