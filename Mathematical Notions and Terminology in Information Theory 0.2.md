@@ -116,7 +116,18 @@ pages: 3 - 16
 	- we can use the shorthand $A \times A \times A \times ... _{ktimes} ...$ = $A^K$
 		- example: $A \times A \times A = A^3$
 
-## 
+## Functions and Relations
+
+- **Definition:** <span class="color-green">Function</span> or a <span class="color-green">Mapping</span> is an 
+	- <span class="color-orange">Object</span> that sets up an <span class="color-orange">input-output relationship</span>
+- A function takes Input and gives Output
+	- Same Input always should produce same Output
+- **Notation:** A function $f$ whose input is $a$ and output is $b$ 
+	- $f(a) = b$
+
+- Example: 
+	- The Absolute value function $abs$ takes a number $x$ as input & return $x$ if positive or $-x$ if negative
+		- $\
 
 ------------------------------------------------------------------------
 # References
