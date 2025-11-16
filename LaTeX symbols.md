@@ -167,3 +167,13 @@ tags: [[Latex]]
 - Use `\text{...}` for text within math: `$\text{such that}$`
     
 - Common packages automatically available in Obsidian: amsmath, amssymb, amsthm
+    
+- ### Example Proof Usage:
+    
+- Assume $P \implies Q$ and $P$ is true.
+    
+-  $\because this$  $\implies$  $\therefore that$ must be true  
+- 
+$\square$
+
+Now you have a complete logic and proof section with all the essential symbols for mathematical reasoning and proof writing!

@@ -128,7 +128,10 @@ pages: 3 - 16
 
 - Example: 
 	- The Absolute value function $abs$ takes a number $x$ as input & return $x$ if positive or $-x$ if negative
-		- $\
+		- $\therefore$ $abs(2) = abs(-2) = 2$
+
+- ### Domain
+	- 
 
 ------------------------------------------------------------------------
 # References
