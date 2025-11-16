@@ -8,7 +8,7 @@ Tags:
 ------------------------------------------------------------------------
 # Most common Latex symbols
 
-## ===== BASIC SET NOTATION =====
+##  BASIC SET NOTATION
 
 x $\in$ A
 
@@ -34,7 +34,7 @@ $\mathbb{R}$
 
   
 
-% ===== SET OPERATIONS =====
+## SET OPERATIONS
 
 $A \cup B$
 
@@ -50,7 +50,7 @@ $\mathcal{P}(A)$
 
   
 
-% ===== STRINGS & LANGUAGES =====
+## STRINGS & LANGUAGES
 
 $\Sigma$
 
