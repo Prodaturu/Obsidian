@@ -11,18 +11,18 @@ Tags:
 % ===== BASIC SET NOTATION =====
 \{a, b, c\}
 \{\, x \mid \text{condition on } x \,\}
-x \in A
-x \notin A
-A \subseteq B
-A \subset B
-\emptyset
-\Sigma^{*}
-\mathbb{N}
-\mathbb{Z}
-\mathbb{R}
+x $\in$ A
+x $\notin$ A
+A $\subseteq$ B
+A $\subset$ B
+$\emptyset$
+$\Sigma^{*}$
+$\mathbb{N}$
+$\mathbb{Z}$
+$\mathbb{R}$
 
 % ===== SET OPERATIONS =====
-A \cup B
+$A \cup B$
 A \cap B
 A - B
 A^{c}
