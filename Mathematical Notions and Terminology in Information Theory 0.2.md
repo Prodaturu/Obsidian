@@ -91,7 +91,7 @@ pages: 3 - 16
 
 #### Tuples
 - **Definition:** A finite sequence is also called as a *tuple*
-- A sequence with *k* elements is called a *k-tuple*
+- A sequence with <span class="color-green">k</span> elements is called a <span class="color-green">k-tuple</span>
 - 
 
 ------------------------------------------------------------------------
@@ -99,9 +99,12 @@ pages: 3 - 16
 
 
 
------------------------------------------------------------------------
+
+
+# Related Links
 
 ## Exercises - 
+
 ## Prev - [[Automata Complexity and Computability 0.1]]
 
 ## Next - 
