@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX symbols.md",
+                "file": "3 - Main Notes/LaTeX symbols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,10 +69,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "3 - Tags"
+                "path": "5 - Templates"
               },
               "icon": "lucide-file",
-              "title": "3 - Tags"
+              "title": "5 - Templates"
             }
           }
         ],
@@ -160,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -173,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Untitled.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -268,20 +271,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "08765c253f694c57",
+  "active": "e23655bf6dbda7d2",
   "lastOpenFiles": [
-    "Tags",
+    "Untitled.md",
+    "3 - Tags/3 - Tags.md",
+    "2 - Source Material/2 - Source Material.md",
+    "1 - Rough Notes/1 - Rough Notes.md",
+    "Indexes/Indexes.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "LaTeX symbols.md",
-    "4 - Indexes/Information Theory.md",
-    "3 - Tags/Latex.md",
     "Flow charts.md",
-    "3 - Tags/Introduction to Information Theory 0.md",
+    "Tags/Introduction to Information Theory 0.md",
+    "Tags/Tags.md",
+    "Tags/Latex.md",
+    "Vault.md",
+    "Tags",
+    "3 - Main Notes/LaTeX symbols.md",
+    "Indexes/Information Theory.md",
     "2025-11-16.md",
-    "6 - Main Notes/Automata Complexity and Computability 0.1.md",
-    "4 - Indexes/Mathematics.md",
-    "6 - Full Notes/Pasted image 20251116165539.png",
-    "6 - Full Notes",
+    "3 - Main Notes/Automata Complexity and Computability 0.1.md",
+    "Indexes/Mathematics.md",
+    "4 - Full Notes/Pasted image 20251116165539.png",
+    "4 - Full Notes",
     "5 - Templates/Full Note.md",
     "1 - Rough Notes/Remainders.md",
     "2 - Source Material/Books",
@@ -289,10 +299,10 @@
     "test.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "6 - Main Notes",
+    "3 - Main Notes",
     "2 - Source Material/Untitled.md",
     "5 - Templates",
-    "4 - Indexes",
+    "Indexes",
     "3 - Tags",
     "2 - Source Material",
     "1 - Rough Notes"
