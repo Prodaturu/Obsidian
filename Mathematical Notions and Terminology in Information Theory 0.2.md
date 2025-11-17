@@ -275,7 +275,7 @@ pages: 3 - 16
 	- ### Reflexive Relation
 		- **Definition:** Every element is related to itself
 		- **Formal Condition:** For every $x$, $xRx$ is valid
-		- Example:
+		- Examples:
 			- The "is equal to" relation (=) on the set of numbers
 				- Every number is equal to itself
 				- So the Reflexive property is satisfied by the relation "is equal to"
@@ -286,7 +286,7 @@ pages: 3 - 16
 	- ### Symmetric Relation
 		- **Definition:** If $x$ is related to $y$, then $y$ is also related to $x$
 		- **Formal Condition:** If $xRy$, then $yRx$
-		- Example:
+		- Examples:
 			- The "is married to" relation
 				- If **Jack** is married to **Kavya**
 				- **Kavya** is married to **Jack**
@@ -295,9 +295,37 @@ pages: 3 - 16
 				  
 			- The "is perpendicular to" relation
 				- If $L_1$ $\perp$ $L_2$ are then we know $L_2 \perp L_1$
-				- So $xRy$, then $yRx$ is satisfied by "is Perpendicular to" Relation
-				- 
-
+				- So by "is Perpendicular to" Relation satisfies the Symmetric condition
+				- $xRy$, then $yRx$   $\implies$  is a Symmetric Relation
+		
+	- ### Transitive Relation
+		- **Definition:** If x is related to y, and y is related to z, then x is related to z.
+		- **Formal Condition:** If $xRy$ and $yRz$, then $xRz$.
+		- **Examples:**
+			- The "is an ancestor of" relation.
+				- If Alice is an ancestor of Bob, and Bob is an ancestor of Charlie
+				- then Alice is an ancestor of Charlie).
+				- $\therefore$ "is ancestor to" is a Transitive Relation
+			- The "is less than" relation (<) on numbers
+				- Consider $a, b, c$ are three Natural
+				- If $a < b$ and $b < c$ we know that $a < c$
+				- $\therefore$ The relation "is less than" is Transitive
+		  
+	- ### Equivalence Relation
+		- **Definition:** A relation that is **reflexive, symmetric, and transitive** all at once.
+		- **Purpose:** Groups elements into "equivalence classes" where everything in a group is considered the same according to the rule.
+		- **Simple Example:**
+			- The "has the same birthday as" relation.
+				
+				- **Reflexive:** You have the same birthday as yourself.
+					
+				- **Symmetric:** If person A has the same birthday as person B, then B has the same birthday as A.
+					
+				- **Transitive:** If A has the same birthday as B, and B has the same birthday as C, then A has the same birthday as C.
+					
+				- This relation partitions all people into groups (equivalence classes) based on their birthday.
+	    
+ 
 
 
 ------------------------------------------------------------------------
