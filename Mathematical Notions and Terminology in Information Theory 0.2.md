@@ -3,6 +3,8 @@
 
 Status: #baby
 
+Hashtags: #foundations
+
 Tags: 
 - [[Information Theory]] 
 - [[Introduction to Information Theory 0]] 

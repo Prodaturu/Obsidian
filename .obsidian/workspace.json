@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#teen",
+                "query": "tag:#baby",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,12 +116,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -237,7 +237,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "477b15ac8374571f",
+  "active": "a06f93e79f7627a4",
   "lastOpenFiles": [
     "LaTeX symbols.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
