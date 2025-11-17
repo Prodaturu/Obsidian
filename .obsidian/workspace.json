@@ -75,8 +75,7 @@
               "title": "5 - Templates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled.md"
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -187,11 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
@@ -200,6 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
@@ -250,6 +252,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0e4eb3b86fb1a121",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -271,7 +283,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e23655bf6dbda7d2",
+  "active": "477b15ac8374571f",
   "lastOpenFiles": [
     "Untitled.md",
     "3 - Tags/3 - Tags.md",
