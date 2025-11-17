@@ -120,7 +120,7 @@ pages: 3 - 16
 	- we can use the shorthand $A \times A \times A \times ... _{ktimes} ...$ = $A^K$
 		- example: $A \times A \times A = A^3$
 
-## Functions and Relations
+## Functions
 
 - ### Functions
 	- **Definition:** <span class="color-green">Function</span> or a <span class="color-green">Mapping</span> is an 
@@ -249,7 +249,7 @@ pages: 3 - 16
 	  asking whether certain predicates are *computable* / *decidable*
 
 
-### Relation
+## Relation
 	
 - **Definition** A predicate whose domain is a set of *k-tuples* $A \times A \times ... \times A$ 
 	- Also called as <span class="color-green">k-ary relation</span> or <span class="color-green">k-ary relation on A</span>
@@ -269,8 +269,12 @@ pages: 3 - 16
 	- Range $R : \{True, False\}$
 	- Relation $aRb$ (or) $a\ beats\ b$ (or) $S = \{a \in D\ |\ P(a) = True\}$
 	  
-- #### Properties of Relation
-	- 
+- ### Properties of Relation
+	
+	- ### Reflexive Relation
+		- **Condition:** For every $x$, $xRx$ is valid
+		- example:
+			- 
 
 
 
