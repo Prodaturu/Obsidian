@@ -175,8 +175,16 @@ pages: 3 - 16
 #### k-ary function
 
 - A function with $k$ arguments is called a <span class="color-green">k-ary function</span>
+	- For ex, when the domain is $A_1 \times A_2 \times .... \times A_k$ 
+	- Input = $(a_1, a_2, ...., a_k)$ --> k-tuple input --> <span class="color-green">k-ary function</span>
 - $k$  ---> <span class="color-green">arity</span> of the function
-- 
+
+| k   | name            |
+| --- | --------------- |
+| 1   | unary function  |
+| 2   | binary function |
+
+
 
 
 ------------------------------------------------------------------------
