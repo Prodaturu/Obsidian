@@ -249,26 +249,26 @@ pages: 3 - 16
 	  asking whether certain predicates are *computable* / *decidable*
 
 
-## Relation
-	
-- **Definition** A predicate whose domain is a set of *k-tuples* $A \times A \times ... \times A$ 
-	- Also called as <span class="color-green">k-ary relation</span> or <span class="color-green">k-ary relation on A</span>
-	- A input can be related to one or more values
-	  
-- A common case is a <span class="color-green">2-ary relation</span> or <span class="color-green">binary relation</span>
-	- When writing an binary relation expression
-	- infix is customarily used
-	- ex: $2 < 3$
-	  
-- If $R$ is a <span class="color-green">binary relation</span> or if $R$ is a <span class="color-green">k-ary relation</span> 
-	- $aRb$  $\iff$ $aRb = True$
-	  
-	
-- Sometimes describing predicates with sets instead of functions is more convenient
-	- Consider the game Rock, Paper, Scissors
-	- Domain $D : \{Rock, paper, Scissors\}$
-	- Range $R : \{True, False\}$
-	- Relation $aRb$ (or) $a\ beats\ b$ (or) $S = \{a \in D\ |\ P(a) = True\}$
+## Relations
+- ### Relations
+	- **Definition** A predicate whose domain is a set of *k-tuples* $A \times A \times ... \times A$ 
+		- Also called as <span class="color-green">k-ary relation</span> or <span class="color-green">k-ary relation on A</span>
+		- A input can be related to one or more values
+		  
+	- A common case is a <span class="color-green">2-ary relation</span> or <span class="color-green">binary relation</span>
+		- When writing an binary relation expression
+		- infix is customarily used
+		- ex: $2 < 3$
+		  
+	- If $R$ is a <span class="color-green">binary relation</span> or if $R$ is a <span class="color-green">k-ary relation</span> 
+		- $aRb$  $\iff$ $aRb = True$
+		  
+		
+	- Sometimes describing predicates with sets instead of functions is more convenient
+		- Consider the game Rock, Paper, Scissors
+		- Domain $D : \{Rock, paper, Scissors\}$
+		- Range $R : \{True, False\}$
+		- Relation $aRb$ (or) $a\ beats\ b$ (or) $S = \{a \in D\ |\ P(a) = True\}$
 	  
 - ### Properties of Relation
 	
@@ -343,4 +343,3 @@ pages: 3 - 16
 
 ## Next - 
 
-[^1]: 
