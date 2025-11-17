@@ -146,15 +146,36 @@ tags: [[Latex]]
 
 ## Arrow Symbols
 
-| Example           | LaTeX Code        | Description                        |
-| ----------------- | ----------------- | ---------------------------------- |
-| $\to$             | `\to`             | Right arrow (common for functions) |
-| $\rightarrow$     | `\rightarrow`     | Right arrow (alternative)          |
-| $\gets$           | `\gets`           | Left arrow                         |
-| $\leftarrow$      | `\leftarrow`      | Left arrow (alternative)           |
-| $\mapsto$         | `\mapsto`         | Maps to (for function definitions) |
-| $\longrightarrow$ | `\longrightarrow` | Long right arrow                   |
-| $\longleftarrow$  | `\longleftarrow`  | Long left arrow                    |
+| Example              | LaTeX Code           | Description                  |
+| -------------------- | -------------------- | ---------------------------- |
+| $\to$                | `\to`                | Right arrow (functions)      |
+| $\rightarrow$        | `\rightarrow`        | Right arrow                  |
+| $\gets$              | `\gets`              | Left arrow                   |
+| $\leftarrow$         | `\leftarrow`         | Left arrow                   |
+| $\mapsto$            | `\mapsto`            | Maps to                      |
+| $\longrightarrow$    | `\longrightarrow`    | Long right arrow             |
+| $\longleftarrow$     | `\longleftarrow`     | Long left arrow              |
+| $\Rightarrow$        | `\Rightarrow`        | Double right arrow (implies) |
+| $\Leftarrow$         | `\Leftarrow`         | Double left arrow            |
+| $\Leftrightarrow$    | `\Leftrightarrow`    | Double left-right arrow      |
+| $\iff$               | `\iff`               | If and only if               |
+| $\uparrow$           | `\uparrow`           | Up arrow                     |
+| $\downarrow$         | `\downarrow`         | Down arrow                   |
+| $\updownarrow$       | `\updownarrow`       | Up-down arrow                |
+| $\Uparrow$           | `\Uparrow`           | Double up arrow              |
+| $\Downarrow$         | `\Downarrow`         | Double down arrow            |
+| $\Updownarrow$       | `\Updownarrow`       | Double up-down arrow         |
+| $\nearrow$           | `\nearrow`           | North-east arrow             |
+| $\searrow$           | `\searrow`           | South-east arrow             |
+| $\swarrow$           | `\swarrow`           | South-west arrow             |
+| $\nwarrow$           | `\nwarrow`           | North-west arrow             |
+| $\hookrightarrow$    | `\hookrightarrow`    | Hook right arrow             |
+| $\hookleftarrow$     | `\hookleftarrow`     | Hook left arrow              |
+| $\leftharpoonup$     | `\leftharpoonup`     | Left harpoon up              |
+| $\rightharpoonup$    | `\rightharpoonup`    | Right harpoon up             |
+| $\rightleftharpoons$ | `\rightleftharpoons` | Right-left harpoons          |
+| $\leadsto$           | `\leadsto`           | Leads to                     |
+| $\rightsquigarrow$   | `\rightsquigarrow`   | Squiggly right arrow         |
 
 ## Multiplication Symbols
 

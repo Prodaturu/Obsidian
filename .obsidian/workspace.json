@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols.md",
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LaTeX symbols"
+              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
@@ -163,7 +163,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols.md"
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -271,10 +271,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f0f4d4b78e1608a5",
+  "active": "c551fa5d5e10d2d7",
   "lastOpenFiles": [
-    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/LaTeX symbols.md",
+    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/equiv_m.md",
     "Tags/Latex.md",
     "3 - Main Notes/Automata Complexity and Computability 0.1.md",

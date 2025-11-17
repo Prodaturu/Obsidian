@@ -332,12 +332,37 @@ pages: 3 - 16
 
 #### Example 1 (0.11)
  
- - Define an equivalence relation on $\mathbb{N}$, written $\equiv_7$ 
+ - Define an Equivalence Relation on $\mathbb{N}$, written $\equiv_7$ 
  - For  $i, j \in \mathbb{N}$ say that $i \equiv_7 j$, if $i - j$ is a multiple of 7
  - This is a Equivalence relation
-	 - **Reflexive:**  $i - i = 0$;  $0$ is a multiple of $7$ $\implies$ is Reflexive
-	 - **Symmetric:** $\because i - j$ is a multiple of $7$ $ 
+	 - **Reflexive:**  $i - i = 0$;  $0$ is a multiple of $7$ $\implies$ It's Reflexive
+	 - **Symmetric:** $\because \ i - j$  is a multiple of $7$ $\iff$ $j - i$ is a multiple of $7$ $\implies$ It's Symmetric
+	 - **Transitive:** $\because \ i - j$  is a multiple of $7$  &  $\because \ j - k$  is a multiple of $7$
+		 - $i - k = (i -j) + (j - k)$ = sum of two multiples of 7 $\implies$ $i - k$ is a multiple of 7
+		 - $\therefore i - k$ is a multiple of $7$
+	 - $\therefore$  The relation $\equiv_7$ is Reflexive, Symmetric, and Transitive $\implies$ $\equiv_7$ is an Equivalence Relation
 
+
+## Graphs
+
+### Graphs
+
+- **Definition:** 
+	- <span class="color-green">Graph</span> <span class="color-green">Undirected Graph</span> is a set of points with lines connecting some of the points
+	- <span class="color-green">Nodes</span> or <span class="color-green">Vertices</span> are the <span class="color-blue">points</span>
+	- The <span class="color-blue">lines</span> are the <span class="color-green">Edges</span>
+	- <span class="color-green">Degree</span>: The number of edges / lines at a particular node
+	  
+- No more than one edge is allowed between 2 nodes
+- The order of arguments doesn't matter in an Undirected graph
+- if $i, j$ are nodes in a Graph
+	- Then $(i, j)$ represents the edge that connects $i$ and $j$
+	- $(i, j)$ and $(j, i)$  represent the same edge
+- Sometimes we describe edges $(i, j)$ as sets $\{i, j\}$ instead of pairs if the order of nodes is unimportant
+  
+- **Formal Definition:** 
+	- $G = (V, E)$ 
+	- Here; $V$ -> Set of Nodes, $G$ and $E$ -> set of Edges 
 
 
 ------------------------------------------------------------------------
