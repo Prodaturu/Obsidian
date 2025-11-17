@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#baby",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +236,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a06f93e79f7627a4",
+  "active": "1bdde6ea670aca6a",
   "lastOpenFiles": [
     "LaTeX symbols.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
