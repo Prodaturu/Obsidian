@@ -57,19 +57,19 @@ tags: [[Latex]]
 
 ## Strings & Languages
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$\Sigma$|`\Sigma`|Alphabet|
-|$\Sigma^*$|`\Sigma^*`|Kleene star|
-|$\Sigma^+$|`\Sigma^+`|Kleene plus|
-|$w \in \Sigma^*$|`w \in \Sigma^*`|String over alphabet|
-|$\varepsilon$|`\varepsilon`|Empty string|
-|$\lambda$|`\lambda`|Empty string (alternative)|
-|$|w|$|`\|w\|`|Length of string|
-|$xy$|`xy`|Concatenation|
-|$x \cdot y$|`x \cdot y`|Concatenation (explicit)|
-|$L^*$|`L^*`|Kleene star of language|
-|$L_1 \circ L_2$|`L_1 \circ L_2`|Concatenation of languages|
+| Example          | LaTeX Code       | Description                |         |                  |
+| ---------------- | ---------------- | -------------------------- | ------- | ---------------- |
+| $\Sigma$         | `\Sigma`         | Alphabet                   |         |                  |
+| $\Sigma^*$       | `\Sigma^*`       | Kleene star                |         |                  |
+| $\Sigma^+$       | `\Sigma^+`       | Kleene plus                |         |                  |
+| $w \in \Sigma^*$ | `w \in \Sigma^*` | String over alphabet       |         |                  |
+| $\varepsilon$    | `\varepsilon`    | Empty string               |         |                  |
+| $\lambda$        | `\lambda`        | Empty string (alternative) |         |                  |
+| $                | w                | $                          | `\|w\|` | Length of string |
+| $xy$             | `xy`             | Concatenation              |         |                  |
+| $x \cdot y$      | `x \cdot y`      | Concatenation (explicit)   |         |                  |
+| $L^*$            | `L^*`            | Kleene star of language    |         |                  |
+| $L_1 \circ L_2$  | `L_1 \circ L_2`  | Concatenation of languages |         |                  |
 
 ## Automata Theory
 
