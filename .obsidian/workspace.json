@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -148,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols.md",
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LaTeX symbols"
+              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
@@ -163,7 +162,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols.md"
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -271,9 +270,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f0f4d4b78e1608a5",
+  "active": "c551fa5d5e10d2d7",
   "lastOpenFiles": [
+    "5 - Templates/Full Note.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "5 - Templates/5 - Templates.md",
+    "4 - Full Notes/4 - Full Notes.md",
+    "3 - Main Notes/3 - Main Notes.md",
     "3 - Main Notes/LaTeX symbols.md",
     "3 - Main Notes/equiv_m.md",
     "Tags/Latex.md",
@@ -294,7 +297,6 @@
     "Indexes/Mathematics.md",
     "4 - Full Notes/Pasted image 20251116165539.png",
     "4 - Full Notes",
-    "5 - Templates/Full Note.md",
     "1 - Rough Notes/Remainders.md",
     "2 - Source Material/Books",
     "3 - Tags/TUM Bachelors.md",
@@ -302,7 +304,6 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "3 - Main Notes",
-    "2 - Source Material/Untitled.md",
     "5 - Templates",
     "Indexes",
     "3 - Tags",
