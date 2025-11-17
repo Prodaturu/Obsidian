@@ -371,7 +371,7 @@ pages: 3 - 16
 
 
 ```mermaid
-graph 
+graph
     1 --- 2
     2 --- 3
     3 --- 4
