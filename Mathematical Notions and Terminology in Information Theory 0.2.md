@@ -207,6 +207,26 @@ pages: 3 - 16
 		2. $P \land Q$ : Conjunction of $P$ and $Q$
 
 
+### Predicate / Property
+
+- **Definition:** Function whose range is $\{True, False\}$
+	- Input : Any Domain
+	- Output:  $\{True, False\}$
+	
+- **Formal Definition:** 
+	- If $P$ is a *predicate*
+		- $P: D \mapsto \{True, False\}$ 
+		- Domain $D$ can be any set
+		- Range will always be the boolean values $\{True, False\}$
+	
+- **Examples**
+	- $even(n)$ = "n is an even number"
+		- $even(4)$ = $True$
+		- $even(1)$ = $False$
+
+
+
+
 
 ------------------------------------------------------------------------
 # References
