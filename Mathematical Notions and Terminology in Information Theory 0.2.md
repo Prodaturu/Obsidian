@@ -5,7 +5,7 @@ Status: #baby
 
 Hashtags: 
 - Primary tags: #theory-of-computation #mathematical-foundations 
-- Specific tags: #set-theory #sequence #tuple #functions #predicate #descrete-mathematics #k-ary-functions #cartesian-product
+- Specific tags: #set-theory #sequence #tuple #functions #predicate #descrete-mathematics #k-ary-functions #cartesian-productw
 
 Tags: 
 - [[Information Theory]] 
@@ -21,7 +21,8 @@ pages: 3 - 16
 - Can contain any type of object, symbols, and even other sets\
 - **Member:**  Objects in a set
 - **Notation** : {1, 2, 3, 4} - example of a set
-- $\in$ -> membership and $\notin$ -> non - membership
+- $\in$ -> membership
+- $\notin$ -> non - membership
 
 ### Properties
 - The order of describing set elements doesn't matter
@@ -367,13 +368,9 @@ pages: 3 - 16
 - We can describe a Graph $G$ with a diagram like below or more formally by specifying $V$ and $E$ 
 
 - Consider the Graph $G = (\{1, 2, 3, 4, 5\}, \{(1, 2), (2, 3), (3, 4), (4, 5), (5, 1)\})$
-
-
-
+  
 ```mermaid
----
-title: Undirected Graph  ({1, 2, 3, 4, 5}, {(1, 2), (2, 3), (3, 4), (4, 5), (5, 1)})
----
+
 graph
     1 --- 2
     2 --- 3

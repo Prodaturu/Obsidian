@@ -40,7 +40,7 @@
         "dimension": 63.14952279957582,
         "children": [
           {
-            "id": "c551fa5d5e10d2d7",
+            "id": "4af7709aeb233c93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -270,10 +270,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c551fa5d5e10d2d7",
+  "active": "e3f27e8fc87e08a0",
   "lastOpenFiles": [
-    "5 - Templates/Full Note.md",
+    "Untitled.canvas",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "5 - Templates/Full Note.md",
     "5 - Templates/5 - Templates.md",
     "4 - Full Notes/4 - Full Notes.md",
     "3 - Main Notes/3 - Main Notes.md",
@@ -281,7 +282,6 @@
     "3 - Main Notes/equiv_m.md",
     "Tags/Latex.md",
     "3 - Main Notes/Automata Complexity and Computability 0.1.md",
-    "Untitled.canvas",
     "Untitled.md",
     "3 - Tags/3 - Tags.md",
     "2 - Source Material/2 - Source Material.md",
@@ -302,7 +302,6 @@
     "3 - Tags/TUM Bachelors.md",
     "test.md",
     "Untitled 1.md",
-    "Untitled 2.md",
     "3 - Main Notes",
     "5 - Templates",
     "Indexes",
