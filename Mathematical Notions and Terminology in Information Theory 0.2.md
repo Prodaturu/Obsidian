@@ -273,10 +273,28 @@ pages: 3 - 16
 - ### Properties of Relation
 	
 	- ### Reflexive Relation
-		- **Condition:** For every $x$, $xRx$ is valid
-		- example:
-			- 
-
+		- **Definition:** Every element is related to itself
+		- **Formal Condition:** For every $x$, $xRx$ is valid
+		- Example:
+			- The "is equal to" relation (=) on the set of numbers
+				- Every number is equal to itself
+				- So the Reflexive property is satisfied by the relation "is equal to"
+			- The "lives in the same city as" relation
+				- You always live in the same city as yourself
+				- So the relation "lives in the same city" is Reflexive
+		
+	- ### Symmetric Relation
+		- **Definition:** If $x$ is related to $y$, then $y$ is also related to $x$
+		- **Formal Condition:** If $xRy$, then $yRx$
+		- Example:
+			- The "is married to" relation
+				- If **Jack** is married to **Kavya**
+				- **Kavya** is married to **Jack**
+				- So $xRy$, then $yRx$ is satisfied by "is married to" Relation
+				- $\therefore$ "is married to" is a Symmetric Relation
+				  
+			- The "is perpendicular to" relation
+				- If $L_1$ and $L_2$ are two lines $\
 
 
 

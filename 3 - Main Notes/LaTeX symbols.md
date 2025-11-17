@@ -26,18 +26,18 @@ tags: [[Latex]]
 
 ## Set Operations
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$A \cup B$|`\cup`|Union|
-|$A \cap B$|`\cap`|Intersection|
-|$A \setminus B$|`\setminus`|Set difference|
-|$A - B$|`A - B`|Set difference (alternative)|
-|$\overline{A}$|`\overline{A}`|Complement|
-|$A^c$|`A^c`|Complement (alternative)|
-|$A \times B$|`\times`|Cartesian product|
-|$|A|$|`\|A\|`|Cardinality of set|
-|$\mathcal{P}(A)$|`\mathcal{P}(A)`|Power set|
-|$2^A$|`2^A`|Power set (alternative)|
+| Example          | LaTeX Code       | Description                  |         |                    |
+| ---------------- | ---------------- | ---------------------------- | ------- | ------------------ |
+| $A \cup B$       | `\cup`           | Union                        |         |                    |
+| $A \cap B$       | `\cap`           | Intersection                 |         |                    |
+| $A \setminus B$  | `\setminus`      | Set difference               |         |                    |
+| $A - B$          | `A - B`          | Set difference (alternative) |         |                    |
+| $\overline{A}$   | `\overline{A}`   | Complement                   |         |                    |
+| $A^c$            | `A^c`            | Complement (alternative)     |         |                    |
+| $A \times B$     | `\times`         | Cartesian product            |         |                    |
+| $                | A                | $                            | `\|A\|` | Cardinality of set |
+| $\mathcal{P}(A)$ | `\mathcal{P}(A)` | Power set                    |         |                    |
+| $2^A$            | `2^A`            | Power set (alternative)      |         |                    |
 
 ## Logic & Quantifiers
 
@@ -197,6 +197,4 @@ tags: [[Latex]]
     
 -  $\because this$  $\implies$  $\therefore that$ must be true  
 - 
-$\square$
-
-Now you have a complete logic and proof section with all the essential symbols for mathematical reasoning and proof writing!
+$\square$  $\leftarrow$ Square
