@@ -253,6 +253,7 @@ pages: 3 - 16
 	
 - **Definition** A predicate whose domain is a set of *k-tuples* $A \times A \times ... \times A$ 
 	- Also called as <span class="color-green">k-ary relation</span> or <span class="color-green">k-ary relation on A</span>
+	- A input can be related to one or more values
 	  
 - A common case is a <span class="color-green">2-ary relation</span> or <span class="color-green">binary relation</span>
 	- When writing an binary relation expression
