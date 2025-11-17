@@ -184,8 +184,9 @@ pages: 3 - 16
 | 1   | unary function  |
 | 2   | binary function |
 
+### Infix and Prefix notations
 
-
+- 
 
 ------------------------------------------------------------------------
 # References
