@@ -41,19 +41,19 @@ tags: [[Latex]]
 
 ## Logic & Quantifiers
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$\forall x$|`\forall`|For all|
-|$\exists x$|`\exists`|There exists|
-|$\exists! x$|`\exists!`|There exists unique|
-|$P \implies Q$|`\implies`|Implies|
-|$P \rightarrow Q$|`\rightarrow`|Implies (alternative)|
-|$P \iff Q$|`\iff`|If and only if|
-|$\neg P$|`\neg`|Not / negation|
-|$\land$|`\land`|Logical AND|
-|$\lor$|`\lor`|Logical OR|
-|$\top$|`\top`|True|
-|$\bot$|`\bot`|False|
+| Example           | LaTeX Code    | Description           |
+| ----------------- | ------------- | --------------------- |
+| $\forall x$       | `\forall`     | For all               |
+| $\exists x$       | `\exists`     | There exists          |
+| $\exists! x$      | `\exists!`    | There exists unique   |
+| $P \implies Q$    | `\implies`    | Implies               |
+| $P \rightarrow Q$ | `\rightarrow` | Implies (alternative) |
+| $P \iff Q$        | `\iff`        | If and only if        |
+| $\neg P$          | `\neg`        | Not / negation        |
+| $\land$           | `\land`       | Logical AND           |
+| $\lor$            | `\lor`        | Logical OR            |
+| $\top$            | `\top`        | True                  |
+| $\bot$            | `\bot`        | False                 |
 
 ## Strings & Languages
 
@@ -155,6 +155,17 @@ tags: [[Latex]]
 | $\mapsto$         | `\mapsto`         | Maps to (for function definitions) |
 | $\longrightarrow$ | `\longrightarrow` | Long right arrow                   |
 | $\longleftarrow$  | `\longleftarrow`  | Long left arrow                    |
+
+## Multiplication Symbols
+
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$a \times b$|`\times`|Cross product / multiplication|
+|$a \cdot b$|`\cdot`|Dot product / multiplication|
+|$ab$|`ab`|Implicit multiplication|
+|$a * b$|`a * b`|Asterisk multiplication|
+|$a(b)$|`a(b)`|Implicit with parentheses|
+|$a \ast b$|`\ast`|Asterisk symbol|
 
 ## Additional Useful Symbols
 
