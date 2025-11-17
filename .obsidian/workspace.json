@@ -40,30 +40,6 @@
         "dimension": 71.7935871743487,
         "children": [
           {
-            "id": "477b15ac8374571f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
-            }
-          },
-          {
             "id": "08765c253f694c57",
             "type": "leaf",
             "state": {
@@ -160,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Outline"
             }
           },
           {
@@ -283,21 +258,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "477b15ac8374571f",
+  "active": "08765c253f694c57",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/LaTeX symbols.md",
     "Untitled.md",
     "3 - Tags/3 - Tags.md",
     "2 - Source Material/2 - Source Material.md",
     "1 - Rough Notes/1 - Rough Notes.md",
     "Indexes/Indexes.md",
-    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Flow charts.md",
     "Tags/Introduction to Information Theory 0.md",
     "Tags/Tags.md",
     "Tags/Latex.md",
     "Vault.md",
     "Tags",
-    "3 - Main Notes/LaTeX symbols.md",
     "Indexes/Information Theory.md",
     "2025-11-16.md",
     "3 - Main Notes/Automata Complexity and Computability 0.1.md",
