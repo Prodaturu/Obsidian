@@ -1,9 +1,9 @@
 
 Everything about Information Theory
 
-# Information Theory - Sipser
+- # Information Theory - Sipser
 
-## Introduction to Information Theory
-
-[[Automata Complexity and Computability 0.1]]
-[[Mathematical Notions and Terminology in Information Theory 0.2]]
+	- ## Introduction to Information Theory
+		- [[Introduction to Information Theory 0]]
+			- [[Automata Complexity and Computability 0.1]]
+			- [[Mathematical Notions and Terminology in Information Theory 0.2]]

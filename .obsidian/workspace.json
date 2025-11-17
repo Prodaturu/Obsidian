@@ -12,10 +12,24 @@
             "id": "477b15ac8374571f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
             }
           }
         ]
@@ -225,8 +239,8 @@
   },
   "active": "477b15ac8374571f",
   "lastOpenFiles": [
-    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "4 - Indexes/Information Theory.md",
+    "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Tags/Latex.md",
     "Flow charts.md",
     "LaTeX symbols.md",
