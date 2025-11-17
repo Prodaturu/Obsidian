@@ -43,12 +43,24 @@
             "id": "08765c253f694c57",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "5 - Templates"
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "5 - Templates"
+              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
             }
           }
         ]
@@ -136,12 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
