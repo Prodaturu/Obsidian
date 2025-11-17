@@ -381,7 +381,7 @@ graph
 
 ### Labeled Graph
 
-- A <span class="color-green">Graph</span> where we label the <span class="color-green">Nodes</span> and / or <span class="color-green">Edges</span> are labeled
+- A <span class="color-green">Graph</span> where we label the <span class="color-green">Nodes</span> and / or <span class="color-green">Edges</span>
 - 
 
 
