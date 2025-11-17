@@ -250,82 +250,90 @@ pages: 3 - 16
 
 
 ## Relations
-- ### Relations
-	- **Definition** A predicate whose domain is a set of *k-tuples* $A \times A \times ... \times A$ 
-		- Also called as <span class="color-green">k-ary relation</span> or <span class="color-green">k-ary relation on A</span>
-		- A input can be related to one or more values
-		  
-	- A common case is a <span class="color-green">2-ary relation</span> or <span class="color-green">binary relation</span>
-		- When writing an binary relation expression
-		- infix is customarily used
-		- ex: $2 < 3$
-		  
-	- If $R$ is a <span class="color-green">binary relation</span> or if $R$ is a <span class="color-green">k-ary relation</span> 
-		- $aRb$  $\iff$ $aRb = True$
-		  
-		
-	- Sometimes describing predicates with sets instead of functions is more convenient
-		- Consider the game Rock, Paper, Scissors
-		- Domain $D : \{Rock, paper, Scissors\}$
-		- Range $R : \{True, False\}$
-		- Relation $aRb$ (or) $a\ beats\ b$ (or) $S = \{a \in D\ |\ P(a) = True\}$
+
+### Relations
+- **Definition** A predicate whose domain is a set of *k-tuples* $A \times A \times ... \times A$ 
+	- Also called as <span class="color-green">k-ary relation</span> or <span class="color-green">k-ary relation on A</span>
+	- A input can be related to one or more values
 	  
-- ### Properties of Relation
+- A common case is a <span class="color-green">2-ary relation</span> or <span class="color-green">binary relation</span>
+	- When writing an binary relation expression
+	- infix is customarily used
+	- ex: $2 < 3$
+	  
+- If $R$ is a <span class="color-green">binary relation</span> or if $R$ is a <span class="color-green">k-ary relation</span> 
+	- $aRb$  $\iff$ $aRb = True$
+	  
 	
-	- ### Reflexive Relation
-		- **Definition:** Every element is related to itself
-		- **Formal Condition:** For every $x$, $xRx$ is valid
-		- Examples:
-			- The "is equal to" relation (=) on the set of numbers
-				- Every number is equal to itself
-				- So the Reflexive property is satisfied by the relation "is equal to"
-			- The "lives in the same city as" relation
-				- You always live in the same city as yourself
-				- So the relation "lives in the same city" is Reflexive
+- Sometimes describing predicates with sets instead of functions is more convenient
+	- Consider the game Rock, Paper, Scissors
+	- Domain $D : \{Rock, paper, Scissors\}$
+	- Range $R : \{True, False\}$
+	- Relation $aRb$ (or) $a\ beats\ b$ (or) $S = \{a \in D\ |\ P(a) = True\}$
+
+### Properties of Relation
+	
+#### Reflexive Relation
+- **Definition:** Every element is related to itself
+- **Formal Condition:** For every $x$, $xRx$ is valid
+- Examples:
+	- The "is equal to" relation (=) on the set of numbers
+		- Every number is equal to itself
+		- So the Reflexive property is satisfied by the relation "is equal to"
+	- The "lives in the same city as" relation
+		- You always live in the same city as yourself
+		- So the relation "lives in the same city" is Reflexive
 		
-	- ### Symmetric Relation
-		- **Definition:** If $x$ is related to $y$, then $y$ is also related to $x$
-		- **Formal Condition:** If $xRy$, then $yRx$
-		- Examples:
-			- The "is married to" relation
-				- If **Jack** is married to **Kavya**
-				- **Kavya** is married to **Jack**
-				- So $xRy$, then $yRx$ is satisfied by "is married to" Relation
-				- $\therefore$ "is married to" is a Symmetric Relation
-				  
-			- The "is perpendicular to" relation
-				- If $L_1$ $\perp$ $L_2$ are then we know $L_2 \perp L_1$
-				- So by "is Perpendicular to" Relation satisfies the Symmetric condition
-				- $xRy$, then $yRx$   $\implies$  is a Symmetric Relation
-		
-	- ### Transitive Relation
-		- **Definition:** If x is related to y, and y is related to z, then x is related to z.
-		- **Formal Condition:** If $xRy$ and $yRz$, then $xRz$.
-		- **Examples:**
-			- The "is an ancestor of" relation.
-				- If Alice is an ancestor of Bob, and Bob is an ancestor of Charlie
-				- then Alice is an ancestor of Charlie).
-				- $\therefore$ "is ancestor to" is a Transitive Relation
-			- The "is less than" relation (<) on numbers
-				- Consider $a, b, c$ are three Natural
-				- If $a < b$ and $b < c$ we know that $a < c$
-				- $\therefore$ The relation "is less than" is Transitive
+#### Symmetric Relation
+- **Definition:** If $x$ is related to $y$, then $y$ is also related to $x$
+- **Formal Condition:** If $xRy$, then $yRx$
+- Examples:
+	- The "is married to" relation
+		- If **Jack** is married to **Kavya**
+		- **Kavya** is married to **Jack**
+		- So $xRy$, then $yRx$ is satisfied by "is married to" Relation
+		- $\therefore$ "is married to" is a Symmetric Relation
 		  
-	- ### Equivalence Relation
-		- **Definition:** A relation that is **reflexive, symmetric, and transitive** all at once.
-		- **Purpose:** Groups elements into "equivalence classes" where everything in a group is considered the same according to the rule.
-		- **Simple Example:**
-			- The "has the same birthday as" relation.
-				
-				- **Reflexive:** You have the same birthday as yourself.
-					
-				- **Symmetric:** If person A has the same birthday as person B, then B has the same birthday as A.
-					
-				- **Transitive:** If A has the same birthday as B, and B has the same birthday as C, then A has the same birthday as C.
-					
-				- This relation partitions all people into groups (equivalence classes) based on their birthday.
-	    
- 
+	- The "is perpendicular to" relation
+		- If $L_1$ $\perp$ $L_2$ are then we know $L_2 \perp L_1$
+		- So by "is Perpendicular to" Relation satisfies the Symmetric condition
+		- $xRy$, then $yRx$   $\implies$  is a Symmetric Relation
+		
+#### Transitive Relation
+- **Definition:** If x is related to y, and y is related to z, then x is related to z.
+- **Formal Condition:** If $xRy$ and $yRz$, then $xRz$.
+- **Examples:**
+	- The "is an ancestor of" relation.
+		- If Alice is an ancestor of Bob, and Bob is an ancestor of Charlie
+		- then Alice is an ancestor of Charlie).
+		- $\therefore$ "is ancestor to" is a Transitive Relation
+	- The "is less than" relation (<) on numbers
+		- Consider $a, b, c$ are three Natural
+		- If $a < b$ and $b < c$ we know that $a < c$
+		- $\therefore$ The relation "is less than" is Transitive
+		  
+#### Equivalence Relation
+
+- **Definition:** A relation that is **reflexive, symmetric, and transitive** all at once.
+- **Purpose:** Groups elements into "equivalence classes" where everything in a group is considered the same according to the rule.
+- **Notation:** $a \equiv_m b$
+- **Simple Example:**
+	- The "has the same birthday as" relation.
+		
+		- **Reflexive:** You have the same birthday as yourself.
+			
+		- **Symmetric:** If person A has the same birthday as person B, then B has the same birthday as A.
+			
+		- **Transitive:** If A has the same birthday as B, and B has the same birthday as C, then A has the same birthday as C.
+			
+		- This relation partitions all people into groups (equivalence classes) based on their birthday.
+		
+###  Example Exercises
+
+#### Example 1 (0.11)
+ - **Question:**
+	 - Define an equivalence relation on $\mathbb{N}$, written 
+
 
 
 ------------------------------------------------------------------------
