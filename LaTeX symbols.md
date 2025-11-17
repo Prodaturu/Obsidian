@@ -137,26 +137,38 @@ tags: [[Latex]]
 
 ## Reducibility & Computability
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$A \leq_m B$|`A \leq_m B`|Many-one reduction|
-|$A \leq_T B$|`A \leq_T B`|Turing reduction|
-|$A \equiv_m B$|`A \equiv_m B`|Many-one equivalence|
-|$\text{ATM}$|`\text{ATM}`|A_TM (Halting problem)|
+| Example        | LaTeX Code     | Description            |
+| -------------- | -------------- | ---------------------- |
+| $A \leq_m B$   | `A \leq_m B`   | Many-one reduction     |
+| $A \leq_T B$   | `A \leq_T B`   | Turing reduction       |
+| $A \equiv_m B$ | `A \equiv_m B` | Many-one equivalence   |
+| $\text{ATM}$   | `\text{ATM}`   | A_TM (Halting problem) |
+
+## Single Arrow Symbols
+
+| Example           | LaTeX Code        | Description                        |
+| ----------------- | ----------------- | ---------------------------------- |
+| $\to$             | `\to`             | Right arrow (common for functions) |
+| $\rightarrow$     | `\rightarrow`     | Right arrow (alternative)          |
+| $\gets$           | `\gets`           | Left arrow                         |
+| $\leftarrow$      | `\leftarrow`      | Left arrow (alternative)           |
+| $\mapsto$         | `\mapsto`         | Maps to (for function definitions) |
+| $\longrightarrow$ | `\longrightarrow` | Long right arrow                   |
+| $\longleftarrow$  | `\longleftarrow`  | Long left arrow                    |
 
 ## Additional Useful Symbols
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$\aleph_0$|`\aleph_0`|Countable infinity|
-|$\mathfrak{c}$|`\mathfrak{c}`|Cardinality of continuum|
-|$\binom{n}{k}$|`\binom{n}{k}`|Binomial coefficient|
-|$\lfloor x \rfloor$|`\lfloor x \rfloor`|Floor function|
-|$\lceil x \rceil$|`\lceil x \rceil`|Ceiling function|
-|$\approx$|`\approx`|Approximately equal|
-|$\sim$|`\sim`|Asymptotically equivalent|
-|$\propto$|`\propto`|Proportional to|
-|$\infty$|`\infty`|Infinity|
+| Example             | LaTeX Code          | Description               |
+| ------------------- | ------------------- | ------------------------- |
+| $\aleph_0$          | `\aleph_0`          | Countable infinity        |
+| $\mathfrak{c}$      | `\mathfrak{c}`      | Cardinality of continuum  |
+| $\binom{n}{k}$      | `\binom{n}{k}`      | Binomial coefficient      |
+| $\lfloor x \rfloor$ | `\lfloor x \rfloor` | Floor function            |
+| $\lceil x \rceil$   | `\lceil x \rceil`   | Ceiling function          |
+| $\approx$           | `\approx`           | Approximately equal       |
+| $\sim$              | `\sim`              | Asymptotically equivalent |
+| $\propto$           | `\propto`           | Proportional to           |
+| $\infty$            | `\infty`            | Infinity                  |
 
 ## Formatting Tips for Obsidian:
 

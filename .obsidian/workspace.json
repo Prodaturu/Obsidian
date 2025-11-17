@@ -231,15 +231,14 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "smart-random-note:Open Random Note from Search": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "f0f4d4b78e1608a5",
+  "active": "477b15ac8374571f",
   "lastOpenFiles": [
+    "LaTeX symbols.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Tags/Introduction to Information Theory 0.md",
-    "LaTeX symbols.md",
     "2025-11-16.md",
     "Untitled.md",
     "6 - Main Notes/Automata Complexity and Computability 0.1.md",
