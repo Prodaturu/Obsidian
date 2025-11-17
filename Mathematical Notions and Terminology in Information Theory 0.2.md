@@ -268,8 +268,9 @@ pages: 3 - 16
 	- Domain $D : \{Rock, paper, Scissors\}$
 	- Range $R : \{True, False\}$
 	- Relation $aRb$ (or) $a\ beats\ b$ (or) $S = \{a \in D\ |\ P(a) = True\}$
+	  
+- #### Properties of Relation
 	- 
-
 
 
 
