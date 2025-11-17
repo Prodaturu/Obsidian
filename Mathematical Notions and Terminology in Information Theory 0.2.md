@@ -122,17 +122,18 @@ pages: 3 - 16
 
 ## Functions and Relations
 
-- **Definition:** <span class="color-green">Function</span> or a <span class="color-green">Mapping</span> is an 
-	- <span class="color-orange">Object</span> that sets up an <span class="color-orange">input-output relationship</span>
-- A function takes Input and gives Output
-	- Same Input always should produce same Output
-- **Notation:** A function $f$ whose input is $a$ and output is $b$ 
-	- $f(a) = b$
-
-- Example: 
-	- The Absolute value function $abs$ takes a number $x$ as input & return $x$ if positive or $-x$ if negative
-		- $\therefore$ $abs(2) = abs(-2) = 2$
-
+- ### Functions
+	- **Definition:** <span class="color-green">Function</span> or a <span class="color-green">Mapping</span> is an 
+		- <span class="color-orange">Object</span> that sets up an <span class="color-orange">input-output relationship</span>
+	- A function takes Input and gives Output
+		- Same Input always should produce same Output
+	- **Notation:** A function $f$ whose input is $a$ and output is $b$ 
+		- $f(a) = b$
+	
+	- Example: 
+		- The Absolute value function $abs$ takes a number $x$ as input & return $x$ if positive or $-x$ if negative
+			- $\therefore$ $abs(2) = abs(-2) = 2$
+	  
 - ### Domain and Range
 	- Set of possible Inputs to a function is called <span class="color-green">Domain</span>
 	- Outputs of a function come from a set called it's <span class="color-green">Range</span>
@@ -143,15 +144,15 @@ pages: 3 - 16
 			- The <span class="color-green">Domain</span> $D$ is  $\mathbb{Z}$
 			- The <span class="color-green">Range</span> $R$  is  $\mathbb{Z}$
 			- so we write => $abs:$  $\mathbb{Z}$ $\mapsto$  $\mathbb{Z}$
-	- Input of a function is also called an <span class="color-green">argument</span>
-
-### Onto Function
-
-- A function that uses all the elements of the range
-- Example:
-	- Consider the function $f$ : $\{0, 1, 2, 3, 4\}$ $\mapsto$ $\{0, 1, 2, 3, 4\}$
-	- This function adds one to its input and outputs the result modulo 5
-	- so, $f$ : $\{0, 1, 2, 3, 4\}$ $\mapsto$ $\{0, 1, 2, 3, 4\}$ is an onto function
+	- Input of a function is also called an <span class="color-green">argument</span>  
+	  
+	  
+- ### Onto Function
+	- A function that uses all the elements of the range
+	- Example:
+		- Consider the function $f$ : $\{0, 1, 2, 3, 4\}$ $\mapsto$ $\{0, 1, 2, 3, 4\}$
+		- This function adds one to its input and outputs the result modulo 5
+		- so, $f$ : $\{0, 1, 2, 3, 4\}$ $\mapsto$ $\{0, 1, 2, 3, 4\}$ is an onto function
 
 | n   | f(n) |
 | --- | ---- |
@@ -161,17 +162,17 @@ pages: 3 - 16
 | 3   | 4    |
 | 4   | 0    |
 
-### n - Dimensional Domain
-
-#### 2 - Dimensional Domain
-- Consider a function $g : \mathbb{Z}_{4} \times \mathbb{Z}_{4} \mapsto \mathbb{Z}_{4}$
-	- The entry at row label $i$ and column $j$ is the value of $g(i, j)$
-	- function $g$ is addition function modulo 4
-	- $i$ and $j$ or input of a function is also called an <span class="color-green">argument</span>
-	- Certain binary functions are written in *infix* notation instead of *prefix* notation
-	- example: 
-		- addition function $add$ is written as $a + b$ --> $infix\ notation$
-		- instead of $add(a, b)$ --> $prefix\ notation$
+- ### n - Dimensional Domain
+	
+	#### 2 - Dimensional Domain
+	- Consider a function $g : \mathbb{Z}_{4} \times \mathbb{Z}_{4} \mapsto \mathbb{Z}_{4}$
+		- The entry at row label $i$ and column $j$ is the value of $g(i, j)$
+		- function $g$ is addition function modulo 4
+		- $i$ and $j$ or input of a function is also called an <span class="color-green">argument</span>
+		- Certain binary functions are written in *infix* notation instead of *prefix* notation
+		- example: 
+			- addition function $add$ is written as $a + b$ --> $infix\ notation$
+			- instead of $add(a, b)$ --> $prefix\ notation$
 
 | g   | 0   | 1   | 2   | 3   |
 | --- | --- | --- | --- | --- |
@@ -179,12 +180,12 @@ pages: 3 - 16
 | 1   | 1   | 2   | 3   | 0   |
 | 2   | 2   | 3   | 0   | 1   |
 | 3   | 3   | 0   | 1   | 2   |
-#### k-ary functions
 
-- A function with $k$ arguments is called a <span class="color-green">k-ary function</span>
-	- For ex, when the domain is $A_1 \times A_2 \times .... \times A_k$ 
-	- Input = $(a_1, a_2, ...., a_k)$ --> k-tuple input --> <span class="color-green">k-ary function</span>
-- $k$  ---> <span class="color-green">arity</span> of the function
+- #### k-ary functions
+		- A function with $k$ arguments is called a <span class="color-green">k-ary function</span>
+			- For ex, when the domain is $A_1 \times A_2 \times .... \times A_k$ 
+			- Input = $(a_1, a_2, ...., a_k)$ --> k-tuple input --> <span class="color-green">k-ary function</span>
+		- $k$  ---> <span class="color-green">arity</span> of the function
 
 | k   | name            |
 | --- | --------------- |
@@ -246,6 +247,25 @@ pages: 3 - 16
 - **Key Insights**
 	- many computational questions in computation theory boil down to 
 	  asking whether certain predicates are *computable* / *decidable*
+
+
+### Relation
+	
+- **Definition** A predicate whose domain is a set of *k-tuples* $A \times A \times ... \times A$ 
+	- Also called as <span class="color-green">k-ary relation</span> or <span class="color-green">k-ary relation on A</span>
+	  
+- A common case is a <span class="color-green">2-ary relation</span> or <span class="color-green">binary relation</span>
+	- When writing an binary relation expression
+	- infix is customarily used
+	- ex: $2 < 3$
+	  
+- If $R$ is a <span class="color-green">binary relation</span> or a <span class="color-green">k-ary relation</span> 
+	- $aRb$  $\iff$ $aRb = True$
+	  
+- Consider the game Rock, Paper, Scissors
+	- Domain $D : \{Rock, paper, Scissors\}$
+	- Range $R : \{True, False\}$
+	
   
 
 
