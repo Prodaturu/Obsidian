@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -270,7 +271,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e3f27e8fc87e08a0",
+  "active": "4af7709aeb233c93",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
