@@ -294,7 +294,9 @@ pages: 3 - 16
 				- $\therefore$ "is married to" is a Symmetric Relation
 				  
 			- The "is perpendicular to" relation
-				- If $L_1$ and $L_2$ are two lines $\
+				- If $L_1$ $\perp$ $L_2$ are then we know $L_2 \perp L_1$
+				- So $xRy$, then $yRx$ is satisfied by "is Perpendicular to" Relation
+				- 
 
 
 

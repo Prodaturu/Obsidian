@@ -167,6 +167,32 @@ tags: [[Latex]]
 |$a(b)$|`a(b)`|Implicit with parentheses|
 |$a \ast b$|`\ast`|Asterisk symbol|
 
+## Geometry & Trigonometry Symbols
+
+| Example         | LaTeX Code      | Description            |
+| --------------- | --------------- | ---------------------- |
+| $\angle ABC$    | `\angle ABC`    | Angle                  |
+| $\triangle ABC$ | `\triangle ABC` | Triangle               |
+| $\perp$         | `\perp`         | Perpendicular          |
+| $\parallel$     | `\parallel`     | Parallel               |
+| $\nparallel$    | `\nparallel`    | Not parallel           |
+| $\sim$          | `\sim`          | Similar to             |
+| $\cong$         | `\cong`         | Congruent to           |
+| $\simeq$        | `\simeq`        | Approximately equal to |
+| $\sin x$        | `\sin x`        | Sine                   |
+| $\cos x$        | `\cos x`        | Cosine                 |
+| $\tan x$        | `\tan x`        | Tangent                |
+| $\csc x$        | `\csc x`        | Cosecant               |
+| $\sec x$        | `\sec x`        | Secant                 |
+| $\cot x$        | `\cot x`        | Cotangent              |
+| $\arcsin x$     | `\arcsin x`     | Inverse sine           |
+| $\arccos x$     | `\arccos x`     | Inverse cosine         |
+| $\arctan x$     | `\arctan x`     | Inverse tangent        |
+| $90^\circ$      | `90^\circ`      | Degrees                |
+| $\pi$           | `\pi`           | Pi                     |
+| $\theta$        | `\theta`        | Theta (angle)          |
+| $\phi$          | `\phi`          | Phi (angle)            |
+
 ## Additional Useful Symbols
 
 | Example             | LaTeX Code          | Description               |
