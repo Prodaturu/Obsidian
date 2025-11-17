@@ -331,8 +331,11 @@ pages: 3 - 16
 ###  Example Exercises
 
 #### Example 1 (0.11)
- - **Question:**
-	 - Define an equivalence relation on $\mathbb{N}$, written 
+ 
+ - Define an equivalence relation on $\mathbb{N}$, written $\equiv_7$ 
+ - For  $i, j \in \mathbb{N}$ say that $i \equiv_7 j$, if $i - j$ is a multiple of 7
+ - This is a Equivalence relation
+	 - **Reflexive:**  $i - i = 0$;  $0$ is a multiple of $7$ $\implies$ is Reflexive 
 
 
 
