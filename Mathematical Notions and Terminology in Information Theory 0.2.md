@@ -223,6 +223,26 @@ pages: 3 - 16
 	- $even(n)$ = "n is an even number"
 		- $even(4)$ = $True$
 		- $even(1)$ = $False$
+	- $vowel(c)$ = "c is a vowel"
+		- $vowel('a')$ = $True$
+		- $vowel('x')$ = $False$
+	
+- **Alternative Representation**
+	- $S = \{X \in D | P(x) = True\}$
+		- same as predicate $P: D \mapsto \{True, False\}$
+	- Example:
+		- $even$ predicate = $\{0, 2, 4, ...\}$
+	
+- **Importance in Theory of Computation** 
+	- Decision Problems -> Predicates over strings
+	- Language Membership -> Predicate testing if string is in language
+	- Undecidability Proofs -> Rely on predicates about program behaviour
+	- Formal Verification -> Uses Predicates to specify system properties
+	
+- **Key Insights**
+	- many computational questions in computation theory boil down to 
+	  asking whether certain predicates are *computable* / *decidable*
+  
 
 
 
