@@ -265,8 +265,8 @@ pages: 3 - 16
 - Consider the game Rock, Paper, Scissors
 	- Domain $D : \{Rock, paper, Scissors\}$
 	- Range $R : \{True, False\}$
-	
-  
+	- Relation $aRb$ or $a\ beats\ b$ or $S = \{a \in D|P(a) = True\}$
+	- 
 
 
 
