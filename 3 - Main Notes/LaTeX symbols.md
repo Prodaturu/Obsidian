@@ -144,7 +144,7 @@ tags: [[Latex]]
 | $A \equiv_m B$ | `A \equiv_m B` | Many-one equivalence   |
 | $\text{ATM}$   | `\text{ATM}`   | A_TM (Halting problem) |
 
-## Single Arrow Symbols
+## Arrow Symbols
 
 | Example           | LaTeX Code        | Description                        |
 | ----------------- | ----------------- | ---------------------------------- |

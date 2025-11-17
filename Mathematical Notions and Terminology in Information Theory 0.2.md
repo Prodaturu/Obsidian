@@ -335,7 +335,8 @@ pages: 3 - 16
  - Define an equivalence relation on $\mathbb{N}$, written $\equiv_7$ 
  - For  $i, j \in \mathbb{N}$ say that $i \equiv_7 j$, if $i - j$ is a multiple of 7
  - This is a Equivalence relation
-	 - **Reflexive:**  $i - i = 0$;  $0$ is a multiple of $7$ $\implies$ is Reflexive 
+	 - **Reflexive:**  $i - i = 0$;  $0$ is a multiple of $7$ $\implies$ is Reflexive
+	 - **Symmetric:** $\because i - j$ is a multiple of $7$ $ 
 
 
 
