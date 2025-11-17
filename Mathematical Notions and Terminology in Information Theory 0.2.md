@@ -6,7 +6,6 @@ Status: #baby
 Tags: 
 - [[Information Theory]] 
 - [[Introduction to Information Theory 0]] 
-- [[Mathematics]]
 
 pages: 3 - 16 
 
