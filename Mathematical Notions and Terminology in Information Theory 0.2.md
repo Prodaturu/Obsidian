@@ -164,6 +164,10 @@ pages: 3 - 16
 	- The entry at row label $i$ and column $j$ is the value of $g(i, j)$
 	- function $g$ is addition function modulo 4
 	- $i$ and $j$ or input of a function is also called an <span class="color-green">argument</span>
+	- Certain binary functions are written in *infix* notation instead of *prefix* notation
+	- example: 
+		- addition function $add$ is written as $a + b$ --> $infix\ notation$
+		- instead of $add(a, b)$ --> $prefix\ notation$
 
 | g   | 0   | 1   | 2   | 3   |
 | --- | --- | --- | --- | --- |
@@ -171,7 +175,7 @@ pages: 3 - 16
 | 1   | 1   | 2   | 3   | 0   |
 | 2   | 2   | 3   | 0   | 1   |
 | 3   | 3   | 0   | 1   | 2   |
-#### k-ary function
+#### k-ary functions
 
 - A function with $k$ arguments is called a <span class="color-green">k-ary function</span>
 	- For ex, when the domain is $A_1 \times A_2 \times .... \times A_k$ 
@@ -185,7 +189,24 @@ pages: 3 - 16
 
 ### Infix and Prefix notations
 
-- 
+- #### Prefix Notation
+	- Standard Mathematical Function Notation
+	- *Operator* comes before (*pre*-) the *operands*
+	- Formal definitions often use *prefix* notations as they are more precise
+	- **Structure:** $operator(operand1, operand2)$
+	- Examples:
+		1. $add(3, 4)$
+		2. $multiply(3, 4)$
+
+- #### Infix Notation
+	- Used for familiar binary operations for readability
+	- *operator* comes between (in-) the *operands*
+	- **Structure:** $operand1\ operator\ operand2$
+	- Examples:
+		1. $2 + 3$ : addition of 2 and 3
+		2. $P \land Q$ : Conjunction of $P$ and $Q$
+
+
 
 ------------------------------------------------------------------------
 # References
