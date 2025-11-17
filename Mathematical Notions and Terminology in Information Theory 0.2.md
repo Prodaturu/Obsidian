@@ -316,7 +316,7 @@ pages: 3 - 16
 
 - **Definition:** A relation that is **reflexive, symmetric, and transitive** all at once.
 - **Purpose:** Groups elements into "equivalence classes" where everything in a group is considered the same according to the rule.
-- **Notation:** $a \equiv_m b$
+- **Notation:** 
 - **Simple Example:**
 	- The "has the same birthday as" relation.
 		
