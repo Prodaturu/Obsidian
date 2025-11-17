@@ -362,8 +362,22 @@ pages: 3 - 16
   
 - **Formal Definition:** 
 	- $G = (V, E)$ 
-	- Here; $V$ -> Set of Nodes, $G$ and $E$ -> set of Edges 
+	- Here; $V$ -> Set of Nodes, $G$ and $E$ -> set of Edges
+  
+- We can describe a Graph $G$ with a diagram like below or more formally by specifying $V$ and $E$ 
 
+- Consider the Graph $G = (\{1, 2, 3, 4, 5\}, \{(1, 2), (2, 3), (3, 4), (4, 5), (5, 1)\})$
+
+
+
+```mermaid
+graph 
+    1 --- 2
+    2 --- 3
+    3 --- 4
+    4 --- 5
+    5 --- 1
+```
 
 ------------------------------------------------------------------------
 # References
