@@ -25,7 +25,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "3 - Main Notes/LaTeX symbols.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Outline of LaTeX symbols"
             }
           },
           {
@@ -271,8 +271,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "08765c253f694c57",
+  "active": "f0f4d4b78e1608a5",
   "lastOpenFiles": [
+    "Tags/Latex.md",
     "3 - Main Notes/LaTeX symbols.md",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Untitled.canvas",
@@ -284,7 +285,6 @@
     "Flow charts.md",
     "Tags/Introduction to Information Theory 0.md",
     "Tags/Tags.md",
-    "Tags/Latex.md",
     "Vault.md",
     "Tags",
     "Indexes/Information Theory.md",

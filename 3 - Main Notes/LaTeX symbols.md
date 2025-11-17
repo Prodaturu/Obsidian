@@ -1,6 +1,6 @@
 status: #teen 
 
-tags: [[Latex]]
+tags: [[Latex]] 
 
 # LaTeX Symbols Cheat Sheet
 
