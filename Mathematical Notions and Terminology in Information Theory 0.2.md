@@ -360,6 +360,7 @@ pages: 3 - 16
 	- Then $(i, j)$ represents the edge that connects $i$ and $j$
 	- $(i, j)$ and $(j, i)$  represent the same edge
 - Sometimes we describe edges $(i, j)$ as sets $\{i, j\}$ instead of pairs if the order of nodes is unimportant
+- A <span class="color-green">Graph</span> where we label the <span class="color-green">Nodes</span> and / or <span class="color-green">Edges</span> is called a <span class=color-green>Labeled graph</span>
   
 - **Formal Definition:** 
 	- $G = (V, E)$ 
@@ -379,13 +380,12 @@ graph
     5 --- 1
 ```
 
-### Labeled Graph
+### Sub Graph
 
-- A <span class="color-green">Graph</span> where we label the <span class="color-green">Nodes</span> and / or <span class="color-green">Edges</span>
-- Example:
-```mermaid
+- **Definition:-** We say that a Graph $G$ is a <span class="color-green">Sub-Graph</span> of Graph $H$ if all the nodes of $G$ are a subset of the nodes of $H$.
+	- The edges of $G$ are the edges of $H$ on the corresponding nodes
+- 
 
-```
 
 
 ------------------------------------------------------------------------
