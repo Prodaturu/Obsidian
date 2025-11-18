@@ -434,6 +434,14 @@ graph LR
 ```
 
 
+### Path
+
+- **Definition:-** A path in a Graph is the sequence of nodes connected by edges
+- **Simple path**
+
+
+
+
 ------------------------------------------------------------------------
 # References
 
