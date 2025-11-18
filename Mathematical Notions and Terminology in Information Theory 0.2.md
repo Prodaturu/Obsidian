@@ -435,9 +435,21 @@ graph LR
 
 
 ### Path
-
 - **Definition:-** A path in a Graph is the sequence of nodes connected by edges
-- **Simple path**
+- **Simple path**: A path doesn't repeat any nodes
+
+- A path is **Connected** if all the nodes have a path between them
+
+- **Cycle:** A path is a cycle if it starts and on the same node
+- **Simple Cycle:** is a cycle that contains 3 nodes and repeats only the first and last node (both same node)
+- **Tree:** A graph that is connected and has no simple cycles
+	- A tree may contain a specially designated node called **root**
+	- Nodes of <span class=color-green>degree 1</span> other than the root are called <span class="color-green">leaves</span> of the tree
+- **Directed Graph:-** If a graph has <span class="color-green">arrows</span> instead of lines its called a directed graph
+	- No. of arrows pointing out from a particular node is <span class="color-green">outdegree</span>
+	- No. of arrows pointing out from a particular node is <span class="color-green">indegree</span>
+
+
 
 
 
