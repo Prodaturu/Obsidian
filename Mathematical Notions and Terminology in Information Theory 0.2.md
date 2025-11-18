@@ -385,6 +385,38 @@ graph
 - **Definition:-** We say that a Graph $G$ is a <span class="color-green">Sub-Graph</span> of Graph $H$ if all the nodes of $G$ are a subset of the nodes of $H$.
 	- The edges of $G$ are the edges of $H$ on the corresponding nodes
 - 
+```mermaid
+  
+	graph TB
+	    subgraph H[Graph H = (V,H,E,H)]
+	        A[v1]
+	        B[v2]
+	        C[v3]
+	        D[v4]
+	        E[v5]
+	        
+	        A -->|e1| B
+	        B -->|e2| C
+	        C -->|e3| D
+	        D -->|e4| E
+	        E -->|e5| A
+	        A -->|e6| C
+	    end
+	    
+	    subgraph G[Subgraph G = (V,G,E,G) ⊆ H]
+	        A
+	        B
+	        C
+	        
+	        A -->|e1| B
+	        B -->|e2| C
+	    end
+	    
+	    classDef subgraphNode fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px
+	    classDef subgraphEdge stroke:#7b1fa2,stroke-width:3px,color:#7b1fa2
+	    class G subgraphNode
+	    linkStyle 0,1 stroke:#7b1fa2,stroke-width:3px
+```
 
 
 
