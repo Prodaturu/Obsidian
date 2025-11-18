@@ -419,6 +419,19 @@ graph TB
     linkStyle 0 stroke:#ff0000,stroke-width:3px,color:#ff0000
     linkStyle 1 stroke:#ff0000,stroke-width:3px,color:#ff0000  
     linkStyle 2 stroke:#ff0000,stroke-width:3px,color:#ff0000
+    
+    %% Legend section
+    subgraph Legend[Legend]
+        direction LR
+        LH[ ] --> LHT[Edges of H]
+        LG[ ] --> LGT[Edges of G]
+    end
+    
+    linkStyle 6 stroke:#000000,stroke-width:2px,color:#000000
+    linkStyle 7 stroke:#ff0000,stroke-width:3px,color:#ff0000
+    
+    class Legend legendBox
+    classDef legendBox fill:#f9f9f9,stroke:#cccccc,stroke-width:1px
 ```
 
 
