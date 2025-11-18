@@ -412,27 +412,26 @@ graph TB
         C --> D
     end
     
+    classDef subgraphStyle fill:#e8f5e8,stroke:#2e7d32,stroke-width:3px
+    class G subgraphStyle
+    
     %% Color the edges in subgraph G
     linkStyle 0 stroke:#ff0000,stroke-width:3px,color:#ff0000
     linkStyle 1 stroke:#ff0000,stroke-width:3px,color:#ff0000  
     linkStyle 2 stroke:#ff0000,stroke-width:3px,color:#ff0000
-    
-    %% Legend at bottom using invisible spacer
-    spacer[ ]
-    
-    LH[Black line] --> LHT[ = Edges of H]
-    LG[Red line] --> LGT[ = Edges of G]
-    
-    spacer --> LH
-    spacer --> LG
-    
-    linkStyle 6 stroke:#000000,stroke-width:2px
-    linkStyle 7 stroke:#ff0000,stroke-width:3px
-    
-    class spacer,LH,LG invisible
-    classDef invisible fill:#ffffff,stroke:#ffffff,stroke-width:0px
 ```
 
+```mermaid
+graph LR
+    LH[H] --> LHT[H]
+    LG[G] --> LGT[G]
+    
+    linkStyle 0 stroke:#000000,stroke-width:2px
+    linkStyle 1 stroke:#ff0000,stroke-width:3px
+    
+    class LH,LG,LHT,LGT legendStyle
+    classDef legendStyle fill:#f9f9f9,stroke:#cccccc,stroke-width:1px
+```
 
 
 ------------------------------------------------------------------------
