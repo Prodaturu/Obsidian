@@ -384,38 +384,41 @@ graph
 
 - **Definition:-** We say that a Graph $G$ is a <span class="color-green">Sub-Graph</span> of Graph $H$ if all the nodes of $G$ are a subset of the nodes of $H$.
 	- The edges of $G$ are the edges of $H$ on the corresponding nodes
-- 
+
 ```mermaid
-  
-	graph TB
-	    subgraph H[Graph H = (V,H,E,H)]
-	        A[v1]
-	        B[v2]
-	        C[v3]
-	        D[v4]
-	        E[v5]
-	        
-	        A -->|e1| B
-	        B -->|e2| C
-	        C -->|e3| D
-	        D -->|e4| E
-	        E -->|e5| A
-	        A -->|e6| C
-	    end
-	    
-	    subgraph G[Subgraph G = (V,G,E,G) ⊆ H]
-	        A
-	        B
-	        C
-	        
-	        A -->|e1| B
-	        B -->|e2| C
-	    end
-	    
-	    classDef subgraphNode fill:#f3e5f5,stroke:#7b1fa2,stroke-width:3px
-	    classDef subgraphEdge stroke:#7b1fa2,stroke-width:3px,color:#7b1fa2
-	    class G subgraphNode
-	    linkStyle 0,1 stroke:#7b1fa2,stroke-width:3px
+graph TB
+    subgraph H[Graph H]
+        A[1]
+        B[2]
+        C[3]
+        D[4]
+        E[5]
+        
+        A --> B
+        B --> C
+        C --> D
+        D --> E
+        E --> A
+        B --> D
+    end
+    
+    subgraph G[Subgraph G]
+        A
+        B
+        C
+        D
+        A --> B
+        B --> C
+        C --> D
+    end
+    
+    classDef subgraphStyle fill:#e8f5e8,stroke:#2e7d32,stroke-width:3px
+    class G subgraphStyle
+    
+    %% Color the edges in subgraph G
+    linkStyle 0 stroke:#ff0000,stroke-width:3px,color:#ff0000
+    linkStyle 1 stroke:#ff0000,stroke-width:3px,color:#ff0000  
+    linkStyle 2 stroke:#ff0000,stroke-width:3px,color:#ff0000
 ```
 
 
