@@ -412,26 +412,25 @@ graph TB
         C --> D
     end
     
-    classDef subgraphStyle fill:#e8f5e8,stroke:#2e7d32,stroke-width:3px
-    class G subgraphStyle
-    
     %% Color the edges in subgraph G
     linkStyle 0 stroke:#ff0000,stroke-width:3px,color:#ff0000
     linkStyle 1 stroke:#ff0000,stroke-width:3px,color:#ff0000  
     linkStyle 2 stroke:#ff0000,stroke-width:3px,color:#ff0000
     
-    %% Legend section
-    subgraph Legend[Legend]
-        direction LR
-        LH[ ] --> LHT[Edges of H]
-        LG[ ] --> LGT[Edges of G]
-    end
+    %% Legend at bottom using invisible spacer
+    spacer[ ]
     
-    linkStyle 6 stroke:#000000,stroke-width:2px,color:#000000
-    linkStyle 7 stroke:#ff0000,stroke-width:3px,color:#ff0000
+    LH[Black line] --> LHT[ = Edges of H]
+    LG[Red line] --> LGT[ = Edges of G]
     
-    class Legend legendBox
-    classDef legendBox fill:#f9f9f9,stroke:#cccccc,stroke-width:1px
+    spacer --> LH
+    spacer --> LG
+    
+    linkStyle 6 stroke:#000000,stroke-width:2px
+    linkStyle 7 stroke:#ff0000,stroke-width:3px
+    
+    class spacer,LH,LG invisible
+    classDef invisible fill:#ffffff,stroke:#ffffff,stroke-width:0px
 ```
 
 
