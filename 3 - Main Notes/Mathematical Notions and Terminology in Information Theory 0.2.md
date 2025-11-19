@@ -474,7 +474,10 @@ graph TB
 ```
 
 
-- **Directed Graph:-** (path)
+- **Directed Path:-** (path)
+	- A path in which all the arrows point in the same direction as its steps is called a directed path
+- **Strongly Connected:-**
+	- A directed graph is strongly connected if a directed path connects every two nodes
 
 
 
