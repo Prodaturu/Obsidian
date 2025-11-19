@@ -3,7 +3,7 @@ Status:  #child
 
 Hashtags: #ML #mathematical-foundations 
 
-Tags: 
+Tags: [[Mathematics]] [[MachineLearning]] 
 
 
 ------------------------------------------------------------------------

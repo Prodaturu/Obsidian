@@ -131,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -274,8 +274,10 @@
   },
   "active": "c59524e72ead6d72",
   "lastOpenFiles": [
-    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "MachineLearning.md",
     "3 - Main Notes/InformationTheoryTum/Basic Mathematics Pre-Machine Learning.md",
+    "Indexes/Mathematics.md",
+    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Vault.md",
     "3 - Main Notes/LaTeX symbols.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
@@ -303,11 +305,9 @@
     "Flow charts.md",
     "Tags",
     "2025-11-16.md",
-    "Indexes/Mathematics.md",
     "4 - Full Notes",
     "1 - Rough Notes/Remainders.md",
     "2 - Source Material/Books",
-    "3 - Tags/TUM Bachelors.md",
     "3 - Main Notes",
     "5 - Templates",
     "Indexes",
