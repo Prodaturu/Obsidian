@@ -75,6 +75,8 @@ graph LR
 - Common form of argument for proving a theorem
 - Assume that the theorem is false
 	- show that this assumption leads to an obviously false consequence
+	- called a contradiction
+- Used frequently in everyday life
 
 
 
