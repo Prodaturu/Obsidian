@@ -543,12 +543,18 @@ paper --> rock
 - Foundation of Digital Electronics and Computer Design
 - $\{True, False\}$ are called the <span class="color-green" style="font-bold">Boolean values</span> represented using $1, 0$ respectively
 
-### **Boolean Operations:**
+## **Boolean Operations:**
 
 - Operations designed for manipulating <span class="color-green" style="font-bold">Boolean values</span>
-- <span class="color-green" style="font-bold">negation</span> or <span class="color-green" style="font-bold">NOT</span> is one of the simplest Boolean operations
-	- Denoted using 
 
+### NOT
+- <span class="color-green" style="font-bold">negation</span> or <span class="color-green" style="font-bold">NOT</span> is one of the simplest Boolean operations
+	- Denoted using $\neg$
+	- Negation of a Boolean value is its opposite value
+		- Thus $\neg 0 = 1$ and  $\neg 1 = 0$
+
+### AND
+- <span class="color-green" style="font-bold">conjunction</span> or <span class="color-green" style="font-bold">AND</span> 
 
 ## Summary of Definitions
 %% page - 16 (37) %%
