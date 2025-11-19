@@ -492,14 +492,13 @@ paper --> rock
 
 ## Strings and Languages
 
-- **String** $\omega$ is a finite list of <span class="color-green">Symbols</span> from an <span class="color-green">Alphabet</span>
-	
-- <span class="color-green">Alphabet</span> $\Sigma$ is a finite set of objects called <span class="color-green">Symbols</span>
-	
-- A member of an <span class="color-green">Alphabet</span> is called a <span class="color-green">Symbol</span> 
-	  
-- A <span class="color-green">String over an Alphabet</span> is a finite sequence of symbols from that alphabet
-
+- **Alphabet** $\Sigma$ is a finite set of objects called **symbols**
+    
+- A **symbol** $a \in \Sigma$ is a member of an alphabet
+    
+- A **string** $w$ over alphabet $\Sigma$ is a finite sequence of symbols from $\Sigma$
+    
+- The **empty string** $\varepsilon$ has length 0
 
 ## Summary of Definitions
 
