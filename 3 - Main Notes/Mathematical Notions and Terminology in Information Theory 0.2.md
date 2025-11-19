@@ -493,8 +493,13 @@ paper --> rock
 ## Strings and Languages
 
 - **String** is a finite list of <span class="color-green">Symbols</span> from an <span class="color-green">Alphabet</span>
+	- Denoted using $\epsilon$ 
 - <span class="color-green">Alphabet</span> is a finite set of objects called <span class="color-green">Symbols</span>
 - A member of an <span class="color-green">Alphabet</span> is called a <span class="color-green">Symbol</span>
+  
+- A <span class="color-green">String over an Alphabet</span> is a finite sequence of symbols from that alphabet
+
+
 
 ------------------------------------------------------------------------
 # References
