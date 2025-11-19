@@ -202,9 +202,30 @@ d --- e
 
 
 
-### Theorem 0.21
+### Theorem 0.21 - Handshaking Lemma Proof
 %% page 21 (42) %%
-- For every graph $G$, the sum of degrees of all the nodes in $G$ is an even number
+
+**Theorem**: In any graph $G$, the sum of the degrees of all nodes equals $2e$, where $e$ is the number of edges.
+
+**Proof**:
+
+- Every edge in $G$ is connected to **two nodes**
+    
+- Each edge contributes:
+    
+    - $+1$ to the degree of **each** connected node
+        
+    - $+2$ to the **total sum** of all node degrees
+      
+- Therefore, if $G$ contains $e$ edges:
+    
+    - Sum of all degrees = $2e$
+      
+- Since $2e$ is always even: 
+	
+- ***Sum of all node degrees is always even***
+	
+- $\sum_{v\ \in\ V}\ (\deg(v)) = 2|E|$
 
 ## Types of 
 
