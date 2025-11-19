@@ -451,10 +451,13 @@ graph LR
 	- A tree may contain a specially designated node called **root**
 	- Nodes of <span class=color-green>degree 1</span> other than the root are called <span class="color-green">leaves</span> of the tree
 
-- **Directed Graph:-** (Graph type) If a graph has <span class="color-green">arrows</span> instead of lines its called a directed graph
+### **Directed Graph:-** (Graph type)
+
+- If a graph has <span class="color-green">arrows</span> instead of lines its called a directed graph
 	- No. of arrows pointing out from a particular node is <span class="color-green">outdegree</span>
 	- No. of arrows pointing in to a particular node is <span class="color-green">indegree</span>
 	- In a directed we represent an edge from $i$ to $j$ as pairs $(i, j)$
+	- Handy way to represent Binary relations
 	- Example:
 		- A graph with formal description $(\{1, 2, 3, 4, 5, 6\},  \{(1, 2), (1, 5), (2, 1), (2, 4), (5, 4), (5, 6), (6, 1), (6, 3)\}$ would be
 
@@ -487,7 +490,11 @@ paper --> rock
 
 ```
 
+## Strings and Languages
 
+- **String** is a finite list of <span class="color-green">Symbols</span> from an <span class="color-green">Alphabet</span>
+- <span class="color-green">Alphabet</span> is a finite set of objects called <span class="color-green">Symbols</span>
+- A member of an <span class="color-green">Alphabet</span> is called a <span class="color-green">Symbol</span>
 
 ------------------------------------------------------------------------
 # References
