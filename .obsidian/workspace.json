@@ -148,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols.md",
+                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LaTeX symbols"
+              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
@@ -271,12 +271,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "01f6b6ddc028b32c",
+  "active": "c59524e72ead6d72",
   "lastOpenFiles": [
+    "3 - Main Notes/LaTeX symbols.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
-    "3 - Main Notes/LaTeX symbols.md",
     "Tags/Introduction to Information Theory 0.md",
     "Tags/Tags.md",
     "Tags/Latex.md",

@@ -268,18 +268,17 @@ tags: [[Latex]]
 
 | Example    | LaTeX Code | Letter Name |
 | ---------- | ---------- | ----------- |
-| $\Delta$   | `\Delta`   | Delta       |
 | $\Gamma$   | `\Gamma`   | Gamma       |
-| $\Lambda$  | `\Lambda`  | Lambda      |
-| $\Omega$   | `\Omega`   | Omega       |
-| $\Phi$     | `\Phi`     | Phi         |
-| $\Pi$      | `\Pi`      | Pi          |
-| $\Psi$     | `\Psi`     | Psi         |
-| $\Sigma$   | `\Sigma`   | Sigma       |
+| $\Delta$   | `\Delta`   | Delta       |
 | $\Theta$   | `\Theta`   | Theta       |
-| $\Upsilon$ | `\Upsilon` | Upsilon     |
+| $\Lambda$  | `\Lambda`  | Lambda      |
 | $\Xi$      | `\Xi`      | Xi          |
-
+| $\Pi$      | `\Pi`      | Pi          |
+| $\Sigma$   | `\Sigma`   | Sigma       |
+| $\Upsilon$ | `\Upsilon` | Upsilon     |
+| $\Phi$     | `\Phi`     | Phi         |
+| $\Psi$     | `\Psi`     | Psi         |
+| $\Omega$   | `\Omega`   | Omega       |
 
 ## Formatting Tips for Obsidian:
 

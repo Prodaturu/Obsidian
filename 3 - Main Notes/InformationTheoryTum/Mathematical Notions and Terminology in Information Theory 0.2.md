@@ -492,7 +492,7 @@ paper --> rock
 
 ## Strings and Languages
 %% page - 13 (34) %%
-- **Alphabet** $\Sigma $ is a finite set of objects called **symbols**
+- **Alphabet** $\Sigma$ / $\Gamma$ is a finite set of objects called **symbols**
     
 - A **symbol** $a \in \Sigma$ is a member of an alphabet
     
