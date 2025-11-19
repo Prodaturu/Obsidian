@@ -227,8 +227,6 @@ d --- e
 	
 - $\sum_{v\ \in\ V}\ (\deg(v)) = 2|E|$
 
-## Types of 
-
 
 # References
 
@@ -237,7 +235,7 @@ d --- e
 -----------------------------------------------------------------------
 # Closely Related Notes
 
-## Next:
+## Next: [[Types of Proof 0.4]]
 
 ## Prev: [[Mathematical Notions and Terminology in Information Theory 0.2]]
 
