@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/Information Theory.md",
+                "file": "3 - Main Notes/Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Information Theory"
+              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
             }
           }
         ]
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/Information Theory.md",
+                "file": "3 - Main Notes/Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Information Theory"
+              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
@@ -238,8 +238,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "643a04339e0b2128",
+  "active": "f93346c15cd28d76",
   "lastOpenFiles": [
+    "Indexes/Information Theory.md",
     "3 - Main Notes/equiv_m.md",
     "Vault.md",
     "3 - Main Notes/3 - Main Notes.md",
@@ -252,7 +253,7 @@
     "4 - Full Notes/I let you pass.md",
     "5 - Templates/5 - Templates.md",
     "4 - Full Notes/Pasted image 20251116165539.png",
-    "Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Untitled.canvas",
     "5 - Templates/Full Note.md",
     "Tags/Latex.md",
@@ -262,7 +263,6 @@
     "Flow charts.md",
     "Tags/Introduction to Information Theory 0.md",
     "Tags",
-    "Indexes/Information Theory.md",
     "2025-11-16.md",
     "Indexes/Mathematics.md",
     "4 - Full Notes",
