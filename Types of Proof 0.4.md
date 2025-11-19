@@ -11,15 +11,77 @@ Tags:
 
 ---
 # Types of Proof 0.4
-
-## Types of Proof
+%% page 21 (42) %%
 
 - Proof may contain more than one type of argument
 	- As the proof may contain within it several different sub-proofs
 
-### Proof by Construction
+## Proof by Construction
 
-- A way to prove a statement stating that a particular 
+- A way to prove a statement stating that a particular type of object exists
+- This is done by demonstrating how to construct the said object
+- This technique is called as ***Proof by Construction***
+
+### Theorem 2.22
+- For each even number $n$ greater than $2$, there exists a 3-regular graph with $n$ nodes
+	
+- **Proof:**
+- Let $n$ be an even number greater than $2$.
+- Construct graph $G = (V, E)$ with $n$ nodes as follows
+	- The set of nodes of $G$ is $V = \{0, 1, 2, ... , n-1\}$
+	- The set of edges is the set 
+		- $E = \{\{i,\ i+1\}\ |\ for\ 0\leq i \leq n-2 \}\ \cup \{\{n-1,\ 0\}\ \cup \{\{i,\ i + n/2 \}\ |\ for\ 0\leq i \leq n/2 - 1\}   \}$
+		  
+	- Picture the nodes of this graph written consecutively around the circumference of a circle
+	- In that case the edges described in the top line of $E$ go between adjacent pairs around the circle
+	- The edges described in the bottom line of $E$ go between nodes on opposite sides of the circle
+	- This mental picture clearly shows every node in $G$ has degree 3
+		
+	- Example:
+		- **Nodes arranged in circle**: 1 → 2 → 3 → 4 → 5 → 6 → back to 1
+			
+		- **Adjacent edges** (top line): (1,2), (2,3), (3,4), (4,5), (5,6), (6,1)
+			
+		- **Opposite edges** (bottom line): (1,4), (2,5), (3,6)
+			
+		- **Each node degree**: 2 (from adjacent) + 1 (from opposite) = 3
+			
+		- **Degree Calculation**
+			- Node 1: connected to 2, 6 (adjacent) + 4 (opposite) = degree 3
+			- Node 2: connected to 1, 3 (adjacent) + 5 (opposite) = degree 3
+			- Node 3: connected to 2, 4 (adjacent) + 6 (opposite) = degree 3
+			- Node 4: connected to 3, 5 (adjacent) + 1 (opposite) = degree 3
+			- Node 5: connected to 4, 6 (adjacent) + 2 (opposite) = degree 3
+			- Node 6: connected to 5, 1 (adjacent) + 3 (opposite) = degree 3
+%% Creates a 3-regular graph arranged in a circle with opposite connections%%
+```mermaid
+graph LR
+    1 --> 2
+    2 --> 3
+    3 --> 4
+    4 --> 5
+    5 --> 6
+    6 --> 1
+    
+    1 --> 4
+    2 --> 5
+    3 --> 6
+    
+    linkStyle 6,7,8 stroke:#ff0000,stroke-width:2px
+```
+
+## Proof By Contradiction
+
+- Common form of argument for proving a theorem
+- Assume that the theorem is false
+	- show that this assumption leads to an obviously false consequence
+
+
+
+
+
+
+
 
 
 ---
