@@ -540,7 +540,8 @@ paper --> rock
 ## Boolean Logic
 %% page - 35 (14) %%
 - Mathematical logic built around two values $\{True, False\}$
-- 
+- Foundation of Digital Electronics and Computer Design
+- $\{True, False\}$ are called the <span class="color-green" style="font-weight: bold">Boolean values</span>
 
 
 ## Summary of Definitions
