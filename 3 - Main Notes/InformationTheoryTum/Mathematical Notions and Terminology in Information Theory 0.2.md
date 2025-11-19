@@ -556,17 +556,33 @@ paper --> rock
 ### AND
 - <span class="color-green" style="font-bold">conjunction</span> or <span class="color-green" style="font-bold">AND</span> of two values is $1$ if both values are $1$ and $0$ otherwise
 	- Denoted using $\land$
-	- Thus:  $0 \land 0 = 0$;  $0 \land 1 = 0$;  $1 \land 1 = 1$.
+	- Thus:  $0 \land 0 = 0$;  $0 \land 1 = 0$;  $1 \land 1 = 1$
 
 ### OR
 - <span class="color-green" style="font-bold">disjunction</span> or <span class="color-green" style="font-bold">OR</span> of 2 values is $0$ if  the both values are $0$ and $1$ otherwise
 	- Denoted using $\lor$
-	- Thus:  $0 \lor 0 = 0$;  $0 \lor 1 = 1$;  $1 \lor 0 = 1$;  $1 \lor 1 = 1$.
+	- Thus:  $0 \lor 0 = 0$;  $0 \lor 1 = 1$;  $1 \lor 0 = 1$;  $1 \lor 1 = 1$
 
 ### XOR
 - <span class="color-green" style="font-bold">exclusive or</span> or <span class="color-green" style="font-bold">XOR</span> is 1 if either of the two operands are $1$ but not both
 	- Denoted using $\oplus$
-	- 
+	- Thus:  $0 \oplus 0 = 0$;  $0 \oplus 1 = 1$;  $1 \oplus 0 = 1$;  $1 \oplus 1 = 1$
+
+### Equality
+- The equality operation is denoted using $\leftrightarrow$ is $1$ if both operands have same value
+
+### Implication
+- Denoted by $\rightarrow$
+- $0$ if its first operand is $1$ and its second operand is $0$, otherwise $1$
+
+### Distributive Law
+- The distributive law for $AND$ , $OR$ comes in handy in manipulating boolean values
+- $P \land (Q \lor R) = (P \land Q) \lor (P \land R)$ 
+- $P \lor (Q \land R) = (P \lor Q) \land (P \lor R)$ 
+
+- **Note:**
+	- The dual of the distributive law for addition and multiplication does not hold in general
+
 ## Summary of Definitions
 %% page - 37 (16) %%
 
