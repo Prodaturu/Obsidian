@@ -228,6 +228,59 @@ tags: [[Latex]]
 | $\propto$           | `\propto`           | Proportional to           |
 | $\infty$            | `\infty`            | Infinity                  |
 
+## Greek Letters in LaTeX
+
+### Lowercase Greek Letters
+
+|Example|LaTeX Code|Letter Name|
+|---|---|---|
+|$\alpha$|`\alpha`|Alpha|
+|$\beta$|`\beta`|Beta|
+|$\gamma$|`\gamma`|Gamma|
+|$\delta$|`\delta`|Delta|
+|$\epsilon$|`\epsilon`|Epsilon|
+|$\varepsilon$|`\varepsilon`|Epsilon (variant)|
+|$\zeta$|`\zeta`|Zeta|
+|$\eta$|`\eta`|Eta|
+|$\theta$|`\theta`|Theta|
+|$\vartheta$|`\vartheta`|Theta (variant)|
+|$\iota$|`\iota`|Iota|
+|$\kappa$|`\kappa`|Kappa|
+|$\lambda$|`\lambda`|Lambda|
+|$\mu$|`\mu`|Mu|
+|$\nu$|`\nu`|Nu|
+|$\xi$|`\xi`|Xi|
+|$\pi$|`\pi`|Pi|
+|$\varpi$|`\varpi`|Pi (variant)|
+|$\rho$|`\rho`|Rho|
+|$\varrho$|`\varrho`|Rho (variant)|
+|$\sigma$|`\sigma`|Sigma|
+|$\varsigma$|`\varsigma`|Sigma (final)|
+|$\tau$|`\tau`|Tau|
+|$\upsilon$|`\upsilon`|Upsilon|
+|$\phi$|`\phi`|Phi|
+|$\varphi$|`\varphi`|Phi (variant)|
+|$\chi$|`\chi`|Chi|
+|$\psi$|`\psi`|Psi|
+|$\omega$|`\omega`|Omega|
+
+### Uppercase Greek Letters
+
+| Example    | LaTeX Code | Letter Name |
+| ---------- | ---------- | ----------- |
+| $\Delta$   | `\Delta`   | Delta       |
+| $\Gamma$   | `\Gamma`   | Gamma       |
+| $\Lambda$  | `\Lambda`  | Lambda      |
+| $\Omega$   | `\Omega`   | Omega       |
+| $\Phi$     | `\Phi`     | Phi         |
+| $\Pi$      | `\Pi`      | Pi          |
+| $\Psi$     | `\Psi`     | Psi         |
+| $\Sigma$   | `\Sigma`   | Sigma       |
+| $\Theta$   | `\Theta`   | Theta       |
+| $\Upsilon$ | `\Upsilon` | Upsilon     |
+| $\Xi$      | `\Xi`      | Xi          |
+
+
 ## Formatting Tips for Obsidian:
 
 - Use `$...$` for inline math: `$A \subseteq B$`
