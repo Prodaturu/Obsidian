@@ -479,7 +479,12 @@ graph TB
 - **Strongly Connected:-**
 	- A directed graph is strongly connected if a directed path connects every two nodes
 
-- 
+```mermaid
+graph LR
+rock --> scissors
+scissors --> paper
+paper --> rock
+```
 
 
 
