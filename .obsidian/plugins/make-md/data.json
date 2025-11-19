@@ -39,7 +39,14 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//3 - Tags"
+    "//3 - Tags",
+    "//4 - Full Notes",
+    "//5 - Templates",
+    "//1 - Rough Notes",
+    "//2 - Source Material",
+    "//3 - Main Notes",
+    "//Tags",
+    "//Indexes"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
