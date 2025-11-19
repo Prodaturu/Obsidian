@@ -539,7 +539,8 @@ paper --> rock
 
 ## Boolean Logic
 %% page - 35 (14) %%
-- Mathematical logic built around two values $\{True, False\}$ 
+- Mathematical logic built around two values $\{True, False\}$
+- 
 
 
 ## Summary of Definitions
