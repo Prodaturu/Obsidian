@@ -6,7 +6,7 @@
       {
         "id": "5fe25e8df7d25194",
         "type": "tabs",
-        "dimension": 68.15144766146993,
+        "dimension": 68.31683168316832,
         "children": [
           {
             "id": "01f6b6ddc028b32c",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions, Theorems, and proofs - 0.3.md",
+                "file": "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
       {
         "id": "c98c752eb2636d88",
         "type": "tabs",
-        "dimension": 31.848552338530066,
+        "dimension": 31.683168316831683,
         "children": [
           {
             "id": "e5c96e760111edc2",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions, Theorems, and proofs - 0.3.md",
+                "file": "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -274,8 +274,10 @@
   },
   "active": "01f6b6ddc028b32c",
   "lastOpenFiles": [
-    "Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
+    "4 - Full Notes/I let you pass.md",
+    "5 - Templates/Full Note.md",
     "3 - Main Notes/LaTeX symbols.md",
     "Tags/Information Theory.md",
     "3 - Main Notes/InformationTheoryTum/Basic Mathematics Pre-Machine Learning.md",
@@ -296,11 +298,9 @@
     "1 - Rough Notes/1 - Rough Notes.md",
     "Indexes/Indexes.md",
     "4 - Full Notes/4 - Full Notes.md",
-    "4 - Full Notes/I let you pass.md",
     "5 - Templates/5 - Templates.md",
     "4 - Full Notes/Pasted image 20251116165539.png",
     "Untitled.canvas",
-    "5 - Templates/Full Note.md",
     "Untitled.md",
     "3 - Tags/3 - Tags.md",
     "Flow charts.md",
