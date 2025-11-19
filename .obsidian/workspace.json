@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "22b91de0ae1d0647",
+        "id": "acfe81d87a687167",
         "type": "tabs",
         "children": [
           {
-            "id": "0f7cb1a121ce5fc1",
+            "id": "643a04339e0b2128",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "2 - Source Material"
+                "file": "Indexes/Information Theory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2 - Source Material"
+              "title": "Information Theory"
             }
           }
         ]
@@ -103,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/2 - Source Material.md",
+                "file": "Indexes/Information Theory.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 - Source Material"
+              "title": "Outline of Information Theory"
             }
           },
           {
@@ -226,23 +238,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2df5185205fd8bee",
+  "active": "643a04339e0b2128",
   "lastOpenFiles": [
+    "3 - Main Notes/equiv_m.md",
+    "Vault.md",
+    "3 - Main Notes/3 - Main Notes.md",
+    "2 - Source Material/2 - Source Material.md",
     "1 - Rough Notes/1 - Rough Notes.md",
     "Indexes/Indexes.md",
     "Tags/Tags.md",
     "4 - Full Notes/4 - Full Notes.md",
-    "3 - Main Notes/3 - Main Notes.md",
-    "2 - Source Material/2 - Source Material.md",
     "3 - Main Notes/LaTeX symbols.md",
-    "Vault.md",
     "4 - Full Notes/I let you pass.md",
     "5 - Templates/5 - Templates.md",
     "4 - Full Notes/Pasted image 20251116165539.png",
     "Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Untitled.canvas",
     "5 - Templates/Full Note.md",
-    "3 - Main Notes/equiv_m.md",
     "Tags/Latex.md",
     "3 - Main Notes/Automata Complexity and Computability 0.1.md",
     "Untitled.md",
