@@ -45,9 +45,10 @@
     "//1 - Rough Notes",
     "//2 - Source Material",
     "//3 - Main Notes",
-    "//Tags",
     "//Indexes",
-    "//2 - Source Material/2 - Source Material/Books"
+    "//2 - Source Material/2 - Source Material/Books",
+    "//Tags",
+    "//3 - Main Notes/3 - Main Notes/InformationTheoryTum"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

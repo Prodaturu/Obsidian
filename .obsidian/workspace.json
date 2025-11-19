@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "acfe81d87a687167",
+        "id": "655ac511c1f3e98e",
         "type": "tabs",
-        "dimension": 69.39890710382514,
+        "dimension": 69.3717277486911,
         "children": [
           {
-            "id": "643a04339e0b2128",
+            "id": "c59524e72ead6d72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Introduction to Information Theory 0.md",
+                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,18 +29,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Information Theory 0"
+              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
             }
           }
         ]
       },
       {
-        "id": "655ac511c1f3e98e",
+        "id": "5fe25e8df7d25194",
         "type": "tabs",
-        "dimension": 30.601092896174865,
+        "dimension": 30.628272251308903,
         "children": [
           {
-            "id": "c59524e72ead6d72",
+            "id": "01f6b6ddc028b32c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -147,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/Introduction to Information Theory 0.md",
+                "file": "3 - Main Notes/LaTeX symbols.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction to Information Theory 0"
+              "title": "Outline of LaTeX symbols"
             }
           },
           {
@@ -270,15 +271,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "643a04339e0b2128",
+  "active": "01f6b6ddc028b32c",
   "lastOpenFiles": [
-    "2 - Source Material/2 - Source Material.md",
-    "Tags/Introduction to Information Theory 0.md",
-    "Indexes/Information Theory.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
-    "3 - Main Notes/InformationTheoryTum",
     "3 - Main Notes/LaTeX symbols.md",
+    "Tags/Introduction to Information Theory 0.md",
+    "Tags/Tags.md",
+    "Tags/Latex.md",
+    "2 - Source Material/2 - Source Material.md",
+    "Indexes/Information Theory.md",
+    "3 - Main Notes/InformationTheoryTum",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "6 - Full Notes",
     "3 - Main Notes/equiv_m.md",
@@ -286,15 +290,12 @@
     "3 - Main Notes/3 - Main Notes.md",
     "1 - Rough Notes/1 - Rough Notes.md",
     "Indexes/Indexes.md",
-    "Tags/Tags.md",
     "4 - Full Notes/4 - Full Notes.md",
     "4 - Full Notes/I let you pass.md",
     "5 - Templates/5 - Templates.md",
     "4 - Full Notes/Pasted image 20251116165539.png",
     "Untitled.canvas",
     "5 - Templates/Full Note.md",
-    "Tags/Latex.md",
-    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "Untitled.md",
     "3 - Tags/3 - Tags.md",
     "Flow charts.md",
