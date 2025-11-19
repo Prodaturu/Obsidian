@@ -492,13 +492,37 @@ paper --> rock
 
 ## Strings and Languages
 %% page - 13 (34) %%
-- **Alphabet** $\Sigma$ / $\Gamma$ is a finite set of objects called **symbols**
+- **Alphabet** $\Sigma$ / $\Gamma$ is a finite set of objects, called **symbols**
+	- Example: 
+		- $\Sigma_1 = \{0, 1\}$
+		- $\Sigma_2 = \{a, b, c , d\}$
+		- $\Gamma = \{0, 1, x, y, z\}$
     
 - A **symbol** $a \in \Sigma$ is a member of an alphabet
     
 - A **string** $w$ over alphabet $\Sigma$ is a finite sequence of symbols from $\Sigma$
     
-- The **empty string** $\varepsilon$ has length 0
+- **Empty string** $\varepsilon$ has length 0
+	 
+- **String over an alphabet:** 
+	- finite sequence of symbols from that alphabet not separated by commas
+	- Usually written next to one another
+	- Consider $\Sigma_1 = \{0, 1\}, \ \ \ \Sigma_2 = \{a, b, ..., y, z\}$ alphabet sets
+		- $01001$ is a string over $\Sigma_1$
+		- $abracadabra$ is a string over $\Sigma_2$
+	
+- **Length:** $|\omega|$
+	- Length $|\omega|$ of a string $\omega$ is the number of symbols it contains
+	- string of length $|\omega| = 0$ is called an <span class="color-green">Empty string</span>  $\varepsilon$
+	- $\varepsilon$ plays the role of $0$ in a number system
+	
+- **Reverse of a string** $\omega^$
+	- Consider $\omega$ has length $n$, $\implies$ $\omega = \omega_1 \omega_2 ... \omega_n \ \ | \ \omega_i \in \Sigma$
+	- 
+	
+- 
+
+
 
 ## Summary of Definitions
 %% page - 16 (37) %%
