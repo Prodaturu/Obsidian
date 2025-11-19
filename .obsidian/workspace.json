@@ -12,12 +12,24 @@
             "id": "c59524e72ead6d72",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
             }
           }
         ]
@@ -135,12 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
             }
           },
           {
@@ -254,10 +267,12 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "smart-random-note:Open Random Note from Search": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "387f8cff0ad1c4b8",
+  "active": "c59524e72ead6d72",
   "lastOpenFiles": [
     "Vault.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
