@@ -541,7 +541,13 @@ paper --> rock
 %% page - 35 (14) %%
 - Mathematical logic built around two values $\{True, False\}$
 - Foundation of Digital Electronics and Computer Design
-- $\{True, False\}$ are called the <span class="color-green" style="font-bold">Boolean values</span>
+- $\{True, False\}$ are called the <span class="color-green" style="font-bold">Boolean values</span> represented using $1, 0$ respectively
+
+### **Boolean Operations:**
+
+- Operations designed for manipulating <span class="color-green" style="font-bold">Boolean values</span>
+- <span class="color-green" style="font-bold">negation</span> or <span class="color-green" style="font-bold">NOT</span> is one of the simplest Boolean operations
+	- Denoted using 
 
 
 ## Summary of Definitions

@@ -6,15 +6,61 @@
       {
         "id": "5fe25e8df7d25194",
         "type": "tabs",
+        "dimension": 68.15144766146993,
         "children": [
           {
             "id": "01f6b6ddc028b32c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c98c752eb2636d88",
+        "type": "tabs",
+        "dimension": 31.848552338530066,
+        "children": [
+          {
+            "id": "e5c96e760111edc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/LaTeX symbols.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LaTeX symbols"
             }
           }
         ]
@@ -101,12 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/LaTeX symbols.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of LaTeX symbols"
             }
           },
           {
@@ -225,14 +272,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "01f6b6ddc028b32c",
+  "active": "e5c96e760111edc2",
   "lastOpenFiles": [
+    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/LaTeX symbols.md",
     "Tags/Information Theory.md",
     "3 - Main Notes/InformationTheoryTum/Basic Mathematics Pre-Machine Learning.md",
     "MachineLearning.md",
     "Indexes/Mathematics.md",
-    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Vault.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
