@@ -501,6 +501,8 @@ paper --> rock
 - A **symbol** $a \in \Sigma$ is a member of an alphabet
     
 - A **string** $w$ over alphabet $\Sigma$ is a finite sequence of symbols from $\Sigma$
+	
+- **Language** is the Set of strings
     
 - **Empty string** $\varepsilon$ has length 0
 	 
@@ -527,7 +529,17 @@ paper --> rock
 - **Concatenation**
 	- consider 2 strings $x, y$ with lengths $m , n$
 	- Concatenation of $x, y$, written $xy$ is string obtained by appending $y$ at the end of $x$
-	- if $x$ is $x_1 .... x_m$ and $y$ is $y_1 ... y_n$ then their concatenation would look like $x_1...x_m y_1....y_n$
+	- if $x$ is $x_1 .... x_m$ and $y$ is $y_1 ... y_n$ then their concatenation would look like $x_1\ ...\ x_m\ y_1\ ....\ y_n$
+	
+- **Lexicographic Ordering**
+	- Same as the dictionary order but with the shorter strings precede longer strings
+	- Example:
+		- For $\Sigma = \{0, 1\}$ 
+		- The ordering of all the strings is $(\varepsilon, 0, 1, 01, 10, 11, 100\ ...)$
+
+## Boolean Logic
+%% page - 35 (14) %%
+- Mathematical logic built around two values $\{True, False\}$ 
 
 
 ## Summary of Definitions
