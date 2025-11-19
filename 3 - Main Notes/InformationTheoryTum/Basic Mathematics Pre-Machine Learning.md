@@ -3,7 +3,9 @@
 
 Status:
 
-Tags:
+Hashtags: #ML #mathematical-foundations 
+
+Tags: 
 
 
 ------------------------------------------------------------------------
@@ -51,6 +53,13 @@ Tags:
 
 ## **Best Path for Beginners:-**
 
+### Note:-
+
+
+#### Path 1 
+
+##### Absolute Beginner, Repetition needed, Immediate application needed to learn
+
 **Minor: Descriptive Statistics**
     
 - Subconcepts: Mean, Median, Mode, Standard Deviation, Variance, Correlation, Histograms
@@ -87,7 +96,29 @@ Tags:
     
     - _Subconcepts:_ Cost/Loss Functions, Gradient Descent
 
+#### Path 2 (Pure Efficiency, Sequential mastery)
 
+- **Descriptive Statistics** (Mean, Median, Mode, Standard Deviation, Variance, Correlation, Histograms)
+	 
+- **Vectors** (Vector Operations, Dot Product, Magnitude)
+    
+- **Probability Foundations** (Conditional Probability, Bayes' Theorem)
+    
+- **Matrices** (Matrix Multiplication, Transpose)
+    
+- **Probability Distributions** (Normal, Bernoulli)
+    
+- **Inferential Statistics** (Hypothesis Testing, Confidence Intervals, p-values)
+    
+- **Differential Calculus** (Derivatives, Gradients, Chain Rule)
+    
+- **Optimization** (Cost/Loss Functions, Gradient Descent)
+    
+- **Matrices (Advanced)** (Inverse)
+  
+#### path 3 (According to conceptual categorisation)
+
+- Follow the initial concept breakdown flow
 
 
 # References
