@@ -86,8 +86,18 @@ graph LR
 	
 - *if it were raining* (assumption that the statement is false)
 	
-- *Jill would be wet* (the o)
+- *Jill would be wet* (the obviously false consequence)
+	
+- $\therefore$ it must not be raining
 
+### Theorem 0.24
+
+- $\sqrt{2}$  is irrational
+	
+- **Proof**
+- Assuming, $\sqrt{2}$  is rational
+	- $\sqrt{2}$  is $m / n$
+- 
 
 
 
