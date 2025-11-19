@@ -5,5 +5,12 @@
   "showLineNumber": true,
   "showIndentGuide": true,
   "rightToLeft": false,
-  "autoPairBrackets": true
+  "autoPairBrackets": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 69
+  }
 }

@@ -1,7 +1,5 @@
 
-19.11.25 14:01
-
-Status:
+Status:  #child 
 
 Hashtags: #ML #mathematical-foundations 
 
@@ -55,6 +53,7 @@ Tags:
 
 ### Note:-
 
+- ***Choosing path based on what  is best for you is more important than u realise*** 
 
 #### Path 1 
 
