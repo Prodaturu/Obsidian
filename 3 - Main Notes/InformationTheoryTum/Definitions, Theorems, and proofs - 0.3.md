@@ -45,8 +45,17 @@ Tags:
 
 
 ## Finding Proofs
+%% page 17 (37) %%
+- Only way to determine truth or falsity of a statement is through mathematical proof
 
-- 
+- **General strategies:**
+	-  Carefully read the statement to prove
+	- Understand the notation
+		- Rewrite in own words
+	- Break it down and consider each part separately
+	
+	- Sometimes part of multipart statement are not immediately evident
+		- 
 
 
 
