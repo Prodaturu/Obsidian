@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "Definitions, Theorems, and proofs - 0.3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Definitions, Theorems, and proofs - 0.3"
             }
           }
         ]
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "Definitions, Theorems, and proofs - 0.3.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Outline of Definitions, Theorems, and proofs - 0.3"
             }
           },
           {
@@ -274,8 +274,9 @@
   },
   "active": "01f6b6ddc028b32c",
   "lastOpenFiles": [
-    "3 - Main Notes/LaTeX symbols.md",
+    "Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/LaTeX symbols.md",
     "Tags/Information Theory.md",
     "3 - Main Notes/InformationTheoryTum/Basic Mathematics Pre-Machine Learning.md",
     "MachineLearning.md",
@@ -306,7 +307,6 @@
     "Tags",
     "2025-11-16.md",
     "4 - Full Notes",
-    "1 - Rough Notes/Remainders.md",
     "2 - Source Material/Books",
     "3 - Main Notes",
     "5 - Templates",

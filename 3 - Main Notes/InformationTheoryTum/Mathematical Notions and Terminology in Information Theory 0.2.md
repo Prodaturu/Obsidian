@@ -642,5 +642,5 @@ paper --> rock
 
 ## Prev - [[Automata Complexity and Computability 0.1]]
 
-## Next - [[Definitions, Theorems, and proofs]]
+## Next - [[Definitions, Theorems, and proofs - 0.3]]
 
