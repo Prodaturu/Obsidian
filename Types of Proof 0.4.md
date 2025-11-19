@@ -76,8 +76,17 @@ graph LR
 - Assume that the theorem is false
 	- show that this assumption leads to an obviously false consequence
 	- called a contradiction
-- Used frequently in everyday life
+- Used frequently in everyday reasoning
 
+### Example 0.23
+%% page 22 (43) %%
+- Jack sees Jill, who has just come in from outdoors
+- On observing that she is completely dry, he knows that it's not raining
+- His "proof" that it's not raining is that:
+	
+- *if it were raining* (assumption that the statement is false)
+	
+- *Jill would be wet* (the o)
 
 
 
