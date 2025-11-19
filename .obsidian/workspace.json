@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "3 - Main Notes/InformationTheoryTum/Basic Mathematics Pre-Machine Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Basic Mathematics Pre-Machine Learning"
             }
           }
         ]
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "3 - Main Notes/InformationTheoryTum/Basic Mathematics Pre-Machine Learning.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Outline of Basic Mathematics Pre-Machine Learning"
             }
           },
           {
@@ -274,8 +274,9 @@
   },
   "active": "c59524e72ead6d72",
   "lastOpenFiles": [
-    "Vault.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/InformationTheoryTum/Basic Mathematics Pre-Machine Learning.md",
+    "Vault.md",
     "3 - Main Notes/LaTeX symbols.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
@@ -307,7 +308,6 @@
     "1 - Rough Notes/Remainders.md",
     "2 - Source Material/Books",
     "3 - Tags/TUM Bachelors.md",
-    "test.md",
     "3 - Main Notes",
     "5 - Templates",
     "Indexes",
