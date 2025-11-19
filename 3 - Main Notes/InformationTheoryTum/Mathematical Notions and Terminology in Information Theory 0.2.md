@@ -516,12 +516,18 @@ paper --> rock
 	- string of length $|\omega| = 0$ is called an <span class="color-green">Empty string</span>  $\varepsilon$
 	- $\varepsilon$ plays the role of $0$ in a number system
 	
-- **Reverse of a string** $\omega^$
-	- Consider $\omega$ has length $n$, $\implies$ $\omega = \omega_1 \omega_2 ... \omega_n \ \ | \ \omega_i \in \Sigma$
-	- 
+- **Reverse of a string** $\omega^R$
+	- Consider $\omega$ has length $n$, $\implies$ $\omega = \omega_1 \ \omega_2 \ ... \ \omega_n \ \ | \ \omega_i \in \Sigma$
+	- Then $\omega^R$ is the string obtained by writing $\omega$ in the opposite order $\omega = \omega_n \ \omega_{n-1} \ ... \ \omega_2 \ \omega_1 \ | \ \omega_i \in \Sigma$
 	
-- 
-
+- **Sub string**
+	- A string z is a sub-string of $\omega$ if z appears consecutively within $\omega$
+	- Ex: $cad$ is a sub-string of $abracadabra$
+	
+- **Concatenation**
+	- consider 2 strings $x, y$ with lengths $m , n$
+	- Concatenation of $x, y$, written $xy$ is string obtained by appending $y$ at the end of $x$
+	- if $x$ is $x_1 .... x_m$ and $y$ is $y_1 ... y_n$ then their concatenation would look like $x_1...x_m y_1....y_n$
 
 
 ## Summary of Definitions
