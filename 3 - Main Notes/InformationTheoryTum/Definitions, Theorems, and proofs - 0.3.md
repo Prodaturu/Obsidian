@@ -48,16 +48,78 @@ Tags:
 %% page 17 (37) %%
 - Only way to determine truth or falsity of a statement is through mathematical proof
 
-- **General strategies:**
-	-  Carefully read the statement to prove
-	- Understand the notation
-		- Rewrite in own words
-	- Break it down and consider each part separately
+### General strategies
+
+- Carefully read the statement to prove
+- Understand the notation
+	- Rewrite in own words
+- Break it down and consider each part separately
+
+### Multipart Statements:
+
+- Some multipart statements are not immediately evident
+- Often one direction is easier than the other
 	
-	- Sometimes part of multipart statement are not immediately evident
-		- 
+- Example 1:
+	- $P\ if\ and\ only\ if\ Q$ ($P \iff Q$)
+	- **Shorthand for two parts:**
+	- **Forward direction**: "P only if Q" → $P \Rightarrow Q$    
+    - **Reverse direction**: "P if Q" → $P \Leftarrow Q$
+	- **Proof requirement**: Must prove **both directions**    
+	
+- Example 2:
+	- $Set Equality$ ($A = B$)
+	- **Two parts to prove:**
+    - $A \subseteq B$: Every member of A is also member of B  
+    - $B \subseteq A$: Every member of B is also member of A
+    - Prove **both subset relations** to establish equality
 
+### Developing Intuition:
 
+- Get "gut feeling" for why statement should be true
+- **Experiment with examples:**
+    - If statement claims "all objects of type T have property P":
+        - Pick few objects of type T and verify property P
+        - Try to find **counterexample** (object that fails property P)
+        - If statement is true, no counterexample exists
+- **Difficulty finding counterexample** can reveal why statement is true
+
+### Proof Approaches:
+
+- **Direct proof**: Logical deduction from known facts
+    
+- **Proof by contradiction**: Assume opposite, show contradiction
+    
+- **Proof by cases**: Break into all possible scenarios
+    
+- **Induction**: Prove base case and inductive step
+
+```mermaid
+graph LR
+    A[Finding Proofs] --> B[Understand Statement]
+    A --> C[Identify Structure]
+    A --> D[Develop Intuition]
+    
+    B --> B1[Read Carefully]
+    B --> B2[Rewrite in Own Words]
+    B --> B3[Break into Parts]
+    
+    C --> C1[P ⇔ Q Proofs]
+    C --> C2[Set Equality Proofs]
+    C --> C3[Other Multipart Statements]
+    
+    D --> D1[Test Examples]
+    D --> D2[Seek Counterexamples]
+    D --> D3[Analyze Failures]
+    
+    C1 --> C1a[Forward: P ⇒ Q]
+    C1 --> C1b[Reverse: P ⇐ Q]
+    
+    C2 --> C2a[A ⊆ B]
+    C2 --> C2b[B ⊆ A]
+```
+
+## 
 
 # References
 
