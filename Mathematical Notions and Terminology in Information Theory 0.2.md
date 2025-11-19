@@ -447,7 +447,7 @@ graph LR
 	- Nodes of <span class=color-green>degree 1</span> other than the root are called <span class="color-green">leaves</span> of the tree
 - **Directed Graph:-** If a graph has <span class="color-green">arrows</span> instead of lines its called a directed graph
 	- No. of arrows pointing out from a particular node is <span class="color-green">outdegree</span>
-	- No. of arrows pointing out from a particular node is <span class="color-green">indegree</span>
+	- No. of arrows pointing in to a particular node is <span class="color-green">indegree</span>
 
 
 
