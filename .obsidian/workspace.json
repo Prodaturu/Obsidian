@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "Tags/Introduction to Information Theory 0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Introduction to Information Theory 0"
             }
           }
         ]
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "Tags/Introduction to Information Theory 0.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Outline of Introduction to Information Theory 0"
             }
           },
           {
@@ -272,15 +272,18 @@
   },
   "active": "643a04339e0b2128",
   "lastOpenFiles": [
+    "2 - Source Material/2 - Source Material.md",
+    "Tags/Introduction to Information Theory 0.md",
+    "Indexes/Information Theory.md",
+    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "3 - Main Notes/InformationTheoryTum",
     "3 - Main Notes/LaTeX symbols.md",
-    "3 - Main Notes/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "6 - Full Notes",
-    "Indexes/Information Theory.md",
     "3 - Main Notes/equiv_m.md",
     "Vault.md",
     "3 - Main Notes/3 - Main Notes.md",
-    "2 - Source Material/2 - Source Material.md",
     "1 - Rough Notes/1 - Rough Notes.md",
     "Indexes/Indexes.md",
     "Tags/Tags.md",
@@ -291,11 +294,10 @@
     "Untitled.canvas",
     "5 - Templates/Full Note.md",
     "Tags/Latex.md",
-    "3 - Main Notes/Automata Complexity and Computability 0.1.md",
+    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "Untitled.md",
     "3 - Tags/3 - Tags.md",
     "Flow charts.md",
-    "Tags/Introduction to Information Theory 0.md",
     "Tags",
     "2025-11-16.md",
     "Indexes/Mathematics.md",
@@ -308,7 +310,6 @@
     "5 - Templates",
     "Indexes",
     "3 - Tags",
-    "2 - Source Material",
-    "1 - Rough Notes"
+    "2 - Source Material"
   ]
 }
