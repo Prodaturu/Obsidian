@@ -119,7 +119,95 @@ graph LR
     C2 --> C2b[B ⊆ A]
 ```
 
-## 
+
+
+## Examples of Proof
+
+- **Example 0.19**
+	- Suppose we need to prove *for every Graph $G$, the sum of degrees of all nodes in $G$ is an even number
+	
+- **First**, Pick a few graphs and observe this statement in action
+
+- Example 1
+	- 2(a) + 2(b) + 2(c) = 6
+```mermaid
+graph LR
+a --- b
+b --- c
+c --- a
+```
+
+- Example 2
+	- 2(a) + 3(b) + 4(c) + 3(d) + 2(e) = 14
+```mermaid
+graph LR
+
+a --- b
+a --- c
+b --- c
+b --- d
+c --- d
+c --- e
+d --- e
+```
+- **Secondly**, Try to prove a special case of the statement
+	- When trying to prove a statement for k > 0
+		- try to prove for k = 1
+		- then for k = 2
+		- and so on until the more general case can be understood
+	- If a special case is hard to prove
+		- try a special case or perhaps a special case of the special case
+
+- **Finally** When a proof is found we must write it up properly
+	- A well written proof is a sequence of statements,
+	- each followed by a simple reasoning from previous statements in the sequence
+	- Carefully writing a proof is important 
+		- for reader to understand
+		- for us to be sure that it is error free
+
+- **Tips**
+	- Be patient
+	- Come back to it
+	- Be neat
+	- Be concise
+
+### Theorem 0.20
+%% page 20 (41) %%
+-  For any two sets $A$ and $B$,  $\overline{A \cup B} = \overline{A} \cap \overline{B}$
+	
+- Recall that we may prove 2 sets are equal by proving
+	- Each member of one set also is a member of the other and vice versa
+	  
+- Theorem states 2 sets $\{\overline{A \cup B}\} = \{\overline{A} \cap \overline{B}\}$
+	
+- $1^{st}\ way$ 
+- suppose $x$ is an element of   $\overline{A \cup B}$
+	- then $x$ is not in  ${A \cup B}$ 
+		- from definition of *complement*
+	- then $x$ is not in $A$ and $x$ is not in $B$
+		- from definition of *Union of sets*
+	- In other words x is in $\overline{A}$ and  $\overline{B}$
+	- Then $x$ is in  $\overline{A \cap B}$
+		- by definition of *intersection of sets*
+	
+-  $2^{nd}\ way$ 
+- In other direction continue the same proof
+
+
+
+
+
+
+
+
+
+
+### Theorem 0.21
+%% page 21 (42) %%
+- For every graph $G$, the sum of degrees of all the nodes in $G$ is an even number
+
+## Types of 
+
 
 # References
 

@@ -83,14 +83,14 @@ tags: [[Latex]]
 
 ## Regular Expressions
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$a \mid b$|`a \mid b`|Union / OR|
-|$ab$|`ab`|Concatenation|
-|$a^*$|`a^*`|Kleene star|
-|$(a \mid b)^*$|`(a \mid b)^*`|Complex expression|
-|$a^+$|`a^+`|One or more repetitions|
-|$a?$|`a?`|Zero or one occurrence|
+| Example        | LaTeX Code     | Description             |
+| -------------- | -------------- | ----------------------- |
+| $a \mid b$     | `a \mid b`     | Union / OR              |
+| $ab$           | `ab`           | Concatenation           |
+| $a^*$          | `a^*`          | Kleene star             |
+| $(a \mid b)^*$ | `(a \mid b)^*` | Complex expression      |
+| $a^+$          | `a^+`          | One or more repetitions |
+| $a?$           | `a?`           | Zero or one occurrence  |
 
 ## Context-Free Grammars
 
