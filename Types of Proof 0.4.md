@@ -95,9 +95,9 @@ graph LR
 - $\sqrt{2}$  is irrational
 	
 - **Proof**
-- Assuming, $\sqrt{2}$  is rational
-	- $\sqrt{2}$  is $m / n$
-- 
+- **Assuming Contradiction**
+	- Assuming, $\sqrt{2}$  is rational $\implies \sqrt{2} = m / n$,     $ m, n \in \mathbb{N}$
+	- 
 
 
 

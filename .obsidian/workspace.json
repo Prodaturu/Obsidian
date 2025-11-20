@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 246.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Proof 0.4.md",
+                "file": "3 - Main Notes/LaTeX symbols.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Types of Proof 0.4"
+              "title": "Outline of LaTeX symbols"
             }
           },
           {
@@ -297,10 +297,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f104ca0c0a5a04f0",
+  "active": "e5c96e760111edc2",
   "lastOpenFiles": [
-    "3 - Main Notes/LaTeX symbols.md",
     "Types of Proof 0.4.md",
+    "[[Proof.mdProof]].md",
+    "Proof.md",
+    "3 - Main Notes/LaTeX symbols.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "4 - Full Notes/I let you pass.md",
@@ -328,8 +330,6 @@
     "4 - Full Notes/Pasted image 20251116165539.png",
     "Untitled.canvas",
     "Untitled.md",
-    "3 - Tags/3 - Tags.md",
-    "Flow charts.md",
     "Tags",
     "4 - Full Notes",
     "2 - Source Material/Books",
