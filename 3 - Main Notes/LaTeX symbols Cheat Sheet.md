@@ -2,7 +2,7 @@ status: #teen
 
 tags: [[Latex]] 
 
-# LaTeX Symbols Cheat Sheet
+# LaTeX Symbols
 
 
 ## Set Theory Symbols

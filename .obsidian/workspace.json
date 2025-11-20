@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols.md",
+                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LaTeX symbols"
+              "title": "LaTeX symbols Cheat Sheet"
             }
           }
         ]
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols.md",
+                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LaTeX symbols"
+              "title": "Outline of LaTeX symbols Cheat Sheet"
             }
           },
           {
@@ -302,7 +302,7 @@
     "Types of Proof 0.4.md",
     "[[Proof.mdProof]].md",
     "Proof.md",
-    "3 - Main Notes/LaTeX symbols.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "4 - Full Notes/I let you pass.md",
