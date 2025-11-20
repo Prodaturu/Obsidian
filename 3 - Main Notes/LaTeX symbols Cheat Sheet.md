@@ -4,72 +4,108 @@ tags: [[Latex]]
 
 # LaTeX Symbols
 
-
 ## Set Theory Symbols
 
-| Example             | LaTeX Code              | Description                 |
-| ------------------- | ----------------------- | --------------------------- |
-| $x \in A$           | `\in`                   | Element of / belongs to     |
-| $x \notin A$        | `\notin`                | Not an element of           |
-| ${a, b, c}$         | `\{a, b, c\}`           | Set                         |
-| ${, x \mid P(x) ,}$ | `\{\, x \mid P(x) \,\}` | Set builder notation        |
-| $A \subseteq B$     | `\subseteq`             | Subset or equal to          |
-| $A \subset B$       | `\subset`               | Proper subset               |
-| $A \subsetneq B$    | `\subsetneq`            | Proper subset (alternative) |
-| $\emptyset$         | `\emptyset`             | Empty set / null set        |
-| $\varnothing$       | `\varnothing`           | Empty set (alternative)     |
-| $\mathbb{N}$        | `\mathbb{N}`            | Natural numbers             |
-| $\mathbb{Z}$        | `\mathbb{Z}`            | Integers                    |
-| $\mathbb{Q}$        | `\mathbb{Q}`            | Rational numbers            |
-| $\mathbb{R}$        | `\mathbb{R}`            | Real numbers                |
-| $\mathbb{C}$        | `\mathbb{C}`            | Complex numbers             |
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$x \in A$|`\in`|Element of / belongs to|
+|$x \notin A$|`\notin`|Not an element of|
+|${a, b, c}$|`\{a, b, c\}`|Set|
+|${, x \mid P(x) ,}$|`\{\, x \mid P(x) \,\}`|Set builder notation|
+|$A \subseteq B$|`\subseteq`|Subset or equal to|
+|$A \subset B$|`\subset`|Proper subset|
+|$A \subsetneq B$|`\subsetneq`|Proper subset (alternative)|
+|$\emptyset$|`\emptyset`|Empty set / null set|
+|$\varnothing$|`\varnothing`|Empty set (alternative)|
+|$\mathbb{N}$|`\mathbb{N}`|Natural numbers|
+|$\mathbb{Z}$|`\mathbb{Z}`|Integers|
+|$\mathbb{Q}$|`\mathbb{Q}`|Rational numbers|
+|$\mathbb{R}$|`\mathbb{R}`|Real numbers|
+|$\mathbb{C}$|`\mathbb{C}$|Complex numbers|
 
 ## Set Operations
 
-| Example          | LaTeX Code       | Description                  |         |                    |
-| ---------------- | ---------------- | ---------------------------- | ------- | ------------------ |
-| $A \cup B$       | `\cup`           | Union                        |         |                    |
-| $A \cap B$       | `\cap`           | Intersection                 |         |                    |
-| $A \setminus B$  | `\setminus`      | Set difference               |         |                    |
-| $A - B$          | `A - B`          | Set difference (alternative) |         |                    |
-| $\overline{A}$   | `\overline{A}`   | Complement                   |         |                    |
-| $A^c$            | `A^c`            | Complement (alternative)     |         |                    |
-| $A \times B$     | `\times`         | Cartesian product            |         |                    |
-| $                | A                | $                            | `\|A\|` | Cardinality of set |
-| $\mathcal{P}(A)$ | `\mathcal{P}(A)` | Power set                    |         |                    |
-| $2^A$            | `2^A`            | Power set (alternative)      |         |                    |
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$A \cup B$|`\cup`|Union|
+|$A \cap B$|`\cap`|Intersection|
+|$A \setminus B$|`\setminus`|Set difference|
+|$A - B$|`A - B`|Set difference (alternative)|
+|$\overline{A}$|`\overline{A}`|Complement|
+|$A^c$|`A^c`|Complement (alternative)|
+|$A \times B$|`\times`|Cartesian product|
+|$|A|$|`\|A\|`|Cardinality of set|
+|$\mathcal{P}(A)$|`\mathcal{P}(A)`|Power set|
+|$2^A$|`2^A`|Power set (alternative)|
 
 ## Logic & Quantifiers
 
-| Example           | LaTeX Code    | Description           |
-| ----------------- | ------------- | --------------------- |
-| $\forall x$       | `\forall`     | For all               |
-| $\exists x$       | `\exists`     | There exists          |
-| $\exists! x$      | `\exists!`    | There exists unique   |
-| $P \implies Q$    | `\implies`    | Implies               |
-| $P \rightarrow Q$ | `\rightarrow` | Implies (alternative) |
-| $P \iff Q$        | `\iff`        | If and only if        |
-| $\neg P$          | `\neg`        | Not / negation        |
-| $\land$           | `\land`       | Logical AND           |
-| $\lor$            | `\lor`        | Logical OR            |
-| $\top$            | `\top`        | True                  |
-| $\bot$            | `\bot`        | False                 |
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$\forall x$|`\forall`|For all|
+|$\exists x$|`\exists`|There exists|
+|$\exists! x$|`\exists!`|There exists unique|
+|$P \implies Q$|`\implies`|Implies|
+|$P \rightarrow Q$|`\rightarrow`|Implies (alternative)|
+|$P \iff Q$|`\iff`|If and only if|
+|$\neg P$|`\neg`|Not / negation|
+|$\land$|`\land`|Logical AND|
+|$\lor$|`\lor`|Logical OR|
+|$\top$|`\top`|True|
+|$\bot$|`\bot`|False|
+
+## Proof & Reasoning Symbols
+
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$\therefore$|`\therefore`|Therefore|
+|$\because$|`\because`|Because / since|
+|$\square$|`\square`|End of proof / QED|
+|$\blacksquare$|`\blacksquare`|End of proof (black square)|
+|$\triangle$|`\triangle`|White triangle|
+|$\blacktriangle$|`\blacktriangle`|Black triangle|
+|$\dashv$|`\dashv`|Left tack|
+|$\vdash$|`\vdash`|Right tack / proves|
+|$\models$|`\models`|Models|
+|$\nmodels$|`\nmodels`|Does not model|
+
+## Arrow Symbols
+
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$\to$|`\to`|Right arrow (functions)|
+|$\rightarrow$|`\rightarrow`|Right arrow|
+|$\gets$|`\gets`|Left arrow|
+|$\leftarrow$|`\leftarrow`|Left arrow|
+|$\mapsto$|`\mapsto`|Maps to|
+|$\longrightarrow$|`\longrightarrow`|Long right arrow|
+|$\longleftarrow$|`\longleftarrow`|Long left arrow|
+|$\Rightarrow$|`\Rightarrow`|Double right arrow (implies)|
+|$\Leftarrow$|`\Leftarrow`|Double left arrow|
+|$\Leftrightarrow$|`\Leftrightarrow`|Double left-right arrow|
+|$\iff$|`\iff`|If and only if|
+|$\uparrow$|`\uparrow`|Up arrow|
+|$\downarrow$|`\downarrow`|Down arrow|
+|$\updownarrow$|`\updownarrow`|Up-down arrow|
+|$\Uparrow$|`\Uparrow`|Double up arrow|
+|$\Downarrow$|`\Downarrow`|Double down arrow|
+|$\Updownarrow$|`\Updownarrow`|Double up-down arrow|
 
 ## Strings & Languages
 
-| Example          | LaTeX Code       | Description                |
-| ---------------- | ---------------- | -------------------------- |
-| $\Sigma$         | `\Sigma`         | Alphabet                   |
-| $\Sigma^*$       | `\Sigma^*`       | Kleene star                |
-| $\Sigma^+$       | `\Sigma^+`       | Kleene plus                |
-| $w \in \Sigma^*$ | `w \in \Sigma^*` | String over alphabet       |
-| $\varepsilon$    | `\varepsilon`    | Empty string               |
-| $\lambda$        | `\lambda`        | Empty string (alternative) |
-| $\|w\|$          | `$\|w\|$`        | Length of string           |
-| $xy$             | `xy`             | Concatenation              |
-| $x \cdot y$      | `x \cdot y`      | Concatenation (explicit)   |
-| $L^*$            | `L^*`            | Kleene star of language    |
-| $L_1 \circ L_2$  | `L_1 \circ L_2`  | Concatenation of languages |
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$\Sigma$|`\Sigma`|Alphabet|
+|$\Sigma^*$|`\Sigma^*`|Kleene star|
+|$\Sigma^+$|`\Sigma^+`|Kleene plus|
+|$w \in \Sigma^*$|`w \in \Sigma^*`|String over alphabet|
+|$\varepsilon$|`\varepsilon`|Empty string|
+|$\lambda$|`\lambda`|Empty string (alternative)|
+|$|w|$|`\|w\|`|Length of string|
+|$xy$|`xy`|Concatenation|
+|$x \cdot y$|`x \cdot y`|Concatenation (explicit)|
+|$L^*$|`L^*`|Kleene star of language|
+|$L_1 \circ L_2$|`L_1 \circ L_2`|Concatenation of languages|
 
 ## Automata Theory
 
@@ -83,14 +119,14 @@ tags: [[Latex]]
 
 ## Regular Expressions
 
-| Example        | LaTeX Code     | Description             |
-| -------------- | -------------- | ----------------------- |
-| $a \mid b$     | `a \mid b`     | Union / OR              |
-| $ab$           | `ab`           | Concatenation           |
-| $a^*$          | `a^*`          | Kleene star             |
-| $(a \mid b)^*$ | `(a \mid b)^*` | Complex expression      |
-| $a^+$          | `a^+`          | One or more repetitions |
-| $a?$           | `a?`           | Zero or one occurrence  |
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$a \mid b$|`a \mid b`|Union / OR|
+|$ab$|`ab`|Concatenation|
+|$a^*$|`a^*`|Kleene star|
+|$(a \mid b)^*$|`(a \mid b)^*`|Complex expression|
+|$a^+$|`a^+`|One or more repetitions|
+|$a?$|`a?`|Zero or one occurrence|
 
 ## Context-Free Grammars
 
@@ -137,45 +173,23 @@ tags: [[Latex]]
 
 ## Reducibility & Computability
 
-| Example        | LaTeX Code     | Description            |
-| -------------- | -------------- | ---------------------- |
-| $A \leq_m B$   | `A \leq_m B`   | Many-one reduction     |
-| $A \leq_T B$   | `A \leq_T B`   | Turing reduction       |
-| $A \equiv_m B$ | `A \equiv_m B` | Many-one equivalence   |
-| $\text{ATM}$   | `\text{ATM}`   | A_TM (Halting problem) |
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$A \leq_m B$|`A \leq_m B`|Many-one reduction|
+|$A \leq_T B$|`A \leq_T B`|Turing reduction|
+|$A \equiv_m B$|`A \equiv_m B`|Many-one equivalence|
+|$\text{ATM}$|`\text{ATM}`|A_TM (Halting problem)|
 
-## Arrow Symbols
+## Root & Power Symbols
 
-| Example              | LaTeX Code           | Description                  |
-| -------------------- | -------------------- | ---------------------------- |
-| $\to$                | `\to`                | Right arrow (functions)      |
-| $\rightarrow$        | `\rightarrow`        | Right arrow                  |
-| $\gets$              | `\gets`              | Left arrow                   |
-| $\leftarrow$         | `\leftarrow`         | Left arrow                   |
-| $\mapsto$            | `\mapsto`            | Maps to                      |
-| $\longrightarrow$    | `\longrightarrow`    | Long right arrow             |
-| $\longleftarrow$     | `\longleftarrow`     | Long left arrow              |
-| $\Rightarrow$        | `\Rightarrow`        | Double right arrow (implies) |
-| $\Leftarrow$         | `\Leftarrow`         | Double left arrow            |
-| $\Leftrightarrow$    | `\Leftrightarrow`    | Double left-right arrow      |
-| $\iff$               | `\iff`               | If and only if               |
-| $\uparrow$           | `\uparrow`           | Up arrow                     |
-| $\downarrow$         | `\downarrow`         | Down arrow                   |
-| $\updownarrow$       | `\updownarrow`       | Up-down arrow                |
-| $\Uparrow$           | `\Uparrow`           | Double up arrow              |
-| $\Downarrow$         | `\Downarrow`         | Double down arrow            |
-| $\Updownarrow$       | `\Updownarrow`       | Double up-down arrow         |
-| $\nearrow$           | `\nearrow`           | North-east arrow             |
-| $\searrow$           | `\searrow`           | South-east arrow             |
-| $\swarrow$           | `\swarrow`           | South-west arrow             |
-| $\nwarrow$           | `\nwarrow`           | North-west arrow             |
-| $\hookrightarrow$    | `\hookrightarrow`    | Hook right arrow             |
-| $\hookleftarrow$     | `\hookleftarrow`     | Hook left arrow              |
-| $\leftharpoonup$     | `\leftharpoonup`     | Left harpoon up              |
-| $\rightharpoonup$    | `\rightharpoonup`    | Right harpoon up             |
-| $\rightleftharpoons$ | `\rightleftharpoons` | Right-left harpoons          |
-| $\leadsto$           | `\leadsto`           | Leads to                     |
-| $\rightsquigarrow$   | `\rightsquigarrow`   | Squiggly right arrow         |
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$\sqrt{x}$|`\sqrt{x}`|Square root|
+|$\sqrt[n]{x}$|`\sqrt[n]{x}`|n-th root|
+|$\sqrt[3]{x}$|`\sqrt[3]{x}`|Cube root|
+|$x^{1/n}$|`x^{1/n}`|Exponential form|
+|$x^2$|`x^2`|Squared|
+|$x^n$|`x^n`|n-th power|
 
 ## Multiplication Symbols
 
@@ -190,45 +204,31 @@ tags: [[Latex]]
 
 ## Geometry & Trigonometry Symbols
 
-| Example         | LaTeX Code      | Description            |
-| --------------- | --------------- | ---------------------- |
-| $\angle ABC$    | `\angle ABC`    | Angle                  |
-| $\triangle ABC$ | `\triangle ABC` | Triangle               |
-| $\perp$         | `\perp`         | Perpendicular          |
-| $\parallel$     | `\parallel`     | Parallel               |
-| $\nparallel$    | `\nparallel`    | Not parallel           |
-| $\sim$          | `\sim`          | Similar to             |
-| $\cong$         | `\cong`         | Congruent to           |
-| $\simeq$        | `\simeq`        | Approximately equal to |
-| $\sin x$        | `\sin x`        | Sine                   |
-| $\cos x$        | `\cos x`        | Cosine                 |
-| $\tan x$        | `\tan x`        | Tangent                |
-| $\csc x$        | `\csc x`        | Cosecant               |
-| $\sec x$        | `\sec x`        | Secant                 |
-| $\cot x$        | `\cot x`        | Cotangent              |
-| $\arcsin x$     | `\arcsin x`     | Inverse sine           |
-| $\arccos x$     | `\arccos x`     | Inverse cosine         |
-| $\arctan x$     | `\arctan x`     | Inverse tangent        |
-| $90^\circ$      | `90^\circ`      | Degrees                |
-| $\pi$           | `\pi`           | Pi                     |
-| $\theta$        | `\theta`        | Theta (angle)          |
-| $\phi$          | `\phi`          | Phi (angle)            |
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$\angle ABC$|`\angle ABC`|Angle|
+|$\triangle ABC$|`\triangle ABC`|Triangle|
+|$\perp$|`\perp`|Perpendicular|
+|$\parallel$|`\parallel`|Parallel|
+|$\nparallel$|`\nparallel`|Not parallel|
+|$\sim$|`\sim`|Similar to|
+|$\cong$|`\cong`|Congruent to|
+|$\simeq$|`\simeq`|Approximately equal to|
+|$\sin x$|`\sin x`|Sine|
+|$\cos x$|`\cos x`|Cosine|
+|$\tan x$|`\tan x`|Tangent|
+|$\csc x$|`\csc x`|Cosecant|
+|$\sec x$|`\sec x`|Secant|
+|$\cot x$|`\cot x`|Cotangent|
+|$\arcsin x$|`\arcsin x`|Inverse sine|
+|$\arccos x$|`\arccos x`|Inverse cosine|
+|$\arctan x$|`\arctan x`|Inverse tangent|
+|$90^\circ$|`90^\circ`|Degrees|
+|$\pi$|`\pi`|Pi|
+|$\theta$|`\theta`|Theta (angle)|
+|$\phi$|`\phi`|Phi (angle)|
 
-## Additional Useful Symbols
-
-| Example             | LaTeX Code          | Description               |
-| ------------------- | ------------------- | ------------------------- |
-| $\aleph_0$          | `\aleph_0`          | Countable infinity        |
-| $\mathfrak{c}$      | `\mathfrak{c}`      | Cardinality of continuum  |
-| $\binom{n}{k}$      | `\binom{n}{k}`      | Binomial coefficient      |
-| $\lfloor x \rfloor$ | `\lfloor x \rfloor` | Floor function            |
-| $\lceil x \rceil$   | `\lceil x \rceil`   | Ceiling function          |
-| $\approx$           | `\approx`           | Approximately equal       |
-| $\sim$              | `\sim`              | Asymptotically equivalent |
-| $\propto$           | `\propto`           | Proportional to           |
-| $\infty$            | `\infty`            | Infinity                  |
-
-## Greek Letters in LaTeX
+## Greek Letters
 
 ### Lowercase Greek Letters
 
@@ -266,19 +266,46 @@ tags: [[Latex]]
 
 ### Uppercase Greek Letters
 
-| Example    | LaTeX Code | Letter Name |
-| ---------- | ---------- | ----------- |
-| $\Gamma$   | `\Gamma`   | Gamma       |
-| $\Delta$   | `\Delta`   | Delta       |
-| $\Theta$   | `\Theta`   | Theta       |
-| $\Lambda$  | `\Lambda`  | Lambda      |
-| $\Xi$      | `\Xi`      | Xi          |
-| $\Pi$      | `\Pi`      | Pi          |
-| $\Sigma$   | `\Sigma`   | Sigma       |
-| $\Upsilon$ | `\Upsilon` | Upsilon     |
-| $\Phi$     | `\Phi`     | Phi         |
-| $\Psi$     | `\Psi`     | Psi         |
-| $\Omega$   | `\Omega`   | Omega       |
+|Example|LaTeX Code|Letter Name|
+|---|---|---|
+|$\Gamma$|`\Gamma`|Gamma|
+|$\Delta$|`\Delta`|Delta|
+|$\Theta$|`\Theta`|Theta|
+|$\Lambda$|`\Lambda`|Lambda|
+|$\Xi$|`\Xi`|Xi|
+|$\Pi$|`\Pi`|Pi|
+|$\Sigma$|`\Sigma`|Sigma|
+|$\Upsilon$|`\Upsilon`|Upsilon|
+|$\Phi$|`\Phi`|Phi|
+|$\Psi$|`\Psi`|Psi|
+|$\Omega$|`\Omega`|Omega|
+
+## Additional Useful Symbols
+
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$\aleph_0$|`\aleph_0`|Countable infinity|
+|$\mathfrak{c}$|`\mathfrak{c}`|Cardinality of continuum|
+|$\binom{n}{k}$|`\binom{n}{k}`|Binomial coefficient|
+|$\lfloor x \rfloor$|`\lfloor x \rfloor`|Floor function|
+|$\lceil x \rceil$|`\lceil x \rceil`|Ceiling function|
+|$\approx$|`\approx`|Approximately equal|
+|$\sim$|`\sim`|Asymptotically equivalent|
+|$\propto$|`\propto`|Proportional to|
+|$\infty$|`\infty`|Infinity|
+|$\partial$|`\partial`|Partial derivative|
+|$\nabla$|`\nabla`|Nabla / gradient|
+|$\ell$|`\ell`|Script ell|
+|$\hbar$|`\hbar`|Reduced Planck constant|
+
+## Logic Operations
+
+|Example|LaTeX Code|Description|
+|---|---|---|
+|$A \oplus B$|`\oplus`|XOR (exclusive or)|
+|$A \veebar B$|`\veebar`|XOR (alternative)|
+|$A \odot B$|`\odot`|XNOR|
+|$A \otimes B$|`\otimes`|Tensor product|
 
 ## Formatting Tips for Obsidian:
 
@@ -288,12 +315,8 @@ tags: [[Latex]]
     
 - Use `\text{...}` for text within math: `$\text{such that}$`
     
-- Common packages automatically available in Obsidian: amsmath, amssymb, amsthm
+- Use `\qquad` for large space: `$A \qquad B$`
     
-- ### Example Proof Usage:
+- Use `\quad` for medium space: `$A \quad B$`
     
-- Assume $P \implies Q$ and $P$ is true.
-    
--  $\because this$  $\implies$  $\therefore that$ must be true  
-- 
-$\square$  $\leftarrow$ Square
+- Use `\,` for small space: `$A \, B$`
