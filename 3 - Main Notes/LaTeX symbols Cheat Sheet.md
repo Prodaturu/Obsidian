@@ -40,19 +40,22 @@ tags: [[Latex]]
 
 ## Logic & Quantifiers
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$\forall x$|`\forall`|For all|
-|$\exists x$|`\exists`|There exists|
-|$\exists! x$|`\exists!`|There exists unique|
-|$P \implies Q$|`\implies`|Implies|
-|$P \rightarrow Q$|`\rightarrow`|Implies (alternative)|
-|$P \iff Q$|`\iff`|If and only if|
-|$\neg P$|`\neg`|Not / negation|
-|$\land$|`\land`|Logical AND|
-|$\lor$|`\lor`|Logical OR|
-|$\top$|`\top`|True|
-|$\bot$|`\bot`|False|
+| Example           | LaTeX Code    | Description                 |
+| ----------------- | ------------- | --------------------------- |
+| $\forall x$       | `\forall`     | For all                     |
+| $\exists x$       | `\exists`     | There exists                |
+| $\exists! x$      | `\exists!`    | There exists unique         |
+| $P \implies Q$    | `\implies`    | Implies                     |
+| $P \rightarrow Q$ | `\rightarrow` | Implies (alternative)       |
+| $P \iff Q$        | `\iff`        | If and only if              |
+| $\neg P$          | `\neg`        | Not / negation              |
+| $\land$           | `\land`       | Logical AND                 |
+| $\lor$            | `\lor`        | Logical OR                  |
+| $\top$            | `\top`        | True                        |
+| $\bot$            | `\bot`        | False                       |
+| $\mid$            | `$\mid$`      | Such that (in set5 builder) |
+| $:$               | `$:$`         | Such that (alternative)     |
+| $\ni$             | `$\ni$`       | Such that (reverse element) |
 
 ## Proof & Reasoning Symbols
 
