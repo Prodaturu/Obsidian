@@ -24,6 +24,29 @@ Tags:
 
 
 
+## AI
+
+#### Question 1 AI
+
+- **Tell me about your experience with AI model development**
+	
+- As CTO at Yesalwa, I led the development of our core AI model
+	- that analysed user behaviour patterns
+	- to understand personality types
+- Starting from research,
+	- I designed model architecture using TensorFlow, focusing on classifying user interactions into meaningful personality segments
+	- This AI became the intellectual property that powered our personalised fashion recommendation engine
+	- creating a unique User Experience
+
+#### Question 2 AI
+
+- **How did you approach the behavioural pattern analysis**
+	
+- I treated it as a classification problem
+	- We tracked user interactions like session duration, scroll behaviour, and preference selections
+	- Then transformed this raw data into feature vectors
+	  
+- Started with a **Random Forest** model for its interpretability with 
 
 
 
