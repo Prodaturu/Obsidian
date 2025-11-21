@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c98c752eb2636d88",
+        "id": "97f02eb32e502ead",
         "type": "tabs",
         "children": [
           {
-            "id": "e5c96e760111edc2",
+            "id": "5c0cef13e9964166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Full Notes/Interview Prep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Interview Prep"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -99,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 539.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -115,13 +101,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Full Notes/Interview Prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interview Prep"
+              "title": "Outline"
             }
           },
           {
@@ -240,25 +225,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e5c96e760111edc2",
+  "active": "5c0cef13e9964166",
   "lastOpenFiles": [
-    "4 - Full Notes/I let you pass.md",
+    "Indexes/Mathematics.md",
+    "5 - Templates/Full Note.md",
+    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "Tags/MachineLearning.md",
     "4 - Full Notes/Interview Prep.md",
+    "4 - Full Notes/I let you pass.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "4 - Full Notes/4 - Full Notes.md",
     "1 - Rough Notes/1 - Rough Notes.md",
-    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "6 - Full Notes/Pasted image 20251119045008.png",
-    "Tags/MachineLearning.md",
-    "3 - Main Notes/InformationTheoryTum/Basic Mathematics Pre-Machine Learning.md",
+    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Proof.md",
     "[[Proof.mdProof]].md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "5 - Templates/Full Note.md",
     "Tags/Information Theory.md",
-    "Indexes/Mathematics.md",
     "Vault.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
