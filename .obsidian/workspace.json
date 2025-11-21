@@ -6,15 +6,61 @@
       {
         "id": "97f02eb32e502ead",
         "type": "tabs",
+        "dimension": 72.57543103448276,
         "children": [
           {
             "id": "5c0cef13e9964166",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Types of Proof 0.4"
+            }
+          }
+        ]
+      },
+      {
+        "id": "957aa1d3e658c8ae",
+        "type": "tabs",
+        "dimension": 27.424568965517242,
+        "children": [
+          {
+            "id": "4eac7c4e5b3ce568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LaTeX symbols Cheat Sheet"
             }
           }
         ]
@@ -101,12 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Types of Proof 0.4"
             }
           },
           {
@@ -227,13 +274,16 @@
   },
   "active": "5c0cef13e9964166",
   "lastOpenFiles": [
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "Tags/Information Theory.md",
     "Indexes/Mathematics.md",
     "5 - Templates/Full Note.md",
-    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "Tags/MachineLearning.md",
     "4 - Full Notes/Interview Prep.md",
     "4 - Full Notes/I let you pass.md",
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "4 - Full Notes/4 - Full Notes.md",
     "1 - Rough Notes/1 - Rough Notes.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
@@ -241,9 +291,6 @@
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Proof.md",
     "[[Proof.mdProof]].md",
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
-    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "Tags/Information Theory.md",
     "Vault.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",

@@ -8,13 +8,16 @@ Hashtags:
 - Specific tags: #set-theory #sequence #tuple #functions #predicate #descrete-mathematics #k-ary-functions #cartesian-productw
 
 Tags: 
-- [[Information Theory]] 
-- [[Introduction to Information Theory 0]] 
-
-pages: 3 - 16 
+- Relevance Tags:
+	- [[Information Theory]] 
+	- [[Introduction to Information Theory 0]]
+	
+- Topic Tags:
+	- [[Mathematics]]
 
 ------------------------------------------------------------------------
 # Mathematical Notions and Terminology in Information Theory - 0.2
+%% pages: 3 - 16  %%
 
 ## Sets
 - Group of objects represented as a unit

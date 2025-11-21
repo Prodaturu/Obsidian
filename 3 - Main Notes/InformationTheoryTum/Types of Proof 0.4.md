@@ -97,7 +97,14 @@ graph LR
 - **Proof**
 - **Assuming Contradiction**
 	- Assuming, $\sqrt{2}$  is rational $\implies \sqrt{2} = m / n\ \ni\ m, n \in \mathbb{N}$
-	- 
+	  
+- **Proving the failure of contradiction statement**
+	- when both $m$ and $n$ are integers
+	- After diving them with their common factor
+		- Atleast one of $m$ and $n$ is an odd number post division
+	
+- $\because \sqrt{2} = m / n\ \implies\ 2 = m^2 / n^2\ \implies\ 2n^2 = m^2$
+
 
 
 
