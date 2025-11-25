@@ -184,7 +184,7 @@ graph LR
     style 4 fill:#e1f5fe
     style 2 fill:#fff3e0
     
-    linkStyle 0 stroke:#ff6b6b,stroke-width:2px
+    linkStyle 3 stroke:#ff6b6b,stroke-width:2px
     linkStyle 1 stroke:#ff6b6b,stroke-width:2px
 ```
 
