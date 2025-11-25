@@ -147,10 +147,12 @@ graph LR
 
 ```mermaid
 graph LR
-    A[Basis: P(1)] --> B[Induction: P(1)⇒P(2)]
-    B --> C[P(2)⇒P(3)]
-    C --> D[P(3)⇒P(4)]
-    D --> E[Continues indefinitely]
+    A[P(1)] --> B[P(1)→P(2)]
+    B --> C[P(2)→P(3)] 
+    C --> D[P(3)→P(4)]
+    D --> E[...]
+    
+    linkStyle 0,1,2,3 stroke:#007cba,stroke-width:2px
 ```
 
 
