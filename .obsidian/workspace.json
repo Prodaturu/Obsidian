@@ -14,6 +14,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Exercise - Introduction to Information theory 0.5"
+            }
+          },
+          {
+            "id": "e9539e95f12ac152",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "957aa1d3e658c8ae",
+        "type": "tabs",
+        "dimension": 44.04109589041096,
+        "children": [
+          {
+            "id": "b196379505382e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "5 - Templates/Full Note.md",
                 "mode": "source",
                 "source": false,
@@ -30,37 +74,6 @@
               },
               "icon": "lucide-file",
               "title": "Full Note"
-            }
-          }
-        ]
-      },
-      {
-        "id": "957aa1d3e658c8ae",
-        "type": "tabs",
-        "dimension": 44.04109589041096,
-        "children": [
-          {
-            "id": "4eac7c4e5b3ce568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LaTeX symbols Cheat Sheet"
             }
           }
         ]
@@ -95,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#teen",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +130,7 @@
             }
           },
           {
-            "id": "d35b336ec7891ecc",
+            "id": "4b389f1249276a02",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -131,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 508.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -250,11 +263,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,40 +287,41 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c0cef13e9964166",
+  "active": "e9539e95f12ac152",
   "lastOpenFiles": [
+    "1 - Rough Notes/1 - Rough Notes.md",
+    "5 - Templates/Full Note.md",
+    "3 - Main Notes/3 - Main Notes.md",
+    "2025-11-25.md",
+    "Vault.md",
+    "Indexes/Mathematics.md",
+    "Untitled.canvas",
+    "Indexes/Indexes.md",
+    "Tags/MachineLearning.md",
+    "Tags/Tags.md",
+    "Tags/Latex.md",
+    "Tags/Information Theory.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
+    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+    "3 - Main Notes/Untitled.md",
+    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
-    "5 - Templates/Full Note.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md",
     "Excalidraw",
     "6 - Full Notes/Untitled.md",
     "3 - Main Notes/InformationTheoryTum/P₁.md",
     "().md",
-    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
-    "3 - Main Notes/Untitled.md",
-    "Tags/Latex.md",
-    "Tags/Information Theory.md",
-    "Indexes/Mathematics.md",
-    "Tags/MachineLearning.md",
     "4 - Full Notes/Interview Prep.md",
-    "4 - Full Notes/I let you pass.md",
-    "4 - Full Notes/4 - Full Notes.md",
-    "1 - Rough Notes/1 - Rough Notes.md",
     "6 - Full Notes/Pasted image 20251119045008.png",
-    "Proof.md",
-    "[[Proof.mdProof]].md",
     "3 - Main Notes/InformationTheoryTum",
     "6 - Full Notes",
     "4 - Full Notes/Pasted image 20251116165539.png",
-    "Untitled.canvas",
     "Tags",
     "4 - Full Notes",
     "2 - Source Material/Books",
