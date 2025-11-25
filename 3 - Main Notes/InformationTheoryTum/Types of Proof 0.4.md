@@ -222,6 +222,14 @@ and use this assumption to show that 𝒫(i+1) is true.
 **Key**: Induction on $t$ proves formula for $P_t$
 
 
+### Theorem 0.25
+
+- **Prove** For each$t 0$ 
+
+
+
+
+
 ---
 # References
 

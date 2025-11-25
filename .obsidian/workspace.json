@@ -6,7 +6,7 @@
       {
         "id": "97f02eb32e502ead",
         "type": "tabs",
-        "dimension": 67.52136752136752,
+        "dimension": 55.958904109589035,
         "children": [
           {
             "id": "5c0cef13e9964166",
@@ -49,7 +49,7 @@
       {
         "id": "957aa1d3e658c8ae",
         "type": "tabs",
-        "dimension": 32.47863247863248,
+        "dimension": 44.04109589041096,
         "children": [
           {
             "id": "4eac7c4e5b3ce568",
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Types of Proof 0.4"
+              "title": "Outline of LaTeX symbols Cheat Sheet"
             }
           },
           {
@@ -267,7 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 219.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,10 +286,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c0cef13e9964166",
+  "active": "4eac7c4e5b3ce568",
   "lastOpenFiles": [
-    "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+    "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md",
     "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
     "Excalidraw",
     "6 - Full Notes/Untitled.md",
