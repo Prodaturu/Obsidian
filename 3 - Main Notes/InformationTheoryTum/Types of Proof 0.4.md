@@ -106,7 +106,8 @@ graph LR
 - $\because \sqrt{2} = m / n\ \implies\ 2 = m^2 / n^2\ \implies\ 2n^2 = m^2$
 	
 - $\because m^2 = 2 * n^2 \implies m^2$ is even
-- 
+- $\because m$ is even
+	- we can write $m = k | k \
 
 
 
