@@ -244,7 +244,7 @@ Pk+1=PMk+1−Y(Mk+1−1M−1)Pk+1​=PMk+1−Y(M−1Mk+1−1​)
     Mk+1−MM−1+1=Mk+1−M+M−1M−1=Mk+1−1M−1M−1Mk+1−M​+1=M−1Mk+1−M+M−1​=M−1Mk+1−1​
     
 6. **Final result:**  
-    Pk+1=PMk+1−Y(Mk+1−1M−1)Pk+1​=PMk+1−Y(M−1Mk+1−1​) ✓
+    Pk+1=PMk+1−Y(Mk+1−1M−1)✓Pk+1​=PMk+1−Y(M−1Mk+1−1​)✓
     
 
 ### Conclusion
