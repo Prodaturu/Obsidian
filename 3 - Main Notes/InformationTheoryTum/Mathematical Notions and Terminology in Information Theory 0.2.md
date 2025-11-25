@@ -7,7 +7,7 @@ Hashtags:
 - Primary tags: #theory-of-computation #mathematical-foundations 
 - Specific tags: #set-theory #sequence #tuple #functions #predicate #descrete-mathematics #k-ary-functions #cartesian-productw
 
-Tags: 
+Links: 
 - Relevance Tags:
 	- [[Information Theory]] 
 	- [[Introduction to Information Theory 0]]

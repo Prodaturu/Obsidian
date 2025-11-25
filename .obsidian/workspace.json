@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+                "file": "5 - Templates/Full Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Proof 0.4"
+              "title": "Full Note"
             }
           }
         ]
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+                "file": "5 - Templates/Full Note.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Types of Proof 0.4"
+              "title": "Outline of Full Note"
             }
           },
           {
@@ -275,12 +275,16 @@
   },
   "active": "5c0cef13e9964166",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
+    "5 - Templates/Full Note.md",
+    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
+    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
+    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md",
-    "5 - Templates/Full Note.md",
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
-    "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
     "Excalidraw",
     "6 - Full Notes/Untitled.md",
     "3 - Main Notes/InformationTheoryTum/P₁.md",
@@ -288,7 +292,6 @@
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/Untitled.md",
     "Tags/Latex.md",
-    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Tags/Information Theory.md",
     "Indexes/Mathematics.md",
     "Tags/MachineLearning.md",
@@ -296,13 +299,10 @@
     "4 - Full Notes/I let you pass.md",
     "4 - Full Notes/4 - Full Notes.md",
     "1 - Rough Notes/1 - Rough Notes.md",
-    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "Proof.md",
     "[[Proof.mdProof]].md",
     "Vault.md",
-    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
     "3 - Main Notes/InformationTheoryTum",
     "6 - Full Notes",
     "4 - Full Notes/Pasted image 20251116165539.png",
