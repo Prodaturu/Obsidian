@@ -202,33 +202,54 @@ and use this assumption to show that 𝒫(i+1) is true.
 
 ### Mortgage Example Setup
 
-- **Application**: Proving correctness of mortgage payment formula
+**Prove:** For each $t \geq 0$:  
+Pt=PMt−Y(Mt−1M−1)Pt​=PMt−Y(M−1Mt−1​)
+
+### Proof by Induction
+
+#### Basis Step ($t = 0$)
+
+**Already proven:**
+
+- $P_0 = PM^0 - Y\left(\frac{M^0 - 1}{M - 1}\right)$
     
-- **Variables**:
+- $M^0 = 1$ ⇒ $P_0 = P(1) - Y(0) = P$ ✓
     
-    - $P$ = principal (original loan)
-        
-    - $I$ = yearly interest rate ($I > 0$)
-        
-    - $Y$ = monthly payment
-        
-    - $M = 1 + I/12$ = monthly multiplier
-        
-    - $P_t$ = loan amount after $t$ months
-        
-- **Recurrence**: $P_0 = P$, $P_t = M \cdot P_{t-1} - Y$
+- Matches definition $P_0 = P$
     
 
-**Key**: Induction on $t$ proves formula for $P_t$
+#### Induction Step
 
+**Induction Hypothesis:** Assume formula holds for $t = k$:  
+Pk=PMk−Y(Mk−1M−1)Pk​=PMk−Y(M−1Mk−1​)
 
-### Theorem 0.25 - Mortgage Example Proof
+**Goal:** Prove formula for $t = k + 1$:  
+Pk+1=PMk+1−Y(Mk+1−1M−1)Pk+1​=PMk+1−Y(M−1Mk+1−1​)
 
-- **Prove:** For each $t\geq 0,$ 
-	- $P_t = PM^t - Y (\frac{M^t - 1}{M - 1})$
-	
-- **Proof using induction**
-- 
+**Proof:**
+
+1. **Start with recurrence relation:**  
+    Pk+1=M⋅Pk−YPk+1​=M⋅Pk​−Y
+    
+2. **Substitute induction hypothesis:**  
+    Pk+1=M[PMk−Y(Mk−1M−1)]−YPk+1​=M[PMk−Y(M−1Mk−1​)]−Y
+    
+3. **Distribute and simplify:**  
+    Pk+1=PMk+1−Y(Mk+1−MM−1)−YPk+1​=PMk+1−Y(M−1Mk+1−M​)−Y
+    
+4. **Combine the $-Y$ terms:**  
+    Pk+1=PMk+1−Y(Mk+1−MM−1+1)Pk+1​=PMk+1−Y(M−1Mk+1−M​+1)
+    
+5. **Simplify the fraction:**  
+    Mk+1−MM−1+1=Mk+1−M+M−1M−1=Mk+1−1M−1M−1Mk+1−M​+1=M−1Mk+1−M+M−1​=M−1Mk+1−1​
+    
+6. **Final result:**  
+    Pk+1=PMk+1−Y(Mk+1−1M−1)Pk+1​=PMk+1−Y(M−1Mk+1−1​) ✓
+    
+
+### Conclusion
+
+By mathematical induction, the formula holds for all $t \geq 0$.
 
 
 
