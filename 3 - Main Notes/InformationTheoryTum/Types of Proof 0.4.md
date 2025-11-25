@@ -146,13 +146,11 @@ graph LR
 ### How It Works
 
 ```mermaid
-graph LR
-    A[P(1)] --> B[P(1)→P(2)]
-    B --> C[P(2)→P(3)] 
-    C --> D[P(3)→P(4)]
-    D --> E[...]
-    
-    linkStyle 0,1,2,3 stroke:#007cba,stroke-width:2px
+graph TB
+    A[P₁ true] --> B[P₁→P₂]
+    B --> C[P₂→P₃]
+    C --> D[Continues...]
+    D --> E[P₁→ P₂]
 ```
 
 
