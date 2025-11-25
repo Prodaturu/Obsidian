@@ -147,10 +147,14 @@ graph LR
 
 ```mermaid
 graph TB
-    A[P₁ true] --> B[P₁→P₂]
-    B --> C[P₂→P₃]
-    C --> D[Continues...]
-    D --> E[P₁→ P₂]
+    subgraph Induction Step
+        I[Assume P_i] --> J[Prove P_i+1]
+    end
+    A[Basis: P₁] --> B[Induction Step for i=1]
+    B --> C[P₂]
+    C --> D[Induction Step for i=2]
+    D --> E[P₃]
+    E --> F[...]
 ```
 
 
