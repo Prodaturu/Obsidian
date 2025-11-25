@@ -44,8 +44,7 @@
               "title": "Types of Proof 0.4 2025-11-25 02.47.13.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "957aa1d3e658c8ae",
@@ -130,7 +129,7 @@
             }
           },
           {
-            "id": "42dc3054cdca0355",
+            "id": "d4a4e1ef255872d9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -161,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md",
+                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Types of Proof 0.4 2025-11-25 02.47.13.excalidraw"
+              "title": "Outline of Types of Proof 0.4"
             }
           },
           {
@@ -287,10 +286,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ebbebc6157a0744",
+  "active": "5c0cef13e9964166",
   "lastOpenFiles": [
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md",
+    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
     "Excalidraw",
     "6 - Full Notes/Untitled.md",
