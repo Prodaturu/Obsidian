@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3 - Main Notes/Ternary Operators in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ternary Operators in C++"
+            }
+          },
+          {
+            "id": "672ead2ad51b0da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "3 - Main Notes/Operator precedence in C++.md",
                 "mode": "source",
                 "source": false,
@@ -29,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Operator precedence in C++"
-            }
-          },
-          {
-            "id": "672ead2ad51b0da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operator Precedence.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operator Precedence"
             }
           }
         ]
@@ -266,12 +266,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1bdde6ea670aca6a",
+  "active": "b196379505382e0e",
   "lastOpenFiles": [
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Operator precedence in C++.md",
-    "Indexes/C++.md",
+    "3 - Main Notes/Ternary Operators in C++.md",
     "Operator Precedence.md",
+    "Untitled.md",
+    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "Indexes/C++.md",
     "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "5 - Templates/Full Note.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
@@ -290,12 +293,9 @@
     "Tags/Tags.md",
     "Tags/Latex.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
-    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
     "Excalidraw",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "3 - Main Notes/InformationTheoryTum",
