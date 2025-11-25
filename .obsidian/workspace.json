@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "97f02eb32e502ead",
-        "type": "tabs",
-        "dimension": 55.95890410958904,
-        "children": [
-          {
-            "id": "5c0cef13e9964166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          }
-        ]
-      },
-      {
         "id": "957aa1d3e658c8ae",
         "type": "tabs",
-        "dimension": 44.04109589041096,
         "children": [
           {
             "id": "b196379505382e0e",
@@ -45,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Full Note.md",
+                "file": "3 - Main Notes/Operator precedence in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Full Note"
+              "title": "Operator precedence in C++"
+            }
+          },
+          {
+            "id": "672ead2ad51b0da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operator Precedence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Operator Precedence"
             }
           }
         ]
@@ -95,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#teen",
+                "query": " ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +118,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,13 +265,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c0cef13e9964166",
+  "active": "1bdde6ea670aca6a",
   "lastOpenFiles": [
-    "5 - Templates/Full Note.md",
-    "3 - Main Notes/Untitled.md",
-    "Tags/Information Theory.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "3 - Main Notes/Operator precedence in C++.md",
+    "Indexes/C++.md",
+    "Operator Precedence.md",
     "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
+    "5 - Templates/Full Note.md",
+    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "3 - Main Notes/Untitled 1.md",
+    "3 - Main Notes/Untitled 2.md",
+    "Tags/Information Theory.md",
     "5 - Templates/5 - Templates.md",
     "1 - Rough Notes/1 - Rough Notes.md",
     "3 - Main Notes/3 - Main Notes.md",
@@ -292,7 +288,6 @@
     "Tags/MachineLearning.md",
     "Tags/Tags.md",
     "Tags/Latex.md",
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "6 - Full Notes/Pasted image 20251125054541.png",
@@ -300,11 +295,7 @@
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
-    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md",
     "Excalidraw",
-    "6 - Full Notes/Untitled.md",
-    "3 - Main Notes/InformationTheoryTum/P₁.md",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "3 - Main Notes/InformationTheoryTum",
     "6 - Full Notes",

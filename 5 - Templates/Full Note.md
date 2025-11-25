@@ -2,16 +2,15 @@
 
 **Status:** #baby 
 
-**Tags:**
+**Hashtags:**
 - 
 
-**Links:** 
+**Links / Tags:** 
 - **Relevance Links:**
 	- 
-	
+
 - **Topic Tags:**
 	- 
-
 
 # MainHeading
 

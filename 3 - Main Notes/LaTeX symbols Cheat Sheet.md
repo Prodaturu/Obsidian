@@ -1,6 +1,8 @@
 status: #adult
 
-tags: [[Latex]] 
+hashtags:
+
+links: [[Latex]] 
 
 # LaTeX Symbols
 
