@@ -160,7 +160,66 @@ graph TB
     I -.-> F
 ```
 
+### Key Insight
 
+- **Basis** gives us the first domino: $\mathcal{P}(1)$
+    
+- **Induction step** ensures each domino knocks down the next
+    
+- Together they prove $\mathcal{P}(k)$ for **all** $k$
+    
+
+### Variations & Generalizations
+
+#### Different Starting Point
+
+- Basis can start at any value $b$ (not necessarily 1)
+    
+- Proves $\mathcal{P}(k)$ for every $k \geq b$
+    
+
+#### Strong Induction
+
+- **Stronger induction hypothesis**: Assume $\mathcal{P}(j)$ is true for **every $j \leq i$**
+    
+- Use this to prove $\mathcal{P}(i+1)$
+    
+- Particularly useful for recursive definitions
+    
+
+### Standard Proof Format
+
+text
+
+_Basis:_ Prove that 𝒫(1) is true.
+
+[Proof details...]
+
+_Induction step:_ For each i ≥ 1, assume that 𝒫(i) is true 
+and use this assumption to show that 𝒫(i+1) is true.
+
+[Proof details...]
+
+### Mortgage Example Setup
+
+- **Application**: Proving correctness of mortgage payment formula
+    
+- **Variables**:
+    
+    - $P$ = principal (original loan)
+        
+    - $I$ = yearly interest rate ($I > 0$)
+        
+    - $Y$ = monthly payment
+        
+    - $M = 1 + I/12$ = monthly multiplier
+        
+    - $P_t$ = loan amount after $t$ months
+        
+- **Recurrence**: $P_0 = P$, $P_t = M \cdot P_{t-1} - Y$
+    
+
+**Key**: Induction on $t$ proves formula for $P_t$
 
 
 ---
