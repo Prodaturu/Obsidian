@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Ternary Operators in C++.md",
+                "file": "3 - Main Notes/Switch Statements in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ternary Operators in C++"
+              "title": "Switch Statements in C++"
             }
           },
           {
@@ -268,11 +268,13 @@
   },
   "active": "b196379505382e0e",
   "lastOpenFiles": [
-    "3 - Main Notes/Operator precedence in C++.md",
+    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "3 - Main Notes/Switch Statements in C++.md",
+    "5 - Templates/5 - Templates.md",
     "3 - Main Notes/Ternary Operators in C++.md",
+    "3 - Main Notes/Operator precedence in C++.md",
     "Operator Precedence.md",
     "Untitled.md",
-    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "Indexes/C++.md",
     "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
@@ -281,7 +283,6 @@
     "3 - Main Notes/Untitled 1.md",
     "3 - Main Notes/Untitled 2.md",
     "Tags/Information Theory.md",
-    "5 - Templates/5 - Templates.md",
     "1 - Rough Notes/1 - Rough Notes.md",
     "3 - Main Notes/3 - Main Notes.md",
     "2025-11-25.md",
@@ -295,7 +296,6 @@
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
-    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Excalidraw",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "3 - Main Notes/InformationTheoryTum",
