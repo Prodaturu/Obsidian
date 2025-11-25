@@ -108,6 +108,8 @@ graph LR
 - $\because m^2 = 2 * n^2 \implies m^2$ is even
 - $\because m$ is even
 	- we can write $m = k\ |\ k \in \mathbb{z}$
+	  
+- so, $2 n^2 = (2k)^2$
 - 
 
 
