@@ -119,7 +119,9 @@ graph LR
 - Hence, we proved $\sqrt{2}$ is irrational using **Proof of Contradiction**
 
 
+## Proof of Induction
 
+- Advanced method used to show that all elements of an infinite set have a specifi
 
 
 
