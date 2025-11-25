@@ -222,12 +222,12 @@ and use this assumption to show that 𝒫(i+1) is true.
 **Key**: Induction on $t$ proves formula for $P_t$
 
 
-### Theorem 0.25
+### Theorem 0.25 - Mortgage Example Proof
 
-- **Prove** For each $t\geq 0,$ 
+- **Prove:** For each $t\geq 0,$ 
 	- $P_t = PM^t - Y (\frac{M^t - 1}{M - 1})$
 	
-- **Proof**
+- **Proof using induction**
 - 
 
 
