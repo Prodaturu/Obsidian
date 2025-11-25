@@ -159,12 +159,12 @@ c. Symmetric and transitive but not reflexive
 
 ## Exercise 0.8
 
-Consider the undirected graph $G = (V, E)$ where $V$, the set of nodes, is ${1,2,3,4}$ and $E$, the set of edges, is ${{1,2}, {2,3}, {2,4}, {2,4}, {1,4}}$.
+- **Question:** 
+- Consider the undirected graph $G = (V, E)$ where $V$, the set of nodes, is ${1,2,3,4}$ and $E$, the set of edges, is $\{\{1,2\}, \{2,3\}, \{1,3\}, \{2,4\}, \{1,4\}\}$.
+- Draw the graph $G$. What is the degree of node $1$? of node $3$? Indicate a path from node $3$ to node $4$ on your drawing of $G$.
 
-Draw the graph $G$. What is the degree of node $1$? of node $3$? Indicate a path from node $3$ to node $4$ on your drawing of $G$.
-
-**Answer:**
-
+- **Answer:**
+	
 - Degree of node 1: 2 (edges to 2 and 4)
     
 - Degree of node 3: 1 (edge to 2)
@@ -172,7 +172,20 @@ Draw the graph $G$. What is the degree of node $1$? of node $3$? Indicate a path
 - Path from node 3 to node 4: $3 \to 2 \to 4$
 
 ```mermaid
-
+graph LR
+    1 --- 2
+    2 --- 3
+    1 --- 3
+    2 --- 4
+    1 --- 4
+    
+    style 1 fill:#e1f5fe
+    style 3 fill:#e1f5fe
+    style 4 fill:#e1f5fe
+    style 2 fill:#fff3e0
+    
+    linkStyle 0 stroke:#ff6b6b,stroke-width:2px
+    linkStyle 1 stroke:#ff6b6b,stroke-width:2px
 ```
 
 Note: The edge ${2,4}$ appears twice in the set description, but in set notation, duplicates are ignored, so it's only counted once.
