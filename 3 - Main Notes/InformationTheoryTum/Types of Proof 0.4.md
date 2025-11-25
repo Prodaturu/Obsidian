@@ -112,7 +112,9 @@ graph LR
 - so, $2 n^2 = (2k)^2$
 - $n^2 = 2k^2\ \implies\ n$ is even
 - we have established that both $m$ and $n$ are even
-	- But, we had earlier deduced that atle$m$ and $n$ 
+	- But, we had earlier deduced that at-least one $m$ and $n$ must be odd
+- A contradiction which means 
+	- $\sqrt{2}$ is not rational $\imp 
 
 
 
