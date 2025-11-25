@@ -111,8 +111,8 @@ graph LR
 	  
 - so, $2 n^2 = (2k)^2$
 - $n^2 = 2k^2\ \implies\ n$ is even
-- we have established that both $m$ and $n$ are 
-- 
+- we have established that both $m$ and $n$ are even
+	- But, we had earlier deduced that atle$m$ and $n$ 
 
 
 
