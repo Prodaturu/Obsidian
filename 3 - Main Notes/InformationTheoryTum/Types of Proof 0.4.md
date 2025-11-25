@@ -122,7 +122,9 @@ graph LR
 ## Proof of Induction
 
 - Advanced method used to show that all elements of an infinite set have a specified property
-- Ex: Can be used to show that an arithmetic expression computes a desired quantity for every assignment to its variables or that a program works correctly at all steps o 
+	- Ex: Can be used to show that an arithmetic expression computes a desired quantity for every assignment to its variables or that a program works correctly at all steps
+	- Ex: To show a program works at all steps or for all inputs
+- 
 
 
 
