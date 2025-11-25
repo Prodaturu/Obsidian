@@ -158,7 +158,7 @@ graph TB
 ```
 
 
-
+![[Types of Proof 0.4 2025-11-25 02.47.13.excalidraw]]
 
 ---
 # References
