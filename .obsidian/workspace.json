@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Proof 0.4"
+              "title": "LaTeX symbols Cheat Sheet"
             }
           }
         ]
@@ -117,7 +117,7 @@
             }
           },
           {
-            "id": "e60d9fff675ef9e7",
+            "id": "42dc3054cdca0355",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Types of Proof 0.4"
+              "title": "Outline of LaTeX symbols Cheat Sheet"
             }
           },
           {
@@ -274,9 +274,10 @@
   },
   "active": "5c0cef13e9964166",
   "lastOpenFiles": [
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "Tags/Latex.md",
+    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Tags/Information Theory.md",
     "Indexes/Mathematics.md",
@@ -295,7 +296,6 @@
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
     "Tags/Tags.md",
-    "Tags/Latex.md",
     "2 - Source Material/2 - Source Material.md",
     "3 - Main Notes/InformationTheoryTum",
     "6 - Full Notes",
