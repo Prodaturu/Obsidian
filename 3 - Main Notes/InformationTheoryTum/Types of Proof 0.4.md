@@ -110,7 +110,8 @@ graph LR
 	- we can write $m = k\ |\ k \in \mathbb{z}$
 	  
 - so, $2 n^2 = (2k)^2$
-- 
+- $n^2 = 2k^2\ \implies\ n$ is even
+- so, 
 
 
 
