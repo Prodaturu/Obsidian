@@ -319,14 +319,19 @@ tags: [[Latex]]
 |$\ell$|`\ell`|Script ell|
 |$\hbar$|`\hbar`|Reduced Planck constant|
 
+
 ## Logic Operations
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$A \oplus B$|`\oplus`|XOR (exclusive or)|
-|$A \veebar B$|`\veebar`|XOR (alternative)|
-|$A \odot B$|`\odot`|XNOR|
-|$A \otimes B$|`\otimes`|Tensor product|
+| Example                | LaTeX Code         | Description        |
+| ---------------------- | ------------------ | ------------------ |
+| $A \oplus B$           | `\oplus`           | XOR (exclusive or) |
+| $A \veebar B$          | `\veebar`          | XOR (alternative)  |
+| $A \odot B$            | `\odot`            | XNOR               |
+| $A \otimes B$          | `\otimes`          | Tensor product     |
+| $A \nRightarrow B$     | `\nRightarrow`     | Does not imply     |
+| $A \nLeftarrow B$      | `\nLeftarrow`      | Not implied by     |
+| $A \nLeftrightarrow B$ | `\nLeftrightarrow` | Not equivalent     |
+
 
 ## Formatting Tips for Obsidian:
 
