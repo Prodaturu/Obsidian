@@ -119,15 +119,39 @@ graph LR
 - Hence, we proved $\sqrt{2}$ is irrational using **Proof of Contradiction**
 
 
-## Proof of Induction
+## Proof by Induction
 
-- Advanced method used to show that all elements of an infinite set have a specified property
-	- Ex: Can be used to show that an arithmetic expression computes a desired quantity for every assignment to its variables or that a program works correctly at all steps
-	- Ex: To show a program works at all steps or for all inputs
-	  
-- 
+### Core Concept
 
+- Method to prove that property $\mathcal{P}(k)$ holds for all natural numbers $k = 1, 2, 3, \ldots$
+    
+- Works for any infinite set, commonly $\mathbb{N} = {1, 2, 3, \ldots}$
 
+### Two Essential Parts
+
+#### 1. Basis Step
+
+- Prove $\mathcal{P}(1)$ is true
+    
+- The **foundation** of the induction
+
+#### 2. Induction Step
+
+- Prove that **for each $i \geq 1$**:  
+	
+	- If $\mathcal{P}(i)$ is true, then $\mathcal{P}(i+1)$ is true
+    
+- Contains the **induction hypothesis**: assumption that $\mathcal{P}(i)$ is true
+
+### How It Works
+
+```mermaid
+graph LR
+    A[Basis: P(1)] --> B[Induction: P(1)⇒P(2)]
+    B --> C[P(2)⇒P(3)]
+    C --> D[P(3)⇒P(4)]
+    D --> E[Continues indefinitely]
+```
 
 
 
