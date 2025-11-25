@@ -147,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LaTeX symbols Cheat Sheet"
+              "title": "Outline of Types of Proof 0.4"
             }
           },
           {
@@ -272,10 +272,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4eac7c4e5b3ce568",
+  "active": "5c0cef13e9964166",
   "lastOpenFiles": [
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "().md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/Untitled.md",
