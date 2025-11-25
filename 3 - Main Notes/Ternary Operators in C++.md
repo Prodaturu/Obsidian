@@ -66,6 +66,30 @@ string message = (time < 12) ? "Good morning"
 
 cout << message;
 ```
+
+- The above Nested Ternary is similar to the following `if... else` statement
+```c++
+int time = 22;
+string message;
+
+if (time < 12)
+{
+    message = "Good morning";
+}
+else if (time < 18)
+{
+    message = "Good afternoon";
+}
+else
+{
+    message = "Good evening";
+}
+
+cout << message;
+
+```
+
+
 # References
 
 
