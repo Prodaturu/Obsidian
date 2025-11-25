@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
+                "file": "3 - Main Notes/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,23 +29,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exercise - Introduction to Information theory 0.5"
-            }
-          },
-          {
-            "id": "e9539e95f12ac152",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "957aa1d3e658c8ae",
@@ -130,7 +117,7 @@
             }
           },
           {
-            "id": "4b389f1249276a02",
+            "id": "a7b4e1f31d649dcc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -287,10 +274,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e9539e95f12ac152",
+  "active": "5c0cef13e9964166",
   "lastOpenFiles": [
-    "1 - Rough Notes/1 - Rough Notes.md",
     "5 - Templates/Full Note.md",
+    "3 - Main Notes/Untitled.md",
+    "Tags/Information Theory.md",
+    "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
+    "3 - Main Notes/Untitled 1.md",
+    "5 - Templates/5 - Templates.md",
+    "1 - Rough Notes/1 - Rough Notes.md",
     "3 - Main Notes/3 - Main Notes.md",
     "2025-11-25.md",
     "Vault.md",
@@ -300,11 +292,8 @@
     "Tags/MachineLearning.md",
     "Tags/Tags.md",
     "Tags/Latex.md",
-    "Tags/Information Theory.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-    "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
-    "3 - Main Notes/Untitled.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
@@ -316,8 +305,6 @@
     "Excalidraw",
     "6 - Full Notes/Untitled.md",
     "3 - Main Notes/InformationTheoryTum/P₁.md",
-    "().md",
-    "4 - Full Notes/Interview Prep.md",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "3 - Main Notes/InformationTheoryTum",
     "6 - Full Notes",

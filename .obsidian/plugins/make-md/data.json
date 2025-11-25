@@ -40,16 +40,10 @@
   "expandedSpaces": [
     "/",
     "//3 - Tags",
-    "//4 - Full Notes",
-    "//5 - Templates",
     "//1 - Rough Notes",
-    "//2 - Source Material",
-    "//3 - Main Notes",
-    "//Indexes",
     "//2 - Source Material/2 - Source Material/Books",
-    "//Tags",
-    "//6 - Full Notes",
-    "//3 - Main Notes/3 - Main Notes/InformationTheoryTum"
+    "//3 - Main Notes/3 - Main Notes/InformationTheoryTum",
+    "//3 - Main Notes"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

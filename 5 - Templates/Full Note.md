@@ -1,17 +1,19 @@
-{{date}} {{time}}
+**Created:** *{{date}}, {{time}}*
 
-Status: #baby 
+**Status:** #baby 
 
-Links: 
-- Relevance Links:
-	- [[Information Theory]] 
-	- [[Introduction to Information Theory 0]]
+**Tags:**
+- 
+
+**Links:** 
+- **Relevance Links:**
+	- 
 	
-- Topic Tags:
-	- [[Mathematics]]
+- **Topic Tags:**
+	- 
 
 
-#  heading
+# MainHeading
 
 
 # References
