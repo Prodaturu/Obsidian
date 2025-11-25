@@ -116,7 +116,7 @@ graph LR
 - A contradiction which means 
 	- $\sqrt{2}$ is not rational $\implies \sqrt{2}$ is irrational
 	  
-- Hence, we proved 
+- Hence, we proved $\sqrt{2}$ is irrational using **Proof of Contradiction**
 
 
 
