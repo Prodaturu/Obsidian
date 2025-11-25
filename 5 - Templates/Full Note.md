@@ -21,7 +21,7 @@ Links:
 	- a) $\{1, 3, 5 , 7, \ldots\}$
 	- b) $\{\ldots , -4, -2, 0, 2, 4, \ldots\}$
 	- c) $\{n\ |\ n = 2m\ for\ some\ m\ in\ n\}$
-	- d) $\{n\ |\ n = 2m\ for\ some\ m\ in\ n\,\ and\ }$
+	- d) $\{n\ |\ n = 2m\ for\ some\ m\ in\ n\,\ and\}$
 
 
 
