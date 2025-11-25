@@ -31,18 +31,6 @@
               "icon": "lucide-file",
               "title": "Types of Proof 0.4"
             }
-          },
-          {
-            "id": "6ebbebc6157a0744",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Types of Proof 0.4 2025-11-25 02.47.13.excalidraw"
-            }
           }
         ]
       },
@@ -143,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -289,8 +276,10 @@
   "active": "5c0cef13e9964166",
   "lastOpenFiles": [
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "6 - Full Notes/Types of Proof 0.4 2025-11-25 02.47.13.excalidraw.md",
+    "5 - Templates/Full Note.md",
+    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "Excalidraw/Drawing 2025-11-25 02.42.57.excalidraw.md",
     "Excalidraw",
     "6 - Full Notes/Untitled.md",
@@ -302,7 +291,6 @@
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Tags/Information Theory.md",
     "Indexes/Mathematics.md",
-    "5 - Templates/Full Note.md",
     "Tags/MachineLearning.md",
     "4 - Full Notes/Interview Prep.md",
     "4 - Full Notes/I let you pass.md",
@@ -310,7 +298,6 @@
     "1 - Rough Notes/1 - Rough Notes.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "6 - Full Notes/Pasted image 20251119045008.png",
-    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Proof.md",
     "[[Proof.mdProof]].md",
     "Vault.md",
