@@ -91,8 +91,8 @@ graph LR
 - $\therefore$ it must not be raining
 
 ### Theorem 0.24
-
-- $\sqrt{2}$  is irrational
+%% page 22 (43) %%
+- **Prove:** $\sqrt{2}$  is irrational
 	
 - **Proof**
 - **Assuming Contradiction**
@@ -104,6 +104,9 @@ graph LR
 		- Atleast one of $m$ and $n$ is an odd number post division
 	
 - $\because \sqrt{2} = m / n\ \implies\ 2 = m^2 / n^2\ \implies\ 2n^2 = m^2$
+	
+- $\because m^2 = 2 * n^2 \implies m^2$ is even
+- 
 
 
 
