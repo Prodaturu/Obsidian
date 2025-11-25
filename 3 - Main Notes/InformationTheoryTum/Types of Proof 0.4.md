@@ -114,7 +114,10 @@ graph LR
 - we have established that both $m$ and $n$ are even
 	- But, we had earlier deduced that at-least one $m$ and $n$ must be odd
 - A contradiction which means 
-	- $\sqrt{2}$ is not rational $\imp 
+	- $\sqrt{2}$ is not rational $\implies \sqrt{2}$ is irrational
+	  
+- Hence, we proved 
+
 
 
 
