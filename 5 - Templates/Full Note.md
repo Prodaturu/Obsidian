@@ -191,6 +191,101 @@ graph LR
 Note: The edge ${2,4}$ appears twice in the set description, but in set notation, duplicates are ignored, so it's only counted once.
 
 
+## Exercise 0.9
+
+- **Question:**
+- Write a formal description of the following graph
+ 
+```mermaid
+graph TB
+    1 --- 4
+    1 --- 5
+    1 --- 6
+    2 --- 4
+    2 --- 5
+    2 --- 6
+    3 --- 4
+    3 --- 5
+    3 --- 6
+    
+```
+
+- **Formal Description:**  
+- Let G=(V,E) where:
+	- V={1,2,3,4,5,6}
+    
+	- E={{1,4},{1,5},{1,6},{2,4},{2,5},{2,6},{3,4},{3,5},{3,6}}E={{1,4},{1,5},{1,6},{2,4},{2,5},{2,6},{3,4},{3,5},{3,6}}
+
+
+## Exercise 0.10
+Find the error in the following proof that 2=1.
+
+**Proof Steps:** // needs fix #fix
+
+1. Let a=b
+    
+2. Multiply both sides by a: a=b, a2=ab
+    
+3. Subtract b2b2: a2−b2=ab−b2a2−b2=ab−b2
+    
+4. Factor: (a+b)(a−b)=b(a−b)(a+b)(a−b)=b(a−b)
+    
+5. Divide by (a−b)(a−b): a+b=ba+b=b
+    
+6. Substitute a=b=1a=b=1: 2=12=1
+    
+
+**Error:**  
+The division by (a−b)(a−b) is invalid because a=b implies a−b=0. Division by zero is undefined.
+
+---
+
+**Exercise 0.11**  
+Find the error in the following proof that all horses are the same color.
+
+**Proof by Induction:**
+
+- **Base Case:** For h=1h=1, trivially true.
+    
+- **Inductive Step:** Assume true for h=kh=k. For h=k+1h=k+1, remove one horse to get set H1H1​ (size kk), all same color. Replace and remove a different horse to get H2H2​ (size kk), all same color. Thus, all horses in HH are the same color.
+    
+
+**Error:**  
+The inductive step fails for k=1k=1. When k+1=2k+1=2, sets H1H1​ and H2H2​ are disjoint (each contains one horse). There is no overlapping horse to connect the colors, so the conclusion doesn't follow.
+
+---
+
+**Exercise 0.12**  
+Show that every graph with 2 or more nodes contains two nodes that have equal degrees.
+
+**Proof:**  
+In a graph with nn nodes, possible degrees are 0,1,2,…,n−10,1,2,…,n−1. However, if a node has degree n−1n−1, no node can have degree 00, and vice versa. Thus, the nn nodes can have at most n−1n−1 distinct degrees. By the pigeonhole principle, at least two nodes must have the same degree.
+
+---
+
+**Exercise 0.13**  
+Ramsey’s Theorem: Every graph with nn nodes contains either a clique or an anti-clique with at least 12log⁡2n21​log2​n nodes.
+
+**Proof Sketch:**  
+Let R(s)R(s) be the minimum nn such that any graph on nn nodes contains a clique or anti-clique of size ss. Known bounds give R(s)≤4sR(s)≤4s. Solving 4s≥n4s≥n yields s≥12log⁡2ns≥21​log2​n. Thus, any graph with nn nodes must contain a clique or anti-clique of size at least 12log⁡2n21​log2​n.
+
+**Detailed Steps:**
+
+1. Use induction on nn.
+    
+2. For any node vv, partition remaining nodes into neighbors and non-neighbors.
+    
+3. One partition must have size ≥n−12≥2n−1​.
+    
+4. Apply inductive hypothesis to find a clique or anti-clique in that partition.
+    
+5. Combine with vv to get the desired size.
+    
+
+**Result:**
+
+Maximum clique or anti-clique size≥12log⁡2nMaximum clique or anti-clique size≥21​log2​n
+
 # References
 
 
