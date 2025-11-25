@@ -40,37 +40,55 @@ tags: [[Latex]]
 
 ## Logic & Quantifiers
 
-| Example           | LaTeX Code    | Description                 |
-| ----------------- | ------------- | --------------------------- |
-| $\forall x$       | `\forall`     | For all                     |
-| $\exists x$       | `\exists`     | There exists                |
-| $\exists! x$      | `\exists!`    | There exists unique         |
-| $P \implies Q$    | `\implies`    | Implies                     |
-| $P \rightarrow Q$ | `\rightarrow` | Implies (alternative)       |
-| $P \iff Q$        | `\iff`        | If and only if              |
-| $\neg P$          | `\neg`        | Not / negation              |
-| $\land$           | `\land`       | Logical AND                 |
-| $\lor$            | `\lor`        | Logical OR                  |
-| $\top$            | `\top`        | True                        |
-| $\bot$            | `\bot`        | False                       |
-| $\mid$            | `$\mid$`      | Such that (in set5 builder) |
-| $:$               | `$:$`         | Such that (alternative)     |
-| $\ni$             | `$\ni$`       | Such that (reverse element) |
+| Example           | LaTeX Code    | Description                            |
+| ----------------- | ------------- | -------------------------------------- |
+| $\forall x$       | `\forall`     | For all                                |
+| $\exists x$       | `\exists`     | There exists                           |
+| $\exists! x$      | `\exists!`    | There exists unique                    |
+| $P \implies Q$    | `\implies`    | Implies                                |
+| $P \rightarrow Q$ | `\rightarrow` | Implies (alternative)                  |
+| $P \iff Q$        | `\iff`        | If and only if                         |
+| $\neg P$          | `\neg`        | Not / negation                         |
+| $\land$           | `\land`       | Logical AND                            |
+| $\lor$            | `\lor`        | Logical OR                             |
+| $\top$            | `\top`        | True                                   |
+| $\bot$            | `\bot`        | False                                  |
+| $\mid$            | `\mid`        | Such that (in set builder)             |
+| $:$               | `:`           | Such that (alternative)                |
+| $\ni$             | `\ni`         | Such that (reverse element)            |
+| $\leq$            | `\leq`        | Less than or equal to                  |
+| $\geq$            | `\geq`        | Greater than or equal to               |
+| $\leqslant$       | `\leqslant`   | Less than or equal to (alternative)    |
+| $\geqslant$       | `\geqslant`   | Greater than or equal to (alternative) |
+| $<$               | `$<$`         | Less than                              |
+| $>$               | `$>$`         | Greater than                           |
+| $\ll$             | `\ll`         | Much less than                         |
+| $\gg$             | `\gg`         | Much greater than                      |
+| $\prec$           | `\prec`       | Precedes                               |
+| $\succ$           | `\succ`       | Succeeds                               |
+| $\preceq$         | `\preceq`     | Precedes or equal to                   |
+| $\succeq$         | `\succeq`     | Succeeds or equal to                   |
+| $\neq$            | `\neq`        | Not equal to                           |
+| $\approx$         | `\approx`     | Approximately equal to                 |
+| $\equiv$          | `\equiv`      | Equivalent to                          |
+| $\sim$            | `\sim`        | Similar to                             |
+| $\simeq$          | `\simeq`      | Approximately equal (alternative)      |
+| $\propto$         | `\propto`     | Proportional to                        |
 
 ## Proof & Reasoning Symbols
 
-|Example|LaTeX Code|Description|
-|---|---|---|
-|$\therefore$|`\therefore`|Therefore|
-|$\because$|`\because`|Because / since|
-|$\square$|`\square`|End of proof / QED|
-|$\blacksquare$|`\blacksquare`|End of proof (black square)|
-|$\triangle$|`\triangle`|White triangle|
-|$\blacktriangle$|`\blacktriangle`|Black triangle|
-|$\dashv$|`\dashv`|Left tack|
-|$\vdash$|`\vdash`|Right tack / proves|
-|$\models$|`\models`|Models|
-|$\nmodels$|`\nmodels`|Does not model|
+| Example          | LaTeX Code       | Description                 |
+| ---------------- | ---------------- | --------------------------- |
+| $\therefore$     | `\therefore`     | Therefore                   |
+| $\because$       | `\because`       | Because / since             |
+| $\square$        | `\square`        | End of proof / QED          |
+| $\blacksquare$   | `\blacksquare`   | End of proof (black square) |
+| $\triangle$      | `\triangle`      | White triangle              |
+| $\blacktriangle$ | `\blacktriangle` | Black triangle              |
+| $\dashv$         | `\dashv`         | Left tack                   |
+| $\vdash$         | `\vdash`         | Right tack / proves         |
+| $\models$        | `\models`        | Models                      |
+| $\nmodels$       | `\nmodels`       | Does not model              |
 
 ## Arrow Symbols
 
