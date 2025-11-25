@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -270,15 +269,16 @@
       "smart-random-note:Open Random Note from Search": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "5c0cef13e9964166",
   "lastOpenFiles": [
     "3 - Main Notes/InformationTheoryTum/P₁.md",
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "().md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/Untitled.md",
     "Tags/Latex.md",
