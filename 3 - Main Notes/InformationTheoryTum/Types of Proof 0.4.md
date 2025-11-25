@@ -225,7 +225,10 @@ and use this assumption to show that 𝒫(i+1) is true.
 ### Theorem 0.25
 
 - **Prove** For each $t\geq 0,$ 
-	- $P_t = PM^t - Y ($
+	- $P_t = PM^t - Y (\frac{M^t - 1}{M - 1})$
+	
+- **Proof**
+- 
 
 
 

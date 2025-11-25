@@ -4,6 +4,18 @@ tags: [[Latex]]
 
 # LaTeX Symbols
 
+## Fraction Symbols in LaTeX
+
+| Example        | LaTeX Code     | Description                    |
+| -------------- | -------------- | ------------------------------ |
+| $\frac{a}{b}$  | `\frac{a}{b}`  | Fraction (display style)       |
+| $\dfrac{a}{b}$ | `\dfrac{a}{b}` | Fraction (force display style) |
+| $\tfrac{a}{b}$ | `\tfrac{a}{b}` | Fraction (force text style)    |
+| $a/b$          | `a/b`          | Slash fraction (inline)        |
+| ${a \over b}$  | `{a \over b}`  | Fraction (alternative syntax)  |
+| $\cfrac{a}{b}$ | `\cfrac{a}{b}` | Continued fraction             |
+
+
 ## Set Theory Symbols
 
 |Example|LaTeX Code|Description|
