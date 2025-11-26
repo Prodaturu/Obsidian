@@ -43,9 +43,31 @@ public:
 
 ```C++
 
-class Example
+class Car
 {
+private:
+	std::string brand;
+	std::string color;
+	int         speed;
+	
 public:
+	void accelerate()
+	{
+		speed += 10;
+	}
+	
+	void brake()
+	{
+		speed -= 10;
+	}
+	
+	void displayInfo()
+	{
+		std::cout << brand << " " << color << " going " << speed << " kmph" << std::endl;
+	}
+	
+	//Getter methods
+	
 	
 }
 
