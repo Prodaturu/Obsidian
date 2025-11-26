@@ -17,7 +17,10 @@
 #### Definition:
 
 - Multiple function can have the same name
-	- As long as their parameters are different in type or number
+	- As long as their parameters are: 
+		1. Parameters of different type
+		2. Parameter count is different
+	
 - Let's us use same function name for similar tasks
 
 #### Examples:
@@ -75,6 +78,10 @@ int main() {
 
 # Uses of Function Overloading
 
+- **Intuitive:** Don't need to remember different function names
+- **Type Safety:** Compiler chooses the right type based on arguments
+- **Code Organisation:** Related functionality grouped under one name
+- **Backward Compatibility:** Add new parameters without breaking existing code
 
 
 # References

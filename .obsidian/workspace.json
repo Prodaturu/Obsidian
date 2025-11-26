@@ -11,10 +11,24 @@
             "id": "67db25ab8198cfac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Function Overloading in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Function Overloading in C++"
             }
           }
         ]
@@ -84,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.5
+    "width": 348.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -114,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "3 - Main Notes/Function Overloading in C++.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -139,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/Function Overloading in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Function Overloading in C++"
             }
           },
           {
@@ -226,6 +243,7 @@
   },
   "active": "67db25ab8198cfac",
   "lastOpenFiles": [
+    "Indexes/C++.md",
     "Tags/Information Theory.md",
     "3 - Main Notes/Operator precedence in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
@@ -237,7 +255,6 @@
     "Ternary Operators.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "Indexes/Mathematics.md",
-    "Indexes/C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "3 - Main Notes/Function Overloading in C++.md",
     "3 - Main Notes/Switch Statements in C++.md",
