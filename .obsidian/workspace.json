@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Lambda Functions in C++.md",
+                "file": "3 - Main Notes/OOPS in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lambda Functions in C++"
+              "title": "OOPS in C++"
             }
           }
         ]
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/Lambda Functions in C++.md",
+                "file": "3 - Main Notes/OOPS in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lambda Functions in C++"
+              "title": "Outline of OOPS in C++"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/Lambda Functions in C++.md"
+                "file": "3 - Main Notes/OOPS in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/Lambda Functions in C++.md",
+                "file": "3 - Main Notes/OOPS in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lambda Functions in C++"
+              "title": "Outgoing links from OOPS in C++"
             }
           },
           {
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/Lambda Functions in C++.md",
+                "file": "3 - Main Notes/OOPS in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lambda Functions in C++"
+              "title": "Backlinks for OOPS in C++"
             }
           },
           {
@@ -243,11 +243,14 @@
   },
   "active": "e7aefa067ec91482",
   "lastOpenFiles": [
+    "4 - Full Notes/I let you pass.md",
+    "4 - Full Notes/4 - Full Notes.md",
+    "3 - Main Notes/OOPS in C++.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Lambda Functions in C++.md",
     "3 - Main Notes/Ternary Operators in C++.md",
     "3 - Main Notes/Switch Statements in C++.md",
     "3 - Main Notes/Operator precedence in C++.md",
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
     "Tags/Information Theory.md",
     "3 - Main Notes/Function Overloading in C++.md",
@@ -266,9 +269,6 @@
     "5 - Templates/Full Note.md",
     "3 - Main Notes/Untitled 1.md",
     "3 - Main Notes/Untitled 2.md",
-    "1 - Rough Notes/1 - Rough Notes.md",
-    "3 - Main Notes/3 - Main Notes.md",
-    "2025-11-25.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
