@@ -45,16 +45,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bdde6ea670aca6a",
+            "id": "df1c8a0860a8a104",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           },
           {
@@ -75,6 +72,21 @@
             }
           },
           {
+            "id": "7a82cb2bcbd3df47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "3d6605ec4db3303c",
             "type": "leaf",
             "state": {
@@ -85,17 +97,19 @@
             }
           },
           {
-            "id": "df1c8a0860a8a104",
+            "id": "1bdde6ea670aca6a",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,21 +184,6 @@
             }
           },
           {
-            "id": "7a82cb2bcbd3df47",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "c2de9157a09f15a3",
             "type": "leaf",
             "state": {
@@ -218,7 +217,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -226,8 +226,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -243,8 +243,8 @@
   },
   "active": "e7aefa067ec91482",
   "lastOpenFiles": [
-    "3 - Main Notes/Ternary Operators in C++.md",
     "3 - Main Notes/Lambda Functions in C++.md",
+    "3 - Main Notes/Ternary Operators in C++.md",
     "3 - Main Notes/Switch Statements in C++.md",
     "3 - Main Notes/Operator precedence in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",

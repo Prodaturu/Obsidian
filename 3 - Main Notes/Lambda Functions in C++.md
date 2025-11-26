@@ -27,7 +27,14 @@
 - `return_type` - (optional) type of the return value
 - `{// function body}` - the body of the function 
 
-### 
+#### Example 
+
+```C++
+
+
+
+```
+
 
 
 # References
