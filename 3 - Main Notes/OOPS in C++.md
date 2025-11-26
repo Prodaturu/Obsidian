@@ -12,10 +12,9 @@
 - **Topic Tags:**
 	- [[C++]]
 
-# MainHeading
+# OOPS concepts
 
-- **OOP** 
-	- 
+- 
 
 # References
 
