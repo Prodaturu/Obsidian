@@ -15,7 +15,52 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
+            },
+            "group": "1443f7f090b03b14"
+          }
+        ]
+      },
+      {
+        "id": "640adaddfd7d057e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d12b7b56103e1d94",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Indexes/Mathematics.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Mathematics"
+            },
+            "group": "1443f7f090b03b14"
           }
         ]
       }
@@ -222,19 +267,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7aefa067ec91482",
+  "active": "d12b7b56103e1d94",
   "lastOpenFiles": [
-    "Tags/Information Theory.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
+    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "Tags/Information Theory.md",
     "Function Overloading.md",
     "3 - Main Notes/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
-    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "Indexes/C++.md",
     "4 - Full Notes/I let you pass.md",
     "4 - Full Notes/4 - Full Notes.md",

@@ -9,7 +9,6 @@ Hashtags:
 
 Links: 
 - Relevance Tags:
-	- [[InformationTheoryTum]] 
 	- [[Introduction to Information Theory 0]]
 	
 - Topic Tags:
