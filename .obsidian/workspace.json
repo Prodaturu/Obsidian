@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1b44b5655dbfd681",
+        "id": "0139f2bcb296188d",
         "type": "tabs",
         "children": [
           {
-            "id": "67db25ab8198cfac",
+            "id": "e7aefa067ec91482",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Lambda Functions in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lambda Functions in C++"
             }
           }
         ]
@@ -114,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "3 - Main Notes/Lambda Functions in C++.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -139,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/Lambda Functions in C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lambda Functions in C++"
             }
           },
           {
@@ -224,25 +241,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "67db25ab8198cfac",
+  "active": "e7aefa067ec91482",
   "lastOpenFiles": [
+    "3 - Main Notes/Ternary Operators in C++.md",
+    "3 - Main Notes/Lambda Functions in C++.md",
+    "3 - Main Notes/Switch Statements in C++.md",
+    "3 - Main Notes/Operator precedence in C++.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
     "Tags/Information Theory.md",
     "3 - Main Notes/Function Overloading in C++.md",
     "Indexes/C++.md",
-    "3 - Main Notes/Operator precedence in C++.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "Ternary Operators.md",
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "Indexes/Mathematics.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "3 - Main Notes/Switch Statements in C++.md",
     "5 - Templates/5 - Templates.md",
-    "3 - Main Notes/Ternary Operators in C++.md",
     "Operator Precedence.md",
     "Untitled.md",
     "5 - Templates/Full Note.md",
@@ -251,7 +269,6 @@
     "1 - Rough Notes/1 - Rough Notes.md",
     "3 - Main Notes/3 - Main Notes.md",
     "2025-11-25.md",
-    "Vault.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
