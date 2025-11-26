@@ -22,6 +22,12 @@
 
 `[capture] (parameters) {code};`
 
+- `[capture]` - 
+- `(parameters)` - 
+- `{code}` - 
+
+
+
 
 # References
 
