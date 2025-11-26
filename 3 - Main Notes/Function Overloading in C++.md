@@ -24,6 +24,8 @@
 
 1. **Without Function Overloading:**
 
+- Two different functions based on the type of the input parameter
+
 ```C++
 int plusFuncInt(int x, int y) {  
   return x + y;  
@@ -50,6 +52,7 @@ int main() {
 - It is better to overload one
 	- `plusFunc` is overloaded here to work with both `int` and `double`
 
+
 ```C++
 int plusFunc(int x, int y) {  
   return x + y;  
@@ -70,6 +73,7 @@ int main() {
 
 ```
 
+# Uses of Function Overloading
 
 
 
