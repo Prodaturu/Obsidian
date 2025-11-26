@@ -235,8 +235,10 @@ d --- e
 -----------------------------------------------------------------------
 # Closely Related Notes
 
-## Next: [[Types of Proof 0.4]]
+## Next: 
+- Types of Proof 0.4
 
-## Prev: [[Mathematical Notions and Terminology in Information Theory 0.2]]
+## Prev: 
+- Mathematical Notions and Terminology in Information Theory 0.2
 
 ## Closely Related Notes:

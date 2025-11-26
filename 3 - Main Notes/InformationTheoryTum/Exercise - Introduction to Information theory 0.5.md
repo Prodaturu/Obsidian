@@ -292,5 +292,6 @@ Maximum clique or anti-clique size≥12log⁡2nMaximum clique or anti-cli
 
 ### Next:
 
-### Prev:
+### Prev: 
+- Types of Proof 0.4
 

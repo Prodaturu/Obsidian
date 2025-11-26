@@ -264,7 +264,9 @@ By mathematical induction, the formula holds for all $t \geq 0$.
 # Closely Related Notes
 
 ## Next:
+- Introduction to Information theory 0.5
 
-## Prev: [[Definitions, Theorems, and proofs - 0.3]]
+## Prev:
+- Definitions, Theorems, and proofs - 0.3
 
 ## Closely Related Notes:

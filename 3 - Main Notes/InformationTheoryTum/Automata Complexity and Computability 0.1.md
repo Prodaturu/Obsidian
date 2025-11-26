@@ -45,5 +45,9 @@ Tags:
 file:///home/sprodatu/Downloads/InformationTheoryTUMBook.pdf - Info-Theory TUM text book on 42 Linux
 
 -----------------------------------------------------------------------
- 
-### Next -  [[Mathematical Notions and Terminology in Information Theory 0.2]]
+
+### Prev 
+- Introduction to Information Theory 0
+
+### Next 
+- Mathematical Notions and Terminology in Information Theory 0.2
