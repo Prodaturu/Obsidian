@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+                "file": "3 - Main Notes/OOPS in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Proof 0.4"
+              "title": "OOPS in C++"
             }
           }
         ]
@@ -109,8 +109,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,6 +239,7 @@
   "active": "e7aefa067ec91482",
   "lastOpenFiles": [
     "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
+    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Function Overloading.md",
     "3 - Main Notes/OOPS in C++.md",
@@ -256,7 +256,6 @@
     "Indexes/C++.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "Ternary Operators.md",
     "Indexes/Mathematics.md",

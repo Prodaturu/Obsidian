@@ -7,8 +7,6 @@ Tags:
 - [[Information Theory]] 
 - [[Introduction to Information Theory 0]] 
 
-- [[Mathematics]]
-
 
 ------------------------------------------------------------------------
 # Definitions, Theorems, and proofs - 0.3
