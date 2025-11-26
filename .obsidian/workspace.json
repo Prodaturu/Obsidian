@@ -11,10 +11,24 @@
             "id": "e7aefa067ec91482",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Types of Proof 0.4"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#baby",
+                "query": "contradiction",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,6 +239,8 @@
   },
   "active": "e7aefa067ec91482",
   "lastOpenFiles": [
+    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
+    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "Function Overloading.md",
     "3 - Main Notes/OOPS in C++.md",
     "4 - Full Notes/I let you pass.md",
@@ -240,7 +256,6 @@
     "Indexes/C++.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
-    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
     "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "Ternary Operators.md",
@@ -250,7 +265,6 @@
     "Operator Precedence.md",
     "Untitled.md",
     "5 - Templates/Full Note.md",
-    "3 - Main Notes/Untitled 1.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
