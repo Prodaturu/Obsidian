@@ -170,8 +170,7 @@ int main() {
 	- `title` (`string`)
 	- `author` (`string`)
 	- `year` (`int`)
-
-Then create two objects of the class and print their attribute values.
+- Then create two objects of the `Book` class and print their attribute values.
 
 ```c++
 #include <iostream>
@@ -199,15 +198,16 @@ int main()
 	book2.author = "Shel Silverstein";  
 	book2.year = 1964;  
 	
-	cout << book1.title << ", " << book1.author << ", " << book1.year << "\n";  
-	cout << book2.title << ", " << book2.author << ", " << book2.year;  
+	cout << book1.title << ", by " << book1.author << ", " << book1.year << "\n";  
+	cout << book2.title << ", by " << book2.author << ", " << book2.year;  
 	return 0;
 }
 ```
 
 
+---
+---
 # References
-
 
 ## Closely Related Notes
 

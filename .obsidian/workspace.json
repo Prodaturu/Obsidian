@@ -11,24 +11,10 @@
             "id": "e7aefa067ec91482",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/Classes and Objects in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Classes and Objects in C++"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -238,8 +224,8 @@
   },
   "active": "e7aefa067ec91482",
   "lastOpenFiles": [
-    "Tags/OOPS in C++.md",
     "3 - Main Notes/Classes and Objects in C++.md",
+    "Tags/OOPS in C++.md",
     "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "Tags/Information Theory.md",
