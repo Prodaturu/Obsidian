@@ -1,2 +1,0 @@
-- ## Introduction to Information Theory
-	- [[Introduction to Information Theory 0]]

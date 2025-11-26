@@ -4,63 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "0139f2bcb296188d",
+        "id": "dddcca6829425d6b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7aefa067ec91482",
+            "id": "4169b4a9ca46613f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "1443f7f090b03b14"
-          }
-        ]
-      },
-      {
-        "id": "640adaddfd7d057e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d12b7b56103e1d94",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Indexes/Mathematics.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6666666666666666,
-                  "close": false
+                "file": "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Automata Complexity and Computability 0.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Mathematics"
-            },
-            "group": "1443f7f090b03b14"
+              "icon": "lucide-file",
+              "title": "Automata Complexity and Computability 0.1"
+            }
           }
         ]
       }
@@ -94,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contradiction",
+                "query": "[\"sticker\"]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,22 +236,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d12b7b56103e1d94",
+  "active": "4169b4a9ca46613f",
   "lastOpenFiles": [
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Definitions, Theorems, and proofs - 0.3.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Types of Proof 0.4.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Automata Complexity and Computability 0.1.md",
+    "Introduction to Information Theory 00.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 00.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
-    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
-    "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
+    "5 - Templates/5 - Templates.md",
+    "4 - Full Notes/4 - Full Notes.md",
     "Tags/Information Theory.md",
     "Function Overloading.md",
     "3 - Main Notes/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
-    "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
-    "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
-    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
     "Indexes/C++.md",
     "4 - Full Notes/I let you pass.md",
-    "4 - Full Notes/4 - Full Notes.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Lambda Functions in C++.md",
     "3 - Main Notes/Ternary Operators in C++.md",
@@ -292,9 +264,7 @@
     "Ternary Operators.md",
     "Indexes/Mathematics.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "5 - Templates/5 - Templates.md",
     "Operator Precedence.md",
-    "Untitled.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
@@ -307,7 +277,6 @@
     "2 - Source Material/Books",
     "3 - Main Notes",
     "5 - Templates",
-    "Indexes",
-    "3 - Tags"
+    "Indexes"
   ]
 }

@@ -2,7 +2,6 @@ Status: #baby
 
 Links: 
 - Relevance Links:
-	- [[InformationTheoryTum]] 
 	- [[Introduction to Information Theory 0]]
 	
 - Topic Tags:
