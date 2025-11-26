@@ -136,9 +136,7 @@ double Student::getGPA() {
 - The class defines **what** properties and behaviors its future objects will have
     
 - We can think of a class like a "cookie cutter" - it defines the shape but isn't a cookie itself
-    
 
----
 
 # Objects
 
@@ -149,7 +147,6 @@ double Student::getGPA() {
 - When we create an object, memory is allocated for its data members
     
 - Each object has its own copy of the class's data members
-    
 
 ## Creating Objects
 
@@ -165,6 +162,50 @@ int main() {
     // We'll learn how to use them in the next section
 }
 ```
+
+### Example problem
+
+- **Question:**
+- Create a class called `Book` with the following attributes:
+	- `title` (`string`)
+	- `author` (`string`)
+	- `year` (`int`)
+
+Then create two objects of the class and print their attribute values.
+
+```c++
+#include <iostream>
+#include <string>
+using namespace std;
+
+class Book
+{
+public:
+	std::string title;
+	std::string author;
+	int         year;
+}
+
+int main()
+{
+	Book book1;
+	
+	book1.title = "Matilda";  
+	book1.author = "Roald Dahl";  
+	book1.year = 1988;  
+	
+	Book book2;  
+	book2.title = "The Giving Tree";  
+	book2.author = "Shel Silverstein";  
+	book2.year = 1964;  
+	
+	cout << book1.title << ", " << book1.author << ", " << book1.year << "\n";  
+	cout << book2.title << ", " << book2.author << ", " << book2.year;  
+	return 0;
+}
+```
+
+
 # References
 
 
