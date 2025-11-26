@@ -14,7 +14,30 @@
 
 # OOPS concepts
 
+## Class
+
 - 
+- Created using `class` keyword
+
+## Objects:
+
+- 
+
+### Creating an Object
+
+```C++
+
+class ExampleClass
+{
+public:
+	int    num;
+	strinf str;
+};
+
+```
+
+
+
 
 # References
 
