@@ -94,7 +94,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -114,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Templates/Full Note.md",
+                "file": "3 - Main Notes/Lambda Functions in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Full Note"
+              "title": "Outline of Lambda Functions in C++"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Notions and Terminology in Information Theory 0.2.md",
+                "file": "3 - Main Notes/Lambda Functions in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mathematical Notions and Terminology in Information Theory 0.2"
+              "title": "Outgoing links from Lambda Functions in C++"
             }
           },
           {
@@ -156,8 +157,8 @@
               "type": "backlink",
               "state": {
                 "file": "3 - Main Notes/Lambda Functions in C++.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -217,12 +218,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
