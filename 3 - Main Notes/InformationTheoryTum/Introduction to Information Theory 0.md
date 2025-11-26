@@ -1,4 +1,4 @@
-tags: [[Information Theory]]
+tags: [[InformationTheoryTum]]
 
 
 - [[Automata Complexity and Computability 0.1]]

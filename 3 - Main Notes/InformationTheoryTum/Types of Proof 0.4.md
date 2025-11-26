@@ -4,7 +4,7 @@
 Status:
 
 Tags:
-- [[Information Theory]] 
+- [[InformationTheoryTum]] 
 - [[Introduction to Information Theory 0]] 
 
 

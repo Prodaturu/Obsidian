@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/OOPS in C++.md",
+                "file": "3 - Main Notes/Classes and Objects in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OOPS in C++"
+              "title": "Classes and Objects in C++"
             }
           }
         ]
@@ -238,11 +238,18 @@
   },
   "active": "e7aefa067ec91482",
   "lastOpenFiles": [
-    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
+    "Tags/OOPS in C++.md",
+    "3 - Main Notes/Classes and Objects in C++.md",
+    "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
+    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "Tags/Information Theory.md",
     "3 - Main Notes/InformationTheoryTum/Types of Proof 0.4.md",
+    "3 - Main Notes/InformationTheoryTum/Definitions, Theorems, and proofs - 0.3.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
     "3 - Main Notes/InformationTheoryTum/Mathematical Notions and Terminology in Information Theory 0.2.md",
+    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
+    "Indexes/C++.md",
     "Function Overloading.md",
-    "3 - Main Notes/OOPS in C++.md",
     "4 - Full Notes/I let you pass.md",
     "4 - Full Notes/4 - Full Notes.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
@@ -250,20 +257,13 @@
     "3 - Main Notes/Ternary Operators in C++.md",
     "3 - Main Notes/Switch Statements in C++.md",
     "3 - Main Notes/Operator precedence in C++.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0.md",
-    "Tags/Information Theory.md",
     "3 - Main Notes/Function Overloading in C++.md",
-    "Indexes/C++.md",
-    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
-    "3 - Main Notes/InformationTheoryTum/Automata Complexity and Computability 0.1.md",
-    "3 - Main Notes/InformationTheoryTum/Exercise - Introduction to Information theory 0.5.md",
     "Ternary Operators.md",
     "Indexes/Mathematics.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "5 - Templates/5 - Templates.md",
     "Operator Precedence.md",
     "Untitled.md",
-    "5 - Templates/Full Note.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
