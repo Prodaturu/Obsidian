@@ -41,6 +41,14 @@ public:
 
 #### Example:
 
+- **Class as blueprint**: `Car` class defines what all cars will have
+    
+- **Objects as instances**: `myCar` and `yourCar` are actual cars with their own data
+    
+- **Properties**: `brand`, `color`, `speed`
+    
+- **Behaviors**: `accelerate()`, `brake()`, `displayInfo()`
+
 ```C++
 
 class Car
@@ -66,11 +74,38 @@ public:
 		std::cout << brand << " " << color << " going " << speed << " kmph" << std::endl;
 	}
 	
-	//Getter methods
-	
+   // Getter methods
+    std::string getBrand() const { return brand; }
+    std::string getColor() const { return color; }
+    int getSpeed() const { return speed; }
+    
+    // Setter methods  
+    void setBrand(const std::string& newBrand) { brand = newBrand; }
+    void setColor(const std::string& newColor) { color = newColor; }
 	
 }
 
+
+int main()
+{
+	// Objects from the "Car" Class
+	Car myCar;
+	Car yourCar;
+	
+	// Use Objects
+	myCar.setBrand("Toyota");
+	myCar.setColor("Red");
+	myCar.accelerate();
+	myCar.displayInfo(); // Output: Toyota Red going 10 mph
+    
+    yourCar.setBrand("Honda");
+    yourCar.setColor("Blue");
+    yourCar.accelerate();
+    yourCar.accelerate();
+    yourCar.displayInfo();  // Output: Honda Blue going 20 mph
+    
+    return 0;
+}
 ```
 
 ## Objects:
