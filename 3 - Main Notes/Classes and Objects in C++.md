@@ -12,122 +12,159 @@
 - **Topic Tags:**
 	- [[OOPS in C++]]
 
-# Classes and Objects
+# Classes
 
-## Class
+## Definition
 
-- **Class:** Blueprint / Template that defines properties and behaviours of the objects created from that class will have
-	 
-- Created using `class` keyword
+- **Class**: A user-defined data type that acts as a blueprint for creating objects
+    
+- It bundles data (attributes) and functions (methods) that operate on that data
+    
+- Created using the `class` keyword
 
-### Syntax:
+## Access Specifiers
 
-```C++
+- **private**: Accessible only within the class (default)
+    
+- **public**: Accessible from anywhere
+    
+- **protected**: Accessible within the class and its derived classes
+
+## Basic Syntax
+
+```cpp
 class ClassName
 {
 private:
-	// Data members (attributes)
-	type member1;
-	type member2;
-
+    // Private data members and functions
+    // Accessible only within the class
+    
 public:
-	// Member Functions (methods)
-	returnType functionName1(parameters);
-	returnType functionName2(parameters);
-
-}
-
+    // Public data members and functions  
+    // Accessible from anywhere
+    
+protected:
+    // Protected members
+    // Accessible within class and derived classes
+};
 ```
 
-#### Example:
+## Class Components
 
-- **Class as blueprint**: `Car` class defines what all cars will have
-    
-- **Objects as instances**: `myCar` and `yourCar` are actual cars with their own data
-    
-- **Properties**: `brand`, `color`, `speed`
-    
-- **Behaviors**: `accelerate()`, `brake()`, `displayInfo()`
+### 1. Data Members (Attributes/Properties)
 
-```C++
+- Variables that belong to the class
+    
+- Store the state of objects
+    
 
-class Car
-{
+### 2. Member Functions (Methods/Behaviors)
+
+- Functions that belong to the class
+    
+- Define what objects can do
+
+
+## Simple Class Example
+
+```c++
+#include <iostream>
+#include <string>
+
+// Class Definition - just the blueprint
+class Student {
 private:
-	std::string brand;
-	std::string color;
-	int         speed;
-	
+    // Data members (attributes)
+    std::string name;
+    int age;
+    double gpa;
+
 public:
-	void accelerate()
-	{
-		speed += 10;
-	}
-	
-	void brake()
-	{
-		speed -= 10;
-	}
-	
-	void displayInfo()
-	{
-		std::cout << brand << " " << color << " going " << speed << " kmph" << std::endl;
-	}
-	
-   // Getter methods
-    std::string getBrand() const { return brand; }
-    std::string getColor() const { return color; }
-    int getSpeed() const { return speed; }
+    // Member function declarations
+    // These just say what students CAN do
+    void displayInfo();
+    void study(int hours);
+    void setGrade(double grade);
     
-    // Setter methods  
-    void setBrand(const std::string& newBrand) { brand = newBrand; }
-    void setColor(const std::string& newColor) { color = newColor; }
-	
-}
-
-
-int main()
-{
-	// Objects from the "Car" Class
-	Car myCar;
-	Car yourCar;
-	
-	// Use Objects
-	myCar.setBrand("Toyota");
-	myCar.setColor("Red");
-	myCar.accelerate();
-	myCar.displayInfo(); // Output: Toyota Red going 10 mph
-    
-    yourCar.setBrand("Honda");
-    yourCar.setColor("Blue");
-    yourCar.accelerate();
-    yourCar.accelerate();
-    yourCar.displayInfo();  // Output: Honda Blue going 20 mph
-    
-    return 0;
-}
-```
-
-## Objects:
-
-- 
-
-### Creating an Object
-
-```C++
-
-class ExampleClass
-{
-public:
-	int    num;
-	strinf str;
+    // Getter function declarations
+    std::string getName();
+    int getAge();
+    double getGPA();
 };
 
 ```
 
+## Class Implementation
 
+```cpp
+// Implementing the member functions
+// This is where we define WHAT the functions actually do
 
+void Student::displayInfo() {
+    std::cout << "Name: " << name << std::endl;
+    std::cout << "Age: " << age << std::endl;
+    std::cout << "GPA: " << gpa << std::endl;
+}
 
+void Student::study(int hours) {
+    std::cout << name << " is studying for " << hours << " hours" << std::endl;
+}
+
+void Student::setGrade(double grade) {
+    gpa = grade;
+}
+
+std::string Student::getName() {
+    return name;
+}
+
+int Student::getAge() {
+    return age;
+}
+
+double Student::getGPA() {
+    return gpa;
+}
+```
+
+## Key Points About Classes
+
+- A class is just a **template** - it doesn't store actual data
+    
+- No memory is allocated when we define a class
+    
+- The class defines **what** properties and behaviors its future objects will have
+    
+- We can think of a class like a "cookie cutter" - it defines the shape but isn't a cookie itself
+    
+
+---
+
+# Objects
+
+## Definition
+
+- **Object**: An actual instance of a class
+    
+- When we create an object, memory is allocated for its data members
+    
+- Each object has its own copy of the class's data members
+    
+
+## Creating Objects
+
+```cpp
+
+// Now we create actual objects from the Student class
+int main() {
+    // Creating objects (instances) of Student class
+    Student student1;  // student1 is an object
+    Student student2;  // student2 is another object
+    
+    // Each object has its own separate data
+    // We'll learn how to use them in the next section
+}
+```
 # References
 
 
