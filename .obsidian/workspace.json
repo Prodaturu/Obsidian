@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Encapsulation in C++.md",
+                "file": "3 - Main Notes/Friend Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encapsulation in C++"
+              "title": "Friend Functions in C++"
             }
           }
         ],
@@ -263,9 +263,10 @@
   },
   "active": "1a9cef24da366409",
   "lastOpenFiles": [
+    "3 - Main Notes/Encapsulation in C++.md",
+    "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/Access Specifiers in C++.md",
     "5 - Templates/Title.md",
-    "3 - Main Notes/Encapsulation in C++.md",
     "3 - Main Notes/Constructor Overloading in C++.md",
     "Methods in C++.md",
     "3 - Main Notes/Classes and Objects in C++.md",
@@ -289,7 +290,6 @@
     "5 - Templates/5 - Templates.md",
     "Tags/Information Theory.md",
     "Function Overloading.md",
-    "Tags/OOPS in C++.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
