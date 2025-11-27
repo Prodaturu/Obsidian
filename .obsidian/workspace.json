@@ -35,24 +35,10 @@
             "id": "1a9cef24da366409",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methods in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Methods in C++"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -264,6 +250,8 @@
   },
   "active": "1a9cef24da366409",
   "lastOpenFiles": [
+    "3 - Main Notes/Untitled.md",
+    "Indexes/C++.md",
     "3 - Main Notes/Classes and Objects in C++.md",
     "Methods in C++.md",
     "4 - Full Notes/I let you pass.md",
@@ -285,12 +273,10 @@
     "Tags/Information Theory.md",
     "Function Overloading.md",
     "Tags/OOPS in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Lambda Functions in C++.md",
     "3 - Main Notes/Ternary Operators in C++.md",
     "3 - Main Notes/Switch Statements in C++.md",
-    "3 - Main Notes/Operator precedence in C++.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
