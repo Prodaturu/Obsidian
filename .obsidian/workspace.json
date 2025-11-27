@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Access Specifiers in C++.md",
+                "file": "3 - Main Notes/C++/Function Overloading in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Access Specifiers in C++"
+              "title": "Function Overloading in C++"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Encapsulation in C++.md",
+                "file": "3 - Main Notes/C++/Encapsulation in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -301,15 +301,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "b557eba817c13be9",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Encapsulation in C++.md",
+    "3 - Main Notes/C++/Function Overloading in C++.md",
+    "3 - Main Notes/Friend Functions in C++.md",
+    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Tags/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "3 - Main Notes/Encapsulation in C++.md",
-    "3 - Main Notes/Friend Functions in C++.md",
-    "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++",
