@@ -22,7 +22,7 @@
 
 - `returnType operator_symbol (parameters) {// Implementation}`
 	- returnType $\Rightarrow$ What the operator returns
-	- operator_symbol $\Rightarrow$ Operator being overloaded
+	- operator_symbol $\Rightarrow$ Operator being overloaded / defined for
 		- The operator when used on the `class`; 
 		- would do what is defined within the `//Implementation`
 	- parameters $\Rightarrow$ Right hand operand
