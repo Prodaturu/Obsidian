@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Friend Functions in C++.md",
+                "file": "3 - Main Notes/C++/Function Overloading in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Friend Functions in C++"
+              "title": "Function Overloading in C++"
             }
           }
         ],
@@ -304,6 +304,7 @@
   },
   "active": "0b5064db422426f2",
   "lastOpenFiles": [
+    "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/Encapsulation in C++.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
@@ -318,7 +319,6 @@
     "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
-    "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/Constructor Overloading in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",

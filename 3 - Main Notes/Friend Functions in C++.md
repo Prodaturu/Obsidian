@@ -7,7 +7,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	
+	- [[Encapsulation in C++]]
 
 - **Topic Tags:**
 	- 
