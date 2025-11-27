@@ -13,6 +13,7 @@
 	- [[Function Overloading in C++]]
 	- [[Friend Functions in C++]]
 	- [[Methods in C++]]
+	- [[Virtual Functions in C++]]
 
 
 # Functions in C++

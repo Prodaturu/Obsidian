@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -378,14 +378,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e592a9dd27c08f5c",
+  "active": "f50ae312d4bcc7f0",
   "lastOpenFiles": [
-    "Abstract Classes in C++.md",
+    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
+    "Abstract Classes in C++.md",
     "Tags/C++ Language Features.md",
     "Virtual Functions in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
-    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
     "Tags/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
