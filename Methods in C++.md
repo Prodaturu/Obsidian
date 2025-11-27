@@ -76,7 +76,7 @@ void MyClass::myMethod()
 
 ### Complete Examples of both scenarios
 
-#### Inline:
+#### Inside class Definition:
 ```cpp
 #include <iostream>
 using namespace std;
@@ -99,10 +99,14 @@ public:
 int main()
 {
 	Calculator calc;
-	cout << calc.add(5)
+	cout << calc.add(5, 3);
+	cout << calc.multiply(4, 2);
+	return 0;
 }
 
 ```
+
+#### Outside class Definition
 
 
 # References
