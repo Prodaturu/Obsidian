@@ -10,7 +10,7 @@
 	- [[Function Overloading]]
 
 - **Topic Tags:**
-	- [[C++]]
+	- 
 
 # Function Overloading
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Classes and Objects in C++.md",
+                "file": "Tags/Classes and Objects in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Access Specifiers in C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,27 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Access Specifiers in C++"
+              "title": "C++ Language Features"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8d36bd1751fa989e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b557eba817c13be9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,35 +278,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1a9cef24da366409",
+  "active": "b557eba817c13be9",
   "lastOpenFiles": [
-    "3 - Main Notes/Methods in C++.md",
-    "Operator Precedence.md",
-    "3 - Main Notes/Encapsulation in C++.md",
-    "3 - Main Notes/Friend Functions in C++.md",
-    "Tags/OOPS in C++.md",
-    "3 - Main Notes/Access Specifiers in C++.md",
-    "5 - Templates/Title.md",
-    "3 - Main Notes/Constructor Overloading in C++.md",
-    "3 - Main Notes/Classes and Objects in C++.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/Function Overloading in C++.md",
     "Indexes/C++.md",
+    "Tags/OOPS in C++.md",
+    "3 - Main Notes/C++",
+    "3 - Main Notes/Ternary Operators in C++.md",
+    "3 - Main Notes/Switch Statements in C++.md",
+    "3 - Main Notes/Operator precedence in C++.md",
+    "3 - Main Notes/Methods in C++.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "3 - Main Notes/Lambda Functions in C++.md",
+    "3 - Main Notes/Friend Functions in C++.md",
+    "3 - Main Notes/Encapsulation in C++.md",
     "3 - Main Notes/Constructors in C++.md",
+    "3 - Main Notes/Constructor Overloading in C++.md",
+    "Tags/Classes and Objects in C++.md",
+    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
+    "3 - Main Notes/Access Specifiers in C++.md",
+    "Operator Precedence.md",
+    "5 - Templates/Title.md",
     "4 - Full Notes/I let you pass.md",
     "4 - Full Notes/4 - Full Notes.md",
     "4 - Full Notes/Interview Prep.md",
     "Ternary Operators.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Automata Complexity and Computability 0.1.md",
-    "Introduction to Information Theory 00.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Definitions, Theorems, and proofs - 0.3.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Types of Proof 0.4.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 00.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
-    "5 - Templates/5 - Templates.md",
-    "Tags/Information Theory.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
@@ -301,7 +318,6 @@
     "4 - Full Notes",
     "2 - Source Material/Books",
     "3 - Main Notes",
-    "5 - Templates",
-    "Indexes"
+    "5 - Templates"
   ]
 }

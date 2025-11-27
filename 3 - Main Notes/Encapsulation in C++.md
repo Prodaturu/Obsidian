@@ -10,8 +10,7 @@
 	- 
 
 - **Topic Tags:**
-	- [[OOPS in C++]]
-	- [[Classes and Objects in C++]]
+	- 
 
 # Encapsulation
 

@@ -11,7 +11,7 @@
 	- 
 
 - **Topic Tags:**
-	- [[C++]]
+	- 
 
 # Switch statement
 

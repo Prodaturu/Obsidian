@@ -9,11 +9,9 @@
 - **Relevance Links:**
 	- 
 
-- **Topic Tags:**
-	- [[Classes and Objects in C++]]
-	  
-	  **Sub Tags:**
-		- [[Encapsulation in C++]]
+- **Topic Tags:**  
+	- 
+
 
 
 # Access Specifiers

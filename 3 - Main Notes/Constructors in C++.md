@@ -10,7 +10,7 @@
 	- 
 
 - **Topic Tags:**
-	- [[Classes and Objects in C++]]
+	- 
 
 # Constructors
 

@@ -10,7 +10,7 @@
 	- 
 
 - **Topic Tags:**
-	- [[C++]]
+	- 
 
 
 # References

@@ -3,7 +3,9 @@
 **Status:** #teen 
 
 **Tags:**
--  
+- [[C++ Language Features]]
+- [[Classes and Objects in C++]]
+- [[OOPS in C++]]
 
 # Related Links
 

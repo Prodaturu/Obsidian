@@ -7,12 +7,11 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- [[Ternary Operators]]
-	- [[if else statements]]
 	- 
 
+
 - **Topic Tags:**
-	- [[C++]]
+	- 
 
 # Ternary Operator
 

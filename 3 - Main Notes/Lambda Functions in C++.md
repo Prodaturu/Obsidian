@@ -10,7 +10,7 @@
 	- [[Lambda Functions]]
 
 - **Topic Tags:**
-	- [[C++]]
+	- 
 
 
 # Lambda Functions

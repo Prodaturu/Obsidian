@@ -2,7 +2,7 @@ status: #adult
 
 hashtags:
 
-links: [[Latex]] 
+links: 
 
 # LaTeX Symbols
 

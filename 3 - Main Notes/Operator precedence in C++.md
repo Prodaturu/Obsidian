@@ -7,12 +7,11 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- [[Operator Precedence]]
+	- 
 	- 
 
 - **Topic Tags:**
-	- [[C++]]
-
+	- 
 # Operator Precedence 
 [# C++ Operator Precedence](https://www.w3schools.com/cpp/cpp_operators_precedence.asp)
 
