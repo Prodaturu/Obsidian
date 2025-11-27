@@ -7,7 +7,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- [[Friend Functions in C++]]
 
 - **Topic Tags:**
 	- 
