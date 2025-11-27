@@ -7,10 +7,10 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- [[Encapsulation in C++]]
+	
 
 - **Topic Tags:**
-	- [[Classes and Objects in C++]]
+	- [[OOPS in C++]]
 
 
 # Friend Functions
