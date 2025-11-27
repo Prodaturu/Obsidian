@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operators in C++"
+              "title": "Operator Overloading in C++"
             }
           },
           {
@@ -80,8 +80,7 @@
               "title": "Operator Overloading in C++"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "726ee264e4d10a4a",
@@ -180,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ternary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +200,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -330,15 +328,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a44285b8ba83bf8",
+  "active": "6f6d6f0d555f9cd7",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",

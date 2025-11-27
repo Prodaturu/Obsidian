@@ -14,7 +14,11 @@
 
 # Operator Overloading in C++
 
-- sad
+- Giving user-defined types the ability to use C++ operators with custom behaviour
+
+## Syntax
+
+- `returnType operator symbol (parameters) {// Implementation}`
 
 
 # References
