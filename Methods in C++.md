@@ -31,7 +31,19 @@
 
 #### Example:
 
+```cpp
 
+class MyClass
+{
+public:
+	// Method defined Inside the class
+	void myMethod()
+	{
+		cout << "Hello World!";
+	}
+}
+
+```
 
 
 
