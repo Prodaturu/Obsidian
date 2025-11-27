@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,7 +108,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "LaTeX symbols Cheat Sheet"
             }
           },
           {
@@ -121,8 +121,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -328,12 +327,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6f6d6f0d555f9cd7",
+  "active": "58155b432011ab03",
   "lastOpenFiles": [
+    "Tags/Latex.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
@@ -343,7 +344,6 @@
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
@@ -356,7 +356,6 @@
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/C++",
-    "3 - Main Notes/C++/Operator precedence in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",

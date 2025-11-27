@@ -13,13 +13,16 @@
 
 # Operator Overloading in C++
 
-- Giving user-defined types the ability to use C++ operators with custom behaviour
+- Extending the functionality of existing C++ operators to work with custom class objects in a meaningful way
+- Making operators like `+`, `-`, `==`, etc., work with your own classes
+	- by defining what these operations should do for your specific data types.
+
 
 ## Syntax
 
 - `returnType operator_symbol (parameters) {// Implementation}`
-- Example:
-	- 
+	- returnType $\rarr$ 
+
 
 # References
 
