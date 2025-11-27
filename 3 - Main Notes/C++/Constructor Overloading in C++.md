@@ -69,11 +69,9 @@ int main()
 	 return 0;
 }
 
-%% 
 // Car1: Unknown Unknown  
 // Car2: BMW X5  
 // Car3: Ford Mustang
-%%
 
 ```
 
