@@ -89,10 +89,24 @@
             "id": "b557eba817c13be9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Encapsulation in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Encapsulation in C++"
             }
           }
         ]
@@ -304,11 +318,11 @@
   },
   "active": "b557eba817c13be9",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
-    "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Tags/Classes and Objects in C++.md",
