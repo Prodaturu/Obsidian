@@ -25,7 +25,8 @@
 
 ### 1. Inside Class Definition (Inline Methods)
 
-- Method is *declared and defined* directly *inside the class declaration*
+- Method is 
+	- *declared and defined* directly *inside the class declaration*
     
 - Suitable for short, simple functions
 
@@ -47,8 +48,10 @@ public:
 ### 2. Outside Class Definition
 
 - Method is
-	- defined inside the c
-
+	- declared inside the class
+	- defined outside
+	  
+- 
 
 # References
 
