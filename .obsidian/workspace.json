@@ -6,7 +6,7 @@
       {
         "id": "88b8da4a0ba65a29",
         "type": "tabs",
-        "dimension": 41.3894324853229,
+        "dimension": 41.38943248532289,
         "children": [
           {
             "id": "f8b1fe90ed7958f3",
@@ -134,7 +134,7 @@
       {
         "id": "7027a0c82856ee93",
         "type": "tabs",
-        "dimension": 58.6105675146771,
+        "dimension": 58.61056751467711,
         "children": [
           {
             "id": "9253ff698948b0ea",
@@ -185,6 +185,16 @@
             }
           },
           {
+            "id": "2f0787e903511ff1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "d9b06b0d2f7cac7f",
             "type": "leaf",
             "state": {
@@ -209,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,7 +288,7 @@
             }
           },
           {
-            "id": "b9342f4b0b636d5a",
+            "id": "060242b68762dd64",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -288,7 +298,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -416,10 +426,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee6ab20699b9ae92",
+  "active": "2f0787e903511ff1",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Inheritance in C++.md",
     "Polymorphism in C++.md",
+    "3 - Main Notes/C++/Inheritance in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
