@@ -6,7 +6,6 @@
       {
         "id": "88b8da4a0ba65a29",
         "type": "tabs",
-        "dimension": 41.38943248532289,
         "children": [
           {
             "id": "f8b1fe90ed7958f3",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Function Overloading in C++.md",
+                "file": "Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Function Overloading in C++"
+              "title": "Polymorphism in C++"
             }
           },
           {
@@ -128,98 +127,7 @@
               "title": "Title"
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "7027a0c82856ee93",
-        "type": "tabs",
-        "dimension": 58.61056751467711,
-        "children": [
-          {
-            "id": "9253ff698948b0ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/OOPS in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "OOPS in C++"
-            }
-          },
-          {
-            "id": "ee6ab20699b9ae92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymorphism in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Polymorphism in C++"
-            }
-          },
-          {
-            "id": "2f0787e903511ff1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d9b06b0d2f7cac7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Inheritance in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inheritance in C++"
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -426,21 +334,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2f0787e903511ff1",
+  "active": "f8b1fe90ed7958f3",
   "lastOpenFiles": [
-    "Polymorphism in C++.md",
+    "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
+    "Polymorphism in C++.md",
     "Tags/OOPS in C++.md",
+    "5 - Templates/Title.md",
+    "5 - Templates/5 - Templates.md",
+    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "4 - Full Notes/Interview Prep.md",
     "1 - Rough Notes/I let you pass.md",
     "Tags/C++ Language Features.md",
-    "5 - Templates/Title.md",
     "Vault.md",
-    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
-    "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
@@ -454,7 +363,6 @@
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "Operator Precedence.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",

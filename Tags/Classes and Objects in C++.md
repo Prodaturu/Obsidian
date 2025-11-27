@@ -7,7 +7,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- [[OOPS in C++]]
+	- OOPS in C++
 
 - **Topic Tags:**
 	- [[Constructors in C++]]
