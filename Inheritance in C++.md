@@ -215,13 +215,14 @@ int main()
 	 - can resolve the Ambiguity from Multi-Inheritance
 
 ```cpp
-class A { public: void show() {} };
-class B { public: void show() {} };
-class C : public A, public B { };
+class ClassA { public: void show() {cout << "from A" << endl};};
+class ClassB { public: void show() {cout << "from A" << endl};};
+class ClassC : public A, public B {};
 
-C obj;
-obj.A::show();  // Explicitly specify which base class
-obj.B::show();
+ClassC obj;
+// Explicitly specify which base class
+obj.ClassA::show();
+obj.ClassB::show();
 ```
 
 
