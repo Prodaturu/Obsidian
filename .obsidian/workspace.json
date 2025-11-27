@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "f556e4e21f16ef67",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "1a9cef24da366409",
             "type": "leaf",
             "state": {
@@ -272,7 +262,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f556e4e21f16ef67",
+  "active": "1a9cef24da366409",
   "lastOpenFiles": [
     "Methods in C++.md",
     "3 - Main Notes/Classes and Objects in C++.md",

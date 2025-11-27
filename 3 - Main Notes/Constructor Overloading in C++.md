@@ -17,6 +17,20 @@
 ## Definition:
 
 - Can have more than one constructor in same class
+	- This is called as **Constructor Overloading**
+	  
+- Each constructor must have 
+	- Different number of parameters or
+	- Different type of parameters
+	
+- The compiler knows which one to use when creating an object
+
+
+## Why Use Constructor Overloading?
+
+- To give flexibility when creating objects
+- To set default or custom values
+- To reduce repetitive code
 
 
 # References
