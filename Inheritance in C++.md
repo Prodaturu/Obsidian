@@ -66,6 +66,9 @@ int main()
 	- reuse attributes and methods of existing class
 	- Directly when creating a new Class
 
+# Multi - level Inheritance
+
+- Class can also be derived from a class that's derived from another class
 
 # References
 
