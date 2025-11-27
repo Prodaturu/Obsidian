@@ -11,8 +11,7 @@
 
 - **Topic Tags:**
 	- [[Switch Statements in C++]]
-	- [[Ternary Operators in C++]]
-	- [[Operator precedence in C++]]
+	- [[Operators in C++]]
 	- [[Functions in C++]]
 	- C++
 
