@@ -118,8 +118,12 @@ class Calculator
 private:
 	// only Declarations inside the class
 	int add(int a, int b);
-	int multipl
-	
+	int multiply(int a, int b);
+}
+
+
+int main()
+{
 	
 }
 
