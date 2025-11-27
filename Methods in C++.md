@@ -36,7 +36,7 @@
 class MyClass
 {
 public:
-	// Method defined Inside the class
+	// Method declared & defined Inside the class
 	void myMethod()
 	{
 		cout << "Hello World!";
@@ -51,6 +51,8 @@ public:
 	- declared inside the class
 	- defined outside
 	  
+- Uses the **Scope resolution Operator** `::`
+- 
 - 
 
 # References
