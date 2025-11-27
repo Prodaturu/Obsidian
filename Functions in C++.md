@@ -37,7 +37,7 @@
 ### Syntax
 
 ```cpp
-void _myFunction_()
+void myFunction()
 {  
   // code to be executed  
 }  
@@ -61,7 +61,7 @@ void _myFunction_()
 	
 - In the following example, `myFunction()` is used to print a text (the action), when it is called
 
-### Example
+### Example 1
 
 ```cpp
 Inside `main`, call `myFunction()`:
@@ -72,7 +72,7 @@ void myFunction() {
 }  
   
 int main() {  
-  **myFunction();** // call the function  
+  myFunction(); // call the function  
   return 0;  
 }  
   
@@ -81,7 +81,7 @@ int main() {
 
 - A function can be called multiple times:
 
-### Example
+### Example 2
 
 ```cpp
 void myFunction() {  
