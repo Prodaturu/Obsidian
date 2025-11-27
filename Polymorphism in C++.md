@@ -46,7 +46,12 @@ class Vector
 - **Constructor Overloading**
 	- Multiple constructors with different parameters
 
-### 2. Runtime Polymorphism
+### 2. Runtime Polymorphism (Dynamic / Late Binding)
+
+- Resolved during runtime
+- **Function Overloading:**
+	- 
+
 
 
 # References
