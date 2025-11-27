@@ -3,9 +3,8 @@
 **Status:** #baby 
 
 **Hashtags:**
-- #cpp 
-- #my42
-
+- 
+  
 **Links / Tags:** 
 - **Relevance Links:**
 
