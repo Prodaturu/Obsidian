@@ -7,7 +7,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- [[Lambda Functions]]
+	- 
 
 - **Topic Tags:**
 	- 

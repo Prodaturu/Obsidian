@@ -92,10 +92,24 @@
             "id": "8a44285b8ba83bf8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Switch Statements in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Switch Statements in C++"
             }
           }
         ],
@@ -156,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Operator Overloading\"",
+                "query": "tag:#baby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +191,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -305,9 +320,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a44285b8ba83bf8",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Switch Statements in C++.md",
+    "3 - Main Notes/C++/Lambda Functions in C++.md",
+    "Indexes/C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
@@ -327,13 +345,10 @@
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
-    "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Operator precedence in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
-    "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
