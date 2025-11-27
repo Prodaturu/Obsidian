@@ -11,6 +11,7 @@
 
 - **Topic Tags:**
 	- [[Constructors in C++]]
+	- [[Methods in C++]]
 	- 
 
 # Classes
