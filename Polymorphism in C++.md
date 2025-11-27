@@ -48,7 +48,7 @@ class Vector
 
 ### 2. Runtime Polymorphism (Dynamic / Late Binding)
 
-- Resolved during runtime
+- Resolved during **Runtime**
 - **Function Overloading:**
 	- 
 
