@@ -6,7 +6,7 @@
       {
         "id": "88b8da4a0ba65a29",
         "type": "tabs",
-        "dimension": 57.688540646425075,
+        "dimension": 36.10878661087866,
         "children": [
           {
             "id": "656aeafce207fc40",
@@ -56,13 +56,12 @@
               "title": "Friend Functions in C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "726ee264e4d10a4a",
         "type": "tabs",
-        "dimension": 42.31145935357491,
+        "dimension": 63.89121338912134,
         "children": [
           {
             "id": "58155b432011ab03",
@@ -98,7 +97,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -305,11 +306,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d7c12676663047dc",
+  "active": "8a44285b8ba83bf8",
   "lastOpenFiles": [
-    "Tags/Classes and Objects in C++.md",
-    "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
+    "3 - Main Notes/C++/Friend Functions in C++.md",
+    "Abstract Classes in C++.md",
+    "Virtual Functions in C++.md",
+    "Tags/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
@@ -331,8 +334,6 @@
     "5 - Templates/5 - Templates.md",
     "4 - Full Notes/Interview Prep.md",
     "1 - Rough Notes/I let you pass.md",
-    "Vault.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
