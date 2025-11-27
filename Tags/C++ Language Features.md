@@ -13,9 +13,9 @@
 	- [[Switch Statements in C++]]
 	- [[Ternary Operators in C++]]
 	- [[Operator precedence in C++]]
-	- [[Lambda Functions in C++]]
-	- [[Function Overloading in C++]]
+	- [[Functions in C++]]
 	- C++
+
 
 
 # C++ Language Features

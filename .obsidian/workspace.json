@@ -81,7 +81,63 @@
             }
           },
           {
+            "id": "898f4d91b8136a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functions in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Functions in C++"
+            }
+          },
+          {
             "id": "b557eba817c13be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Templates/Title.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Title"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "7027a0c82856ee93",
+        "type": "tabs",
+        "dimension": 58.6105675146771,
+        "children": [
+          {
+            "id": "9253ff698948b0ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,24 +158,6 @@
               },
               "icon": "lucide-file",
               "title": "C++ Language Features"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "7027a0c82856ee93",
-        "type": "tabs",
-        "dimension": 58.6105675146771,
-        "children": [
-          {
-            "id": "9253ff698948b0ea",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -179,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"OOPS in C++\"",
+                "query": "Title",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,8 +238,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -329,15 +366,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9253ff698948b0ea",
+  "active": "898f4d91b8136a2f",
   "lastOpenFiles": [
     "Tags/C++ Language Features.md",
+    "Functions in C++.md",
+    "5 - Templates/Title.md",
+    "Vault.md",
     "Tags/OOPS in C++.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "5 - Templates/Title.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
@@ -355,9 +394,6 @@
     "4 - Full Notes/I let you pass.md",
     "4 - Full Notes/4 - Full Notes.md",
     "4 - Full Notes/Interview Prep.md",
-    "Ternary Operators.md",
-    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
