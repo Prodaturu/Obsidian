@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "Tags/Classes and Objects in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "Classes and Objects in C++"
             }
           }
         ],
@@ -278,10 +278,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "1a9cef24da366409",
   "lastOpenFiles": [
-    "Tags/Classes and Objects in C++.md",
     "Tags/C++ Language Features.md",
+    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "Indexes/C++.md",
     "Tags/OOPS in C++.md",
@@ -291,7 +291,7 @@
     "3 - Main Notes/C++/Operator precedence in C++.md",
     "3 - Main Notes/Methods in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-    "3 - Main Notes/Lambda Functions in C++.md",
+    "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/Encapsulation in C++.md",
     "3 - Main Notes/Constructors in C++.md",
