@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Function Overloading in C++.md",
+                "file": "3 - Main Notes/Friend Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Function Overloading in C++"
+              "title": "Friend Functions in C++"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8d36bd1751fa989e",
@@ -302,14 +301,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0b5064db422426f2",
+  "active": "f8b1fe90ed7958f3",
   "lastOpenFiles": [
-    "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/Encapsulation in C++.md",
+    "3 - Main Notes/Friend Functions in C++.md",
+    "3 - Main Notes/C++/Function Overloading in C++.md",
+    "Tags/C++ Language Features.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
-    "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/Function Overloading in C++.md",
     "Indexes/C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++",
