@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Functions in C++.md",
+                "file": "3 - Main Notes/C++/Access Specifiers in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Functions in C++"
+              "title": "Access Specifiers in C++"
             }
           },
           {
@@ -242,7 +242,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Title",
+                "query": "Access",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,7 +263,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -391,11 +392,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "898f4d91b8136a2f",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "4 - Full Notes/Interview Prep.md",
-    "3 - Main Notes/C++/Functions in C++.md",
     "1 - Rough Notes/I let you pass.md",
     "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
