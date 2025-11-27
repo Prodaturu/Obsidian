@@ -20,6 +20,17 @@
 	- Organise code
 	- So only the right parts can be seen or changed
 
+
+## Using Access Specifiers
+
+- `public` keyword is an **access specifier**
+- 
+
+
+
+
+
+
 # References
 
 
