@@ -7,12 +7,13 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
+	- OOPS in C++
 
 - **Topic Tags:**
-	- OOPS in C++
 	- [[Function Overloading in C++]]
 	- [[Operator Overloading in C++]]
-	- 
+	- [[Virtual Functions in C++]]
+	- [[Abstract Classes in C++]]
 
 
 # Polymorphism
@@ -67,6 +68,27 @@ public:
         cout << "Animal speaks" << endl;
     }
 };
+
+class Dog : public Animal
+{
+public:
+	// OVERRIDE - replaces parent's implementation
+	void speak() override
+	{
+		cout << "Woof! Woof!" << endl;
+	}
+};
+
+class Cat : public Animal
+{
+public:
+	void speak() override {
+        cout << "Meow!" << endl;
+    }
+};
+
+
+
 ```
 
 

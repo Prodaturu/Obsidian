@@ -13,7 +13,8 @@
 	- [[Constructors in C++]]
 	- [[Methods in C++]]
 	- [[Access Specifiers in C++]]
-	- [[Friend Functions in C++]]
+	- [[Abstract Classes in C++]]
+
 
 # Classes
 
