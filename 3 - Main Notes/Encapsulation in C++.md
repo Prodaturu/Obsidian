@@ -14,6 +14,13 @@
 
 # Encapsulation
 
+- **Definition:**
+	- Bundling data and methods that operate on that data within a single unit (class),
+	- while restricting direct access to some of the object's components.
+
+
+### Benefits of Encapsulation
+
 - Helps making sure that "sensitive" data is hidden from users
 - To achieve this,
 	- class variables/attributes must be declared `private` 
