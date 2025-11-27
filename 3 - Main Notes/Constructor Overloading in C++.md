@@ -12,7 +12,11 @@
 - **Topic Tags:**
 	- [[Classes and Objects in C++]]
 
-# MainHeading
+# Constructor Overloading
+
+## Definition:
+
+- Can have more than one constructor in same class
 
 
 # References

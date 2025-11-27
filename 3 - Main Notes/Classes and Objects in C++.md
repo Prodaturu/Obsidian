@@ -207,7 +207,6 @@ int main()
 
 # Next Topic:
 
-- [[Methods in C++]]
 
 ---
 ---
