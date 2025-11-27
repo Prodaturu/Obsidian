@@ -76,8 +76,14 @@ void MyClass::myMethod()
 
 ### Complete Examples of both scenarios
 
-##
+#### Inline:
 ```cpp
+#include <iostream>
+using namespace std;
+
+class Calculator
+{}
+
 
 ```
 
