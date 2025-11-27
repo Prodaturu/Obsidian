@@ -11,6 +11,7 @@
 - **Topic Tags:**
 	- [[Lambda Functions in C++]]
 	- [[Function Overloading in C++]]
+	- [[Friend Functions in C++]]
 
 
 # Functions in C++

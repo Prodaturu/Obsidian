@@ -164,24 +164,10 @@
             "id": "d9b06b0d2f7cac7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inheritance in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inheritance in C++"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -393,8 +379,8 @@
   },
   "active": "d9b06b0d2f7cac7f",
   "lastOpenFiles": [
-    "Functions in C++.md",
     "Inheritance in C++.md",
+    "Functions in C++.md",
     "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
     "5 - Templates/Title.md",
