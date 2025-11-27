@@ -33,6 +33,32 @@
 - To reduce repetitive code
 
 
+## Example: Constructor with multiple Operators
+
+```cpp
+
+class Car
+{
+public:
+	string _brand;
+	string _model;
+	
+	Car()
+	{
+		_brand = "unknown";
+		_model = "unknown";
+	}
+	
+	Car(string brand, string model)
+	{
+		_brand = brand;
+		_model = model;
+	}
+}
+
+```
+
+
 # References
 
 
