@@ -13,8 +13,11 @@
 
 # Abstract Classes
 
-- Serve as Blueprints for other Classes
-- define an interface the derived classes must implement
+- **Definition**
+	- Classes that **cannot be instantiated**
+	- serve as interfaces for derived classes
+- **Purpose**
+	- Force derived classes to implement specific functionality
 
 
 # References
