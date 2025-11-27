@@ -147,7 +147,6 @@ delete ptr;  // Calls both Derived THEN Base destructor
 ### Without Virtual (Static Binding)
 
 ```cpp
-
 Base* ptr = new Derived();
 ptr->show();  // Calls Base::show() always
 ```
@@ -155,7 +154,6 @@ ptr->show();  // Calls Base::show() always
 ### With Virtual (Dynamic Binding)
 
 ```cpp
-
 Base* ptr = new Derived();
 ptr->show();  // Calls Derived::show() - checks actual object type
 ```
