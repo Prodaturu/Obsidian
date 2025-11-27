@@ -21,7 +21,26 @@
 ## Syntax
 
 - `returnType operator_symbol (parameters) {// Implementation}`
-	- returnType $\rarr$ 
+	- returnType $\Rightarrow$ What the operator returns
+	- operator_symbol $\Rightarrow$ Operator being overloaded
+		- The operator when used on the `class`; 
+		- would do what is defined within the `//Implementation`
+	- parameters $\Rightarrow$ Right hand operand
+
+## Examples
+
+```cpp
+
+// returnType = `Car&`; operator_symbol = `=`; parameters = "(const Car& other)"
+Car& operator=(const Car &other) {}
+
+// returnType = `Vector`, operator_symbol = `+`, parameters = `(const Vector& other)`  
+Vector operator+(const Vector& other) { }
+
+// returnType = `bool`, operator_symbol = `==`, parameters = `(const Date& other)`
+bool operator==(const Date& other) { }
+```
+
 
 
 # References
