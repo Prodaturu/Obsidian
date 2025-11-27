@@ -84,7 +84,7 @@ using namespace std;
 class Calculator
 {
 public:
-	// Methods defined inside class
+	// Methods Declared and Defined inside class
 	int add(int a, int b)
 	{
 		return (a + b);
@@ -116,7 +116,10 @@ using namespace std;
 class Student
 {
 private:
-	// 
+	// only Declarations inside the class
+	int add(int a, int b)
+	{
+	}
 }
 
 ```
