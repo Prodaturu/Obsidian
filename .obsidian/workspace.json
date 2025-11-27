@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Inherit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,8 +215,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -345,8 +344,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f50ae312d4bcc7f0",
+  "active": "439fbff25c5d9282",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
@@ -372,7 +372,6 @@
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "5 - Templates/5 - Templates.md",
     "4 - Full Notes/Interview Prep.md",
-    "1 - Rough Notes/I let you pass.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",

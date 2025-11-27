@@ -16,6 +16,7 @@
 - **Definition**
 	- Classes that **cannot be instantiated**
 	- serve as interfaces for derived classes
+	
 - **Purpose**
 	- Force derived classes to implement specific functionality
 
