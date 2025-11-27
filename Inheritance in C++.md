@@ -72,7 +72,7 @@ int main()
 	
 - Class A -> Class B (Intermediate - derived from A) -> Class C (Most derived - derived from B)
 
-### Key Points
+## Key Points
 
 - Chain of Inheritance:
 	- A -> B -> C
