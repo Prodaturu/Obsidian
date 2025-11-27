@@ -11,13 +11,52 @@
             "id": "f8b1fe90ed7958f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Classes and Objects in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Classes and Objects in C++"
+            }
+          },
+          {
+            "id": "778b50a911e04957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methods in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Methods in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,23 +80,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "a06f93e79f7627a4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "[\"sticker\"]",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -95,7 +117,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,8 +245,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8b1fe90ed7958f3",
+  "active": "7a82cb2bcbd3df47",
   "lastOpenFiles": [
+    "Methods in C++.md",
+    "3 - Main Notes/Classes and Objects in C++.md",
     "4 - Full Notes/I let you pass.md",
     "4 - Full Notes/4 - Full Notes.md",
     "4 - Full Notes/Interview Prep.md",
@@ -242,7 +267,6 @@
     "5 - Templates/5 - Templates.md",
     "Tags/Information Theory.md",
     "Function Overloading.md",
-    "3 - Main Notes/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
@@ -250,7 +274,6 @@
     "3 - Main Notes/Ternary Operators in C++.md",
     "3 - Main Notes/Switch Statements in C++.md",
     "3 - Main Notes/Operator precedence in C++.md",
-    "3 - Main Notes/Function Overloading in C++.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",

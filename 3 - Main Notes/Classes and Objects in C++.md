@@ -205,13 +205,15 @@ int main()
 ```
 
 
+# Next Topic:
+
+- [[Methods in C++]]
+
 ---
 ---
 # References
 
 ## Closely Related Notes
 
-### Next:
-
-### Prev:
+### Next: 
 
