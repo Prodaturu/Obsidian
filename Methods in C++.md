@@ -25,7 +25,7 @@
 
 ### 1. Inside Class Definition (Inline Methods)
 
-- Method is defined directly inside the class declaration
+- Method is *declared and defined* directly *inside the class declaration*
     
 - Suitable for short, simple functions
 
@@ -46,7 +46,8 @@ public:
 
 ### 2. Outside Class Definition
 
-- Metho
+- Method is
+	- defined inside the c
 
 
 # References
