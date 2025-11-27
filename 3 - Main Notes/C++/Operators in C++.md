@@ -59,6 +59,8 @@ a += 2;                 // Assignment
 - You might be wondering why we used `->` in the examples above.
 - The `->` operator is used to access members (like functions or variables) through a [pointer](https://www.w3schools.com/cpp/cpp_pointers.asp).
 - It's a shortcut for writing `(*pointer).member`
+- - If using a pointer to an object
+	- `->` is used to access its members.
 
 # References
 
