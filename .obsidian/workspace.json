@@ -9,36 +9,12 @@
         "dimension": 57.688540646425075,
         "children": [
           {
-            "id": "6f6d6f0d555f9cd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operator Overloading in C++"
-            }
-          },
-          {
             "id": "656aeafce207fc40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
+                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ternary Operators in C++"
+              "title": "Polymorphism in C++"
             }
           },
           {
@@ -327,10 +303,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6f6d6f0d555f9cd7",
+  "active": "656aeafce207fc40",
   "lastOpenFiles": [
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "Tags/Latex.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
@@ -339,12 +317,10 @@
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",

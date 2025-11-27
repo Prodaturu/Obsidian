@@ -61,7 +61,8 @@ using namespace std;
 class Animal {
 public:
     // VIRTUAL - enables runtime binding
-    virtual void speak() {
+    virtual void speak()
+    {
         cout << "Animal speaks" << endl;
     }
 };
