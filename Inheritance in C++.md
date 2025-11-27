@@ -170,8 +170,8 @@ public:
 class Bird()
 {
 public:
-	void fly 
-}
+	void fly() {cout << "Flying" << endl};
+};
 
 class Bat()
 {
@@ -185,10 +185,47 @@ int main()
 	
 	bat.eat();
 	bat.drink();
-	bat.
+	bat.fly();
+	bat.navigate();
 }
 
 ```
+
+
+## Key characteristic of Multi-Inheritance
+
+- Combines features from multiple classes
+- **Constructor Calls:**
+	- Base classes constructed in declaration order
+- **Access Control:**
+	- Can have different access specifiers for each base
+
+## Common Issues
+
+- **Diamond Problem**
+	- When 2 base classes inherit from same grandparent
+- **Ambiguity**
+	- Same function name in multiple classes
+- **Complexity**
+	- Harder to maintain and understand
+
+## Ambiguity Resolution
+
+```cpp
+
+class A { public: void show() {} };
+class B { public: void show() {} };
+class C : public A, public B { };
+
+C obj;
+obj.A::show();  // Explicitly specify which base class
+obj.B::show();
+
+```
+
+
+
+
 
 
 # References
