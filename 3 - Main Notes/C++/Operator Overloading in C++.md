@@ -18,8 +18,9 @@
 
 ## Syntax
 
-- `returnType operator symbol (parameters) {// Implementation}`
-
+- `returnType operator_symbol (parameters) {// Implementation}`
+- Example:
+	- 
 
 # References
 
