@@ -30,5 +30,3 @@
 ### Next:
 
 ### Prev:
-
-[[OOPS in C++]]

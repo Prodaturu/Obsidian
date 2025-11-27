@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Encapsulation in C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encapsulation in C++"
+              "title": "C++ Language Features"
             }
           }
         ]
@@ -316,18 +316,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "b557eba817c13be9",
   "lastOpenFiles": [
+    "Tags/OOPS in C++.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-    "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Tags/Classes and Objects in C++.md",
-    "Tags/OOPS in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++",
