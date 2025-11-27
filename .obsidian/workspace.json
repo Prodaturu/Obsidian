@@ -78,20 +78,14 @@
               "icon": "lucide-file",
               "title": "Friend Functions in C++"
             }
-          }
-        ]
-      },
-      {
-        "id": "8d36bd1751fa989e",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "b557eba817c13be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "Tags/OOPS in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,10 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "OOPS in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -318,8 +313,8 @@
   },
   "active": "b557eba817c13be9",
   "lastOpenFiles": [
-    "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
+    "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
