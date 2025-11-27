@@ -12,8 +12,11 @@
 - **Topic Tags:**
 	- [[Classes and Objects in C++]]
 
+
 # Friend Functions
 
+- `friend` function is not a member of the class
+	- but is allowed to access the class
 
 # References
 
