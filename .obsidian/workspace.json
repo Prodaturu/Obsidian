@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions in C++.md",
+                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inheritance in C++.md",
+                "file": "3 - Main Notes/C++/Inheritance in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -391,12 +391,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d9b06b0d2f7cac7f",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Inheritance in C++.md",
     "4 - Full Notes/Interview Prep.md",
-    "Functions in C++.md",
+    "3 - Main Notes/C++/Functions in C++.md",
     "1 - Rough Notes/I let you pass.md",
-    "Inheritance in C++.md",
     "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
     "5 - Templates/Title.md",

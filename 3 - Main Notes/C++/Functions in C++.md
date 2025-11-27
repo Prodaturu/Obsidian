@@ -114,7 +114,8 @@ I just got executed!
 
 ```cpp
 
-void **myFunction()** { // **declaration**  
+void myFunction()
+{ // **declaration**  
   // the body of the function (**definition**)  
 
 }  
