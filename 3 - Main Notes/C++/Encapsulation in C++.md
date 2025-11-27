@@ -10,7 +10,7 @@
 	- [[Friend Functions in C++]]
 
 - **Topic Tags:**
-	- [[OOPS in C++]]
+	- OOPS in C++
 
 # Encapsulation
 

@@ -166,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "members",
+                "query": "\"OOPS in C++\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -316,7 +316,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b557eba817c13be9",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
