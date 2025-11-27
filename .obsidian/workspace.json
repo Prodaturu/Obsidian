@@ -301,15 +301,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b557eba817c13be9",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
-    "Tags/OOPS in C++.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Tags/Classes and Objects in C++.md",
+    "Tags/OOPS in C++.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/Encapsulation in C++.md",
     "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++",
@@ -319,7 +319,7 @@
     "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
-    "3 - Main Notes/Constructor Overloading in C++.md",
+    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Operator Precedence.md",
     "5 - Templates/Title.md",
