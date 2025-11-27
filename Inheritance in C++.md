@@ -209,10 +209,12 @@ int main()
 - **Complexity**
 	- Harder to maintain and understand
 
-## Ambiguity Resolution
+### Ambiguity Resolution
+
+- Explicitly specifying which base class is the method from
+	 - can resolve the Ambiguity from Multi-Inheritance
 
 ```cpp
-
 class A { public: void show() {} };
 class B { public: void show() {} };
 class C : public A, public B { };
@@ -220,7 +222,6 @@ class C : public A, public B { };
 C obj;
 obj.A::show();  // Explicitly specify which base class
 obj.B::show();
-
 ```
 
 
