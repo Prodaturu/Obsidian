@@ -1,0 +1,77 @@
+**Created:** 27.11.25, 14:06
+
+**Status:** #baby 
+
+**Hashtags:**
+- 
+
+**Links / Tags:** 
+- **Relevance Links:**
+
+- **Topic Tags:**
+	- OOPS in C++
+
+
+# Inheritance
+
+- Allows a class to reuse attributes and methods from another class
+	
+- Can be grouped into 2 categories
+	- **derived class** (child)
+		- Class that inherits from another class
+	- **base class** (parent)
+		- Class being inherited from
+	
+- To inherit from a class, we use `:`
+- The `Child` class inherits the attributes and methods from the `Parent` class
+
+### Example
+
+```cpp
+// Parent / Base Class
+class Vehicle
+{
+public:
+	string brand = "Ford";
+	
+	void honk()
+	{
+		cout << "Tuut, Tuut!" << endl;
+	}
+};
+
+// Derived Class
+Class Car: public Vehicle
+{
+public:
+	string model = "Mustang";
+};
+
+int main()
+{
+	Car myCar;
+	
+	myCar.honk();
+	cout << myCar.brand + " " + myCar.model;
+	
+	return (0);
+}
+
+```
+
+
+## Advantages of Inheritance
+
+- Useful for code re-usability:
+	- reuse attributes and methods of existing class
+	- Directly when creating a new Class
+
+
+# References
+
+
+## Closely Related Notes
+
+### Next:
+
+### Prev:

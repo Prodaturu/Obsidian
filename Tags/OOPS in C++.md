@@ -12,7 +12,7 @@
 - **Topic Tags:**
 	- [[Encapsulation in C++]]
 	- [[Constructor Overloading in C++]]
-	- 
+	- [[Inheritance in C++]]
 
 
 # References

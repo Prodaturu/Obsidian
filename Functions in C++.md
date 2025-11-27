@@ -145,24 +145,83 @@ Error
 
 - It is possible to separate the declaration and the definition of the function - for code optimisation.
 	
-- C++ programs can have function declaration above `main()`, and function definition below `main()`. This will make the code better organised and easier to read:
+- C++ programs can have
+	- *function declaration* above `main()`, 
+	- and *function definition* below `main()`. 
+
+### Advantages of Forward Declaration
+
+- **Modularity** - Separate interface from implementation
+- **Compilation** - Faster compilation (only recompile changed .cpp files)
+- **Libraries** - Hide implementation details
+- **Linking** - Multiple files can use the same function declaration
 
 ### Example
 
+```cpp
 // **Function declaration**  
 void myFunction();  
   
 // The main method  
-int main() {  
+int main()
+{
   myFunction();  // **call** the function  
+  return 0;  
+}
+  
+// **Function definition**  
+void myFunction()
+{
+  cout << "I just got executed!";
+}
+```
+
+## Parameters and Arguments
+
+### Parameters
+
+- Information can be passed to functions as a parameter. Parameters act as variables inside the function.
+
+- Parameters are specified after the function name, inside the parentheses. You can add as many parameters as you want, just separate them with a comma:
+
+### Syntax
+
+```cpp
+void functionName(parameter1, parameter2, parameter3)
+{  
+  // code to be executed  
+}  
+```
+
+- The following example has a function that takes a `string` called **fname** as parameter.
+- When the function is called, we pass along a first name
+	- which is used inside the function to print the full name:
+
+### Example
+
+```cpp
+void myFunction(**string fname**) {  
+  cout << fname << " Refsnes\n";  
+}  
+  
+int main() {  
+  myFunction(**"Liam"**);  
+  myFunction(**"Jenny"**);  
+  myFunction(**"Anja"**);  
   return 0;  
 }  
   
-// **Function definition**  
-void myFunction() {  
-  cout << "I just got executed!";  
-}
+// Liam Refsnes  
+// Jenny Refsnes  
+// Anja Refsnes
+```
 
+### Arguments
+
+- When a **parameter** is passed to the function, it is called an **argument**.
+- So, from the example above: 
+	- `fname` is a **parameter**
+	- `Liam`, `Jenny` and `Anja` are **arguments**.
 
 # References
 
