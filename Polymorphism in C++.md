@@ -1,4 +1,4 @@
-**Created:** *26.11.25, 23:31*
+**Created:** 27.11.25, 16:50
 
 **Status:** #baby 
 
@@ -7,13 +7,14 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
 
 - **Topic Tags:**
-	- [[Encapsulation in C++]]
-	- [[Constructor Overloading in C++]]
-	- [[Inheritance in C++]]
-	- [[Polymorphism in C++]]
+	- OOPS in C++
+
+
+# Polymorphism
+
+- 
 
 
 # References
@@ -24,4 +25,3 @@
 ### Next:
 
 ### Prev:
-

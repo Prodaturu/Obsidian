@@ -161,6 +161,30 @@
             }
           },
           {
+            "id": "ee6ab20699b9ae92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymorphism in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Polymorphism in C++"
+            }
+          },
+          {
             "id": "d9b06b0d2f7cac7f",
             "type": "leaf",
             "state": {
@@ -184,7 +208,8 @@
               "title": "Inheritance in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -391,14 +416,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9253ff698948b0ea",
+  "active": "ee6ab20699b9ae92",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Inheritance in C++.md",
+    "Polymorphism in C++.md",
+    "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "4 - Full Notes/Interview Prep.md",
     "1 - Rough Notes/I let you pass.md",
-    "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
     "5 - Templates/Title.md",
     "Vault.md",
@@ -419,7 +445,6 @@
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Operator Precedence.md",
-    "4 - Full Notes/4 - Full Notes.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
