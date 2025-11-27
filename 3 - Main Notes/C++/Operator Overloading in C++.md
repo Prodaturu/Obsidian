@@ -41,7 +41,12 @@ Vector operator+(const Vector& other) { }
 bool operator==(const Date& other) { }
 ```
 
+## Key Rules and Limitations
 
+- **Cannot create new operators** - only existing C++ operators
+- **Cannot change operator precedence** - follows original rules
+- **At least one operand must be user-defined type**
+- **Some operators cannot be overloaded**: `::`, `.*`, `.`, `?:`, `sizeof`
 
 # References
 
