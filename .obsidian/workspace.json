@@ -33,6 +33,30 @@
             }
           },
           {
+            "id": "656aeafce207fc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ternary Operators in C++"
+            }
+          },
+          {
             "id": "d7c12676663047dc",
             "type": "leaf",
             "state": {
@@ -91,24 +115,10 @@
             "id": "8a44285b8ba83bf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Switch Statements in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Switch Statements in C++"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -319,22 +329,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "8a44285b8ba83bf8",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "Tags/OOPS in C++.md",
+    "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
+    "3 - Main Notes/C++/Operators in C++.md",
+    "3 - Main Notes/C++/Ternary Operators in C++.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",
-    "3 - Main Notes/C++/Encapsulation in C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
-    "Tags/OOPS in C++.md",
     "5 - Templates/5 - Templates.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
@@ -345,7 +356,6 @@
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/C++",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Operator precedence in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
