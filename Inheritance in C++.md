@@ -81,7 +81,19 @@ int main()
 - Constructor calls follow the chain: A-> B -> C
 - Access rules apply at each levels
 
+## Inheritance Flow
 
+- Chain of Inheritance:
+	- Animal -> Mammal -> Dog
+	 
+- Dog (Most derived) can access:
+	- Animal's protected/public + Mammals protected/public + all its own
+	
+- Animal can access:
+	- all its own
+	  
+- Main can access:
+	- Public members of any class
 
 
 # References
