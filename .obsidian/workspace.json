@@ -56,8 +56,7 @@
               "title": "Operator Overloading in C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "726ee264e4d10a4a",
@@ -170,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#my42",
+                "query": "ternary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,8 +321,8 @@
   },
   "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
