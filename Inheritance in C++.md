@@ -164,8 +164,29 @@ public:
 class Mammal()
 {
 public:
-	void breathe() {cout << "milk" << endl};
+	void drink() {cout << "milk" << endl};
 };
+
+class Bird()
+{
+public:
+	void fly 
+}
+
+class Bat()
+{
+public:
+	void navigate() {cout << "Using Sonar" << endl};
+};
+
+int main()
+{
+	Bat bat;
+	
+	bat.eat();
+	bat.drink();
+	bat.
+}
 
 ```
 
