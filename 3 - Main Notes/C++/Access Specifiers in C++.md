@@ -87,14 +87,14 @@ public:
 
 int main()
 {
-  Programmer myObj;  
-
-  myObj.setSalary(50000);
-  myObj.bonus = 15000;
-  cout << "Salary: " << myObj.getSalary() << "\n";
-  cout << "Bonus: " << myObj.bonus << "\n";
-
-  return 0;
+	Programmer myObj;  
+	
+	myObj.setSalary(50000);
+	myObj.bonus = 15000;
+	cout << "Salary: " << myObj.getSalary() << "\n";
+	cout << "Bonus: " << myObj.bonus << "\n";
+	
+	return 0;
 }
 ```
 

@@ -184,8 +184,7 @@
               "title": "Inheritance in C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -392,10 +391,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "898f4d91b8136a2f",
+  "active": "9253ff698948b0ea",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
+    "3 - Main Notes/C++/Access Specifiers in C++.md",
+    "3 - Main Notes/C++/Functions in C++.md",
     "4 - Full Notes/Interview Prep.md",
     "1 - Rough Notes/I let you pass.md",
     "Tags/OOPS in C++.md",
@@ -408,7 +408,6 @@
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++",
