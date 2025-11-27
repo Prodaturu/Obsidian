@@ -21,10 +21,19 @@
 	- So only the right parts can be seen or changed
 
 
-## Using Access Specifiers
+## Types of Access Specifiers
 
-- `public` keyword is an **access specifier**
-- 
+- There are 3 access specifiers in C++:
+	- `public` 
+		- Members are accessible from outside the class
+	- `private`
+		- Members cannot be accessed from outside the class
+	- `protected` 
+		- Members cannot be accessed from outside the class
+		- But, can be accessed in inherited classes
+
+
+### Public
 
 
 
