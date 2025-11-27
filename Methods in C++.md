@@ -74,7 +74,12 @@ void MyClass::myMethod()
 ```
 
 
+### Complete Examples of both scenarios
 
+##
+```cpp
+
+```
 
 
 # References
