@@ -33,12 +33,36 @@
             }
           },
           {
+            "id": "439fbff25c5d9282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Classes in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Abstract Classes in C++"
+            }
+          },
+          {
             "id": "d7c12676663047dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Friend Functions in C++.md",
+                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,10 +77,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Friend Functions in C++"
+              "title": "Functions in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "726ee264e4d10a4a",
@@ -109,6 +134,16 @@
               },
               "icon": "lucide-file",
               "title": "Virtual Functions in C++"
+            }
+          },
+          {
+            "id": "f50ae312d4bcc7f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -323,9 +358,10 @@
   "active": "8a44285b8ba83bf8",
   "lastOpenFiles": [
     "Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
-    "3 - Main Notes/C++/Friend Functions in C++.md",
     "Virtual Functions in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
+    "3 - Main Notes/C++/Functions in C++.md",
+    "3 - Main Notes/C++/Friend Functions in C++.md",
     "Tags/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
@@ -335,7 +371,6 @@
     "Tags/Latex.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
