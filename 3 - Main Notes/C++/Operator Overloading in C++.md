@@ -16,6 +16,7 @@
 - Extending the functionality of existing C++ operators to work with custom class objects in a meaningful way
 - Making operators like `+`, `-`, `==`, etc., work with your own classes
 	- by defining what these operations should do for your specific data types.
+- Makes custom types feel as natural and intuitive to use as built-in types.
 
 
 ## Syntax
