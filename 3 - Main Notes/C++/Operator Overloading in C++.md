@@ -18,7 +18,6 @@
 	- by defining what these operations should do for your specific data types.
 - Makes custom types feel as natural and intuitive to use as built-in types.
 
-
 ## Syntax
 
 - `returnType operator_symbol (parameters) {// Implementation}`
@@ -50,6 +49,9 @@ bool operator==(const Date& other) { }
 - **Some operators cannot be overloaded**: `::`, `.*`, `.`, `?:`, `sizeof`
 
 # References
+
+
+
 
 
 ## Closely Related Notes
