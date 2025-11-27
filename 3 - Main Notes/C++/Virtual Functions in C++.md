@@ -35,7 +35,6 @@ ptr->show(); // Always calls Base::show() - WRONG!
 Base* ptr = new Derived();
 ptr->show(); // Calls Derived::show() - CORRECT!
 ```
----
 
 ## ⚡ Quick Syntax
 
@@ -65,7 +64,6 @@ public:
 Animal* animal = new Dog();
 animal->speak(); // "Woof!" (Runtime decision)
 ```
----
 
 ## 🔑 Key Rules
 
@@ -76,15 +74,13 @@ animal->speak(); // "Woof!" (Runtime decision)
 - **Runtime decision** - based on object type, not pointer type
     
 - **Virtual destructors** needed when deleting through base pointers
-    
 
----
 
 ## 💀 Virtual Destructors
 
-**ALWAYS use virtual destructors in base classes:**
+- **ALWAYS use virtual destructors in base classes:**
 
-cpp
+```cpp
 
 class Base {
 public:
@@ -93,8 +89,7 @@ public:
 
 Base* ptr = new Derived();
 delete ptr; // Calls both Derived::~Derived() AND Base::~Base()
-
----
+```
 
 ## 📋 Cheat Sheet
 
@@ -104,23 +99,6 @@ delete ptr; // Calls both Derived::~Derived() AND Base::~Base()
 |`Base* ptr = new Derived(); ptr->virtualFunc();`|Calls `Derived::virtualFunc()`|
 |`delete basePointer` without virtual destructor|**Memory leak!**|
 
----
-
 ## 🎓 Simple Mental Model
 
-**Virtual = "Check what I'm actually pointing to at runtime"**
-
-**Tags:** #cpp-virtual-functions #cpp-polymorphism #must-know
-
-This version is:
-
-- **Scannable** with clear sections
-    
-- **Practical** with immediate examples
-    
-- **Memorable** with simple mental models
-    
-- **Actionable** with clear dos/don'ts
-    
-
-Want me to break any section down further?
+- **Virtual = "Check what I'm actually pointing to at runtime"**
