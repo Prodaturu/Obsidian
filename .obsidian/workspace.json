@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Classes and Objects in C++.md",
+                "file": "3 - Main Notes/C++/Access Specifiers in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes and Objects in C++"
+              "title": "Access Specifiers in C++"
             }
           },
           {
@@ -301,16 +301,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f8b1fe90ed7958f3",
+  "active": "b557eba817c13be9",
   "lastOpenFiles": [
+    "Tags/OOPS in C++.md",
+    "3 - Main Notes/C++/Access Specifiers in C++.md",
+    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/Encapsulation in C++.md",
     "3 - Main Notes/Friend Functions in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "Tags/C++ Language Features.md",
-    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Indexes/C++.md",
-    "Tags/OOPS in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
@@ -320,7 +321,6 @@
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/Constructor Overloading in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Operator Precedence.md",
     "5 - Templates/Title.md",
     "4 - Full Notes/I let you pass.md",

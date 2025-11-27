@@ -10,7 +10,7 @@
 	- 
 
 - **Topic Tags:**
-	- 
+	- [[Encapsulation in C++]]
 
 
 # References
