@@ -31,6 +31,7 @@
 - To give flexibility when creating objects
 - To set default or custom values
 - To reduce repetitive code
+- To create objects with custom values.
 
 
 ## Example: Constructor with multiple Operators
@@ -54,7 +55,26 @@ public:
 		_brand = brand;
 		_model = model;
 	}
+};
+
+int main()
+{
+	 Car car1;  
+	 Car car2("BMW", "X5");  
+	 Car car3("Ford", "Mustang");
+	 
+	 cout << "Car1: " << car1.brand << " " << car1.model << endl;
+	 cout << "Car2: " << car2.brand << " " << car2.model << endl;
+	 cout << "Car3: " << car3.brand << " " << car3.model << endl;
+	 
+	 return 0;
 }
+
+%% 
+// Car1: Unknown Unknown  
+// Car2: BMW X5  
+// Car3: Ford Mustang
+%%
 
 ```
 
