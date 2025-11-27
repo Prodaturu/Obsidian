@@ -52,8 +52,6 @@ bool operator==(const Date& other) { }
 
 
 
-
-
 ## Closely Related Notes
 
 ### Next:
