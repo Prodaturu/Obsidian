@@ -13,6 +13,7 @@
 
 # Virtual Functions in C++
 
+- A **Virtual Function** is a member function in the base class that can be **overridden** in derived class
 - Functions that enable **Runtime Polymorphism** 
 	- Done by allowing the correct function to be called based on the actual object type at runtime
 
