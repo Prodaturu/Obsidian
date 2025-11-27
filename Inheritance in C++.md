@@ -69,8 +69,10 @@ int main()
 # Multi - level Inheritance
 
 - Class can also be derived from a class that's derived from another class
+	
+- Class A -> Class B (Intermediate - derived from A) -> Class C (Most derived - derived from B)
 
-- 
+
 
 # References
 
