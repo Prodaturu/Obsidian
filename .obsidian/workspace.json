@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Constructor Overloading in C++.md",
+                "file": "3 - Main Notes/Access Specifiers in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Constructor Overloading in C++"
+              "title": "Access Specifiers in C++"
             }
           }
         ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "members",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +134,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,9 +263,10 @@
   },
   "active": "1a9cef24da366409",
   "lastOpenFiles": [
+    "3 - Main Notes/Access Specifiers in C++.md",
+    "3 - Main Notes/Constructor Overloading in C++.md",
     "Methods in C++.md",
     "3 - Main Notes/Classes and Objects in C++.md",
-    "3 - Main Notes/Constructor Overloading in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/Constructors in C++.md",
     "4 - Full Notes/I let you pass.md",
@@ -290,7 +290,6 @@
     "Tags/OOPS in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Lambda Functions in C++.md",
-    "3 - Main Notes/Ternary Operators in C++.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
