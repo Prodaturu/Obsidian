@@ -6,7 +6,7 @@
       {
         "id": "88b8da4a0ba65a29",
         "type": "tabs",
-        "dimension": 53.38899803536346,
+        "dimension": 69.61255203330131,
         "children": [
           {
             "id": "656aeafce207fc40",
@@ -86,15 +86,15 @@
       {
         "id": "726ee264e4d10a4a",
         "type": "tabs",
-        "dimension": 46.61100196463654,
+        "dimension": 30.38744796669869,
         "children": [
           {
-            "id": "58155b432011ab03",
+            "id": "8c0e2a2e6b752ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+                "file": "3 - Main Notes/C++/Virtual Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,55 +109,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LaTeX symbols Cheat Sheet"
-            }
-          },
-          {
-            "id": "8a44285b8ba83bf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/C++ Language Features.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++ Language Features"
-            }
-          },
-          {
-            "id": "e592a9dd27c08f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operators in C++"
+              "title": "Virtual Functions in C++"
             }
           },
           {
@@ -171,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
