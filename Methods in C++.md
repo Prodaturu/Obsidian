@@ -63,10 +63,16 @@ class MyClass
 {
 public:
 	// Method declared INSIDE class
-	void 
-}
+	void myMethod();
+};
 
+// Method definition OUTSIDE class
+void MyClass::myMethod()
+{
+	cout << "Hello World:";
+}
 ```
+
 
 
 
