@@ -52,8 +52,24 @@ public:
 	- defined outside
 	  
 - Uses the **Scope resolution Operator** `::`
-- 
-- 
+	
+- Better for Organisation, especially in large programs
+
+#### Example:
+
+```cpp
+
+class MyClass
+{
+public:
+	// Method declared INSIDE class
+	void 
+}
+
+```
+
+
+
 
 # References
 
