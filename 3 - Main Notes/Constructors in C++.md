@@ -23,7 +23,6 @@
 #### Example:
 
 ```cpp
-
 class MyClass
 {
 public:
