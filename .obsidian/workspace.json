@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Access Specifiers in C++"
             }
+          },
+          {
+            "id": "cda2d0b80f79bd8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Encapsulation in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Encapsulation in C++"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,8 +285,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1a9cef24da366409",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "3 - Main Notes/Encapsulation in C++.md",
     "3 - Main Notes/Access Specifiers in C++.md",
     "3 - Main Notes/Constructor Overloading in C++.md",
     "Methods in C++.md",
@@ -289,7 +314,6 @@
     "Function Overloading.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-    "3 - Main Notes/Lambda Functions in C++.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
