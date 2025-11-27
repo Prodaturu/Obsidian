@@ -133,6 +133,43 @@ Parent class content
 ```
 
 
+# Multiple Inheritance
+
+- **Definition:**
+- Class derived from more than one base class
+	- Done using a **comma-separated list**
+
+### Structure
+
+- Class A            Class B
+    ↑                        ↑
+    └── Class C ──┘
+
+## Syntax
+
+- `class Derivedclass : access-specifier Base1, access-specifier Base2 { // class body }`
+
+#### Example:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class Animal
+{
+public:
+	void eat() {cout << "Eating" << endl};
+};
+
+class Mammal()
+{
+public:
+	void breathe() {cout << "milk" << endl};
+};
+
+```
+
+
 # References
 
 
