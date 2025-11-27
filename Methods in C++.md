@@ -113,13 +113,13 @@ int main()
 #include <iostream>
 using namespace std;
 
-class Student
+class Calculator
 {
 private:
 	// only Declarations inside the class
 	int add(int a, int b)
-	{
-	}
+	
+	
 }
 
 ```
