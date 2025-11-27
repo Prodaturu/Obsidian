@@ -72,6 +72,16 @@ int main()
 	
 - Class A -> Class B (Intermediate - derived from A) -> Class C (Most derived - derived from B)
 
+### Key Points
+
+- Chain of Inheritance:
+	- A -> B -> C
+- C gets features from both B and A
+- If B inherits from A, and C inherits from B, then C also inherits from A
+- Constructor calls follow the chain: A-> B -> C
+- Access rules apply at each levels
+
+
 
 
 # References
