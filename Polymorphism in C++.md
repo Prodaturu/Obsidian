@@ -49,11 +49,19 @@ class Vector
 ### 2. Runtime Polymorphism (Dynamic / Late Binding)
 
 - Resolved during **Runtime**
+
 - **Virtual Function Mechanism:**
 ```cpp
 #include <iostream>
+using namespace std;
 
-
+class Animal {
+public:
+    // VIRTUAL - enables runtime binding
+    virtual void speak() {
+        cout << "Animal speaks" << endl;
+    }
+};
 ```
 
 
