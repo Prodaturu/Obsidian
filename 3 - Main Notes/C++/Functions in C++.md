@@ -12,6 +12,7 @@
 	- [[Lambda Functions in C++]]
 	- [[Function Overloading in C++]]
 	- [[Friend Functions in C++]]
+	- [[Methods in C++]]
 
 
 # Functions in C++

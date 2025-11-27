@@ -80,7 +80,8 @@
               "title": "Operator Overloading in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "726ee264e4d10a4a",
@@ -331,12 +332,14 @@
   },
   "active": "8a44285b8ba83bf8",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Functions in C++.md",
+    "3 - Main Notes/C++/Methods in C++.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
@@ -348,7 +351,6 @@
     "3 - Main Notes/C++/Inheritance in C++.md",
     "5 - Templates/5 - Templates.md",
     "Tags/Classes and Objects in C++.md",
-    "3 - Main Notes/C++/Functions in C++.md",
     "4 - Full Notes/Interview Prep.md",
     "1 - Rough Notes/I let you pass.md",
     "Vault.md",
@@ -357,7 +359,6 @@
     "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/C++/Operator precedence in C++.md",
-    "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
