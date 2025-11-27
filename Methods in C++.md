@@ -82,7 +82,16 @@ void MyClass::myMethod()
 using namespace std;
 
 class Calculator
-{}
+{
+public:
+	// Methods defined inside class
+	int add(int a, int b)
+	{
+		return (a + b);
+	}
+	
+	int mult
+}
 
 
 ```
