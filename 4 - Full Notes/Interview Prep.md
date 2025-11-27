@@ -59,8 +59,8 @@ Tags:
 - **How do you handle project planning in general?**
 	
 - I break down complex projects into manageable sprints with clear deliverables
-- At Yesalwa, I created a development roadmap that balanced featyure development with technical debt
-- We use agile methodologies with regular standups and retrospectives
+- At Yesalwa, I created a development roadmap that balanced feature development with technical debt
+- We use agile methodologies with regular stand ups and retrospectives
 	- which helped us adapt quickly while maintaining transparency about progress and challenges
 
 

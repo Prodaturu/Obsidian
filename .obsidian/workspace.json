@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions in C++.md",
+                "file": "4 - Full Notes/I let you pass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Functions in C++"
+              "title": "I let you pass"
             }
           },
           {
@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inheritance in C++.md",
+                "file": "4 - Full Notes/Interview Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,7 +181,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inheritance in C++"
+              "title": "Interview Prep"
             }
           }
         ],
@@ -391,9 +391,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "898f4d91b8136a2f",
+  "active": "d9b06b0d2f7cac7f",
   "lastOpenFiles": [
     "Inheritance in C++.md",
+    "4 - Full Notes/I let you pass.md",
     "Functions in C++.md",
     "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
@@ -417,7 +418,6 @@
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Operator Precedence.md",
-    "4 - Full Notes/I let you pass.md",
     "4 - Full Notes/4 - Full Notes.md",
     "4 - Full Notes/Interview Prep.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
