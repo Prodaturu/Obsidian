@@ -17,8 +17,6 @@
 - define an interface the derived classes must implement
 
 
-
-
 # References
 
 
