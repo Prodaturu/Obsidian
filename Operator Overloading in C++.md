@@ -1,4 +1,4 @@
-**Created:** 27.11.25, 18:47
+**Created:** 27.11.25, 18:51
 
 **Status:** #baby 
 
@@ -9,14 +9,11 @@
 - **Relevance Links:**
 
 - **Topic Tags:**
-	- [[Ternary Operators in C++]]
-	- [[Operator precedence in C++]]
-	- [[Operator Overloading in C++]]
 
 
-# Operators in C++
+# Operator Overloading in C++
 
-- 
+- sad
 
 
 # References
