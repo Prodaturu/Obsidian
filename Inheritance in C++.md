@@ -97,7 +97,40 @@ int main()
 
 ### Example 
 
+```cpp
+// Base Class (Parent)
+Class MyClass
+{
+public:
+	Void myFunc()
+	{
+		cout << "parent class content" << endl;
+	}
+};
 
+// Derived Class (Child)
+class MyChild: public MyClass
+{
+}
+
+// Derived class from a Derived Class (grandchild)  
+class MyGrandChild: public MyChild {  
+};
+
+int main()
+{
+	MyGrandChild myObj;
+	myObj.myFunc();
+	
+	return (0);
+}
+
+/* Output:
+
+Parent class content
+*/
+
+```
 
 
 # References
