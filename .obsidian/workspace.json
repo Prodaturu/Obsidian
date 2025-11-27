@@ -49,7 +49,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -118,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Inheritance in C++.md",
+                "file": "3 - Main Notes/C++/Constructor Overloading in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,7 +133,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inheritance in C++"
+              "title": "Constructor Overloading in C++"
             }
           }
         ],
@@ -345,12 +345,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "439fbff25c5d9282",
+  "active": "f50ae312d4bcc7f0",
   "lastOpenFiles": [
+    "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "Tags/C++ Language Features.md",

@@ -33,7 +33,6 @@
 - To reduce repetitive code
 - To create objects with custom values.
 
-
 ## Example: Constructor with multiple Operators
 
 ```cpp
