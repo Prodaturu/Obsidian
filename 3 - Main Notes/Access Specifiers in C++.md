@@ -18,6 +18,7 @@
 - Help in:
 	- Protect data
 	- Organise code
+	- So only the right parts can be seen or changed
 
 # References
 
