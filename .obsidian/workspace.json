@@ -6,7 +6,7 @@
       {
         "id": "88b8da4a0ba65a29",
         "type": "tabs",
-        "dimension": 69.61255203330131,
+        "dimension": 50.713087248322154,
         "children": [
           {
             "id": "656aeafce207fc40",
@@ -86,7 +86,7 @@
       {
         "id": "726ee264e4d10a4a",
         "type": "tabs",
-        "dimension": 30.38744796669869,
+        "dimension": 49.28691275167785,
         "children": [
           {
             "id": "8c0e2a2e6b752ad2",
@@ -116,10 +116,24 @@
             "id": "f50ae312d4bcc7f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Inheritance in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inheritance in C++"
             }
           }
         ],
@@ -180,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "functions",
+                "query": "Inherit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -331,8 +344,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f50ae312d4bcc7f0",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
@@ -353,7 +367,6 @@
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "5 - Templates/5 - Templates.md",

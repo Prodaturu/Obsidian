@@ -10,6 +10,7 @@
 
 - **Topic Tags:**
 	- OOPS in C++
+	- [[Access Specifiers in C++]]
 
 
 # Inheritance
