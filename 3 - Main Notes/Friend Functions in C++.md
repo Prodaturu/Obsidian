@@ -16,7 +16,9 @@
 # Friend Functions
 
 - `friend` function is not a member of the class
-	- but is allowed to access the class
+	- but is allowed to access the class's private data
+	  
+- 
 
 # References
 
