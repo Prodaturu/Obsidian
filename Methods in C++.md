@@ -90,9 +90,17 @@ public:
 		return (a + b);
 	}
 	
-	int mult
+	int multiply(int a, int b)
+	{
+		return (a * b);
+	}
 }
 
+int main()
+{
+	Calculator calc;
+	cout << calc.add(5)
+}
 
 ```
 
