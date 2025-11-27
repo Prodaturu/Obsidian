@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Full Notes/I let you pass.md",
+                "file": "1 - Rough Notes/I let you pass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -391,10 +391,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d9b06b0d2f7cac7f",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "4 - Full Notes/Interview Prep.md",
     "Inheritance in C++.md",
-    "4 - Full Notes/I let you pass.md",
+    "1 - Rough Notes/I let you pass.md",
     "Functions in C++.md",
     "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
@@ -419,7 +420,6 @@
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Operator Precedence.md",
     "4 - Full Notes/4 - Full Notes.md",
-    "4 - Full Notes/Interview Prep.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
