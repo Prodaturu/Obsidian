@@ -35,10 +35,24 @@
             "id": "1a9cef24da366409",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Access Specifiers in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Access Specifiers in C++"
             }
           }
         ],
@@ -249,13 +263,14 @@
   },
   "active": "1a9cef24da366409",
   "lastOpenFiles": [
+    "3 - Main Notes/Methods in C++.md",
+    "Operator Precedence.md",
     "3 - Main Notes/Encapsulation in C++.md",
     "3 - Main Notes/Friend Functions in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/Access Specifiers in C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/Constructor Overloading in C++.md",
-    "Methods in C++.md",
     "3 - Main Notes/Classes and Objects in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/Constructors in C++.md",
@@ -263,7 +278,6 @@
     "4 - Full Notes/4 - Full Notes.md",
     "4 - Full Notes/Interview Prep.md",
     "Ternary Operators.md",
-    "Operator Precedence.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Automata Complexity and Computability 0.1.md",
