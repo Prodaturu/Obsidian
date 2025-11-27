@@ -108,6 +108,22 @@ int main()
 
 #### Outside class Definition
 
+```cpp
+
+#include <iostream>
+using namespace std;
+
+class Student
+{
+private:
+	// 
+}
+
+```
+
+
+
+
 
 # References
 
