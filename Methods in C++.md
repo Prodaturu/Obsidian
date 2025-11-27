@@ -14,14 +14,20 @@
 
 # Methods
 
-## Definition
+## What are Class Methods?
 
-- **Methods:**
-- Functions that belong to the class
+- **Methods** or **member functions** are functions that belong to a class
+    
+- They define the behaviours or actions that objects of the class can perform
+   
 
+### Two Ways to Define Class Methods
 
+### 1. Inside Class Definition (Inline Methods)
 
-
+- Method is defined directly inside the class declaration
+    
+- Suitable for short, simple functions
 # References
 
 
