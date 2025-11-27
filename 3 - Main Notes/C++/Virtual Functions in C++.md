@@ -68,23 +68,19 @@ animal->speak(); // "Woof!" (Runtime decision)
 ## 🔑 Key Rules
 
 - **`virtual`** in base class
-    
 - **`override`** in derived class (optional but recommended)
-    
 - **Runtime decision** - based on object type, not pointer type
-    
 - **Virtual destructors** needed when deleting through base pointers
-
 
 ## 💀 Virtual Destructors
 
 - **ALWAYS use virtual destructors in base classes:**
 
 ```cpp
-
-class Base {
+class Base
+{
 public:
-    virtual ~Base() { } // ← Essential!
+    virtual ~Base() {} // ← Essential!
 };
 
 Base* ptr = new Derived();
