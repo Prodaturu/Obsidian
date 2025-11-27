@@ -12,7 +12,14 @@
 - **Topic Tags:**
 	- 
 
-# MainHeading
+# Methods
+
+## Definition
+
+- **Methods:**
+- Functions that belong to the class
+
+
 
 
 # References
