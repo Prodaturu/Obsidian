@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#baby",
+                "query": "\"Operator Overloading\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -336,9 +336,10 @@
   },
   "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Constructors in C++.md",
+    "Polymorphism in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
-    "Polymorphism in C++.md",
     "Tags/OOPS in C++.md",
     "5 - Templates/Title.md",
     "5 - Templates/5 - Templates.md",
@@ -353,7 +354,6 @@
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
-    "3 - Main Notes/C++/Constructors in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
