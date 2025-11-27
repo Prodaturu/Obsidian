@@ -72,7 +72,27 @@ Dog dog;  // OK - implements all pure virtual functions
 #### Practical Usage
 
 ```cpp
+class Database
+{  // Abstract interface
+public:
+    virtual void connect() = 0;
+    virtual void query(string sql) = 0;
+    virtual ~Database() = default;
+};
 
+class MySQL : public Database
+{
+public:
+    void connect() override { /* MySQL connection */ }
+    void query(string sql) override { /* MySQL query */ }
+};
+
+class PostgreSQL : public Database
+{
+public:
+    void connect() override { /* PostgreSQL connection */ }
+    void query(string sql) override { /* PostgreSQL query */ }
+};
 ```
 
 # References
