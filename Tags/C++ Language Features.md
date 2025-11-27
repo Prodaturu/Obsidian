@@ -21,7 +21,7 @@
 # C++ Language Features
 
 - **C++ Language Features:** 
-	- The features that are specific to C++ 
+	- The features that are specific to C++
 
 
 # References
