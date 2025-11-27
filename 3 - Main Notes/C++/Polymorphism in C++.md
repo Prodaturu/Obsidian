@@ -58,7 +58,8 @@ class Vector
 #include <iostream>
 using namespace std;
 
-class Animal {
+class Animal
+{
 public:
     // VIRTUAL - enables runtime binding
     virtual void speak()
