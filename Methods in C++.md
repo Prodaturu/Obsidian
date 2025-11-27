@@ -32,7 +32,6 @@
 #### Example:
 
 ```cpp
-
 class MyClass
 {
 public:
@@ -41,10 +40,13 @@ public:
 	{
 		cout << "Hello World!";
 	}
-}
+};
 
 ```
 
+### 2. Outside Class Definition
+
+- Metho
 
 
 # References
