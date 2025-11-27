@@ -11,9 +11,12 @@
 - **Topic Tags:**
 
 
-# Abstract Classes in C++
+# Abstract Classes
 
-- 
+- Serve as Blueprints for other Classes
+- define an interface the derived classes must implement
+
+
 
 
 # References

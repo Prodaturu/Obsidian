@@ -91,10 +91,24 @@
             "id": "8a44285b8ba83bf8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Virtual Functions in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Virtual Functions in C++"
             }
           }
         ],
@@ -308,9 +322,9 @@
   },
   "active": "8a44285b8ba83bf8",
   "lastOpenFiles": [
+    "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
-    "Abstract Classes in C++.md",
     "Virtual Functions in C++.md",
     "Tags/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
