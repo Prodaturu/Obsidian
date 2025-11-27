@@ -35,10 +35,24 @@
             "id": "1a9cef24da366409",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/Constructors in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Constructors in C++"
             }
           }
         ],
@@ -250,9 +264,9 @@
   },
   "active": "1a9cef24da366409",
   "lastOpenFiles": [
-    "3 - Main Notes/Untitled.md",
-    "Indexes/C++.md",
     "3 - Main Notes/Classes and Objects in C++.md",
+    "3 - Main Notes/Constructors in C++.md",
+    "Indexes/C++.md",
     "Methods in C++.md",
     "4 - Full Notes/I let you pass.md",
     "4 - Full Notes/4 - Full Notes.md",
