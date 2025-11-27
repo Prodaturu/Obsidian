@@ -35,7 +35,8 @@
 
 ### Public
 
-
+- Members declared `public` can be accessed from outside the class
+- 
 
 
 
