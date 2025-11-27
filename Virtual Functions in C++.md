@@ -14,8 +14,19 @@
 # Virtual Functions in C++
 
 - A **Virtual Function** is a member function in the base class that can be **overridden** in derived class
+- key part of **Polymorphism** in C++
 - Functions that enable **Runtime Polymorphism** 
 	- Done by allowing the correct function to be called based on the actual object type at runtime
+
+## Why Use Virtual Functions?
+
+- Without `virtual`,
+	- C++ decides which function to call based on the pointer type, not the actual object type.
+	- the base function runs, even if the object is from a child class.
+	
+- With `virtual`,
+	- it checks the actual object the pointer is pointing to.
+	- the child's version runs, like you expect.
 
 ## Core Mechanism
 
