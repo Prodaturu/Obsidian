@@ -31,11 +31,9 @@
 	- Same function name, different parameters
 
 ```cpp
-
 void print(int a){};
 void print(double a){};
 void print(string a){};
-
 ```
 
 - **Operator Overloading**
@@ -86,15 +84,9 @@ public:
         cout << "Meow!" << endl;
     }
 };
-
-
-
 ```
 
-
-
 # References
-
 
 ## Closely Related Notes
 
