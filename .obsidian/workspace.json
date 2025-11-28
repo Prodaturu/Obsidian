@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Classes in C++.md",
+                "file": "3 - Main Notes/C++/Templates in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Abstract Classes in C++"
+              "title": "Templates in C++"
             }
           },
           {
@@ -193,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Abstract Classes in C++\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,12 +214,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 246.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -345,10 +344,11 @@
   },
   "active": "656aeafce207fc40",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Abstract Classes in C++.md",
+    "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
@@ -370,7 +370,6 @@
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "5 - Templates/5 - Templates.md",
-    "4 - Full Notes/Interview Prep.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
