@@ -59,7 +59,8 @@ ptr->show(); // Calls Derived::show() - CORRECT!
 ## 🚀 Essential Example
 
 ```cpp
-class Animal {
+class Animal
+{
 public:
     virtual void speak() { cout << "Animal sound"; }
 };
