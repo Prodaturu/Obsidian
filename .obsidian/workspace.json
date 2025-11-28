@@ -220,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -344,10 +345,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f50ae312d4bcc7f0",
+  "active": "439fbff25c5d9282",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
     "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",

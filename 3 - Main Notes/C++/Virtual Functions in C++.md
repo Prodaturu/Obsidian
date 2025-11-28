@@ -76,12 +76,7 @@ public:
 
 ```
 
-### Usage:
-
-- `Animal* animal = new Dog();`  // Base pointer pointing to Derived object
-- `animal->speak();`  // "Woof!" (Runtime decision)
-
-#### WHAT'S HAPPENING:
+### WHAT'S HAPPENING:
 
  1. Compiler sees `animal->speak()` and checks if `speak()` is virtual
  2. Since speak() is virtual, it DOESN'T call Animal::speak() immediately
@@ -89,8 +84,13 @@ public:
  4. Calls Dog::speak() because that's the actual object type
  5. Output: "Woof!" instead of "Animal sound"
 
-- WITHOUT VIRTUAL:
+- **WITHOUT VIRTUAL:**
 	- Would call `Animal::speak()` regardless of actual object type
+
+### Usage:
+
+- `Animal* animal = new Dog();`  // Base pointer pointing to Derived object
+- `animal->speak();`  // "Woof!" (Runtime decision)
 
 
 ## 🔑 Key Rules

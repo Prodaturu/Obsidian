@@ -61,28 +61,20 @@ class Animal
 {
 public:
     // VIRTUAL - enables runtime binding
-    virtual void speak()
-    {
-        cout << "Animal speaks" << endl;
-    }
+    virtual void speak() {cout << "Animal speaks" << endl;}
 };
 
 class Dog : public Animal
 {
 public:
 	// OVERRIDE - replaces parent's implementation
-	void speak() override
-	{
-		cout << "Woof! Woof!" << endl;
-	}
+	void speak() override {cout << "Woof! Woof!" << endl;}
 };
 
 class Cat : public Animal
 {
 public:
-	void speak() override {
-        cout << "Meow!" << endl;
-    }
+	void speak() override {cout << "Meow!" << endl;}
 };
 ```
 
