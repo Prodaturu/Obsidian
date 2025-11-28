@@ -20,6 +20,13 @@
 - **Purpose**
 	- Force derived classes to implement specific functionality
 
+## Properties of Abstract Class
+
+- **Require PURE virtual functions** (`= 0`)
+- **No implementation** for pure Virtual Functions
+- **Must be overridden**
+- Used for **interfaces/blueprints**
+
 ## Pure Virtual Function
 
 ```cpp
