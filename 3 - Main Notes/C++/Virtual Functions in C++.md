@@ -128,8 +128,7 @@ delete ptr; // Calls both Derived::~Derived() AND Base::~Base()
 
 ## 🎓 Simple Mental Model
 
-- **Virtual = "Check what I'm actually pointing to at runtime"**
-
+- **Virtual**  $\iff$  **"Check what I'm actually pointing to at runtime"**
 
 # References
 
