@@ -46,7 +46,16 @@ int main()
 - `add<int>(5, 3)` tells the compiler to use `int` for `T`
 - while `add<double>(2.5, 1.5)` tells it to use `double`.
 
+## Class Templates
 
+- Templates can be used to make classes that work with any data-type
+
+### Syntax
+
+``` cpp
+template <typename T>
+class ClassName { /* members and methods using T */ }
+```
 
 # References
 
