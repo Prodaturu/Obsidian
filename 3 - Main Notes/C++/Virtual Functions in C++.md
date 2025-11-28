@@ -59,6 +59,8 @@ ptr->show(); // Calls Derived::show() - CORRECT!
 ## 🚀 Essential Example
 
 ```cpp
+// Virtual is used to say that
+	// "speak" function is 
 class Animal
 {
 public:
