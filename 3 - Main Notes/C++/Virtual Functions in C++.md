@@ -59,24 +59,39 @@ ptr->show(); // Calls Derived::show() - CORRECT!
 ## 🚀 Essential Example
 
 ```cpp
-// Virtual is used to say that
-	// "speak" function is 
 class Animal
 {
 public:
+    // VIRTUAL: Tells compiler "check actual object type at runtime"
     virtual void speak() { cout << "Animal sound"; }
 };
 
 class Dog : public Animal
 {
 public:
-    void speak() override { cout << "Woof!"; } // Override
+    // OVERRIDE: Explicitly replacing base implementation
+    // Compiler verifies Animal::speak() exists and is virtual
+    void speak() override { cout << "Woof!"; } 
 };
 
-// Usage:
-Animal* animal = new Dog();
-animal->speak(); // "Woof!" (Runtime decision)
 ```
+
+### Usage:
+
+- `Animal* animal = new Dog();`  // Base pointer pointing to Derived object
+- `animal->speak();`  // "Woof!" (Runtime decision)
+
+#### WHAT'S HAPPENING:
+
+ 1. Compiler sees `animal->speak()` and checks if `speak()` is virtual
+ 2. Since speak() is virtual, it DOESN'T call Animal::speak() immediately
+ 3. At RUNTIME: checks what animal actually points to (a Dog object)
+ 4. Calls Dog::speak() because that's the actual object type
+ 5. Output: "Woof!" instead of "Animal sound"
+
+- WITHOUT VIRTUAL:
+	- Would call `Animal::speak()` regardless of actual object type
+
 
 ## 🔑 Key Rules
 
