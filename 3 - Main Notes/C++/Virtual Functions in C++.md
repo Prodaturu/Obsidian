@@ -9,6 +9,7 @@
 - **Relevance Links:**
 
 - **Topic Tags:**
+	- [[Abstract Classes in C++]]
 
 # Virtual Functions in C++
 
@@ -98,3 +99,15 @@ delete ptr; // Calls both Derived::~Derived() AND Base::~Base()
 ## 🎓 Simple Mental Model
 
 - **Virtual = "Check what I'm actually pointing to at runtime"**
+
+
+# References
+
+
+## Closely Related Notes
+
+- Abstract Function in C++
+
+### Next:
+
+### Prev:

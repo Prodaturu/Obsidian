@@ -118,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Constructor Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Virtual Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,7 +133,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Constructor Overloading in C++"
+              "title": "Virtual Functions in C++"
             }
           }
         ],
@@ -346,11 +346,11 @@
   },
   "active": "439fbff25c5d9282",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Constructor Overloading in C++.md",
+    "3 - Main Notes/C++/Virtual Functions in C++.md",
     "Abstract Classes in C++.md",
+    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "Tags/C++ Language Features.md",

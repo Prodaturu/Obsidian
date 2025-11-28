@@ -101,6 +101,8 @@ public:
 
 ## Closely Related Notes
 
+- Virtual Functions in C++
+
 ### Next:
 
 ### Prev:
