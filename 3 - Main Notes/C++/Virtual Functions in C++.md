@@ -92,9 +92,11 @@ public:
 
 ### Usage:
 
-- `Animal* animal = new Dog();`  // Base pointer pointing to Derived object
-- `animal->speak();`  // "Woof!" (Runtime decision)
-
+- `Animal* animal = new Dog();` 
+	- Base pointer pointing to Derived object
+	  
+- `animal->speak();` 
+	- "Woof!" (Runtime decision)
 
 ## 🔑 Key Rules
 
@@ -120,11 +122,11 @@ delete ptr; // Calls both Derived::~Derived() AND Base::~Base()
 
 ## 📋 Cheat Sheet
 
-|Situation|Result|
-|---|---|
-|`Base* ptr = new Derived(); ptr->func();`|Calls `Base::func()`|
-|`Base* ptr = new Derived(); ptr->virtualFunc();`|Calls `Derived::virtualFunc()`|
-|`delete basePointer` without virtual destructor|**Memory leak!**|
+| Situation                                        | Result                         |
+| ------------------------------------------------ | ------------------------------ |
+| `Base* ptr = new Derived(); ptr->func();`        | Calls `Base::func()`           |
+| `Base* ptr = new Derived(); ptr->virtualFunc();` | Calls `Derived::virtualFunc()` |
+| `delete basePointer` without virtual destructor  | **Memory leak!**               |
 
 ## 🎓 Simple Mental Model
 
@@ -135,7 +137,7 @@ delete ptr; // Calls both Derived::~Derived() AND Base::~Base()
 
 ## Closely Related Notes
 
-- Abstract Function in C++
+- Abstract Classes in C++
 
 ### Next:
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
+                "file": "Abstract Classes in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Polymorphism in C++"
+              "title": "Abstract Classes in C++"
             }
           },
           {
@@ -80,8 +80,7 @@
               "title": "Functions in C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "726ee264e4d10a4a",
@@ -194,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Polymorphism",
+                "query": "\"Abstract Classes in C++\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -345,15 +343,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f50ae312d4bcc7f0",
+  "active": "656aeafce207fc40",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Polymorphism in C++.md",
+    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",

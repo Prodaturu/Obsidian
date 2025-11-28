@@ -22,7 +22,7 @@
 
 ## Properties of Abstract Class
 
-- **Require PURE virtual functions** (`= 0`)
+- **Requires PURE virtual functions** (`= 0`)
 - **No implementation** for pure Virtual Functions
 - **Must be overridden**
 - Used for **interfaces/blueprints**
@@ -68,14 +68,17 @@ public:
 class Dog : public Animal
 {
 public:
-    void speak() override   // MUST implement
-    {
-        cout << "Woof!" << endl;
-    }
+	// MUST implement
+    void speak() override {cout << "Woof!" << endl;}
 };
 
 Dog dog;  // OK - implements all pure virtual functions
 ```
+
+- The `virtual void speak = 0;` says that `speak` must be modified in the derived functions
+- Then in the derived class `Dog`
+	- The `override` keyword is used to modify `speak`
+	- In this particular example, `void speak() override {cout << "Woof!" << endl;}`
 
 #### Practical Usage
 
@@ -102,6 +105,32 @@ public:
     void query(string sql) override { /* PostgreSQL query */ }
 };
 ```
+
+- The **Base Class** `Database` is used as
+	- an **Interface** / **Contract** that all database types must follow
+- Then the **Child Classes** `MySQL` and `PostgreSQL` provide specific implementations for each database system
+
+##### 🎯 How It Works in Practice
+
+```cpp
+
+// Usage in application:
+void useDatabase(Database* db) {  // Accepts ANY Database type
+    db->connect();    // Calls MySQL::connect() or PostgreSQL::connect()
+    db->query("SELECT * FROM users");  // Calls appropriate query implementation
+}
+
+// Can switch between databases easily:
+useDatabase(new MySQL());      // Uses MySQL
+useDatabase(new PostgreSQL()); // Uses PostgreSQL - same interface!
+```
+
+- **Benefits:**
+	- Write code once that works with any database
+	- Easy to add new database types later
+	- Consistent API across all database implementations
+
+**This is polymorphism in action!** 🔥
 
 # References
 
