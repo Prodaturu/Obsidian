@@ -43,6 +43,9 @@ int main()
 }
 ```
 
+- `add<int>(5, 3)` tells the compiler to use `int` for `T`
+- while `add<double>(2.5, 1.5)` tells it to use `double`.
+
 
 
 # References
