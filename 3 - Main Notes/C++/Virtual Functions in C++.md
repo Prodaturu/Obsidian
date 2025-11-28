@@ -18,7 +18,6 @@
 - **Purpose**:
 	- Ensure the correct function is called based on the **actual object type** at runtime, not the pointer type.
 
-
 ## 🎯 Core Problem Solved
 
 ### Without Virtual (Static Binding)
@@ -42,10 +41,18 @@ ptr->show(); // Calls Derived::show() - CORRECT!
 ### Declaration
 
 - `virtual returnType functionName(parameters);`
+- The `virtual` keyword is used to "enable runtime Polymorphism"
+- Tells the computer
+	- Check the actual object type at runtime, not the pointer type
+- Must be declared in the **Base Class**
 
 ### Override
 
 - `returnType functionName(parameters) override;`
+- The `override` keyword is used to explicitly state you're overriding a virtual function
+- Provides **compile-time safety**
+	- compiler checks if base class is actually has this virtual function
+- Must be used in the **Derived Class**
 
 ## 🚀 Essential Example
 
