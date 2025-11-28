@@ -53,7 +53,7 @@ ptr->show(); // Calls Derived::show() - CORRECT!
 
 - The `override` keyword is used to explicitly state you're overriding a virtual function
 - Provides **compile-time safety**
-	- compiler checks if base class is actually has this virtual function
+	- compiler checks if base class actually has this virtual function
 - Must be used in the **Derived Class**
 
 ## 🚀 Essential Example

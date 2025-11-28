@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstract Classes in C++.md",
+                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Abstract Classes in C++"
+              "title": "Polymorphism in C++"
             }
           },
           {
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Polymorphism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,12 +215,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -346,6 +346,7 @@
   },
   "active": "f50ae312d4bcc7f0",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Polymorphism in C++.md",
     "Abstract Classes in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
@@ -354,7 +355,6 @@
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
     "Tags/Classes and Objects in C++.md",
     "Tags/OOPS in C++.md",
