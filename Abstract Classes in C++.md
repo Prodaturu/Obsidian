@@ -113,13 +113,11 @@ public:
 ##### 🎯 How It Works in Practice
 
 ```cpp
-
 // Usage in application:
 void useDatabase(Database* db) {  // Accepts ANY Database type
     db->connect();    // Calls MySQL::connect() or PostgreSQL::connect()
     db->query("SELECT * FROM users");  // Calls appropriate query implementation
 }
-
 // Can switch between databases easily:
 useDatabase(new MySQL());      // Uses MySQL
 useDatabase(new PostgreSQL()); // Uses PostgreSQL - same interface!
