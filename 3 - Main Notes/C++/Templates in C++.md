@@ -11,10 +11,23 @@
 - **Topic Tags:**
 
 
-# Templates in C++
+# Templates
 
-- 
+- Templates lets us write a function or class that works with different data types
+- Help avoid repeating code and make programs more flexible
 
+## Function Templates
+
+- Can be created using `template` keyword
+
+### Syntax
+```cpp
+template <typename T>
+return_type function_name(T parameter) { /* code */ }
+```
+
+- `T` is a placeholder for a data type (like `int`, `float`, etc.)
+- Any name instead of `T`, `T` is just common practice
 
 # References
 
