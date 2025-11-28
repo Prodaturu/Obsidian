@@ -65,7 +65,8 @@ public:
     virtual void speak() { cout << "Animal sound"; }
 };
 
-class Dog : public Animal {
+class Dog : public Animal
+{
 public:
     void speak() override { cout << "Woof!"; } // Override
 };
