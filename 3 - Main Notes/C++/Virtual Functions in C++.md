@@ -78,11 +78,14 @@ public:
 
 ### WHAT'S HAPPENING:
 
- 1. Compiler sees `animal->speak()` and checks if `speak()` is virtual
- 2. Since speak() is virtual, it DOESN'T call Animal::speak() immediately
- 3. At RUNTIME: checks what animal actually points to (a Dog object)
- 4. Calls Dog::speak() because that's the actual object type
- 5. Output: "Woof!" instead of "Animal sound"
+ 1. Compiler sees `animal->speak()` and checks if `speak()` is *virtual*
+ 2. Since `speak()` is *virtual*, 
+	 - it DOESN'T call `Animal::speak()` immediately
+ 3. At RUNTIME:
+	 - checks what `animal` actually points to (a `Dog` object)
+ 4. Calls `Dog::speak()` because that's the *actual object type*
+ 5. Output: 
+	 - "Woof!" instead of "Animal sound"
 
 - **WITHOUT VIRTUAL:**
 	- Would call `Animal::speak()` regardless of actual object type
