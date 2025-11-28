@@ -98,7 +98,6 @@ public:
 
 # References
 
-
 ## Closely Related Notes
 
 - Virtual Functions in C++
