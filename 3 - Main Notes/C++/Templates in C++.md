@@ -29,6 +29,22 @@ return_type function_name(T parameter) { /* code */ }
 - `T` is a placeholder for a data type (like `int`, `float`, etc.)
 - Any name instead of `T`, `T` is just common practice
 
+### Example
+
+```cpp
+template <typename T>
+T add(T a, T b) {return (a + b);}
+
+int main()
+{
+	cout << add<int>(5, 3) << endl;
+	cout << add<double>(2.5, 7.5) << endl;
+	return 0;
+}
+```
+
+
+
 # References
 
 
