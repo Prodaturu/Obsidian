@@ -193,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Templates",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -343,7 +343,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "656aeafce207fc40",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
