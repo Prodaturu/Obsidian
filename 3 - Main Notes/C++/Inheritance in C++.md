@@ -3,14 +3,17 @@
 **Status:** 
 
 **Hashtags:**
-- #CPP 
-- #inheritance 
+- #CPP (Code Language)
+- #inheritance  (Primary Related TOpic)
 - #OOPS 
 - #advancedcpp 
-- #multiinheritance
+- #multilevelinheritance
 - #multipleinheritance
+- #multipleinheritance 
+- #cppclasses
+- #diamondproblem
 
-**Links / Tags:** 
+**Links / Tags:**1 
 - **Relevance Links:**
 
 - **Topic Tags:**
