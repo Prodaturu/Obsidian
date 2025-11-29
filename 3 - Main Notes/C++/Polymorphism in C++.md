@@ -3,7 +3,14 @@
 **Status:** 
 
 **Hashtags:**
-- #OOPS #CPP #polymorphism
+- #OOPS 
+- #CPP 
+- #polymorphism 
+- #compiletimepolymorphism 
+- #runtimepolymorphism 
+- #functionoverloading 
+- #operatoroverloading 
+- #virtualfunctions
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -19,7 +26,7 @@
 
 # Polymorphism
 
-- Polymorphism <=> "Many forms"
+- Polymorphism $\implies$ "Many forms"
 - Ability to process objects differently based on their data type or class
 
 ## Types of Polymorphism
