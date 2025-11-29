@@ -104,9 +104,18 @@ int main()
 }
 ```
 
-# Class Templates
-
-- 
+- `Box` is the "Template class"
+	- it can store and display a value of any datatype
+- In the `main` function 
+	- `Box<int> intBox(50);` 
+		- `<int>` replaces the template type `T`
+		- Then creates a `int` value `50` in a class named `intBox`
+	- `Box<string> strBox("Hello");`		
+		- `<string>` replaces the template type `T`
+		- Then creates a `string` value `"Hello"` in a class named `strBox`
+	- `intBox.show();`
+		- displays the `int` value `50` by replacing `T` with `int`
+	- 
 
 # References
 
