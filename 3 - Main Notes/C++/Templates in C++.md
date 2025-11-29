@@ -1,9 +1,10 @@
 **Created:** 29.11.25, 13:36
 
-**Status:** #baby 
+**Status:**
 
 **Hashtags:**
-- 
+- #CPP 
+- #poly
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -200,7 +201,6 @@ Array<double> doubleArray;      // Double array of size 10 (default)
 - Don't forget template specialisation needs
     
 - Don't over complicate with too many type parameters
-    
 
 ### File Organisation
 
@@ -221,7 +221,6 @@ class MyTemplate {
 
 **Generic Programming = "Algorithms that work across different types"**
 
----
 
 ## 💡 When to Use Templates
 

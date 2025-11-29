@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
+                "file": "3 - Main Notes/C++/Templates in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Polymorphism in C++"
+              "title": "Templates in C++"
             }
           },
           {
@@ -380,12 +380,12 @@
   },
   "active": "656aeafce207fc40",
   "lastOpenFiles": [
+    "Tags/OOPS in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "Tags/C++ Language Features.md",
-    "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
