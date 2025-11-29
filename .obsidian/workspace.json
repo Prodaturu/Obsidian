@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Classes and Objects in C++.md",
+                "file": "3 - Main Notes/C++/Access Specifiers in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes and Objects in C++"
+              "title": "Access Specifiers in C++"
             }
           }
         ]
@@ -191,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#OOPS",
+                "query": "specifiers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -343,6 +343,7 @@
   },
   "active": "8966ff354e8bea9d",
   "lastOpenFiles": [
+    "Tags/Classes and Objects in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
@@ -357,7 +358,6 @@
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
-    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",

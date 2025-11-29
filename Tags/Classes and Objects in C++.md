@@ -3,7 +3,9 @@
 **Status:** 
 
 **Hashtags:**
-- 
+- #CPP 
+- #cppclasses 
+- #accessspecifiers
 
 **Links / Tags:** 
 - **Relevance Links:**
