@@ -96,7 +96,11 @@ public:
 int main()
 {
 	Box<int> intBox(50);
+	Box<string> strBox("Hello");
 	
+	intBox.show();
+	strBox.show();
+	return 0;
 }
 ```
 
