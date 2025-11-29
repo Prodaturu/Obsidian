@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Encapsulation in C++.md",
+                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encapsulation in C++"
+              "title": "Functions in C++"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#baby",
+                "query": "tag:#genericprogramming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -313,6 +313,9 @@
   },
   "active": "86361952770b38c6",
   "lastOpenFiles": [
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
+    "3 - Main Notes/C++/Constructors in C++.md",
+    "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "Tags/Classes and Objects in C++.md",
@@ -321,7 +324,6 @@
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "5 - Templates/Title.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
@@ -329,14 +331,12 @@
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "Tags/Latex.md",
     "3 - Main Notes/C++/Methods in C++.md",
-    "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++",

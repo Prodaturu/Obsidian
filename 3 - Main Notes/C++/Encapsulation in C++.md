@@ -6,7 +6,7 @@
 - #CPP 
 - #encapsulation
 - #advancedcpp 
-- #acessspecfiers
+- #OOPS 
 
 **Links / Tags:** 
 - **Relevance Links:**

@@ -1,10 +1,11 @@
 **Created:** 27.11.25, 13:41
 
-**Status:** #baby 
+**Status:** 
 
 **Hashtags:**
 - #CPP 
 - #functions
+- #genericprogramming 
 
 **Links / Tags:** 
 - **Relevance Links:**

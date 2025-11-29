@@ -1,9 +1,12 @@
 **Created:** *27.11.25, 03:50*
 
-**Status:** #baby 
+**Status:** 
 
 **Hashtags:**
-- 
+
+- #CPP 
+- #constructors
+- #OOPS 
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -11,7 +14,7 @@
 
 - **Topic Tags:**
 	- [[Constructor Overloading in C++]]
-	- 
+
 
 # Constructors
 
