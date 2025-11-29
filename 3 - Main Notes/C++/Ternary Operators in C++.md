@@ -1,9 +1,11 @@
 **Created:** *25.11.25, 19:33*
 
-**Status:** #baby 
+**Status:**
 
 **Hashtags:**
-- 
+- #CPP 
+- #ternaryoperators
+- #conditionalstatements 
 
 **Links / Tags:** 
 - **Relevance Links:**

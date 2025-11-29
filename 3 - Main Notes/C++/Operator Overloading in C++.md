@@ -1,6 +1,6 @@
 **Created:** 27.11.25, 18:51
 
-**Status:** #baby 
+**Status:**
 
 **Hashtags:**
 - #CPP #OOPS #polymorphism #operatoroverloading 

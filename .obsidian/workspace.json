@@ -4,134 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "726ee264e4d10a4a",
+        "id": "6ccbcc2fad8585ce",
         "type": "tabs",
         "children": [
           {
-            "id": "8c0e2a2e6b752ad2",
+            "id": "6a3c359c671b2570",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Virtual Functions in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Virtual Functions in C++"
-            }
-          },
-          {
-            "id": "f50ae312d4bcc7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Inheritance in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inheritance in C++"
-            }
-          },
-          {
-            "id": "0afb709bec49dcf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operator Overloading in C++"
-            }
-          },
-          {
-            "id": "86361952770b38c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Functions in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Functions in C++"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "187f5a8ed67e5b7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8966ff354e8bea9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Constructor Overloading in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Constructor Overloading in C++"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -191,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compiletimepolymorphism",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,8 +95,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -341,34 +223,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "6a3c359c671b2570",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/Methods in C++.md",
-    "Tags/Classes and Objects in C++.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "Indexes/C++.md",
-    "3 - Main Notes/C++/Friend Functions in C++.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
+    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Types of Proof 0.4.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Definitions, Theorems, and proofs - 0.3.md",
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Automata Complexity and Computability 0.1.md",
+    "3 - Main Notes/C++/Virtual Functions in C++.md",
+    "3 - Main Notes/C++/Ternary Operators in C++.md",
+    "3 - Main Notes/C++/Templates in C++.md",
+    "3 - Main Notes/C++/Switch Statements in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
+    "3 - Main Notes/C++/Operators in C++.md",
+    "3 - Main Notes/C++/Operator precedence in C++.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "3 - Main Notes/C++/Functions in C++.md",
-    "3 - Main Notes/C++/Function Overloading in C++.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
-    "Tags/OOPS in C++.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
-    "3 - Main Notes/C++/Constructors in C++.md",
-    "3 - Main Notes/C++/Encapsulation in C++.md",
+    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "3 - Main Notes/C++/Inheritance in C++.md",
-    "5 - Templates/Title.md",
-    "3 - Main Notes/C++/Switch Statements in C++.md",
-    "3 - Main Notes/C++/Templates in C++.md",
-    "Tags/C++ Language Features.md",
-    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
+    "3 - Main Notes/C++/Encapsulation in C++.md",
+    "3 - Main Notes/C++/Constructors in C++.md",
+    "3 - Main Notes/C++/Friend Functions in C++.md",
+    "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",

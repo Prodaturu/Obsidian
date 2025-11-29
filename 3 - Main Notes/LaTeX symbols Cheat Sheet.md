@@ -1,6 +1,9 @@
-status: #adult
+status:
 
 hashtags:
+#mathematical-foundations 
+#latex
+#cheatsheet
 
 links: [[Latex]]
 
