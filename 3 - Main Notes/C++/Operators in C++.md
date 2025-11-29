@@ -1,9 +1,11 @@
 **Created:** 27.11.25, 18:47
 
-**Status:** #baby 
+**Status:**
 
 **Hashtags:**
-- 
+- #CPP 
+- #pointers
+- #mathematical-foundations 
 
 **Links / Tags:** 
 - **Relevance Links:**

@@ -3,7 +3,8 @@
 **Status:** #baby 
 
 **Hashtags:**
-- 
+- #CPP 
+- #functions 
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -18,7 +19,6 @@
 ## Explanation on Methods
 
 - **Methods** or **member functions** are functions that belong to a class
-    
 - They define the behaviours or actions that objects of the class can perform
    
 
@@ -175,11 +175,6 @@ int main()
 }
 
 ```
-
-
-
-
-
 
 # References
 
