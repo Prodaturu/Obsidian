@@ -191,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CPP",
+                "query": "tag:#compiletimepolymorphism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -341,7 +341,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8966ff354e8bea9d",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
