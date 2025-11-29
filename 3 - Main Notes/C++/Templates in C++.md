@@ -118,6 +118,37 @@ int main()
 	- `strBox.show();`
 		- displays the `string` value `"Hello"` by replacing `T` with `string`
 
+```cpp
+template <typename T1, typename T2>
+{
+public:
+	T1 first;
+	T2 second;
+	
+	pair(T1 a, T2 b)
+	{
+		first = a;
+		second = b;
+	}
+	
+	void display()
+	{
+		cout << "First: " << first << ", Second: " << second << endl;
+	}
+};
+
+int main()
+{
+  Pair<string, int> person("John", 30);  
+  Pair<int, double> score(51, 9.5);  
+  
+  person.display();  
+  score.display();  
+  
+  return 0;
+}
+```
+
 # References
 
 
