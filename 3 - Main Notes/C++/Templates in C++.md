@@ -16,7 +16,7 @@
 - Templates lets us write a function or class that works with different data types
 - Help avoid repeating code and make programs more flexible
 
-## Function Templates
+# Function Templates
 
 - Can be created using `template` keyword
 
@@ -26,10 +26,32 @@ template <typename T>
 return_type function_name(T parameter) { /* code */ }
 ```
 
-- `T` is a placeholder for a data type (like `int`, `float`, etc.)
-- Any name instead of `T`, `T` is just common practice
+- `T` is the placeholder for a data type (like `int`, `float` , etc.,)
+- `T` is common practice, but any name can be used
 
-### Example
+### Example 1
+
+```cpp
+Template <typename X>
+
+X add(X a, X b) {return (a + b);}
+
+int main() {
+	cout << add<int>(5 + 15) << endl;
+	cout << add<double>(12.5 + 7.5) << endl;
+	return (0);
+}
+```
+
+- `add<int>(5 + 15)`
+	- `<int>` says the compiler to use `int` for `X` as datatype
+	- then performs the `add` function with `5`, `15` of `int` type as parameters
+- `add<double>(12.5 + 7.5)`
+	- `<double>` says the compiler to use `double` for `X` as datatype
+	- then performs the `add` function with `12.5`, `7.5` of `double` type as parameters
+
+
+### Example 2
 
 ```cpp
 template <typename T>
@@ -46,7 +68,7 @@ int main()
 - `add<int>(5, 3)` tells the compiler to use `int` for `T`
 - while `add<double>(2.5, 1.5)` tells it to use `double`.
 
-## Class Templates
+# Class Templates
 
 - Templates can be used to make classes that work with any data-type
 
@@ -57,16 +79,30 @@ template <typename T>
 class ClassName { /* members and methods using T */ }
 ```
 
-- `T` is the placeholder for a data type (like `int`, `float` , etc.,)
-- `T` is common practice, but any name can be used
+### Example 1
 
 ```cpp
-Template <typename X>
+template <typename T>
 
-X add(X a, X b) {return (a + b)};
+class Box
+{
+private:
+	T value;
+public:	
+	Box(T v) {value = v;}
+	void show() { cout << "value: " << value << endl;}
+};
 
-int main
+int main()
+{
+	Box<int> intBox(50);
+	
+}
 ```
+
+# Class Templates
+
+- 
 
 # References
 
