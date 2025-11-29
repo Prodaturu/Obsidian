@@ -78,9 +78,19 @@
               "icon": "lucide-file",
               "title": "Operator Overloading in C++"
             }
+          },
+          {
+            "id": "86361952770b38c6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ambiguity",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,7 +297,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "86361952770b38c6",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
