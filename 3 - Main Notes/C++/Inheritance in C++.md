@@ -1,9 +1,13 @@
 **Created:** 27.11.25, 14:06
 
-**Status:** #baby 
+**Status:** 
 
 **Hashtags:**
-- 
+- #CPP 
+- #OOPS 
+- #advancedcpp 
+- #inheritance
+- ambiguity
 
 **Links / Tags:** 
 - **Relevance Links:**

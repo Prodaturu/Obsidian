@@ -1,6 +1,6 @@
 **Created:** {{date}}, {{time}}
 
-**Status:** #baby 
+**Status:** #
 
 **Hashtags:**
 - 

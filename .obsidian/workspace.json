@@ -35,10 +35,24 @@
             "id": "f50ae312d4bcc7f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Inheritance in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inheritance in C++"
             }
           },
           {
@@ -123,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#baby",
+                "query": "ambiguity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -275,13 +289,15 @@
   },
   "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Inheritance in C++.md",
+    "5 - Templates/Title.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Tags/OOPS in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Constructors in C++.md",
@@ -289,7 +305,6 @@
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
-    "3 - Main Notes/C++/Inheritance in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
@@ -300,7 +315,6 @@
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",
-    "5 - Templates/Title.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
