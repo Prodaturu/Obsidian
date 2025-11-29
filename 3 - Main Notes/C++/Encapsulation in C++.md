@@ -1,9 +1,12 @@
 **Created:** *27.11.25, 06:01*
 
-**Status:** #baby 
+**Status:**
 
 **Hashtags:**
-- 
+- #CPP 
+- #encapsulation
+- #advancedcpp 
+- #acessspecfiers
 
 **Links / Tags:** 
 - **Relevance Links:**
