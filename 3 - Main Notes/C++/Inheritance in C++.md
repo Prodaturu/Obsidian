@@ -6,8 +6,9 @@
 - #CPP 
 - #OOPS 
 - #advancedcpp 
-- #inheritance
-- ambiguity
+- #inheritance 
+- #multiinheritance
+- #multipleinheritance
 
 **Links / Tags:** 
 - **Relevance Links:**
