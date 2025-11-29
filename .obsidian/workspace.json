@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templates in C++"
+              "title": "Polymorphism in C++"
+            }
+          },
+          {
+            "id": "e73cb99d6aa4e015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/C++ Language Features.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Language Features"
             }
           },
           {
@@ -193,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Templates",
+                "query": "polymor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -343,21 +367,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "656aeafce207fc40",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
+    "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
+    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Functions in C++.md",
+    "3 - Main Notes/C++/Constructors in C++.md",
+    "Tags/Classes and Objects in C++.md",
+    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
+    "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
-    "Tags/Classes and Objects in C++.md",
-    "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
@@ -368,9 +394,7 @@
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
-    "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
-    "5 - Templates/5 - Templates.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",

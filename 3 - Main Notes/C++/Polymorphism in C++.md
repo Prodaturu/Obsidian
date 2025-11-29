@@ -1,6 +1,6 @@
 **Created:** 27.11.25, 16:50
 
-**Status:** #baby #incomplete
+**Status:** 
 
 **Hashtags:**
 - 
@@ -14,6 +14,7 @@
 	- [[Operator Overloading in C++]]
 	- [[Virtual Functions in C++]]
 	- [[Abstract Classes in C++]]
+	- [[Templates in C++]]
 
 
 # Polymorphism

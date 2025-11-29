@@ -13,6 +13,7 @@
 	- [[Switch Statements in C++]]
 	- [[Operators in C++]]
 	- [[Functions in C++]]
+	- [[Templates in C++]]
 	- C++
 
 

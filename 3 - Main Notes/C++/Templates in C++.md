@@ -94,6 +94,7 @@ Box<int> intBox(42);           // Box that stores integers
 Box<string> stringBox("Hello"); // Box that stores strings
 Box<double> doubleBox(3.14);   // Box that stores doubles
 ```
+
 ### Multiple Type Parameters
 
 ```cpp
@@ -155,8 +156,6 @@ Container<> defaultContainer(5);    // Uses int (default)
 Container<double> doubleContainer(3.14);
 ```
 
----
-
 ## 🚀 Real-World Examples
 
 ### Generic Array Class
@@ -181,7 +180,6 @@ public:
 Array<int, 5> intArray;        // Integer array of size 5
 Array<double> doubleArray;      // Double array of size 10 (default)
 ```
----
 
 ## 📋 Template Rules & Best Practices
 
@@ -194,18 +192,17 @@ Array<double> doubleArray;      // Double array of size 10 (default)
 - Use type deduction when possible
     
 - Document template requirements
-    
 
 ### Don'ts ❌
 
-- Don't put templates in .cpp files (with exceptions)
+- Don't put templates in `.cpp` files (with exceptions)
     
-- Don't forget template specialization needs
+- Don't forget template specialisation needs
     
-- Don't overcomplicate with too many type parameters
+- Don't over complicate with too many type parameters
     
 
-### File Organization
+### File Organisation
 
 ```cpp
 
@@ -235,7 +232,6 @@ class MyTemplate {
 - **Math operations**: calculations that work with int, float, double
     
 - **Smart pointers**: memory management for any type
-
 
 # References
 
