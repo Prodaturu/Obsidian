@@ -5,7 +5,6 @@
 **Hashtags:**
 - #CPP 
 - #functions
-- #genericprogramming 
 
 **Links / Tags:** 
 - **Relevance Links:**

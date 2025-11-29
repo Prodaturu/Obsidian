@@ -105,6 +105,22 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "187f5a8ed67e5b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8966ff354e8bea9d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,8 +327,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "86361952770b38c6",
+  "active": "8966ff354e8bea9d",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
@@ -324,7 +341,6 @@
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "5 - Templates/Title.md",
-    "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
