@@ -83,10 +83,24 @@
             "id": "86361952770b38c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Friend Functions in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Friend Functions in C++"
             }
           }
         ],
@@ -147,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#baby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -299,6 +313,10 @@
   },
   "active": "86361952770b38c6",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Constructor Overloading in C++.md",
+    "Tags/Classes and Objects in C++.md",
+    "3 - Main Notes/C++/Access Specifiers in C++.md",
+    "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "5 - Templates/Title.md",
@@ -311,11 +329,7 @@
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Constructors in C++.md",
-    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "3 - Main Notes/C++/Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Constructor Overloading in C++.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
