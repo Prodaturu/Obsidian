@@ -6,7 +6,6 @@
 - #CPP 
 - #OOPS 
 - #advancedcpp 
-- #inheritance 
 - #multiinheritance
 - #multipleinheritance
 
