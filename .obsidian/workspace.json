@@ -177,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#genericprogramming",
+                "query": "tag:#baby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -329,6 +329,9 @@
   },
   "active": "8966ff354e8bea9d",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Function Overloading in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
+    "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/C++/Constructors in C++.md",
@@ -341,10 +344,8 @@
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
     "5 - Templates/Title.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
-    "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
@@ -354,7 +355,6 @@
     "Tags/Latex.md",
     "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",

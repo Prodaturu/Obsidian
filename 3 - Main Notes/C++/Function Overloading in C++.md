@@ -1,9 +1,13 @@
 **Created:** *26.11.25, 20:26*
 
-**Status:** #baby 
+**Status:** 
 
 **Hashtags:**
-- 
+- #CPP 
+- #advancedcpp 
+- #OOPS 
+- #polymorphism 
+- #compiletimepolymorphism 
 
 **Links / Tags:** 
 - **Relevance Links:**
