@@ -7,17 +7,14 @@
 - #advancedcpp 
 - #cppclasses 
 - #purevirtualfunctions
-- #virtualfunctions 
+- #virtualfunctions  
 - #abstractclasses
 - #polymorphism 
-- 
-
 
 **Links / Tags:** 
 - **Relevance Links:**
 
 - **Topic Tags:**
-
 
 # Abstract Classes
 

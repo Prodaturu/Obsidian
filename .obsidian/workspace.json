@@ -114,24 +114,10 @@
             "id": "8966ff354e8bea9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Abstract Classes in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Abstract Classes in C++"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -191,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "functions",
+                "query": "tag:#OOPS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -341,13 +327,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8966ff354e8bea9d",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "Tags/OOPS in C++.md",
