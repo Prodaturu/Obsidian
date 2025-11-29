@@ -4,6 +4,7 @@
 
 **Hashtags:**
 - #CPP 
+- #inheritance 
 - #OOPS 
 - #advancedcpp 
 - #multiinheritance
