@@ -114,10 +114,24 @@
             "id": "8966ff354e8bea9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Lambda Functions in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lambda Functions in C++"
             }
           }
         ]
@@ -329,6 +343,7 @@
   },
   "active": "8966ff354e8bea9d",
   "lastOpenFiles": [
+    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
     "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "Tags/OOPS in C++.md",
@@ -354,7 +369,6 @@
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "Tags/Latex.md",
     "3 - Main Notes/C++/Methods in C++.md",
-    "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",

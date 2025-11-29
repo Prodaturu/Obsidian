@@ -1,9 +1,11 @@
 **Created:** *26.11.25, 21:08*
 
-**Status:** #baby 
+**Status:**
 
 **Hashtags:**
-- 
+- #CPP 
+- #functions 
+- #
 
 **Links / Tags:** 
 - **Relevance Links:**
