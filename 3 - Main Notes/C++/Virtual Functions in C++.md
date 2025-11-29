@@ -23,7 +23,6 @@
 ### Without Virtual (Static Binding)
 
 ```cpp
-
 Base* ptr = new Derived();
 ptr->show(); // Always calls Base::show() - WRONG!
 ```
