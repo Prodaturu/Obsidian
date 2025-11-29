@@ -3,7 +3,15 @@
 **Status:** 
 
 **Hashtags:**
+- #CPP 
+- #advancedcpp 
+- #cppclasses 
+- #purevirtualfunctions
+- #virtualfunctions 
+- #abstractclasses
+- #polymorphism 
 - 
+
 
 **Links / Tags:** 
 - **Relevance Links:**

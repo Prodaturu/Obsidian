@@ -1,9 +1,15 @@
 **Created:** 27.11.25, 20:50
 
-**Status:** #baby 
+**Status:**
 
 **Hashtags:**
-- 
+- #CPP 
+- #advancedcpp 
+- #OOPS 
+- #virtualfunctions 
+- #polymorphism 
+- #runtimepolymorphism 
+
 
 **Links / Tags:** 
 - **Relevance Links:**
