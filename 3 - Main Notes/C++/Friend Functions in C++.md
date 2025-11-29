@@ -3,7 +3,11 @@
 **Status:** 
 
 **Hashtags:**
-- 
+- #CPP 
+- #advancedcpp 
+- #functions 
+- #OOPS 
+- #encapsulation
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -11,7 +15,6 @@
 
 - **Topic Tags:**
 	- 
-
 
 # Friend Functions
 

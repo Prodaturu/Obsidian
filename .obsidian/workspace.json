@@ -114,10 +114,24 @@
             "id": "8966ff354e8bea9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tags/Classes and Objects in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Classes and Objects in C++"
             }
           }
         ]
@@ -327,8 +341,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "8966ff354e8bea9d",
   "lastOpenFiles": [
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
@@ -340,7 +356,6 @@
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
-    "3 - Main Notes/C++/Friend Functions in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
@@ -354,7 +369,6 @@
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-    "Tags/Latex.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",

@@ -2,7 +2,13 @@
 
 **Status:** #teen 
 
-**Tags:**
+**Hashtags:**
+#CPP 
+#advancedcpp 
+#OOPS 
+#cppclasses 
+
+**Tags / Links:**
 - [[C++ Language Features]]
 - [[Classes and Objects in C++]]
 - [[OOPS in C++]]
@@ -10,11 +16,6 @@
 # Related Links
 
 - 
-
-
-
-
-
 
 # References
 
