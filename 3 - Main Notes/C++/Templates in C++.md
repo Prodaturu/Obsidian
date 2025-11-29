@@ -115,7 +115,8 @@ int main()
 		- Then creates a `string` value `"Hello"` in a class named `strBox`
 	- `intBox.show();`
 		- displays the `int` value `50` by replacing `T` with `int`
-	- 
+	- `strBox.show();`
+		- displays the `string` value `"Hello"` by replacing `T` with `string`
 
 # References
 
