@@ -57,7 +57,16 @@ template <typename T>
 class ClassName { /* members and methods using T */ }
 ```
 
+- `T` is the placeholder for a data type (like `int`, `float` , etc.,)
+- `T` is common practice, but any name can be used
 
+```cpp
+Template <typename X>
+
+X add(X a, X b) {return (a + b)};
+
+int main
+```
 
 # References
 
