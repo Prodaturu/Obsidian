@@ -4,7 +4,11 @@
 
 **Hashtags:**
 - #CPP 
-- #poly
+- #templates
+- #genericprogramming
+- #compiletimepolymorphism
+- #advancedcpp
+- #metaprogramming
 
 **Links / Tags:** 
 - **Relevance Links:**

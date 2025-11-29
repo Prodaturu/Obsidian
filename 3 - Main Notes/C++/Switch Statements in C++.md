@@ -4,6 +4,8 @@
 
 **Hashtags:**
 - #CPP 
+- #switchstatements
+- #conditionalstatements
 
 **Links / Tags:** 
 - **Relevance Links:**
