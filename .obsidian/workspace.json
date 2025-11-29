@@ -11,10 +11,24 @@
             "id": "6a3c359c671b2570",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/C++ Files.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Files"
             }
           }
         ]
@@ -95,7 +109,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -225,6 +240,9 @@
   },
   "active": "6a3c359c671b2570",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Constructor Overloading in C++.md",
+    "3 - Main Notes/C++/C++ Files.md",
+    "Indexes/C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
@@ -246,11 +264,8 @@
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
-    "3 - Main Notes/C++/Friend Functions in C++.md",
-    "3 - Main Notes/C++/Function Overloading in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
