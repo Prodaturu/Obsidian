@@ -177,7 +177,7 @@ int main()
 	- Creates a file called `filename.txt`
 	- Deletes `filename.txt`
 - **Answer:**
-	- 
+	- Reads the content of `filename.txt` and prints it line by line
 
 # References
 

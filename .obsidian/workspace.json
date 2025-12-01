@@ -32,6 +32,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "76924ca06bdafb78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce5b9366a0954586",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Files",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -238,10 +254,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a3c359c671b2570",
+  "active": "ce5b9366a0954586",
   "lastOpenFiles": [
-    "Untitled.md",
     "3 - Main Notes/C++/C++ Files.md",
+    "Untitled.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
