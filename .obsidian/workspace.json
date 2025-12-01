@@ -6,7 +6,7 @@
       {
         "id": "6ccbcc2fad8585ce",
         "type": "tabs",
-        "dimension": 75.45064377682404,
+        "dimension": 55.92274678111588,
         "children": [
           {
             "id": "6a3c359c671b2570",
@@ -62,7 +62,7 @@
       {
         "id": "76924ca06bdafb78",
         "type": "tabs",
-        "dimension": 24.549356223175966,
+        "dimension": 44.077253218884124,
         "children": [
           {
             "id": "ce5b9366a0954586",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Latex.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Latex"
+              "title": "C++"
             }
           }
         ]
@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Programming",
+                "query": "tag:#programming_language",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -295,11 +295,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "47e8fcccb87fc276",
+  "active": "ce5b9366a0954586",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Files.md",
-    "3 - Main Notes/C++/Date and Time in C++.md",
     "Tags/Latex.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
+    "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "all.base",
     "Untitled.md",
