@@ -94,11 +94,28 @@ while (getline (MyReadFile, myText))
 {  
 	// Output the text from the file  
 	cout << myText;
-	// Close the file  
-	MyReadFile.close();
 }
+// Close the file  
+MyReadFile.close();
 ```
 
+## Exercises
+
+- Which C++ library allows us to work with files?
+	- `filestreams`
+	- `fstream`
+	- `string`
+	- `vector`
+- **Answer:** `fstream`
+
+- Which class from `fstream` library is used to create and write to files?
+	- `ifstream`
+	- `ofstream`
+	- `fstream`
+	- `filemanager`
+- **Answer:** 
+  
+  
 # References
 
 ## Closely Related Notes
