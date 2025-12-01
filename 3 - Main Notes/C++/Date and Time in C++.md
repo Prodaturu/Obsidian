@@ -18,6 +18,9 @@
 - To use it,
 	- You must import `<ctime>` header file:
 	- `#include <ctime>`
+	
+- The `time()` function gives us a **timestamp** representing the current date and time
+- We can use `ctime()` function to show the date and time that a timestamp represents:
 
 
 # References
