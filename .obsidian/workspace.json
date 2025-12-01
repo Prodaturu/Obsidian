@@ -6,6 +6,7 @@
       {
         "id": "6ccbcc2fad8585ce",
         "type": "tabs",
+        "dimension": 75.45064377682404,
         "children": [
           {
             "id": "6a3c359c671b2570",
@@ -36,6 +37,7 @@
       {
         "id": "76924ca06bdafb78",
         "type": "tabs",
+        "dimension": 24.549356223175966,
         "children": [
           {
             "id": "ce5b9366a0954586",
@@ -270,13 +272,13 @@
   },
   "active": "6a3c359c671b2570",
   "lastOpenFiles": [
+    "all.base",
     "Tags/Latex.md",
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
-    "3 - Main Notes/C++/Date and Time in C++.md",
-    "3 - Main Notes/C++/C++ Files.md",
-    "Untitled.base",
-    "Tags/C++ Language Features.md",
     "Untitled.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+    "3 - Main Notes/C++/C++ Files.md",
+    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",

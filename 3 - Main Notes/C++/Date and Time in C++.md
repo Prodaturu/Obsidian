@@ -19,11 +19,11 @@
 	- You must import `<ctime>` header file:
 	- `#include <ctime>`
 
-## Display current Date and Time
+## Current Date and Time Display
 
-- The `<ctime>` library has a variety of functions to measure dates and times
-- The `time()` function gives us a **timestamp** representing the current date and time
-- We can use `ctime()` function to show the date and time that a timestamp represents:
+- `<ctime>` $\rightarrow$ library has a variety of functions to measure dates and times
+- `time()` $\rightarrow$ function gives us a **timestamp** representing current date and time
+- `ctime()`  $\rightarrow$ shows the date and time that a timestamp represents
 
 #### Example
 ```cpp
