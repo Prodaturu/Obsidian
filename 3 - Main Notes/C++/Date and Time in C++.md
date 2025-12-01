@@ -61,9 +61,36 @@ int main()
 {
 	time_t timestamp = time(NULL);  // pass NULL, get RETURN value
 	std::cout << ctime(&timestamp); // Display: "Mon Dec 1 22:59:42 2025"
+	return (0);
 }
 ```
 
+### 🔍 Key Differences
+|Aspect|Method 1 (Parameter)|Method 2 (Return Value)|
+|---|---|---|
+|**Syntax**|`time(&timestamp)`|`timestamp = time(NULL)`|
+|**What's passed**|Address of variable|`NULL` pointer|
+|**How value is obtained**|Written to parameter|Returned by function|
+|**Common use**|Older C-style code|Modern C++ style|
+
+### 💡 Simple Example (Both Methods)
+
+```cpp
+#include <iostream>
+#include <ctime>
+
+int main()
+{
+	// Method 1: Parameter-based
+	time_t ts1; 
+	time(&ts1);
+	std::cout << "Method 1:" << ctime(&ts1);
+	std::cout << "Method 2:" << ctime(&ts2);
+	
+	// Both produce identical output!
+	return(0);
+}
+```
 
 # References
 
