@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md",
+                "file": "3 - Main Notes/C++/Date and Time in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Files"
+              "title": "Date and Time in C++"
             }
           }
         ]
@@ -139,8 +139,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,9 +269,11 @@
   },
   "active": "6a3c359c671b2570",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Files.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
+    "Untitled.base",
     "Tags/Latex.md",
     "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/C++ Files.md",
     "Untitled.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "Indexes/C++.md",
@@ -294,8 +295,6 @@
     "3 - Main Notes/C++/Operator precedence in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
-    "3 - Main Notes/C++/Lambda Functions in C++.md",
-    "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
@@ -308,7 +307,6 @@
     "Tags",
     "4 - Full Notes",
     "2 - Source Material/Books",
-    "3 - Main Notes",
-    "5 - Templates"
+    "3 - Main Notes"
   ]
 }
