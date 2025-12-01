@@ -16,24 +16,26 @@
 
 - The `fstream` library allows us to work with files
 - `fstream` requires to include
-	1. `<iostream>`
-	2. `<fstream>`
+	1. `<iostream>` header
+	2. `<fstream>` header
 
 ### Example
 
 ```cpp
 #include <iostream>
 #include <fstream>
+
+// This is how you would include / import for using the "fstream" library
 ```
 
 - There are 3 classes included in the `fstream` library
 - which are used to create, write or read files
 
-|Class|Description|
-|---|---|
-|`ofstream`|Creates and writes to files|
-|`ifstream`|Reads from files|
-|`fstream`|A combination of ofstream and ifstream: creates, reads, and writes to files|
+| Class      | Description                                                                 |
+| ---------- | --------------------------------------------------------------------------- |
+| `ofstream` | Creates and writes to files                                                 |
+| `ifstream` | Reads from files                                                            |
+| `fstream`  | A combination of ofstream and ifstream: creates, reads, and writes to files |
 
 ## Create and Write To a File
 
