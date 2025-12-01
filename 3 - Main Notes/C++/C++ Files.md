@@ -113,9 +113,30 @@ MyReadFile.close();
 	- `ofstream`
 	- `fstream`
 	- `filemanager`
-- **Answer:** 
+- **Answer:** `ofstream`
   
-  
+```cpp
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main()
+{
+	ofstream MyFile("filename.txt");
+	MyLife << "writing to file.";
+	MyFile.close();
+	
+	return (0);
+}
+```
+  -  Consider above code. What will it do?
+	  - Reads from `filename.txt`
+	  - creates a file but does not write anything
+	  - Creates a file named `filename.txt` and writes "Writing to a file." into it
+	  - Outputs "Writing to a file." on the console
+  - **Answer:** 
+
+
 # References
 
 ## Closely Related Notes
