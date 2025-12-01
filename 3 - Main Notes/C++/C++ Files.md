@@ -39,9 +39,11 @@
 
 ## Create and Write To a File
 
-To create a file, use either the `ofstream` or `fstream` class, and specify the name of the file.
-
-To write to the file, use the insertion operator (`<<`).
+- To create a file:
+	- use either the `ofstream` or `fstream` class
+	- and specify the name of the file.
+- To write to the file
+	- use the insertion operator (`<<`).
 
 ### Example
 
