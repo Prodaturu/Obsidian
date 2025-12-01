@@ -1,7 +1,7 @@
 status:
 
 hashtags:
-#math
+#mathematics 
 #latex
 #cheatsheet
 

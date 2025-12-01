@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
+                "file": "Tags/Latex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LaTeX symbols Cheat Sheet"
+              "title": "Latex"
             }
           }
         ]
@@ -272,11 +272,11 @@
   },
   "active": "ce5b9366a0954586",
   "lastOpenFiles": [
+    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "Tags/Latex.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "all.base",
     "Untitled.md",
-    "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/C++ Files.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
