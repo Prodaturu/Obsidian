@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Latex.md",
+                "file": "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Latex"
+              "title": "LaTeX symbols Cheat Sheet"
             }
           }
         ]
@@ -270,12 +270,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a3c359c671b2570",
+  "active": "ce5b9366a0954586",
   "lastOpenFiles": [
-    "all.base",
     "Tags/Latex.md",
-    "Untitled.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
+    "all.base",
+    "Untitled.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "3 - Main Notes/C++/C++ Files.md",
     "Tags/C++ Language Features.md",

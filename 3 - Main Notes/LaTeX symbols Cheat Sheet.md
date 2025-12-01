@@ -1,7 +1,7 @@
 status:
 
 hashtags:
-#mathematical-foundations 
+#math
 #latex
 #cheatsheet
 
