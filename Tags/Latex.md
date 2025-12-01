@@ -1,2 +1,7 @@
+**HashTags:**
+- #programming 
+- #mathematics
+- #latex 
 
-tags: [[Mathematics]]
+links:
+- [[Mathematics]]
