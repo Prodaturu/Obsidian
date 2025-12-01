@@ -76,27 +76,30 @@ int main() {
 	- and the name of the file.
 
 **Note:** 
-- We also use a `while` loop together with the `getline()` function (which belongs to the `ifstream` class) to read the file line by line, and to print the content of the file:
+- We also use a `while` loop together with the `getline()` function
+	- (which belongs to the `ifstream` class) to read the file line by line
+	- and then we can print the content of the file:
 
 ### Example
 
+```cpp
 // Create a text string, which is used to output the text file  
 string myText;  
-  
+
 // Read from the text file  
 ifstream MyReadFile("filename.txt");  
-  
+
 // Use a while loop together with the getline() function to read the file line by line  
-while (getline (MyReadFile, myText)) {  
-  // Output the text from the file  
-  cout << myText;  
-}  
-  
-// Close the file  
-MyReadFile.close();
+while (getline (MyReadFile, myText))
+{  
+	// Output the text from the file  
+	cout << myText;
+	// Close the file  
+	MyReadFile.close();
+}
+```
 
 # References
-
 
 ## Closely Related Notes
 
