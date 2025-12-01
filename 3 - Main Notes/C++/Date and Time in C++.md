@@ -18,7 +18,10 @@
 - To use it,
 	- You must import `<ctime>` header file:
 	- `#include <ctime>`
-	
+
+## Display current Date and Time
+
+- The `<ctime>` library has a variety of functions to measure dates and times
 - The `time()` function gives us a **timestamp** representing the current date and time
 - We can use `ctime()` function to show the date and time that a timestamp represents:
 
