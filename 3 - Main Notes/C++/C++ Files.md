@@ -106,14 +106,16 @@ MyReadFile.close();
 	- `fstream`
 	- `string`
 	- `vector`
-- **Answer:** `fstream`
+- **Answer:** 
+	- `fstream`
 
 - Which class from `fstream` library is used to create and write to files?
 	- `ifstream`
 	- `ofstream`
 	- `fstream`
 	- `filemanager`
-- **Answer:** `ofstream`
+- **Answer:** 
+	- `ofstream`
   
 ```cpp
 #include <iostream>
@@ -134,8 +136,48 @@ int main()
 	  - creates a file but does not write anything
 	  - Creates a file named `filename.txt` and writes "Writing to a file." into it
 	  - Outputs "Writing to a file." on the console
-  - **Answer:** 
+  - **Answer:**
+	  - Creates a file named `filename.txt` and writes "Writing to a file." into it
 
+- What is the purpose of closing a file after writing or reading in C++?
+	- To ensure changes are saved and free up memory
+	- To delete the file
+	- To reload the file
+	- To make the file accessible only to the program
+- **Answer:**
+	- To ensure changes are saved and free up memory
+  
+- Which class would you use to read from a file in C++?
+	- `ofstream`
+	- `fstream`
+	- `ifstream`
+	- `filemanager`
+- **Answer:**
+	- `ifstream`
+  
+```cpp
+#include <fstream>  
+using namespace std;  
+  
+int main()
+{  
+  string myText;  
+  ifstream MyReadFile("filename.txt");  
+  while (getline(MyReadFile, myText))
+  {  
+    cout << myText;  
+  }  
+  MyReadFile.close();  
+  return 0;  
+}
+```
+- What does the above code do?
+	- Reads the content of `filename.txt` and prints it line by line
+	- Writes `filename.txt` to the console
+	- Creates a file called `filename.txt`
+	- Deletes `filename.txt`
+- **Answer:**
+	- 
 
 # References
 
