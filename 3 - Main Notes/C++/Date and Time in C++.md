@@ -31,6 +31,7 @@
 
 ## ⚡ Two ways to use "time()" function
 
+- The time function both `returns` and `stores` null in 
 ### 1. Using Parameter (Traditional):
 
 - Passing address to store the timestamp

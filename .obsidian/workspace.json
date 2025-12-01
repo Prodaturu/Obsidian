@@ -145,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming_language",
+                "query": "tag:#advancedcpp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,8 +298,8 @@
   "active": "47e8fcccb87fc276",
   "lastOpenFiles": [
     "Indexes/C++.md",
-    "Tags/Latex.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
+    "Tags/Latex.md",
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "all.base",
