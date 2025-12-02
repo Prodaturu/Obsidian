@@ -79,12 +79,19 @@ int main()
 ```
 
 ### 🔍 Key Differences
-|Aspect|Method 1 (Parameter)|Method 2 (Return Value)|
-|---|---|---|
-|**Syntax**|`time(&timestamp)`|`timestamp = time(NULL)`|
-|**What's passed**|Address of variable|`NULL` pointer|
-|**How value is obtained**|Written to parameter|Returned by function|
-|**Common use**|Older C-style code|Modern C++ style|
+| Aspect                    | Method 1 (Parameter)            | Method 2 (Return Value)  |
+| ------------------------- | ------------------------------- | ------------------------ |
+| **Syntax**                | `time(&timestamp)`              | `timestamp = time(NULL)` |
+| **What's passed**         | `&timestamp`Address of variable | `NULL` / `nullptr`       |
+| **How value is obtained** | Written to parameter            | Returned by function     |
+| **Common use**            | Older C-style code              | Modern C++ style         |
+
+#### Pro Tip: Even Cleaner
+
+```cpp
+time_t now = time(nullptr);  // Use nullptr instead of NULL (C++11+)
+std::cout << ctime(&now);
+```
 
 ### 💡 Simple Example (Both Methods)
 
