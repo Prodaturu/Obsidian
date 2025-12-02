@@ -14,8 +14,9 @@
 # C++ Error Handling
 
 - [[Types of Errors in C++]]
-- 
-
+- [[**Error Handling Mechanisms in C++**]]
+- [[ Debugging Techniques in C++]]
+- [[c++ Error Prevention and Validation]]
 
 # References
 
