@@ -12,6 +12,7 @@
 **Tags / Links:**
 - [[C++ Language Features]]
 - [[C++ Data Structures and Algorithms]]
+- [[Classes and Objects in C++]]
 - [[OOPS in C++]]
 
 # Related Links
