@@ -51,6 +51,7 @@
 struct tm datetime;
 time_t timestamp;
 
+tm datetime = {};
 datetime.tm_year = 2025 - 1900; // Number of years since 1900
 datetime.tm_mon = 12 - 1; // Number of months since January (months are 0-indexed)
 datetime.tm_mday = 17;
