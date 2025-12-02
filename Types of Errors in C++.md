@@ -19,11 +19,12 @@
 ## 1. Common Compile-Time Errors
 
 - Errors preventing program from compiling
-- Could occur in following cases
+- Common Compile Time Errors:
 	- Missing semicolon
 	- Using undeclared variables
 	- Mismatched types
 
+## 
 
 # References
 
