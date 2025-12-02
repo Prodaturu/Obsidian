@@ -11,7 +11,6 @@
 
 - **Topic Tags:**
 
-
 # Date and Time in C++
 
 - The `ctime` library allows us to work with dates and times
@@ -20,7 +19,6 @@
 
 ```cpp
 // Import the data/time library
-
 #include <ctime>
 ```
 
