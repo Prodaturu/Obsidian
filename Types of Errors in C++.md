@@ -88,14 +88,31 @@ int main()
 
 - Program runs but produces wrong results
 - Hardest to detect
+- Program compiles and runs
+- incorrect output / behaviour
+- Algorithmic mistakes
 
 ```cpp
 int average(int a, int b)
 {
-	return a + b / 2; // WRONG for average we needed parantheses
+	return a + b / 2;
+	// WRONG for average we needed parantheses
+	// corret => (a + b) / 2;
 }
+
+// test:
+std::cout << average(10, 20); // Returns 20 instead of 15
 ```
 
+# Quick Reference Table
+
+|Error Type|When Detected|Example|Fix Approach|
+|---|---|---|---|
+|**Syntax**|Compile-time|Missing `;`|Check compiler errors|
+|**Type**|Compile-time|`int x = "text"`|Fix type declarations|
+|**Link-time**|Linking|Undefined function|Check includes/libraries|
+|**Runtime**|Execution|Divide by zero|Add validation checks|
+|**Logical**|Testing|Wrong calculation|Debug algorithm logic|
 # References
 
 
