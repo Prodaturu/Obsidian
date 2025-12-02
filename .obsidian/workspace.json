@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Time & Date Datatypes and timestamps.md",
+                "file": "C++ Time & Date Datatypes, Timestamps.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,7 +72,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Time & Date Datatypes and timestamps"
+              "title": "C++ Time & Date Datatypes, Timestamps"
             }
           },
           {
@@ -332,7 +332,7 @@
   "active": "ce5b9366a0954586",
   "lastOpenFiles": [
     "Tags/C++ Language Features.md",
-    "C++ Time & Date Datatypes and timestamps.md",
+    "C++ Time & Date Datatypes, Timestamps.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "C++ Data Structures and Algorithms.md",
     "C++ Libraries.md",
