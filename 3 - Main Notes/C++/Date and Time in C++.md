@@ -57,9 +57,7 @@ int main()
 #### What happens:
 
 - `&timestamp` = address of timestamp variable
-    
 - `time()` stores result at this address
-    
 - Also returns the same value (often ignored)
 
 ### 2. Using Return Value (Modern)
@@ -113,10 +111,7 @@ int main()
 }
 ```
 
-
-
 # References
-
 
 ## Closely Related Notes
 
