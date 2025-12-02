@@ -74,6 +74,24 @@ cout << ctime(&timestamp);
 - `mktime()` also fills in the `tm_wday` and `tm_yday` members of the date-time structure with the correct values
 	- Completes structure and gives a valid date-time
 
+Find the weekday of a specified date:
+
+```cpp
+// Create datetime structure and use mktime to fill in the missing members
+struct tm datetime;
+
+datetime.tm_year = 2023 - 1900; // Number of years since 1900
+datetime.tm_mon = 12 - 1; // Number of months since January
+datetime.tm_mday = 17;
+datetime.tm_hour = 0; datetime.tm_min = 0; datetime.tm_sec = 0;
+datetime.tm_isdst = -1;
+mktime(&datetime);
+
+string weekdays[] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+
+cout << "The date is on a " << weekdays[datetime.tm_wday];
+```
+
 # References
 
 
