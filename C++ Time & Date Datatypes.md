@@ -126,12 +126,10 @@ struct tm datetime = *localtime(&timestamp);
 cout << asctime(&datetime);
 ```
 
-### asctime vs mktime
+### asctime() vs mktime()
 - `asctime()` function does not correct invalid dates
 	- Ex: if you set the day of the month to 32 it will display 32.
 	- The `mktime()` function can correct these kinds of errors
-	  
-
 
 # References
 
