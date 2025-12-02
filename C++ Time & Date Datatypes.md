@@ -72,6 +72,7 @@ cout << ctime(&timestamp);
 ## Creating Date Time Structures
 
 - `mktime()` also fills in the `tm_wday` and `tm_yday` members of the date-time structure with the correct values
+	- 
 
 # References
 
