@@ -11,10 +11,8 @@
 
 - **Topic Tags:**
 
-
 # C++ Error Handling
 
-- 
 
 
 # References
