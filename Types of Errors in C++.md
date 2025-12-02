@@ -42,7 +42,7 @@ int x = "Hello"; // Type Mismatch
 	- Accessing out-of-bounds array elements
 	- Using deleted memory (dangling pointer)
 
-#### Example: Runtime Errors
+#### Example: Runtime [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
 
 ##### Un-computable logic
 ```cpp
