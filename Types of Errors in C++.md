@@ -66,12 +66,23 @@ std::cout << *ptr; // danglling pointer
 - Occur during the **linking phase** after compilation
 - When object files are combined into executable
 - Common Link-time Errors:
-	- Undefined reference to function
-	- Multiple definitions of same symbol
-	- Missing library files
+	- Missing function definitions
+	- Multiple definitions of same function
+	- Library linking issues
+	- Incorrect include paths
 
-#### Example: Link-time Error
+#### Example: Linktime [[3 - Main Notes/C++/C++ Error Handling.md|Error]]
 
+```cpp
+// File1.cpp
+void functionA(); // Declaration only
+
+// File2.cpp
+int main()
+{
+	functionA(); // ERROR: functionA never defined
+}
+```
 
 # References
 
