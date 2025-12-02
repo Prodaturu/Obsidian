@@ -25,7 +25,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#err",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -318,12 +318,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fce852328dde62c9",
+  "active": "47e8fcccb87fc276",
   "lastOpenFiles": [
-    "Error Handling Mechanisms in C++.md",
-    "3 - Main Notes/C++/C++ Error Handling.md",
-    "**Error Handling Mechanisms in C++**.md",
     "Types of Errors in C++.md",
+    "3 - Main Notes/C++/C++ Error Handling.md",
+    "Error Handling Mechanisms in C++.md",
+    "**Error Handling Mechanisms in C++**.md",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",

@@ -18,10 +18,17 @@
 - [[ Debugging Techniques in C++]]
 - [[c++ Error Prevention and Validation]]
 
+
+
 # References
 
 
 ## Closely Related Notes
+
+- **C++ Assertions** (Debug-time checking)
+- **C++ Error Codes** (Alternative to exceptions)
+- **C++ Memory Errors** (Specific to memory issues)
+- **C++ Static Analysis** (Prevention tools)
 
 ### Next:
 
