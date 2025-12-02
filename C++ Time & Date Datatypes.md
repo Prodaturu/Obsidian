@@ -13,6 +13,8 @@
 
 # C++ Time & Date Datatypes
 
+## Different time Datatypes
+
 - There are 2 different data types that used to store the date and time
 	- `time_t` $\Rightarrow$ **time stamps**
 	- `struct tm` $\Rightarrow$ **date time structures**
@@ -34,6 +36,13 @@
 		- `tm_wday` - The weekday (from 0 to 6 starting with Sunday)
 		- `tm_yday` - The day of the year (from 0 to 365 with 0 being January 1)
 		- `tm_isdst` - Positive when daylight saving time is in effect, zero when not in effect and negative when unknown
+
+## Creating Time Stamps
+
+- `time()` function can only create a timestamp for the current date
+
+- `mktime()` function can create a timestamp for any date
+	- 
 
 # References
 
