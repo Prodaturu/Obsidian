@@ -17,5 +17,27 @@ aliases:
 
 # **Basic Data Structures**
 
+| DSA File                 |
+| ------------------------ |
+| C++ Array                |
+| C++ Linked List          |
+| C++ Doubly Linked List   |
+| C++ Circular Linked List |
+| C++ Stack                |
+| C++ Queue                |
+| C++ Circular Queue       |
+| C++ Priority Queue       |
+| C++ Deque                |
+| C++ Hash Table           |
+| C++ Hash Map             |
+| C++ Hash Set             |
+| C++ Heap                 |
+| C++ Min Heap             |
+| C++ Max Heap             |
+| C++ Graph                |
+| C++ Tree                 |
+| C++ Binary Tree          |
+| C++ Binary Search Tree   |
+| C++ Trie                 |
 
 # References
