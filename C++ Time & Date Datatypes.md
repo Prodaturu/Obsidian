@@ -154,6 +154,7 @@ cout << asctime(&datetime);
 - `strftime()` helps choose how a date is displayed
 
 #### Example: 
+
 - Representing the current date in different ways
 ```cpp
 
