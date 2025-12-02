@@ -42,7 +42,29 @@
 - `time()` function can only create a timestamp for the current date
 
 - `mktime()` function can create a timestamp for any date
-	- 
+	- `mktime()` function converts a date-time structure into a timestamp
+
+#### Example
+
+- Creating a timestamp using `mktime()` function
+```cpp
+struct tm datetime;
+time_t timestamp;
+
+datetime.tm_year = 2025 - 1900; // Number of years since 1900
+datetime.tm_mon = 12 - 1; // Number of months since January (months are 0-indexed)
+datetime.tm_mday = 17;
+datetime.tm_hour = 12;
+datetime.tm_min = 30;
+datetime.tm_sec = 1;
+// Daylight Savings must be specified
+// -1 uses the computer's timezone setting
+datetime.tm_isdst = -1;
+
+timestamp = mktime(&datetime);
+
+cout << ctime(&timestamp);
+```
 
 # References
 
