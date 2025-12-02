@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Data Structures and Algorithms.md",
+                "file": "**Basic Data Structures**.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,7 +96,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Data Structures and Algorithms"
+              "title": "**Basic Data Structures**"
             }
           },
           {
@@ -319,8 +319,9 @@
   },
   "active": "7d1c1c5916da9565",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Date and Time in C++.md",
     "C++ Data Structures and Algorithms.md",
+    "**Basic Data Structures**.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
     "C++ Arrays.md",
     "Indexes/C++.md",
     "4 - Full Notes/4 - Full Notes.md",
@@ -345,7 +346,6 @@
     "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
