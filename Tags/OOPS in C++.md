@@ -11,6 +11,7 @@
 	- 
 
 - **Topic Tags:**
+	- [[Classes and Objects in C++]]
 	- [[Encapsulation in C++]]
 	- [[Constructor Overloading in C++]]
 	- [[Inheritance in C++]]

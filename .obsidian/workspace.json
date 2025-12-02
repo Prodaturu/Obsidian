@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/OOPS in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,7 +72,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "OOPS in C++"
             }
           },
           {
@@ -109,7 +109,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,10 +317,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce5b9366a0954586",
+  "active": "85ae092e5dc55b09",
   "lastOpenFiles": [
-    "Tags/C++ Language Features.md",
+    "Tags/OOPS in C++.md",
     "Indexes/C++.md",
+    "Tags/C++ Language Features.md",
     "C++ Data Structures and Algorithms.md",
     "Tags/Classes and Objects in C++.md",
     "C++ Basic Data Structures.md",
@@ -344,7 +346,6 @@
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
-    "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
