@@ -12,21 +12,9 @@
             "id": "47e8fcccb87fc276",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "3 - Main Notes"
-              },
-              "icon": "lucide-file",
-              "title": "3 - Main Notes"
-            }
-          },
-          {
-            "id": "6a3c359c671b2570",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Error Handling.md",
+                "file": "3 - Main Notes/C++/C++ Error Handling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,8 +32,7 @@
               "title": "C++ Error Handling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "76924ca06bdafb78",
@@ -193,7 +180,7 @@
             }
           },
           {
-            "id": "33ea2690f6d3968c",
+            "id": "fce852328dde62c9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -202,7 +189,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -330,9 +318,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a3c359c671b2570",
+  "active": "fce852328dde62c9",
   "lastOpenFiles": [
-    "C++ Error Handling.md",
+    "Error Handling Mechanisms in C++.md",
+    "3 - Main Notes/C++/C++ Error Handling.md",
+    "**Error Handling Mechanisms in C++**.md",
+    "Types of Errors in C++.md",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
@@ -356,9 +347,6 @@
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Types of Proof 0.4.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Mathematical Notions and Terminology in Information Theory 0.2.md",
-    "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Introduction to Information Theory 0.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
