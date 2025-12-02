@@ -103,10 +103,24 @@
             "id": "85ae092e5dc55b09",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "C++ Libraries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Libraries"
             }
           }
         ],
@@ -319,8 +333,9 @@
   },
   "active": "85ae092e5dc55b09",
   "lastOpenFiles": [
-    "Tags/OOPS in C++.md",
     "Indexes/C++.md",
+    "C++ Libraries.md",
+    "Tags/OOPS in C++.md",
     "Tags/C++ Language Features.md",
     "C++ Data Structures and Algorithms.md",
     "Tags/Classes and Objects in C++.md",
@@ -345,7 +360,6 @@
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Automata Complexity and Computability 0.1.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
-    "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
