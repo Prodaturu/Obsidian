@@ -12,21 +12,21 @@
 
 # C++ Libraries
 
-| Library                       | File Name      |
-| ----------------------------- | -------------- |
-| STL Overview                  | [[C++ STL]]    |
-| chrono (Time, Date, Duration) | Chrono         |
-| filesystem                    | Filesystem     |
-| regex                         | Regex          |
-| thread                        | Thread         |
-| atomic                        | Atomic         |
-| futures & async               | Async          |
-| math library                  | CMATH          |
-| random number library         | Random         |
-| limits                        | Limits         |
-| iostream                      | Iostream       |
-| fstream                       | Fstream        |
-| string library                | String-Library |
+| Library                       | File Name          |
+| ----------------------------- | ------------------ |
+| STL Overview                  | [[C++ STL]]        |
+| chrono (Time, Date, Duration) | C++ Chrono         |
+| filesystem                    | C++ Filesystem     |
+| regex                         | C++ Regex          |
+| thread                        | C++ Thread         |
+| atomic                        | C++ Atomic         |
+| futures & async               | C++ Async          |
+| math library                  | C++ CMATH          |
+| random number library         | C++ Random         |
+| limits                        | C++ Limits         |
+| iostream                      | C++ Iostream       |
+| fstream                       | C++ Fstream        |
+| string library                | C++ String-Library |
 
 # References
 
