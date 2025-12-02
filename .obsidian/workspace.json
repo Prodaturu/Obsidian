@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -318,7 +319,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "47e8fcccb87fc276",
   "lastOpenFiles": [
     "3 - Main Notes/C++/C++ Error Handling.md",
     "Types of Errors in C++.md",

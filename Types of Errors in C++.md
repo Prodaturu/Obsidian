@@ -14,7 +14,15 @@
 
 # Types of Errors in C++
 
-- Errors are classified into types 
+- Errors are classified into types depending on why and where the Error occurs
+
+## 1. Common Compile-Time Errors
+
+- Errors preventing program from compiling
+- Could occur in following cases
+	- Missing semicolon
+	- Using undeclared variables
+	- Mismatched types
 
 
 # References
