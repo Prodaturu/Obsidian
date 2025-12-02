@@ -107,8 +107,7 @@ int main()
 	std::cout << "Method 1:" << ctime(&ts1);
 	
 	// Method 2: Return-value based
-	time_t ts2;
-	ts2 = time(nullptr);
+	time_t ts2 = time(nullptr);
 	std::cout << "Method 2:" << ctime(&ts2);
 	
 	// Both produce identical output!
