@@ -31,7 +31,9 @@
 
 ## ⚡ Two ways to use "time()" function
 
-- The time function both `returns` and `stores` null in 
+- The time function both `returns` and `stores`  time
+- So we can both read the time from its `return` value or can read it into a `time_t` variable
+
 ### 1. Using Parameter (Traditional):
 
 - Passing address to store the timestamp
