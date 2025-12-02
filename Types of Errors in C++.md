@@ -106,13 +106,13 @@ std::cout << average(10, 20); // Returns 20 instead of 15
 
 # Quick Reference Table
 
-|Error Type|When Detected|Example|Fix Approach|
-|---|---|---|---|
-|**Syntax**|Compile-time|Missing `;`|Check compiler errors|
-|**Type**|Compile-time|`int x = "text"`|Fix type declarations|
-|**Link-time**|Linking|Undefined function|Check includes/libraries|
-|**Runtime**|Execution|Divide by zero|Add validation checks|
-|**Logical**|Testing|Wrong calculation|Debug algorithm logic|
+| Error Type    | When Detected | Example            | Fix Approach             |
+| ------------- | ------------- | ------------------ | ------------------------ |
+| **Syntax**    | Compile-time  | Missing `;`        | Check compiler errors    |
+| **Type**      | Compile-time  | `int x = "text"`   | Fix type declarations    |
+| **Link-time** | Linking       | Undefined function | Check includes/libraries |
+| **Runtime**   | Execution     | Divide by zero     | Add validation checks    |
+| **Logical**   | Testing       | Wrong calculation  | Debug algorithm logic    |
 # References
 
 
