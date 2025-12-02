@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "**Basic Data Structures**.md",
+                "file": "C++ Data Structures and Algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,7 +96,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "**Basic Data Structures**"
+              "title": "C++ Data Structures and Algorithms"
             }
           },
           {
@@ -319,11 +319,11 @@
   },
   "active": "7d1c1c5916da9565",
   "lastOpenFiles": [
+    "C++ Basic Data Structures.md",
+    "Indexes/C++.md",
     "C++ Data Structures and Algorithms.md",
-    "**Basic Data Structures**.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "C++ Arrays.md",
-    "Indexes/C++.md",
     "4 - Full Notes/4 - Full Notes.md",
     "datatype.md",
     "Tags/Latex.md",

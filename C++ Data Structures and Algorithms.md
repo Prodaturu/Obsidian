@@ -22,7 +22,7 @@
 
 | **DSA Name**                   | **C++ Notes File Name** |
 | ------------------------------ | ----------------------- |
-| [[**Basic Data Structures**]]  |                         |
+| [[C++ Basic Data Structures]]  |                         |
 | Array                          | C++ Arrays              |
 | Linked List                    | Linked-List             |
 | Doubly Linked List             | Doubly-Linked-List      |
