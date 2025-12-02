@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Error Handling.md",
+                "file": "Error Handling Mechanisms in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,7 +108,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Error Handling"
+              "title": "Error Handling Mechanisms in C++"
             }
           }
         ],
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#runtimeerrors",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,13 +322,13 @@
   },
   "active": "47e8fcccb87fc276",
   "lastOpenFiles": [
+    "Error Handling Mechanisms in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "Types of Errors in C++.md",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
-    "Error Handling Mechanisms in C++.md",
     "**Error Handling Mechanisms in C++**.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",

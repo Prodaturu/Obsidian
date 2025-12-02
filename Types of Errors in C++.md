@@ -5,20 +5,15 @@
 **Hashtags:**
 - #errorhandling 
 - #compiletimeerrors
-- #runtimeerrrors
+- #runtimeerrors
 - #danglingpointers
+- #logicalerrors
 
-**Links / Tags:** 
-- **Relevance Links:**
-
-- **Topic Tags:**
-
-
-# Types of Errors in C++
+# Types of [[3 - Main Notes/C++/C++ Error Handling.md|Errors]] in C++
 
 - Errors are classified into types depending on why and where the Error occurs
 
-## 1. Common Compile-Time Errors
+## 1. Compile-Time [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
 
 - Errors preventing program from compiling
 - Common Compile Time Errors:
@@ -26,7 +21,7 @@
 	- Using undeclared variables
 	- Mismatched types
 
-#### Example: Compile Time Errors
+#### Example: Compile Time [[3 - Main Notes/C++/C++ Error Handling.md|Error]]
 
 ```cpp
 int x = 5 // Missing semi-colon
@@ -34,7 +29,7 @@ std::cout << y; // Undeclared y
 int x = "Hello"; // Type Mismatch
 ```
 
-## 2. Common Runtime Errors
+## 2. Runtime [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
 
 - Runtime errors occur when the program compiles but crashes or behaves unexpectedly
 - Common Runtime Errors:
@@ -42,7 +37,7 @@ int x = "Hello"; // Type Mismatch
 	- Accessing out-of-bounds array elements
 	- Using deleted memory (dangling pointer)
 
-#### Example: Runtime [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
+#### Examples: Common Runtime [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
 
 ##### Un-computable logic
 ```cpp
@@ -66,12 +61,24 @@ delete ptr;
 std::cout << *ptr; // danglling pointer
 ```
 
+## 3. Linktime [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
+
+- Occur during the **linking phase** after compilation
+- When object files are combined into executable
+- Common Link-time Errors:
+	- Undefined reference to function
+	- Multiple definitions of same symbol
+	- Missing library files
+
+#### Example: Link-time Error
+
+
 # References
 
 
 ## Closely Related Notes
 
-- C+
+- 
 
 ### Next:
 
