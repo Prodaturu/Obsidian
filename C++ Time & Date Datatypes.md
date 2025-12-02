@@ -43,6 +43,8 @@
 
 - `mktime()` function can create a timestamp for any date
 	- `mktime()` function converts a date-time structure into a timestamp
+	- The `mktime()` function needs these members to have a value: 
+		- `tm_year`, `tm_mon`, `tm_mday`, `tm_hour`, `tm_min`, `tm_sec`, `tm_isdst`
 
 #### Example
 
@@ -66,6 +68,10 @@ timestamp = mktime(&datetime);
 
 cout << ctime(&timestamp);
 ```
+
+## Creating Date Time Structures
+
+- `mktime()` also fills in the `tm_wday` and `tm_yday` members of the date-time structure with the correct values
 
 # References
 
