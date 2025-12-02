@@ -193,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -320,9 +319,9 @@
   },
   "active": "7d1c1c5916da9565",
   "lastOpenFiles": [
-    "C++ Arrays.md",
-    "C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
+    "C++ Data Structures and Algorithms.md",
+    "C++ Arrays.md",
     "Indexes/C++.md",
     "4 - Full Notes/4 - Full Notes.md",
     "datatype.md",
