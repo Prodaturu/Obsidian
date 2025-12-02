@@ -25,7 +25,7 @@
 	- Structures that represent different components of the date and time as members
 	- This makes it easier for us to specify dates
 	- Date time structures have the following members
-		- - `tm_sec` - The seconds within a minute
+		- `tm_sec` - The seconds within a minute
 		- `tm_min` - The minutes within an hour
 		- `tm_hour` - The hour within a day (from 0 to 23)
 		- `tm_mday` - The day of the month
