@@ -16,6 +16,7 @@
 	- [[Templates in C++]]
 	- [[C++ Files]]
 	- [[C++ Data Types]]
+	- [[C++ Error Handling]]
 	- C++
 
 
