@@ -3,7 +3,8 @@
 **Status:** #
 
 **Hashtags:**
-- 
+- #errorhandling 
+- #compiletimeerrors
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -13,7 +14,7 @@
 
 # Types of Errors in C++
 
-- 
+- Errors are classified into types 
 
 
 # References

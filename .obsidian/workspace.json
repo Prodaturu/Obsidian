@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Error Handling.md",
+                "file": "Types of Errors in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Error Handling"
+              "title": "Types of Errors in C++"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#err",
+                "query": "#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -318,10 +318,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "47e8fcccb87fc276",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
-    "Types of Errors in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
+    "Types of Errors in C++.md",
     "Error Handling Mechanisms in C++.md",
     "**Error Handling Mechanisms in C++**.md",
     "Tags/C++ Language Features.md",
