@@ -23,7 +23,7 @@
 | **DSA Name**                   | **File Name**         |
 | ------------------------------ | --------------------- |
 | **Basic Data Structures**      |                       |
-| Array                          | Array                 |
+| Array                          | [[C++ Arrays]]        |
 | Linked List                    | Linked-List           |
 | Doubly Linked List             | Doubly-Linked-List    |
 | Circular Linked List           | Circular-Linked-List  |
