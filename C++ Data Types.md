@@ -46,7 +46,7 @@
 |                                         | `uint64_t`                                              | UInt64             |
 |                                         | `size_t`                                                | SizeT              |
 |                                         | `ptrdiff_t`                                             | PtrDiff            |
-| **[[C++ Time & Date Datatypes]]**       | `std::time_t`                                           | TimeT              |
+| **[[C++ Time & Date Datatypes and timestamps]]**       | `std::time_t`                                           | TimeT              |
 |                                         | `std::tm`                                               | TM                 |
 |                                         | `std::clock_t`                                          | ClockT             |
 |                                         | `std::chrono::duration`                                 | Chrono-Duration    |

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Date and Time in C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Date and Time in C++"
+              "title": "C++ Language Features"
             }
           },
           {
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Time & Date Datatypes.md",
+                "file": "C++ Time & Date Datatypes and timestamps.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,7 +72,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Time & Date Datatypes"
+              "title": "C++ Time & Date Datatypes and timestamps"
             }
           },
           {
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Data Structures and Algorithms.md",
+                "file": "3 - Main Notes/C++/Date and Time in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,7 +96,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Data Structures and Algorithms"
+              "title": "Date and Time in C++"
             }
           },
           {
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CPP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,13 +201,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -331,17 +329,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce5b9366a0954586",
+  "active": "6a3c359c671b2570",
   "lastOpenFiles": [
+    "C++ Time & Date Datatypes and timestamps.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
-    "C++ Time & Date Datatypes.md",
     "C++ Data Structures and Algorithms.md",
-    "C++ Data Types.md",
     "Tags/C++ Language Features.md",
+    "C++ Libraries.md",
+    "C++ Data Types.md",
     "Indexes/C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/C++ Files.md",
-    "C++ Libraries.md",
     "C++ STL.md",
     "Tags/Classes and Objects in C++.md",
     "C++ Basic Data Structures.md",
