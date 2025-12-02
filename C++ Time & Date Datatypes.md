@@ -153,6 +153,27 @@ cout << asctime(&datetime);
 	- but they do not allow us to choose how it's displayed.
 - `strftime()` helps choose how a date is displayed
 
+#### Example: 
+- Representing the current date in different ways
+```cpp
+
+time_t timestamp = time(NULL);
+struct tm datetime = *localtime(&timestamp);
+
+char output[50];
+
+strftime(output, 50, "%B %e, %Y", &datetime);
+cout << output << "\n";
+
+strftime(output, 50, "%I:%M:%S %p", &datetime);
+cout << output << "\n";
+
+strftime(output, 50, "%m/%d/%y", &datetime);
+cout << output << "\n";
+
+strftime(output, 50, "%a %b %e %H:%M:%S %Y", &datetime);
+cout << output << "\n";
+```
 
 # References
 
