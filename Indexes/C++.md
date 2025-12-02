@@ -2,18 +2,18 @@
 
 **Status:** #teen 
 
-**Hashtags:**
-- #programming_language 
-- #CPP 
-- #advancedcpp 
-- #OOPS 
-- #cppclasses 
+- **Hashtags:**
+	- #programming_language 
+	- #CPP 
+	- #advancedcpp 
+	- #OOPS 
+	- #cppclasses 
 
-**Tags / Links:**
-- [[C++ Language Features]]
-- [[C++ Data Structures and Algorithms]]
-- [[OOPS in C++]]
-- [[C++ Libraries]]
+- **Tags / Links:**
+	- [[C++ Language Features]]
+	- [[C++ Data Structures and Algorithms]]
+	- [[OOPS in C++]]
+	- [[C++ Libraries]]
 
 # Related Links
 

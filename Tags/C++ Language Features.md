@@ -15,8 +15,8 @@
 	- [[Functions in C++]]
 	- [[Templates in C++]]
 	- [[C++ Files]]
+	- [[C++ Data Types]]
 	- C++
-
 
 
 # C++ Language Features

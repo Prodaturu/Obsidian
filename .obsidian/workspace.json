@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ Data Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -72,7 +72,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "C++ Data Types"
             }
           },
           {
@@ -332,11 +332,12 @@
   },
   "active": "ce5b9366a0954586",
   "lastOpenFiles": [
+    "Tags/C++ Language Features.md",
+    "C++ Data Types.md",
+    "Indexes/C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/C++ Files.md",
-    "Tags/C++ Language Features.md",
     "C++ Libraries.md",
-    "Indexes/C++.md",
     "C++ STL.md",
     "C++ Data Structures and Algorithms.md",
     "Tags/Classes and Objects in C++.md",
@@ -358,7 +359,6 @@
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Exercise - Introduction to Information theory 0.5.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Definitions, Theorems, and proofs - 0.3.md",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0/Automata Complexity and Computability 0.1.md",
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
