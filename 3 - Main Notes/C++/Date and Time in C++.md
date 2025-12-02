@@ -43,6 +43,7 @@
 ```cpp
 #include <iostream>
 #include <ctime>
+
 int main()
 {
 	// Get the timestamp to current date and time
@@ -50,7 +51,7 @@ int main()
 	time(&timestamp); // pass ADDRESS to store timestamp
 	
 	// Display the date and time represented by the timestamp
-	cout << ctime(&timestamp); // Output: "Mon Dec 1 22:57:45 2025"
+	std::cout << ctime(&timestamp); // Output: "Mon Dec 1 22:57:45 2025"
 	return (0);
 }
 ```
