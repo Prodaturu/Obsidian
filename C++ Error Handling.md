@@ -13,6 +13,8 @@
 
 # C++ Error Handling
 
+- [[Types of Errors in C++]]
+- 
 
 
 # References
