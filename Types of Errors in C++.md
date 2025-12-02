@@ -84,6 +84,18 @@ int main()
 }
 ```
 
+## 4. Logical Errors
+
+- Program runs but produces wrong results
+- Hardest to detect
+
+```cpp
+int average(int a, int b)
+{
+	return a + b / 2; // WRONG for average we needed parantheses
+}
+```
+
 # References
 
 
