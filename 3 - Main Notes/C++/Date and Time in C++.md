@@ -36,7 +36,7 @@
 
 ### 1. Using Parameter (Traditional):
 
-- A parameter is passed to `store` 
+- A parameter is passed to `store`
 - Passing address to store the timestamp
 - The traditional way of doing things
 
