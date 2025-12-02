@@ -18,7 +18,7 @@
 
 # C++ Data Structures and Algorithms
 
-## ✅ **Complete DSA Table (with missing items added)**
+## Complete DSA Table (with missing items added)
 
 | **DSA Name**                   | **File Name**         |
 | ------------------------------ | --------------------- |
