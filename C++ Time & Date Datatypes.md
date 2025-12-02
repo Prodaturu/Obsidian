@@ -126,10 +126,33 @@ struct tm datetime = *localtime(&timestamp);
 cout << asctime(&datetime);
 ```
 
-### asctime() vs mktime()
+## asctime() vs mktime()
 - `asctime()` function does not correct invalid dates
-	- Ex: if you set the day of the month to 32 it will display 32.
+	- Ex: if you set the day of the month to 32, it will display 32.
 	- The `mktime()` function can correct these kinds of errors
+
+#### Example
+
+- Correct a date before displaying it
+```cpp
+// Create the datetime structure and use mktime to correct mistakes
+struct tm datetime;
+datetime.tm_year = 2022 - 1900; // Number of years since 1900
+datetime.tm_mon = 0; // 0 is January
+datetime.tm_mday = 32;
+datetime.tm_hour = 0; datetime.tm_min = 0; datetime.tm_sec = 0;
+datetime.tm_isdst = -1;
+mktime(&datetime);
+
+cout << asctime(&datetime);
+```
+
+## Choosing how time is displayed
+
+- The `ctime()`  `asctime()` functions allow us to display the date 
+	- but they do not allow us to choose how it's displayed.
+- `strftime()` helps choose how a date is displayed
+
 
 # References
 
