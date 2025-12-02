@@ -179,6 +179,82 @@ strftime(output, 50, "%a %b %e %H:%M:%S %Y", &datetime);
 cout << output << "\n";
 ```
 
+The `strftime()` function formats a date and writes it as a C-style string into a `char` array. It has four parameters:
+
+1. The first parameter points to the char array where the formatted date will be written.
+2. The second parameter specifies the space available in the array.
+3. The third parameter allows us to choose how the date is formatted using format specifiers.
+4. The last parameter is a pointer to the datetime structure which contains the date we want to display.
+
+The following table has some useful format specifiers. For a more complete list, look at the [strftime() reference page](https://www.w3schools.com/cpp/ref_ctime_strftime.asp).
+
+|Format Specifier|Description|Example|
+|---|---|---|
+|`%a`|Short representation of the weekday|`Fri`|
+|`%b`|Short representation of the month name|`Dec`|
+|`%B`|Full representation of the month name|`December`|
+|`%d`|Day of the month with leading zero|`09`|
+|`%e`|Day of the month with leading spaces|`9`|
+|`%H`|24-hour format of an hour|`14`|
+|`%I`|12-hour format of an hour|`02`|
+|`%M`|Minutes within an hour|`30`|
+|`%p`|AM or PM|`PM`|
+|`%S`|Seconds within a minute|`01`|
+|`%y`|2-digit year representation|`23`|
+|`%Y`|4-digit year representation|`2023`|
+
+## Measuring Time
+
+There are two different functions that can be used to measure differences in time.
+
+The `difftime()` function measures the number of seconds that passed between two different time stamps. This is useful when measuring time differences between dates.
+
+#### Example
+
+Measure the time difference between two timestamps
+
+```java
+time_t now;
+time_t nextyear;
+struct tm datetime;
+
+now = time(NULL);
+datetime = *localtime(&now);
+datetime.tm_year = datetime.tm_year + 1;
+datetime.tm_mon = 0;
+datetime.tm_mday = 1;
+datetime.tm_hour = 0; datetime.tm_min = 0; datetime.tm_sec = 0;
+datetime.tm_isdst = -1;
+nextyear = mktime(&datetime);
+
+int diff = difftime(nextyear, now);
+
+cout << diff << " seconds until next year";
+```
+
+- The `clock()` function is useful for measuring short intervals of time while the program is running
+- It is more precise than the `difftime()` function.
+
+- Each call to the clock function returns a special kind of timestamp measured in clocks (a unit of time that depends on how the library was implemented) which has a data type `clock_t`
+- To measure a time difference, store a timestamp at two different moments in time and then subtract them.
+- The time difference is measured in clocks, but you can convert it into seconds by dividing it by the `CLOCKS_PER_SEC` constant
+
+#### Example
+
+- Measure how long it takes for the program to run:
+
+```java
+clock_t before = clock();
+int k = 0;
+for(int i = 0; i < 100000; i++) {
+  k += i;
+}
+clock_t duration = clock() - before;
+cout << "Duration: " << (float)duration / CLOCKS_PER_SEC << " seconds";
+```
+
+**Note:** Make sure to cast the value to a `float` or `double` type before dividing, otherwise it may result in an integer division which would cause the decimal part to be cut off.
+
 # References
 
 
