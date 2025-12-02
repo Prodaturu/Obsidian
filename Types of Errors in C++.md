@@ -5,6 +5,8 @@
 **Hashtags:**
 - #errorhandling 
 - #compiletimeerrors
+- #runtimeerrrors
+- #danglingpointers
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -68,6 +70,8 @@ std::cout << *ptr; // danglling pointer
 
 
 ## Closely Related Notes
+
+- C+
 
 ### Next:
 
