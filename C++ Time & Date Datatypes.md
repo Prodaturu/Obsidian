@@ -113,7 +113,18 @@ cout << datetime.tm_hour;
 
 ## Display Dates
 
+- `ctime()` function displays the date contained in a timestamp
+- To display dates from a datetime structure we can use the `asctime()` function.
 
+### Example
+
+- Display the date represented by a datetime structure:
+```cpp
+time_t timestamp = time(NULL);
+struct tm datetime = *localtime(&timestamp);
+
+cout << asctime(&datetime);
+```
 
 # References
 
