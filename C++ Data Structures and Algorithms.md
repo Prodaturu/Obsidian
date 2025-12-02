@@ -18,7 +18,7 @@
 
 # C++ Data Structures and Algorithms
 
-- 
+
 
 
 # References
