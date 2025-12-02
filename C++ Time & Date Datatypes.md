@@ -74,8 +74,8 @@ cout << ctime(&timestamp);
 - `mktime()` also fills in the `tm_wday` and `tm_yday` members of the date-time structure with the correct values
 	- Completes structure and gives a valid date-time
 
-Find the weekday of a specified date:
-
+#### Example
+- Finding the weekday of a specified date:
 ```cpp
 // Create datetime structure and use mktime to fill in the missing members
 struct tm datetime;
@@ -91,6 +91,29 @@ string weekdays[] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Fr
 
 cout << "The date is on a " << weekdays[datetime.tm_wday];
 ```
+
+### localtime() and gmtime() functions
+
+- `localtime()`, `gmtime()` functions can convert timestamps into date-time structures
+- `localtime()`
+	- returns a pointer to a structure representing the time in computer's time zone
+- `gmtime()`
+	- returns a pointer to a structure representing the time in GMT time zone
+
+- These function return a pointer to a date-time structure
+- To make sure its value does not change unexpectedly
+	- we should make a copy of it by dereferencing the pointer
+
+```cpp
+time_t timestamp = time(&timestamp);
+struct tm datetime = *localtime(&timestamp);
+
+cout << datetime.tm_hour;
+```
+
+## Display Dates
+
+
 
 # References
 
