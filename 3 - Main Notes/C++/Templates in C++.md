@@ -20,8 +20,7 @@
   - [[Advanced Template Features in C++]]
   - [[Template Array Example in C++]]
   - [[Templates Best Practices in C++]]
-  - [[Template Mental Models and Use Cases in C++]]
-  - [[Template and Generic Types in C++]]
+  - [["Template and Generic Types in C++"]]
   - [[C++ STL]]
 
 - **Topic Tags:**

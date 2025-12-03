@@ -5,15 +5,10 @@
 **Hashtags:**
 
 - #cpp
-    
-- #templates
-    
-- #genericprogramming
-    
-- #classes
-    
-- #atomic
-    
+- #templates    
+- #genericprogramming    
+- #classes    
+- #atomic    
 
 **Links / Tags:**
 
@@ -39,18 +34,43 @@ The compiler generates a concrete class for each type you instantiate.
 
 ## Basic Syntax
 
-`template <typename T> class ClassName {     // Members using type T };`
+```cpp
+template <typename T> class ClassName
+{ 
+	// Members using type T
+};
+```
 
 **Key ideas:**
 
 - `template <typename T>` introduces a template parameter `T`.
-    
 - `ClassName<T>` becomes a real type once you substitute a concrete type.
-    
 
 ## Simple Container Example: Box
 
-`template <typename T> class Box { private:     T content; public:     Box(T value) : content(value) {}          T getValue() const { return content; }     void setValue(T newValue) { content = newValue; } };  // Usage: int main() {     Box<int> intBox(42);              // box of int     Box<string> stringBox("Hello");   // box of string     Box<double> doubleBox(3.14);      // box of double      cout << intBox.getValue() << endl;     cout << stringBox.getValue() << endl; }`
+```cpp
+template <typename T> class Box
+{
+private:
+	T content;
+public:
+	Box(T value) : content(value) {}
+	
+	T getValue() const { return content; }
+	void setValue(T newValue) { content = newValue;}
+}; 
+
+// Usage:
+int main()
+{
+	Box<int> intBox(42);                // box of int
+	Box<string> stringBox("Hello");     // box of string
+	Box<double> doubleBox(3.14);        // box of double
+	
+	cout << intBox.getValue() << endl;
+	cout << stringBox.getValue() << endl;
+}
+```
 
 **Key ideas:**
 

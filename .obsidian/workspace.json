@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "Class Templates in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templates in C++"
+              "title": "Class Templates in C++"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Template and Generic Types in C++\"",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "Class Templates in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Templates in C++"
+              "title": "Outline of Class Templates in C++"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md"
+                "file": "Class Templates in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -243,9 +243,10 @@
   },
   "active": "9b4d633462f816cc",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Templates in C++.md",
+    "\"Template and Generic Types in C++\".md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Class Templates in C++.md",
-    "3 - Main Notes/C++/Templates in C++.md",
     "User-Defined Types in C++.md",
     "Function Templates in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
@@ -268,7 +269,6 @@
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
     "5 - Templates/5 - Templates.md",
     "Types of Errors in C++.md",
-    "Error Handling Mechanisms in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
