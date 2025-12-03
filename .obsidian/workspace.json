@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "89008034c2d1f4da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primitive Integral Types in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Primitive Integral Types in C++"
+            }
+          },
+          {
             "id": "7d1c1c5916da9565",
             "type": "leaf",
             "state": {
@@ -79,7 +103,8 @@
               "title": "Error Handling Mechanisms in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "513fc3ec1ace9d11",
@@ -301,10 +326,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce5b9366a0954586",
+  "active": "7d2c26d99928d5a7",
   "lastOpenFiles": [
-    "Tags/C++ Language Features.md",
+    "Primitive Integral Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
+    "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
@@ -329,7 +355,6 @@
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "all.base",
     "Untitled.md",
-    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
