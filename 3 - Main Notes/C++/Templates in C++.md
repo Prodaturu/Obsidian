@@ -5,9 +5,9 @@
 **Hashtags:**
 - #cpp
 - #templates
-- #generic_programming
-- #compile_time_polymorphism
-- #advanced_cpp
+- #genericprogramming
+- #compiletimepolymorphism
+- #advancedcpp
 - #metaprogramming
 - #map
 - #overview
@@ -20,7 +20,7 @@
   - [[Advanced Template Features in C++]]
   - [[Template Array Example in C++]]
   - [[Templates Best Practices in C++]]
-  - [["Template and Generic Types in C++"]]
+  - [[Template and Generic Types in C++]]
   - [[C++ STL]]
 
 - **Topic Tags:**

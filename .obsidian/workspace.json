@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Templates in C++.md",
+                "file": "Template and Generic Types in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class Templates in C++"
+              "title": "Template and Generic Types in C++"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "\"Templates and Generic Types in C++\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Templates in C++.md",
+                "file": "Template and Generic Types in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Class Templates in C++"
+              "title": "Outline of Template and Generic Types in C++"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Class Templates in C++.md"
+                "file": "Template and Generic Types in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -241,26 +241,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9b4d633462f816cc",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Templates in C++.md",
-    "\"Template and Generic Types in C++\".md",
+    "Special Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
+    "Tags/C++ Language Features.md",
+    "Template and Generic Types in C++.md",
     "Class Templates in C++.md",
+    "\"Template and Generic Types in C++\".md",
     "User-Defined Types in C++.md",
     "Function Templates in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/C++ Basic Data Structures.md",
     "Tags/#mathematics.md",
     "1 - Rough Notes/I let you pass.md",
-    "Special Types in C++.md",
     "Pointer and Reference Types in C++.md",
     "Indexes/C++.md",
     "Lvalue and Rvalue references in c++.md",
     "Lvalue.md",
     "Fixed-Width Integer Types in C++.md",
     "Character and String Types in C++.md",
-    "Tags/C++ Language Features.md",
     "Primitive Integral Types in C++.md",
     "Floating-Point Types in C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
@@ -268,7 +269,6 @@
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
     "5 - Templates/5 - Templates.md",
-    "Types of Errors in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",

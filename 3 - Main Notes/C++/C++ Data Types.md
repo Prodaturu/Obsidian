@@ -15,11 +15,11 @@
   - [[Fixed-Width Integer Types in C++]]
   - [[Pointer and Reference Types in C++]]
   - [[User-Defined Types in C++]]
-  - [[Template and Generic Types in C++]]
   - [[Special Types in C++]]
   - [[C++ Time & Date Datatypes, Timestamps]]
   - [[C++ STL]]
   - [[Templates in C++]]
+  - [[Template and Generic Types in C++]]
 
 - **Topic Tags:**
   - #types
@@ -47,17 +47,17 @@ High-level map of data type families in C++:
 
 ## Overview Table
 
-| Datatype Category                             | Type / Feature                                          |
+| Datatype Category                                                             | Type / Feature                                          |
 | --------------------------------------------- | ------------------------------------------------------- |
-| **[[Primitive Integral Types in C++\|Primitive Integral Types]]** | `bool`, `char`, `signed char`, `unsigned char`, `short`, `unsigned short`, `int`, `unsigned int`, `long`, `unsigned long`, `long long`, `unsigned long long` |
-| **[[Floating-Point Types in C++\|Floating-Point Types]]**        | `float`, `double`, `long double`                        |
-| **[[Character and String Types in C++\|Character / String Types]]** | `char`, `wchar_t`, `char16_t`, `char32_t`, `std::string`, `std::string_view` |
+| **[[Primitive Integral Types in C++\|Primitive Integral Types]]**             | `bool`, `char`, `signed char`, `unsigned char`, `short`, `unsigned short`, `int`, `unsigned int`, `long`, `unsigned long`, `long long`, `unsigned long long` |
+| **[[Floating-Point Types in C++\|Floating-Point Types]]**                     | `float`, `double`, `long double`                        |
+| **[[Character and String Types in C++\|Character / String Types]]**           | `char`, `wchar_t`, `char16_t`, `char32_t`, `std::string`, `std::string_view` |
 | **[[Fixed-Width Integer Types in C++\|Fixed-Width Integer Types (cstdint)]]** | `int8_t`, `int16_t`, `int32_t`, `int64_t`, `uint8_t`, `uint16_t`, `uint32_t`, `uint64_t`, `size_t`, `ptrdiff_t` |
-| **[[C++ Time & Date Datatypes, Timestamps]]** | `std::time_t`, `std::tm`, `std::clock_t`, `std::chrono::duration`, `std::chrono::time_point`, `std::chrono::system_clock`, `std::chrono::steady_clock`, `std::chrono::milliseconds`, `std::chrono::seconds` |
-| **[[Pointer and Reference Types in C++\|Pointer/Reference Datatypes]]** | `int*`, `std::nullptr_t`, `int&`, `int&&`               |
-| **[[User-Defined Types in C++\|User-Defined Datatypes]]**        | `struct`, `class`, `enum`, `enum class`, `union`        |
-| **[[Template and Generic Types in C++\|Template/Generic Datatypes]]** | `std::optional<T>`, `std::variant<T...>`, `std::pair<T, U>`, `std::tuple<T...>`, `std::array<T, N>` |
-| **[[Special Types in C++\|Special Types]]**                      | `void`, `auto`, `decltype`, `std::nullptr_t`, `std::byte` |
+| **[[C++ Time & Date Datatypes, Timestamps]]**                                 | `std::time_t`, `std::tm`, `std::clock_t`, `std::chrono::duration`, `std::chrono::time_point`, `std::chrono::system_clock`, `std::chrono::steady_clock`, `std::chrono::milliseconds`, `std::chrono::seconds` |
+| **[[Pointer and Reference Types in C++\|Pointer/Reference Datatypes]]**       | `int*`, `std::nullptr_t`, `int&`, `int&&`               |
+| **[[User-Defined Types in C++\|User-Defined Datatypes]]**                     | `struct`, `class`, `enum`, `enum class`, `union`        |
+| **[[Template and Generic Types in C++\|Template/Generic Datatypes]]**        | `std::optional<T>`, `std::variant<T...>`, `std::pair<T, U>`, `std::tuple<T...>`, `std::array<T, N>` |
+| **[[Special Types in C++\|Special Types]]**                                   | `void`, `auto`, `decltype`, `std::nullptr_t`, `std::byte` |
 
 # References
 

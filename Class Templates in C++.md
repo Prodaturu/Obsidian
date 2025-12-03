@@ -13,13 +13,9 @@
 **Links / Tags:**
 
 - **Relevance Links:**
-    - Templates in C++ <!-- parent, plain text on purpose -->
-    - [[Function Templates in C++]]
-    - [[Template Array Example in C++]]
-    - [[Advanced Template Features in C++]]
-    - Template and Generic Types in C++
+    - Templates in C++       <!-- parent -->
     - [[User-Defined Types in C++]]
-        
+    
 - **Topic Tags:**
     - #classtemplates
     - #genericcontainers
