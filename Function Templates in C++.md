@@ -32,3 +32,33 @@ template <typename T>
 T functionName(T parameter) {
     // Code using type T
 }
+```
+
+## Practical Example
+
+```cpp
+template <typename T> T getMax(T a, T b)
+{
+	return (a > b) ? a : b;
+}
+
+int main()
+{
+	cout << getMax<int>(10, 20);
+	// T = int     cout << getMax<double>(3.14, 2.99);
+	// T = double     cout << getMax<string>("apple", "banana"); // works with strings
+}```
+
+## Type Deduction
+
+The compiler can deduce the template parameter from arguments:
+
+```cpp
+getMax(10, 20);
+// T deduced as int getMax(3.14, 2.99);     
+// T deduced as double
+```
+
+#### Key idea:
+- you usually don’t need to write `<int>` explicitly unless deduction fails.
+
