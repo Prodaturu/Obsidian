@@ -124,11 +124,24 @@ public:
 ```cpp
 int main()
 {
-    Container<> defaultContainer(5);      // uses T = int (default)
+	Container<> defaultContainer(5);          // uses T = int (default)
     Container<double> doubleContainer(3.14);
-
     cout << defaultContainer.get() << endl;   // 5
     cout << doubleContainer.get() << endl;    // 3.14
 }
-
 ```
+
+#### Key ideas:
+
+- Defaults reduce noise when a “usual” type is common.
+- You can still override the default explicitly when needed.
+
+---
+
+## When to reach for these features
+
+- Use **specialisation** when one or a few types need **different behaviour**.
+- Use **partial specialisation** for a whole family of types with a shared pattern.
+- Use **default parameters** when there is a clear “most common” type and you want a simple syntax.
+
+# References
