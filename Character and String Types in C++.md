@@ -10,7 +10,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - [[Primitive Integral Types in C++]]
+  - Primitive Integral Types in C++
   - [[C++ STL]]
 
 - **Topic Tags:**
