@@ -21,7 +21,7 @@
 
 # Pointer and Reference Types in C++
 
-> Part of C++ data types.
+> Part of C++ datatypes.
 
 Pointers and references let you refer to objects indirectly, which is central to C++’s memory model.
 
