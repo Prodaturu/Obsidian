@@ -32,13 +32,14 @@
 
 Map note for the main “feature areas” of C++.
 
-- Types → [[C++ Data Types]]
+- Types / Datatype in C++ → [[C++ Data Types]]
 - Operators → [[Operators in C++]]
+- Data structures in C++ → [[C++ Data Structures and Algorithms]]
+- Data structures in C++ → [[C++ Data Structures and Algorithms]]
 - Functions & Callables → [[Functions in C++]]
 - Generic Programming → [[Templates in C++]]
 - Error Handling → [[C++ Error Handling]]
 - Files & IO → [[C++ Files]]
-- Time & Date → [[C++ Time & Date Datatypes, Timestamps]]
 - Libraries & ecosystem → [[C++ Libraries]]
 
 # References
