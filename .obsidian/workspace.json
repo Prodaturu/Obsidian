@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class Templates in C++.md",
+                "file": "3 - Main Notes/C++/Templates in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class Templates in C++"
+              "title": "Templates in C++"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "\"Template and Generic Types in C++\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -120,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Templates in C++.md",
+                "file": "3 - Main Notes/C++/Templates in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Class Templates in C++"
+              "title": "Outline of Templates in C++"
             }
           },
           {
@@ -135,7 +136,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Class Templates in C++.md"
+                "file": "3 - Main Notes/C++/Templates in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -242,15 +243,15 @@
   },
   "active": "9b4d633462f816cc",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Templates in C++.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
     "Class Templates in C++.md",
+    "3 - Main Notes/C++/Templates in C++.md",
     "User-Defined Types in C++.md",
     "Function Templates in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/C++ Basic Data Structures.md",
     "Tags/#mathematics.md",
     "1 - Rough Notes/I let you pass.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "Special Types in C++.md",
     "Pointer and Reference Types in C++.md",
     "Indexes/C++.md",

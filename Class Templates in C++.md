@@ -3,25 +3,32 @@
 **Status:** #atomic
 
 **Hashtags:**
+
 - #cpp
+    
 - #templates
+    
 - #genericprogramming
+    
 - #classes
+    
 - #atomic
+    
 
-**Links / Tags:** 
+**Links / Tags:**
+
 - **Relevance Links:**
-  - Templates in C++                <!-- parent, plain text on purpose -->
-  - [[Function Templates in C++]]
-  - [[Template Array Example in C++]]
-  - [[Advanced Template Features in C++]]
-  - [[Template and Generic Types in C++]]
-  - [[User-Defined Types in C++]]
-
+    - Templates in C++ <!-- parent, plain text on purpose -->
+    - [[Function Templates in C++]]
+    - [[Template Array Example in C++]]
+    - [[Advanced Template Features in C++]]
+    - Template and Generic Types in C++
+    - [[User-Defined Types in C++]]
+        
 - **Topic Tags:**
-  - #classtemplates
-  - #genericcontainers
-  - #multipletypeparameters
+    - #classtemplates
+    - #genericcontainers
+    - #multipletypeparameters
 
 # Class Templates in C++
 
@@ -32,77 +39,43 @@ The compiler generates a concrete class for each type you instantiate.
 
 ## Basic Syntax
 
-```cpp
-template <typename T>
-class ClassName {
-    // Members using type T
-};
-template <typename T> introduces a template parameter T.
+`template <typename T> class ClassName {     // Members using type T };`
 
-ClassName<T> becomes a real type once you substitute a concrete type.
+**Key ideas:**
 
-Simple Container Example: Box
-cpp
-Copy code
-template <typename T>
-class Box {
-private:
-    T content;
-public:
-    Box(T value) : content(value) {}
+- `template <typename T>` introduces a template parameter `T`.
     
-    T getValue() const { return content; }
-    void setValue(T newValue) { content = newValue; }
-};
-
-// Usage:
-int main() {
-    Box<int> intBox(42);              // box of int
-    Box<string> stringBox("Hello");   // box of string
-    Box<double> doubleBox(3.14);      // box of double
-
-    cout << intBox.getValue() << endl;
-    cout << stringBox.getValue() << endl;
-}
-Key ideas:
-
-Box<int> and Box<string> are different types generated from the same template.
-
-All logic is written once, reused for many types.
-
-Multiple Type Parameters: Pair
-cpp
-Copy code
-template <typename Key, typename Value>
-class Pair {
-public:
-    Key first;
-    Value second;
+- `ClassName<T>` becomes a real type once you substitute a concrete type.
     
-    Pair(Key k, Value v) : first(k), second(v) {}
+
+## Simple Container Example: Box
+
+`template <typename T> class Box { private:     T content; public:     Box(T value) : content(value) {}          T getValue() const { return content; }     void setValue(T newValue) { content = newValue; } };  // Usage: int main() {     Box<int> intBox(42);              // box of int     Box<string> stringBox("Hello");   // box of string     Box<double> doubleBox(3.14);      // box of double      cout << intBox.getValue() << endl;     cout << stringBox.getValue() << endl; }`
+
+**Key ideas:**
+
+- `Box<int>` and `Box<string>` are different types generated from the same template.
     
-    void display() const {
-        cout << first << ": " << second << endl;
-    }
-};
+- All logic is written once, reused for many types.
+    
 
-int main() {
-    Pair<string, int> person("John", 25);       // name + age
-    Pair<int, double> measurement(1, 99.5);     // id + value
+## Multiple Type Parameters: Pair
 
-    person.display();
-    measurement.display();
-}
-Key ideas:
+`template <typename Key, typename Value> class Pair { public:     Key first;     Value second;          Pair(Key k, Value v) : first(k), second(v) {}          void display() const {         cout << first << ": " << second << endl;     } };  int main() {     Pair<string, int> person("John", 25);       // name + age     Pair<int, double> measurement(1, 99.5);     // id + value      person.display();     measurement.display(); }`
 
-You can have more than one template parameter (Key, Value).
+**Key ideas:**
 
-This is the basis of many STL types like std::pair and std::map (key/value).
+- You can have more than one template parameter (`Key`, `Value`).
+    
+- This pattern is the basis of many STL types like `std::pair` and `std::map` (key/value).
+    
 
-When To Use Class Templates
-Reusable containers or wrappers (like Box, Array, smart pointers).
+## When To Use Class Templates
 
-Types whose behaviour is the same for many different element types.
+Use class templates when:
 
-Data structures where the algorithm does not depend on the concrete type of elements.
-
+- You build **reusable containers or wrappers** (like `Box`, arrays, smart pointers).
+    
+- The **behaviour is the same** for many different element types.
+    
+- You design **data structures** where the algorithm does not depend on the concrete type of elements.
