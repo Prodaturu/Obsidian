@@ -4,7 +4,7 @@
 
 **Hashtags:**
 - #cpp
-- #data_types
+- #datatypes
 - #atomic
 - #memory
 
@@ -12,6 +12,7 @@
 - **Relevance Links:**
   - [[User-Defined Types in C++]]
   - [[Special Types in C++]]
+  - [[Lvalue and Rvalue references in c++]]
 
 - **Topic Tags:**
   - #pointers
@@ -37,8 +38,8 @@ Key points:
 
 ## References
 
-- Lvalue reference: `int& r = x;` – alias for an existing object.  
-- Rvalue reference: `int&& r = foo();` – used for move semantics and perfect forwarding.
+- [[Lvalue and Rvalue references in c++.md|Lvalue]] reference: `int& r = x;` – alias for an existing object.  
+- [[Lvalue and Rvalue references in c++.md|Rvalue]] reference: `int&& r = foo();` – used for move semantics and perfect forwarding.
 
 Key points:
 
