@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User-Defined Types in C++.md",
+                "file": "3 - Main Notes/C++/Templates in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,7 +82,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "User-Defined Types in C++"
+              "title": "Templates in C++"
             }
           }
         ]
@@ -293,9 +293,9 @@
   },
   "active": "2344ad9049de3a0e",
   "lastOpenFiles": [
+    "User-Defined Types in C++.md",
     "Pointer and Reference Types in C++.md",
     "Indexes/C++.md",
-    "User-Defined Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Lvalue and Rvalue references in c++.md",
     "Lvalue.md",

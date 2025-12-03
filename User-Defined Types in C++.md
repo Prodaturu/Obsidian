@@ -13,6 +13,8 @@
   - OOPS in C++
   - [[Templates in C++]]
   - [[enums in c++]]
+  - [[structs in C++]]
+  - [[Classes and Objects in C++]]
 
 - **Topic Tags:**
   - #struct
