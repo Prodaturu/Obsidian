@@ -55,11 +55,11 @@ int main()
 The compiler can deduce the template parameter from arguments:
 
 ```cpp
-getMax(10, 20);
+getMax(10, 20);       // T deduced as int
+getMax(3.14, 2.99);   // T deduced as double
 // T deduced as int getMax(3.14, 2.99);     
 // T deduced as double
 ```
 
 #### Key idea:
 - you usually don’t need to write `<int>` explicitly unless deduction fails.
-
