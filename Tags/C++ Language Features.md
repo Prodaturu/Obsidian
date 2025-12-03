@@ -3,13 +3,9 @@
 **Status:** 
 
 - **Hashtags:**
-	- #CPP
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
-
-- **Topic Tags:**
 	- [[Switch Statements in C++]]
 	- [[Operators in C++]]
 	- [[Functions in C++]]
@@ -19,6 +15,8 @@
 	- [[C++ Error Handling]]
 	- C++
 
+- **Topic Tags:**
+	- #CPP
 
 # C++ Language Features
 
@@ -28,9 +26,3 @@
 
 # References
 
-
-## Closely Related Notes
-
-### Next:
-
-### Prev:

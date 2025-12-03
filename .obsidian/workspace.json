@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "C++ Language Features"
             }
           },
           {
@@ -287,8 +287,8 @@
   },
   "active": "ce5b9366a0954586",
   "lastOpenFiles": [
-    "5 - Templates/Title.md",
     "Indexes/C++.md",
+    "5 - Templates/Title.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
