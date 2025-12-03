@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "Advanced Template Features in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templates in C++"
+              "title": "Advanced Template Features in C++"
             }
           }
         ]
@@ -254,8 +254,8 @@
   },
   "active": "1002d79236518121",
   "lastOpenFiles": [
-    "Template Array Example in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
+    "Template Array Example in C++.md",
     "Advanced Template Features in C++.md",
     "Class Templates in C++.md",
     "Tags/Latex.md",
