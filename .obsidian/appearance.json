@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "colors"
   ],
-  "showRibbon": false
+  "showRibbon": true,
+  "accentColor": "#405eba",
+  "theme": "obsidian"
 }
