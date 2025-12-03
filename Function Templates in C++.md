@@ -5,7 +5,7 @@
 **Hashtags:**
 - #cpp
 - #templates
-- #generic_programming
+- #genericprogramming
 - #functions
 - #atomic
 
@@ -15,9 +15,9 @@
   - Templates in C++
 
 - **Topic Tags:**
-  - #function_templates
-  - #type_deduction
-  - #compile_time_polymorphism
+  - #functiontemplates
+  - #typededuction
+  - #compiletimepolymorphism
 
 # Function Templates in C++
 
