@@ -17,7 +17,6 @@
   - [[Templates in C++]]
   - [[C++ Error Handling]]
   - [[C++ Files]]
-  - [[C++ Time & Date Datatypes, Timestamps]]
   - [[C++ Libraries]]          <!-- optional, if you treat it as “features + ecosystem” -->
 
 - **Topic Tags:**

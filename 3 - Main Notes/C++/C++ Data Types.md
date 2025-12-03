@@ -1,85 +1,65 @@
 **Created:** 02.12.25, 04:27
 
-**Status:** #
+**Status:** #teen #map
 
 **Hashtags:**
-- 
+- #cpp
+- #data_types
+- #map
+- #overview
 
 **Links / Tags:** 
 - **Relevance Links:**
+  - [[Primitive Integral Types in C++]]
+  - [[Floating-Point Types in C++]]
+  - [[Character and String Types in C++]]
+  - [[Fixed-Width Integer Types in C++]]
+  - [[Pointer and Reference Types in C++]]
+  - [[User-Defined Types in C++]]
+  - [[Template and Generic Types in C++]]
+  - [[Special Types in C++]]
+  - [[C++ Time & Date Datatypes, Timestamps]]
+  - [[C++ STL]]
+  - [[Templates in C++]]
 
 - **Topic Tags:**
-
+  - #types
+  - #numeric
+  - #characters
+  - #pointers
+  - #user_defined
+  - #template_types
+  - #special_types
 
 # C++ Data Types
 
-| Datatype Category                             | Type / Feature                                          | File Name          |
-| --------------------------------------------- | ------------------------------------------------------- | ------------------ |
-| **Primitive Integral Types**                  | `bool`                                                  | Bool               |
-|                                               | `char`                                                  | Char               |
-|                                               | `signed char`                                           | Signed-Char        |
-|                                               | `unsigned char`                                         | Unsigned-Char      |
-|                                               | `short`                                                 | Short              |
-|                                               | `unsigned short`                                        | Unsigned-Short     |
-|                                               | `int`                                                   | Int                |
-|                                               | `unsigned int`                                          | Unsigned-Int       |
-|                                               | `long`                                                  | Long               |
-|                                               | `unsigned long`                                         | Unsigned-Long      |
-|                                               | `long long`                                             | Long-Long          |
-|                                               | `unsigned long long`                                    | Unsigned-Long-Long |
-| **Floating-Point Types**                      | `float`                                                 | Float              |
-|                                               | `double`                                                | Double             |
-|                                               | `long double`                                           | Long-Double        |
-| **Character / String Types**                  | `char`                                                  | Char               |
-|                                               | `wchar_t`                                               | WChar              |
-|                                               | `char16_t`                                              | Char16             |
-|                                               | `char32_t`                                              | Char32             |
-|                                               | `std::string`                                           | String             |
-|                                               | `std::string_view`                                      | String-View        |
-| **Fixed-Width Integer Types (cstdint)**       | `int8_t`                                                | Int8               |
-|                                               | `int16_t`                                               | Int16              |
-|                                               | `int32_t`                                               | Int32              |
-|                                               | `int64_t`                                               | Int64              |
-|                                               | `uint8_t`                                               | UInt8              |
-|                                               | `uint16_t`                                              | UInt16             |
-|                                               | `uint32_t`                                              | UInt32             |
-|                                               | `uint64_t`                                              | UInt64             |
-|                                               | `size_t`                                                | SizeT              |
-|                                               | `ptrdiff_t`                                             | PtrDiff            |
-| **[[C++ Time & Date Datatypes, Timestamps]]** | `std::time_t`                                           | TimeT              |
-|                                               | `std::tm`                                               | TM                 |
-|                                               | `std::clock_t`                                          | ClockT             |
-|                                               | `std::chrono::duration`                                 | Chrono-Duration    |
-|                                               | `std::chrono::time_point`                               | Chrono-TimePoint   |
-|                                               | `std::chrono::system_clock`                             | System-Clock       |
-|                                               | `std::chrono::steady_clock`                             | Steady-Clock       |
-|                                               | `std::chrono::milliseconds`                             | Milliseconds       |
-|                                               | `std::chrono::seconds`                                  | Seconds            |
-| **Pointer/Reference Datatypes**               | Raw pointer (`int*`)                                    | Pointer            |
-|                                               | Null pointer (`nullptr_t`)                              | NullPtr            |
-|                                               | Reference (`int&`)                                      | Reference          |
-|                                               | Rvalue Reference (`int&&`)                              | RValue-Reference   |
-| **User-Defined Datatypes**                    | `struct`                                                | Struct             |
-|                                               | `class`                                                 | Class              |
-|                                               | `enum`                                                  | Enum               |
-|                                               | `enum class`                                            | Enum-Class         |
-|                                               | `union`                                                 | Union              |
-| **Template/Generic Datatypes**                | `std::optional<T>`                                      | Optional           |
-|                                               | `std::variant<T...>`                                    | Variant            |
-|                                               | `std::pair<T, U>`                                       | Pair               |
-|                                               | `std::tuple<T...>`                                      | Tuple              |
-|                                               | `std::array<T, N>`                                      | Array-TN           |
-| **Large / Arbitrary Precision Types**         | `std::byte`                                             | Byte               |
-|                                               | (C++ doesn’t have built-in BigInt, but libraries exist) | BigInt             |
-| **Special Types**                             | `void`                                                  | Void               |
-|                                               | `auto`                                                  | Auto               |
-|                                               | `decltype`                                              | DeclType           |
-|                                               | `std::nullptr_t`                                        | NullPtrType        |
+> Part of C++ language features (parent → child only; no link back on purpose).
+
+High-level map of data type families in C++:
+
+- Primitive numeric types → [[Primitive Integral Types in C++]], [[Floating-Point Types in C++]]
+- Characters & strings → [[Character and String Types in C++]]
+- Fixed-width & size-related → [[Fixed-Width Integer Types in C++]]
+- Pointers & references → [[Pointer and Reference Types in C++]]
+- User-defined types → [[User-Defined Types in C++]]
+- Template-based / generic → [[Template and Generic Types in C++]]
+- Special / meta types → [[Special Types in C++]]
+- Time & date-specific types → [[C++ Time & Date Datatypes, Timestamps]]
+
+## Overview Table
+
+| Datatype Category                             | Type / Feature                                          |
+| --------------------------------------------- | ------------------------------------------------------- |
+| **[[Primitive Integral Types in C++\|Primitive Integral Types]]** | `bool`, `char`, `signed char`, `unsigned char`, `short`, `unsigned short`, `int`, `unsigned int`, `long`, `unsigned long`, `long long`, `unsigned long long` |
+| **[[Floating-Point Types in C++\|Floating-Point Types]]**        | `float`, `double`, `long double`                        |
+| **[[Character and String Types in C++\|Character / String Types]]** | `char`, `wchar_t`, `char16_t`, `char32_t`, `std::string`, `std::string_view` |
+| **[[Fixed-Width Integer Types in C++\|Fixed-Width Integer Types (cstdint)]]** | `int8_t`, `int16_t`, `int32_t`, `int64_t`, `uint8_t`, `uint16_t`, `uint32_t`, `uint64_t`, `size_t`, `ptrdiff_t` |
+| **[[C++ Time & Date Datatypes, Timestamps]]** | `std::time_t`, `std::tm`, `std::clock_t`, `std::chrono::duration`, `std::chrono::time_point`, `std::chrono::system_clock`, `std::chrono::steady_clock`, `std::chrono::milliseconds`, `std::chrono::seconds` |
+| **[[Pointer and Reference Types in C++\|Pointer/Reference Datatypes]]** | `int*`, `std::nullptr_t`, `int&`, `int&&`               |
+| **[[User-Defined Types in C++\|User-Defined Datatypes]]**        | `struct`, `class`, `enum`, `enum class`, `union`        |
+| **[[Template and Generic Types in C++\|Template/Generic Datatypes]]** | `std::optional<T>`, `std::variant<T...>`, `std::pair<T, U>`, `std::tuple<T...>`, `std::array<T, N>` |
+| **[[Special Types in C++\|Special Types]]**                      | `void`, `auto`, `decltype`, `std::nullptr_t`, `std::byte` |
 
 # References
 
-## Closely Related Notes
-
-### Next:
-
-### Prev:
+- 
