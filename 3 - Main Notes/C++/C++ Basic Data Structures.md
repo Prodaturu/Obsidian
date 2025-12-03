@@ -1,7 +1,3 @@
----
-aliases:
-  - "**C++ Basic Data Structures**"
----
 **Created:** 02.12.25, 04:00
 
 **Status:**

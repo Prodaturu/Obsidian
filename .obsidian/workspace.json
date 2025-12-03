@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Function Templates in C++.md",
+                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Function Templates in C++"
+              "title": "Functions in C++"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "templa",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,19 +99,8 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "df0603d20bf01256",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,12 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Functions in C++"
             }
           },
           {
@@ -144,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "3 - Main Notes/C++/Functions in C++.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -205,6 +197,16 @@
             }
           },
           {
+            "id": "df0603d20bf01256",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
             "id": "0e4eb3b86fb1a121",
             "type": "leaf",
             "state": {
@@ -215,11 +217,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 714.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,12 +240,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df0603d20bf01256",
+  "active": "9b4d633462f816cc",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Basic Data Structures.md",
+    "Tags/#mathematics.md",
+    "Function Templates in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "1 - Rough Notes/I let you pass.md",
     "User-Defined Types in C++.md",
-    "Function Templates in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Special Types in C++.md",
     "Pointer and Reference Types in C++.md",
@@ -264,8 +268,6 @@
     "Error Handling Mechanisms in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/C++ Libraries.md",
-    "**Error Handling Mechanisms in C++**.md",
-    "3 - Main Notes/C++/Switch Statements in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
