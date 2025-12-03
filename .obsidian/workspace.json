@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data_types",
+                "query": "templa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +163,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -293,10 +294,12 @@
   },
   "active": "2344ad9049de3a0e",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "Special Types in C++.md",
     "User-Defined Types in C++.md",
+    "3 - Main Notes/C++/Templates in C++.md",
     "Pointer and Reference Types in C++.md",
     "Indexes/C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "Lvalue and Rvalue references in c++.md",
     "Lvalue.md",
     "Fixed-Width Integer Types in C++.md",
@@ -317,8 +320,6 @@
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "Tags/OOPS in C++.md",
-    "3 - Main Notes/C++/C++ Files.md",
-    "Tags/Classes and Objects in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
