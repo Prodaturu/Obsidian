@@ -54,69 +54,20 @@
               "icon": "lucide-file",
               "title": "Character and String Types in C++"
             }
-          },
-          {
-            "id": "7d1c1c5916da9565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Date and Time in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Date and Time in C++"
-            }
-          },
-          {
-            "id": "85ae092e5dc55b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error Handling Mechanisms in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Error Handling Mechanisms in C++"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "513fc3ec1ace9d11",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2c26d99928d5a7",
+            "id": "2344ad9049de3a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primitive Integral Types in C++.md",
+                "file": "Pointer and Reference Types in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,31 +82,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Primitive Integral Types in C++"
-            }
-          },
-          {
-            "id": "079a4e0b4ab6744e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/C++ Language Features.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "Pointer and Reference Types in C++"
             }
           }
         ]
@@ -215,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"3 - Main Notes/C++/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,8 +163,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -365,15 +291,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7d2c26d99928d5a7",
+  "active": "2344ad9049de3a0e",
   "lastOpenFiles": [
+    "Fixed-Width Integer Types in C++.md",
+    "Pointer and Reference Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
-    "Tags/C++ Language Features.md",
     "Character and String Types in C++.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
-    "3 - Main Notes/C++/C++ STL.md",
+    "Tags/C++ Language Features.md",
     "Primitive Integral Types in C++.md",
     "Floating-Point Types in C++.md",
+    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
+    "3 - Main Notes/C++/C++ STL.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
@@ -391,8 +319,6 @@
     "3 - Main Notes/C++/C++ Basic Data Structures.md",
     "C++ Arrays.md",
     "4 - Full Notes/4 - Full Notes.md",
-    "datatype.md",
-    "Tags/Latex.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",

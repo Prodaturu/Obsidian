@@ -1,19 +1,18 @@
 **Created:** 03.12.25, 01:53
 
-**Created:** {{date}}, {{time}}
-
 **Status:** #atomic
 
-**Hashtags:**
-- #cpp
-- #data_types
-- #atomic
-- #numeric
+- **Hashtags:**
+	- #cpp
+	- #datatypes
+	- #atomic
+	- #numeric
 
 **Links / Tags:** 
 - **Relevance Links:**
   - Primitive Integral Types in C++
   - [[Special Types in C++]]
+  - [[IEE754]]
 
 - **Topic Tags:**
   - #floating_point

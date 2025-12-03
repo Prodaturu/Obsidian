@@ -1,11 +1,10 @@
 **Created:** 02.12.25, 04:27
 
-**Status:** #teen #map
+**Status:** #map
 
 **Hashtags:**
 - #cpp
-- #data_types
-- #map
+- #datatypes
 - #overview
 
 **Links / Tags:** 

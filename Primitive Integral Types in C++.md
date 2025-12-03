@@ -4,7 +4,7 @@
 
 **Hashtags:**
 - #cpp
-- #data_types
+- #datatypes
 - #atomic
 - #numeric
 

@@ -4,20 +4,18 @@
 
 **Hashtags:**
 - #cpp
-- #data_types
-- #atomic
+- #datatypes
 - #text
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - Primitive Integral Types in C++
   - [[C++ STL]]
 
 - **Topic Tags:**
   - #characters
   - #strings
   - #unicode
-  - #std_string
+  - #stdstring
 
 # Character and String Types in C++
 
@@ -30,14 +28,14 @@ C++ has several character types for different encodings, plus string container t
 - `char` – smallest addressable unit of the execution character set  
 - `signed char` / `unsigned char` – char with explicit sign  
 - `wchar_t` – wide character (implementation-defined size)  
-- `char16_t` – UTF-16 code units  
-- `char32_t` – UTF-32 code units
+- `char16_t` – [[UTF-16]] code units  
+- `char32_t` – [[UTF-32]] code units
 
 ## String types
 
 - `std::string` – owning dynamic string of `char`  
 - `std::wstring` – wide string (`wchar_t`)  
-- `std::u16string`, `std::u32string` – UTF-16/UTF-32 strings  
+- `std::u16string`, `std::u32string` – [[UTF-16]]/[[UTF-32]] strings  
 - `std::string_view` – non-owning string view (pointer + length)
 
 ## Key ideas
