@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Errors in C++.md",
+                "file": "5 - Templates/Title.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Errors in C++"
+              "title": "Title"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Time & Date Datatypes, Timestamps"
+              "title": "C++"
             }
           },
           {
@@ -111,8 +111,7 @@
               "title": "Error Handling Mechanisms in C++"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#runtimeerrors",
+                "query": "path:\"3 - Main Notes/C++/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,13 +189,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -322,18 +319,20 @@
   },
   "active": "47e8fcccb87fc276",
   "lastOpenFiles": [
+    "Indexes/C++.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
+    "5 - Templates/Title.md",
+    "5 - Templates/5 - Templates.md",
+    "Types of Errors in C++.md",
     "Error Handling Mechanisms in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
-    "Types of Errors in C++.md",
-    "Tags/C++ Language Features.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
-    "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
     "**Error Handling Mechanisms in C++**.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/C++/C++ STL.md",
@@ -347,8 +346,6 @@
     "all.base",
     "Untitled.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
-    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "3 - Main Notes/InformationTheoryTum/InformationTheoryTum.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",

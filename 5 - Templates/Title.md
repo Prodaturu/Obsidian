@@ -1,7 +1,5 @@
 **Created:** {{date}}, {{time}}
 
-**Status:** #
-
 **Hashtags:**
 - 
 
