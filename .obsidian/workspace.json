@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "C++ Data Types"
             }
           },
           {
@@ -77,6 +77,22 @@
               },
               "icon": "lucide-file",
               "title": "Error Handling Mechanisms in C++"
+            }
+          }
+        ]
+      },
+      {
+        "id": "513fc3ec1ace9d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d2c26d99928d5a7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -287,9 +303,9 @@
   },
   "active": "ce5b9366a0954586",
   "lastOpenFiles": [
+    "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
     "5 - Templates/5 - Templates.md",
