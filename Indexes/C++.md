@@ -2,27 +2,32 @@
 banner: https://wallpaperaccess.com/full/9425008.jpg
 sticker: lucide//code
 ---
-**Created:** *25.11.25, 17:59*
+**Created:** 25.11.25, 17:59  
 
-**Status:** #teen 
+**Status:** #map
 
-- **Hashtags:**
-	- #programming_language 
-	- #CPP 
-	- #advancedcpp 
-	- #OOPS 
-	- #cppclasses 
+**Hashtags:**
+- #cpp
+- #programming_language
+- #map
+- #overview
 
-- **Tags / Links:**
-	- [[C++ Language Features]]
-	- [[C++ Data Structures and Algorithms]]
-	- [[OOPS in C++]]
-	- [[C++ Libraries]]
+**Links / Tags:** 
+- **Relevance Links:**
+  - [[C++ Language Features]]
+  - [[OOPS in C++]]
+  - [[C++ Data Structures and Algorithms]]
+  - [[C++ STL]]
+  - [[C++ Libraries]]
+  - [[C++ IO & Time]]     <!-- you can create this as a new map note -->
 
-# Related Links
+- **Topic Tags:**
+  - #oop
+  - #generic_programming
+  - #systems_programming
+  - #compiled_language
 
-- 
+# C++
 
-# References
-
-- 
+- Main hub for my C++ notes.
+- Links to second-level maps (language features, OOP, STL, algorithms, IO, time).

@@ -1,8 +1,5 @@
 **Created:** {{date}}, {{time}}
 
-**Hashtags:**
-- 
-
 **Links / Tags:** 
 - **Relevance Links:**
 
@@ -13,12 +10,4 @@
 
 - 
 
-
 # References
-
-
-## Closely Related Notes
-
-### Next:
-
-### Prev:
