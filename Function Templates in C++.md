@@ -29,7 +29,8 @@ Function templates let you write one function that works with many types. The co
 
 ```cpp
 template <typename T>
-T functionName(T parameter) {
+T functionName(T parameter)
+{
     // Code using type T
 }
 ```

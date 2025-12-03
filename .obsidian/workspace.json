@@ -11,10 +11,24 @@
             "id": "9b4d633462f816cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Function Templates in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Function Templates in C++"
             }
           }
         ],
@@ -85,9 +99,19 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "df0603d20bf01256",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -189,19 +213,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "df0603d20bf01256",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -224,12 +238,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9b4d633462f816cc",
+  "active": "df0603d20bf01256",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Templates in C++.md",
     "1 - Rough Notes/I let you pass.md",
     "User-Defined Types in C++.md",
     "Function Templates in C++.md",
-    "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Special Types in C++.md",
     "Pointer and Reference Types in C++.md",
