@@ -44,12 +44,12 @@ Primitive integral types represent whole numbers and simple boolean values. They
 
 - **Overflow**  
   - Behaviour of signed overflow is undefined.  
-  - Unsigned overflow wraps modulo 2ⁿ.
+  - Unsigned overflow wraps modulo $2^n$.
 
 - **Type choice**  
   - `int` for most general counting.  
   - `size_t` (see fixed-width note) for sizes and indexes.  
-  - wider types only when you really need them.
+  - wider types only when we really need them.
 
 # References
 

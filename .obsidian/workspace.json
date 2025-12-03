@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primitive Integral Types in C++.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Primitive Integral Types in C++"
+              "title": "C++ Data Types"
             }
           },
           {
@@ -326,9 +326,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7d2c26d99928d5a7",
+  "active": "89008034c2d1f4da",
   "lastOpenFiles": [
     "Primitive Integral Types in C++.md",
+    "Floating-Point Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
@@ -354,7 +355,6 @@
     "Tags/Latex.md",
     "3 - Main Notes/LaTeX symbols Cheat Sheet.md",
     "all.base",
-    "Untitled.md",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
