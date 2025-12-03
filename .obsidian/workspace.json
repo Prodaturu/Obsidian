@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "Function Templates in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,7 +82,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templates in C++"
+              "title": "Function Templates in C++"
             }
           }
         ]
@@ -163,12 +163,12 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -294,10 +294,11 @@
   },
   "active": "2344ad9049de3a0e",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Templates in C++.md",
+    "Function Templates in C++.md",
+    "User-Defined Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Special Types in C++.md",
-    "User-Defined Types in C++.md",
-    "3 - Main Notes/C++/Templates in C++.md",
     "Pointer and Reference Types in C++.md",
     "Indexes/C++.md",
     "Lvalue and Rvalue references in c++.md",
@@ -319,7 +320,6 @@
     "**Error Handling Mechanisms in C++**.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
-    "Tags/OOPS in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
