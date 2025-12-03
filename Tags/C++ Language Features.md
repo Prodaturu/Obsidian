@@ -26,7 +26,6 @@
   - #templates
   - #exceptions
   - #io
-  - #time
 
 # C++ Language Features
 
