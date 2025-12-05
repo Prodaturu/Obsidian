@@ -15,7 +15,7 @@
 	- [[Friend Functions in C++]]
 	- [[Methods in C++]]
 	- [[Virtual Functions in C++]]
-	- [[Templates in C++]]
+	- [[Function Templates in C++]]
 
 
 # Functions in C++
