@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Templates in C++\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -291,11 +292,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1002d79236518121",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Templates in C++.md",
-    "Template Array Example in C++.md",
     "Advanced Template Features in C++.md",
+    "Default Template Parameters in C++.md",
+    "Class template specialisation in C++.md",
+    "Partial Specialisation in C++.md",
+    "Template Array Example in C++.md",
     "Class Templates in C++.md",
     "Tags/Latex.md",
     "Tags/C++ Language Features.md",
@@ -316,9 +320,6 @@
     "Fixed-Width Integer Types in C++.md",
     "Character and String Types in C++.md",
     "Primitive Integral Types in C++.md",
-    "Floating-Point Types in C++.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
-    "3 - Main Notes/C++/C++ STL.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
