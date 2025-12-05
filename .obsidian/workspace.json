@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "Templates Best Practices in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templates in C++"
+              "title": "Templates Best Practices in C++"
             }
           }
         ]
@@ -99,13 +99,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -136,7 +134,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Template and Generic Types in C++.md"
+                "file": "Templates Best Practices in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -221,45 +219,6 @@
             }
           },
           {
-            "id": "4a72ec58b6f9ec65",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "3f9f41d288c457d4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5ceb0ff6bfb6e9cb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "c0f8fdf90fb5d14f",
             "type": "leaf",
             "state": {
@@ -270,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -293,10 +252,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1002d79236518121",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Templates in C++.md",
+    "Templates Best Practices in C++.md",
+    "Tags/C++ Language Features.md",
     "Template Array Example in C++.md",
     "Function Templates in C++.md",
     "Advanced Template Features in C++.md",
@@ -320,7 +280,6 @@
     "Lvalue.md",
     "Fixed-Width Integer Types in C++.md",
     "Character and String Types in C++.md",
-    "Primitive Integral Types in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
