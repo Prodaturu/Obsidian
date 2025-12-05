@@ -16,7 +16,7 @@
 	- [[Methods in C++]]
 	- [[Access Specifiers in C++]]
 	- [[Abstract Classes in C++]]
-	- [[Templates in C++]]
+	- [[Class Templates in C++]]
 
 
 # Classes
