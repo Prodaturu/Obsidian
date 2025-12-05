@@ -41,8 +41,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Templates in C++\"",
+                "query": "tag:#dosanddonts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +109,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -131,12 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates Best Practices in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Templates Best Practices in C++"
             }
           },
           {
@@ -144,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Templates Best Practices in C++.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -261,11 +264,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b5431daa1a067c2a",
+  "active": "1002d79236518121",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Data Types.md",
-    "Templates Best Practices in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
+    "Templates Best Practices in C++.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "Template Array Example in C++.md",
     "Function Templates in C++.md",

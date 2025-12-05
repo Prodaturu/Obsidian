@@ -16,14 +16,13 @@
     
     - Templates in C++ <!-- parent, plain text on purpose -->
     - [[Advanced Template Features in C++]]
-    - [[Template Mental Models and Use Cases in C++]]
       
 - **Topic Tags:**
     
     - #dosanddonts
 	- #headerorganisation  
     - #templatecleanliness
-    
+
 
 # Template Best Practices in C++
 
