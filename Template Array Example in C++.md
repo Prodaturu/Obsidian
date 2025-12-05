@@ -74,11 +74,10 @@ int main()
 ```
 
 ### Key ideas:
-- `T` is a type parameter
-- `Size` is a non-type template parameter
-- must be a compile-time constant
-- Array<int, 5> and Array<double, 10> are different types
-- this pattern is similar to std::array<T, N>, but simplified
-
+- `T` is a *type parameter*
+- `Size` is a *non-type template parameter*
+	- must be a compile-time constant
+- `Array<int, 5>` and `Array<double, 10>` are different types
+- pattern is similar to `std::array<T, N>`, but simplified
 
 # References
