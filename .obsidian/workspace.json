@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "Templates Best Practices in C++"
             }
+          },
+          {
+            "id": "b5431daa1a067c2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,13 +130,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template and Generic Types in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Template and Generic Types in C++"
+              "title": "Outline"
             }
           },
           {
@@ -133,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Templates Best Practices in C++.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -219,7 +227,7 @@
             }
           },
           {
-            "id": "c0f8fdf90fb5d14f",
+            "id": "5f154ac4f67e9ce4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -228,8 +236,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,10 +259,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "b5431daa1a067c2a",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Templates in C++.md",
     "Templates Best Practices in C++.md",
+    "3 - Main Notes/C++/Templates in C++.md",
     "Tags/C++ Language Features.md",
     "Template Array Example in C++.md",
     "Function Templates in C++.md",
