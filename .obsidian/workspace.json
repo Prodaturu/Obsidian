@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Template Features in C++.md",
+                "file": "Template Array Example in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Advanced Template Features in C++"
+              "title": "Template Array Example in C++"
             }
           }
         ]
@@ -292,23 +292,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "1002d79236518121",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Templates in C++.md",
+    "Function Templates in C++.md",
+    "Template Array Example in C++.md",
+    "Tags/C++ Language Features.md",
     "Advanced Template Features in C++.md",
     "Default Template Parameters in C++.md",
     "Class template specialisation in C++.md",
     "Partial Specialisation in C++.md",
-    "Template Array Example in C++.md",
     "Class Templates in C++.md",
     "Tags/Latex.md",
-    "Tags/C++ Language Features.md",
     "Template and Generic Types in C++.md",
     "Special Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "\"Template and Generic Types in C++\".md",
     "User-Defined Types in C++.md",
-    "Function Templates in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/C++ Basic Data Structures.md",
     "Tags/#mathematics.md",
