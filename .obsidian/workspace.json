@@ -35,10 +35,24 @@
             "id": "b5431daa1a067c2a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Template Mental Models and Use Cases in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Template Mental Models and Use Cases in C++"
             }
           }
         ],
@@ -132,12 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Template Mental Models and Use Cases in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Template Mental Models and Use Cases in C++"
             }
           },
           {
@@ -145,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Template Mental Models and Use Cases in C++.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
