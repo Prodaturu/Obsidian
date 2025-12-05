@@ -52,4 +52,3 @@ Templates are like **blueprints** that generate specific code for each data type
 
 # References
 
-- --
