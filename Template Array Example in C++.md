@@ -13,7 +13,6 @@
 **Links / Tags:**
 - **Relevance Links:**
     - Templates in C++ <!-- parent, plain text on purpose -->
-    - [[Class Templates in C++]]
     - [[C++ Data Structures and Algorithms]]
       
 - **Topic Tags:**

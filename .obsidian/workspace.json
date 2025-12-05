@@ -6,6 +6,7 @@
       {
         "id": "712efc5e68432c96",
         "type": "tabs",
+        "dimension": 26.137931034482758,
         "children": [
           {
             "id": "1002d79236518121",
@@ -30,14 +31,21 @@
               "icon": "lucide-file",
               "title": "Templates in C++"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "11d7231244f5c23e",
+        "type": "tabs",
+        "dimension": 73.86206896551725,
+        "children": [
           {
             "id": "b5431daa1a067c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template Mental Models and Use Cases in C++.md",
+                "file": "Class Templates in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +60,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template Mental Models and Use Cases in C++"
+              "title": "Class Templates in C++"
+            }
+          },
+          {
+            "id": "234cfb91dbbb858f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -292,21 +310,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b5431daa1a067c2a",
+  "active": "234cfb91dbbb858f",
   "lastOpenFiles": [
-    "Template Best Practices in C++.md",
+    "Class Templates in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
+    "Template Array Example in C++.md",
     "Template Mental Models and Use Cases in C++.md",
+    "Template Best Practices in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "Advanced Template Features in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
-    "Template Array Example in C++.md",
     "Function Templates in C++.md",
     "Default Template Parameters in C++.md",
     "Class template specialisation in C++.md",
     "Partial Specialisation in C++.md",
-    "Class Templates in C++.md",
     "Tags/Latex.md",
     "Template and Generic Types in C++.md",
     "Special Types in C++.md",
