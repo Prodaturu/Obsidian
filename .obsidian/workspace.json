@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates Best Practices in C++.md",
+                "file": "3 - Main Notes/C++/Templates in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templates Best Practices in C++"
+              "title": "Templates in C++"
             }
           },
           {
@@ -41,7 +41,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,13 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates Best Practices in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Templates Best Practices in C++"
+              "title": "Outline"
             }
           },
           {
@@ -145,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Templates Best Practices in C++.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -264,15 +262,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1002d79236518121",
+  "active": "b5431daa1a067c2a",
   "lastOpenFiles": [
+    "Template Mental Models and Use Cases in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Templates Best Practices in C++.md",
+    "Advanced Template Features in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "Template Array Example in C++.md",
     "Function Templates in C++.md",
-    "Advanced Template Features in C++.md",
     "Default Template Parameters in C++.md",
     "Class template specialisation in C++.md",
     "Partial Specialisation in C++.md",
@@ -291,7 +290,6 @@
     "Lvalue and Rvalue references in c++.md",
     "Lvalue.md",
     "Fixed-Width Integer Types in C++.md",
-    "Character and String Types in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
