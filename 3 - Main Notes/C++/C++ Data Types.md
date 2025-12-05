@@ -12,7 +12,6 @@
   - [[Primitive Integral Types in C++]]
   - [[Floating-Point Types in C++]]
   - [[Character and String Types in C++]]
-  - [[Fixed-Width Integer Types in C++]]
   - [[Pointer and Reference Types in C++]]
   - [[User-Defined Types in C++]]
   - [[Special Types in C++]]

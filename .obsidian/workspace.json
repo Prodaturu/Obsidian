@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -240,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 714.5
+    "width": 714.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,6 +263,7 @@
   },
   "active": "b5431daa1a067c2a",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Data Types.md",
     "Templates Best Practices in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Tags/C++ Language Features.md",
@@ -274,7 +277,6 @@
     "Tags/Latex.md",
     "Template and Generic Types in C++.md",
     "Special Types in C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "\"Template and Generic Types in C++\".md",
     "User-Defined Types in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
