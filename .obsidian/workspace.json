@@ -4,28 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "712efc5e68432c96",
-        "type": "tabs",
-        "dimension": 32.94753086419753,
-        "children": [
-          {
-            "id": "1002d79236518121",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "3 - Main Notes/C++"
-              },
-              "icon": "lucide-file",
-              "title": "C++"
-            }
-          }
-        ]
-      },
-      {
         "id": "11d7231244f5c23e",
         "type": "tabs",
-        "dimension": 34.83796296296296,
+        "dimension": 37.9180602006689,
         "children": [
           {
             "id": "b5431daa1a067c2a",
@@ -97,8 +78,7 @@
               },
               "icon": "lucide-file",
               "title": "Templates in C++"
-            },
-            "group": "a7646f2c255ba1ad"
+            }
           }
         ],
         "currentTab": 2
@@ -106,47 +86,44 @@
       {
         "id": "8ce635cd80ac6668",
         "type": "tabs",
-        "dimension": 32.214506172839506,
+        "dimension": 62.081939799331096,
         "children": [
           {
-            "id": "685fb4dd95ebb634",
+            "id": "de095d0fc18c372f",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "589d40b06f913f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
+                "file": "std optional in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Templates in C++"
-            },
-            "group": "a7646f2c255ba1ad"
+              "icon": "lucide-file",
+              "title": "std optional in C++"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -388,7 +365,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 714.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -407,13 +384,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1002d79236518121",
+  "active": "589d40b06f913f80",
   "lastOpenFiles": [
+    "std optional in C++.md",
+    "Special Types in C++.md",
     "Generic Types in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Template Best Practices in C++.md",
     "Advanced Template Features in C++.md",
-    "Special Types in C++.md",
     "Template Mental Models and Use Cases in C++.md",
     "Types of Templates in C++.md",
     "Tags/Classes and Objects in C++.md",
@@ -434,7 +412,6 @@
     "3 - Main Notes/C++/C++ Basic Data Structures.md",
     "Tags/#mathematics.md",
     "1 - Rough Notes/I let you pass.md",
-    "Pointer and Reference Types in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
