@@ -115,3 +115,5 @@ cout << p.second << endl;   // 3.14
     - slot 2 → `second` of type `U`
 
 # References
+
+https://en.cppreference.com/w/cpp/utility/pair.html
