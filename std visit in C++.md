@@ -121,7 +121,7 @@ int main()
 
 ## When to use std::visit
 
-- Whenever you need to **do something** with the value inside a `std::variant`.
+- Whenever you need to **do something** with the value inside a `std::variant`
     
 - When you want:
     - one central place that handles all types
