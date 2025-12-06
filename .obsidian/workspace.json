@@ -6,7 +6,7 @@
       {
         "id": "712efc5e68432c96",
         "type": "tabs",
-        "dimension": 26.137931034482758,
+        "dimension": 26.137931034482754,
         "children": [
           {
             "id": "1002d79236518121",
@@ -37,7 +37,7 @@
       {
         "id": "11d7231244f5c23e",
         "type": "tabs",
-        "dimension": 73.86206896551725,
+        "dimension": 73.86206896551724,
         "children": [
           {
             "id": "b5431daa1a067c2a",
@@ -294,6 +294,19 @@
             "id": "6d765a4f1f2708f6",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27a21b42db257031",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -324,8 +337,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "234cfb91dbbb858f",
+  "active": "1002d79236518121",
   "lastOpenFiles": [
+    "Tags/Classes and Objects in C++.md",
     "Class Templates in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Template Array Example in C++.md",
@@ -351,7 +365,6 @@
     "Indexes/C++.md",
     "Lvalue and Rvalue references in c++.md",
     "Lvalue.md",
-    "Fixed-Width Integer Types in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
