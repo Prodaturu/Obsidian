@@ -38,8 +38,8 @@ Key points:
 
 ## References
 
-- [[Lvalue and Rvalue references in c++.md|Lvalue]] reference: `int& r = x;` – alias for an existing object.  
-- [[Lvalue and Rvalue references in c++.md|Rvalue]] reference: `int&& r = foo();` – used for move semantics and perfect forwarding.
+- [[Lvalue and Rvalue references in c++|Lvalue]] reference: `int& r = x;` – alias for an existing object.  
+- [[Lvalue and Rvalue references in c++|Rvalue]] reference: `int&& r = foo();` – used for move semantics and perfect forwarding.
 
 Key points:
 

@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "std array in C++.md",
+                "file": "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "std array in C++"
+              "title": "Lvalue and Rvalue references in c++"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "std variant in C++.md",
+                "file": "3 - Main Notes/C++/std variant in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -217,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cppclasses",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -474,32 +474,32 @@
   },
   "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
-    "std pair in C++.md",
-    "std array in C++.md",
-    "std variant in C++.md",
-    "Generic Types in C++.md",
-    "std tuple in C++.md",
+    "3 - Main Notes/C++/std.md",
+    "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
+    "3 - Main Notes/C++/std array in C++.md",
+    "3 - Main Notes/C++/std pair in C++.md",
+    "3 - Main Notes/C++/std variant in C++.md",
+    "3 - Main Notes/C++/Generic Types in C++.md",
+    "3 - Main Notes/C++/std tuple in C++.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
-    "std visit in C++.md",
-    "std.md",
-    "std optional in C++.md",
+    "3 - Main Notes/C++/std visit in C++.md",
+    "3 - Main Notes/C++/std optional in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
-    "Special Types in C++.md",
-    "Template Best Practices in C++.md",
+    "3 - Main Notes/C++/Special Types in C++.md",
+    "3 - Main Notes/C++/Template Best Practices in C++.md",
     "3 - Main Notes/C++/Advanced Template Features in C++.md",
-    "Template Mental Models and Use Cases in C++.md",
-    "Types of Templates in C++.md",
+    "3 - Main Notes/C++/Template Mental Models and Use Cases in C++.md",
+    "3 - Main Notes/C++/Types of Templates in C++.md",
     "Tags/[[Tagsuser-defined.mduser-defined]].md",
     "Tags/user-defined.md",
     "3 - Main Notes/C++/Class Templates in C++.md",
-    "Template Array Example in C++.md",
+    "3 - Main Notes/C++/Template Array Example in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Function Templates in C++.md",
     "3 - Main Notes/C++/Default Template Parameters in C++.md",
-    "3 - Main Notes/C++/Class template specialisation in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
