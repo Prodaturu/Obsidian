@@ -6,7 +6,7 @@
       {
         "id": "11d7231244f5c23e",
         "type": "tabs",
-        "dimension": 37.9180602006689,
+        "dimension": 39.85587583148559,
         "children": [
           {
             "id": "b5431daa1a067c2a",
@@ -86,7 +86,7 @@
       {
         "id": "8ce635cd80ac6668",
         "type": "tabs",
-        "dimension": 62.081939799331096,
+        "dimension": 60.14412416851441,
         "children": [
           {
             "id": "de095d0fc18c372f",
@@ -193,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Generic Types in C++\"",
+                "query": "tag:#cppclasses",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -423,12 +423,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de095d0fc18c372f",
+  "active": "4fb25d79b081d22b",
   "lastOpenFiles": [
+    "std variant in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "std pair in C++.md",
     "Generic Types in C++.md",
-    "std variant in C++.md",
     "std visit in C++.md",
     "std.md",
     "std optional in C++.md",
