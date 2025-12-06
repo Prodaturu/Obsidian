@@ -6,7 +6,7 @@
       {
         "id": "712efc5e68432c96",
         "type": "tabs",
-        "dimension": 26.137931034482754,
+        "dimension": 32.94753086419753,
         "children": [
           {
             "id": "1002d79236518121",
@@ -37,7 +37,7 @@
       {
         "id": "11d7231244f5c23e",
         "type": "tabs",
-        "dimension": 36.93103448275862,
+        "dimension": 34.83796296296296,
         "children": [
           {
             "id": "b5431daa1a067c2a",
@@ -91,10 +91,24 @@
             "id": "4fb25d79b081d22b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Templates in C++"
             },
             "group": "a7646f2c255ba1ad"
           }
@@ -104,7 +118,7 @@
       {
         "id": "8ce635cd80ac6668",
         "type": "tabs",
-        "dimension": 36.93103448275862,
+        "dimension": 32.214506172839506,
         "children": [
           {
             "id": "685fb4dd95ebb634",
@@ -136,7 +150,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
@@ -405,13 +419,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1002d79236518121",
+  "active": "4fb25d79b081d22b",
   "lastOpenFiles": [
-    "Advanced Template Features in C++.md",
     "Template Best Practices in C++.md",
+    "Template and Generic Types in C++.md",
+    "Advanced Template Features in C++.md",
     "Special Types in C++.md",
     "Template Mental Models and Use Cases in C++.md",
-    "Template and Generic Types in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Types of Templates in C++.md",
     "Tags/Classes and Objects in C++.md",
