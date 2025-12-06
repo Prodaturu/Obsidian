@@ -57,7 +57,7 @@ using NumberOrText = variant<int, double, string>
 	- `double`
 	- `string`
 
-### Example with std::visit
+### Example with [[std visit in C++|std::visit]]
 
 ```cpp
 #include <variant>

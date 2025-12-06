@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "std variant in C++.md",
+                "file": "std visit in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "std variant in C++"
+              "title": "std visit in C++"
             }
           }
         ],
@@ -412,9 +412,10 @@
   },
   "active": "4fb25d79b081d22b",
   "lastOpenFiles": [
+    "std variant in C++.md",
+    "std visit in C++.md",
     "Generic Types in C++.md",
     "std optional in C++.md",
-    "std variant in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Special Types in C++.md",
     "Template Best Practices in C++.md",
@@ -437,7 +438,6 @@
     "\"Template and Generic Types in C++\".md",
     "User-Defined Types in C++.md",
     "3 - Main Notes/C++/C++ Basic Data Structures.md",
-    "Tags/#mathematics.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
