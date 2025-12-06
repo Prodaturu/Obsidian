@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "std visit in C++.md",
+                "file": "std pair in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "std visit in C++"
+              "title": "std pair in C++"
             }
           }
         ],
@@ -122,8 +122,7 @@
               "title": "std optional in C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dosanddonts",
+                "query": "\"Generic Types in C++\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,12 +190,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -410,12 +409,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fb25d79b081d22b",
+  "active": "de095d0fc18c372f",
   "lastOpenFiles": [
+    "std pair in C++.md",
+    "Generic Types in C++.md",
     "std variant in C++.md",
     "std visit in C++.md",
     "std.md",
-    "Generic Types in C++.md",
     "std optional in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Special Types in C++.md",
@@ -437,7 +437,6 @@
     "Partial Specialisation in C++.md",
     "Tags/Latex.md",
     "\"Template and Generic Types in C++\".md",
-    "User-Defined Types in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
