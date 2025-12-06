@@ -4,113 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "11d7231244f5c23e",
-        "type": "tabs",
-        "dimension": 39.85587583148559,
-        "children": [
-          {
-            "id": "b5431daa1a067c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class Templates in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Class Templates in C++"
-            }
-          },
-          {
-            "id": "4fb25d79b081d22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic Types in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Generic Types in C++"
-            }
-          },
-          {
-            "id": "d0f2b438fe8b235f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lvalue and Rvalue references in c++"
-            }
-          },
-          {
-            "id": "d5b61a50f37def97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "std pair in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "std pair in C++"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "8ce635cd80ac6668",
         "type": "tabs",
-        "dimension": 60.14412416851441,
         "children": [
           {
             "id": "de095d0fc18c372f",
@@ -118,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/std variant in C++.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "std variant in C++"
-            }
-          },
-          {
-            "id": "589d40b06f913f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "std optional in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "std optional in C++"
+              "title": "C++ Libraries"
             }
           }
         ]
@@ -217,18 +88,19 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "libraries",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -472,10 +344,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "de095d0fc18c372f",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/std.md",
+    "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
+    "3 - Main Notes/C++/std.md",
     "3 - Main Notes/C++/std array in C++.md",
     "3 - Main Notes/C++/std pair in C++.md",
     "3 - Main Notes/C++/std variant in C++.md",
@@ -499,7 +372,6 @@
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Function Templates in C++.md",
-    "3 - Main Notes/C++/Default Template Parameters in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",

@@ -10,7 +10,7 @@
 	- #libraries
 	- #stl 
 
-# C++ Libraries
+# Most commonly used C++ Libraries
 
 | Library                       | File Name          |
 | ----------------------------- | ------------------ |
