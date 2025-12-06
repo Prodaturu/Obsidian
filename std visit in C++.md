@@ -91,3 +91,4 @@ int main()
 - The compiler checks that all cases are handled correctly.
 - Checking and using the result
 - std::visit returns whatever your visitor returns.
+
