@@ -97,3 +97,36 @@ int main()
 	visit(Printer{}, v);   // string: hello
 }
 ```
+
+## Accessing the active value
+
+Common helpers:
+
+- `holds_alternative<T>(v)`
+    - check if the active value is of type `T`
+    
+- `get<T>(v)`
+    - get the value as `T` (throws if wrong type)
+    
+- `get_if<T>(&v)`
+    - returns pointer to `T` if active, otherwise `nullptr`
+
+```cpp
+NumberOrText v = 3.14;
+
+if (holds_alternative<double>(v))
+{
+	double x = get<double>(v);
+	cout << "double value: " << x << '\n';
+}
+```
+
+## When std::variant is useful
+
+- When something can be **one of a small set** of types:
+    - result can be `int` or `error code` type
+    - configuration option can be `bool`, `int`, or `string`
+    
+- When you want to **avoid inheritance** and virtual functions and still model alternatives.
+    
+- When you want the compiler to **force you to handle all cases** via `std::visit`.
