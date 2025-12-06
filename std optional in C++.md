@@ -1,3 +1,7 @@
+---
+aliases:
+  - std::optional in C++
+---
 **Created:** 06.12.25, 04:40
 
 **Status:** #atomic
@@ -13,7 +17,9 @@
     - Generic Types in C++        <!-- parent, plain text on purpose -->
     - C++ Data Types              <!-- parent, plain text on purpose -->
     - Templates in C++            <!-- mechanism, plain text -->
+    
     - [[Template Mental Models and Use Cases in C++]]
+      
 - **Topic Tags:**
     - #stdoptional
     - #maybevalue
