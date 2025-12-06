@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8ce635cd80ac6668",
@@ -424,10 +424,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fb25d79b081d22b",
+  "active": "d5b61a50f37def97",
   "lastOpenFiles": [
-    "std tuple in C++.md",
     "Generic Types in C++.md",
+    "std tuple in C++.md",
     "std pair in C++.md",
     "Tags/Classes and Objects in C++.md",
     "std variant in C++.md",
