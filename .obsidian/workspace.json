@@ -12,24 +12,12 @@
             "id": "1002d79236518121",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Template and Generic Types in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "3 - Main Notes/C++"
               },
               "icon": "lucide-file",
-              "title": "Template and Generic Types in C++"
+              "title": "C++"
             }
           }
         ]
@@ -395,12 +383,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 714.5,
-    "collapsed": true
+    "width": 714.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -421,9 +409,9 @@
   },
   "active": "1002d79236518121",
   "lastOpenFiles": [
+    "Generic Types in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Template Best Practices in C++.md",
-    "Template and Generic Types in C++.md",
     "Advanced Template Features in C++.md",
     "Special Types in C++.md",
     "Template Mental Models and Use Cases in C++.md",

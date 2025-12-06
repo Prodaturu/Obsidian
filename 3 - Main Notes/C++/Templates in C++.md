@@ -18,7 +18,7 @@
   - [[Types of Templates in C++]]
   - [[Template Best Practices in C++]]
   - [[Template Mental Models and Use Cases in C++]]
-  - [[Template and Generic Types in C++]]
+  - [[Generic Types in C++]]
   - [[C++ STL]]
 
 - **Topic Tags:**
@@ -43,7 +43,7 @@ Templates are like **blueprints** that generate specific code for each data type
 - [[Types of Templates in C++]] – function/class templates, advanced features, array example  
 - [[Template Best Practices in C++]] – do’s, don’ts, header organisation  
 - [[Template Mental Models and Use Cases in C++]] – how to think about templates and when to use them  
-- [[Template and Generic Types in C++]] – generic types like `std::optional`, `std::variant`, `std::array`, etc.  
+- [[Generic Types in C++]] – generic types like `std::optional`, `std::variant`, `std::array`, etc.  
 - [[C++ STL]] – heavy user of templates: containers, algorithms, utilities
 
 # References

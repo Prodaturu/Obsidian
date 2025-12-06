@@ -15,7 +15,7 @@
 - **Relevance Links:**
     
     - Templates in C++ <!-- parent, plain text on purpose -->
-    - [[Template and Generic Types in C++]]
+    - [[Generic Types in C++]]
     - [[C++ STL]]
     - [[Template Best Practices in C++]]
     

@@ -18,7 +18,7 @@
   - [[C++ Time & Date Datatypes, Timestamps]]
   - [[C++ STL]]
   - [[Templates in C++]]
-  - [[Template and Generic Types in C++]]
+  - [[Generic Types in C++]]
 
 - **Topic Tags:**
   - #types
@@ -40,7 +40,7 @@ High-level map of data type families in C++:
 - Fixed-width & size-related → [[Fixed-Width Integer Types in C++]]
 - Pointers & references → [[Pointer and Reference Types in C++]]
 - User-defined types → [[User-Defined Types in C++]]
-- Template-based / generic → [[Template and Generic Types in C++]]
+- Template-based / generic → [[Generic Types in C++]]
 - Special / meta types → [[Special Types in C++]]
 - Time & date-specific types → [[C++ Time & Date Datatypes, Timestamps]]
 
@@ -55,7 +55,7 @@ High-level map of data type families in C++:
 | **[[C++ Time & Date Datatypes, Timestamps]]**                                 | `std::time_t`, `std::tm`, `std::clock_t`, `std::chrono::duration`, `std::chrono::time_point`, `std::chrono::system_clock`, `std::chrono::steady_clock`, `std::chrono::milliseconds`, `std::chrono::seconds` |
 | **[[Pointer and Reference Types in C++\|Pointer/Reference Datatypes]]**       | `int*`, `std::nullptr_t`, `int&`, `int&&`               |
 | **[[User-Defined Types in C++\|User-Defined Datatypes]]**                     | `struct`, `class`, `enum`, `enum class`, `union`        |
-| **[[Template and Generic Types in C++\|Template/Generic Datatypes]]**        | `std::optional<T>`, `std::variant<T...>`, `std::pair<T, U>`, `std::tuple<T...>`, `std::array<T, N>` |
+| **[[Generic Types in C++\|Template/Generic Datatypes]]**        | `std::optional<T>`, `std::variant<T...>`, `std::pair<T, U>`, `std::tuple<T...>`, `std::array<T, N>` |
 | **[[Special Types in C++\|Special Types]]**                                   | `void`, `auto`, `decltype`, `std::nullptr_t`, `std::byte` |
 
 # References

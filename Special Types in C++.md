@@ -9,7 +9,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - [[Template and Generic Types in C++]]
+  - [[Generic Types in C++]]
   - [[Pointer and Reference Types in C++]]
 
 - **Topic Tags:**
