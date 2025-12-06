@@ -126,7 +126,7 @@ int main()
 - When you want:
     - one central place that handles all types
     - the compiler to complain if you forget a case
-      
+    
 - It gives you a **pattern-matching style** over variant types, without using inheritance or virtual functions.
 
 # References
