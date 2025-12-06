@@ -3,6 +3,7 @@ aliases:
   - std::variant in C++
   - std::variant
   - std-variant
+  - std variant
 ---
 **Created:** 06.12.25, 05:57
 **Status:** #atomic
@@ -12,8 +13,6 @@ aliases:
 - #cpp
 - #genericprogramming
 - #datatypes
-- #atomic
-
 
 **Links / Tags:**
 
@@ -73,12 +72,12 @@ struct Printer
 	{
 		cout << "int: " << value << '\n';
 	}
-
+	
 	void operator()(double value) const
 	{
 		cout << "double: " << value << '\n';
 	}
-
+	
 	void operator()(const string& value) const
 	{
 		cout << "string: " << value << '\n';
@@ -89,10 +88,10 @@ int main()
 {
 	NumberOrText v = 10;
 	visit(Printer{}, v);   // int: 10
-
+	
 	v = 3.14;
 	visit(Printer{}, v);   // double: 3.14
-
+	
 	v = string("hello");
 	visit(Printer{}, v);   // string: hello
 }

@@ -1,3 +1,8 @@
+---
+aliases:
+  - AI
+  - Machine Intelligence
+---
 **Created:** 06.12.25, 11:57
 
 **Status:** #atomic

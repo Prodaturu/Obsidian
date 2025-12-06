@@ -33,36 +33,12 @@
             }
           },
           {
-            "id": "234cfb91dbbb858f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/Classes and Objects in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Classes and Objects in C++"
-            }
-          },
-          {
             "id": "4fb25d79b081d22b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "std pair in C++.md",
+                "file": "Generic Types in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,11 +53,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "std pair in C++"
+              "title": "Generic Types in C++"
+            }
+          },
+          {
+            "id": "d5b61a50f37def97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "std tuple in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "std tuple in C++"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8ce635cd80ac6668",
@@ -426,9 +426,10 @@
   },
   "active": "4fb25d79b081d22b",
   "lastOpenFiles": [
-    "Tags/Classes and Objects in C++.md",
-    "std pair in C++.md",
+    "std tuple in C++.md",
     "Generic Types in C++.md",
+    "std pair in C++.md",
+    "Tags/Classes and Objects in C++.md",
     "std variant in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "std visit in C++.md",
@@ -451,7 +452,6 @@
     "Default Template Parameters in C++.md",
     "Class template specialisation in C++.md",
     "Partial Specialisation in C++.md",
-    "Tags/Latex.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
