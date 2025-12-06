@@ -212,8 +212,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -393,8 +392,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fb25d79b081d22b",
+  "active": "1002d79236518121",
   "lastOpenFiles": [
+    "Advanced Template Features in C++.md",
+    "Template Best Practices in C++.md",
+    "Special Types in C++.md",
+    "Template Mental Models and Use Cases in C++.md",
     "Template and Generic Types in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Types of Templates in C++.md",
@@ -403,10 +406,7 @@
     "Tags/user-defined.md",
     "Class Templates in C++.md",
     "Template Array Example in C++.md",
-    "Template Mental Models and Use Cases in C++.md",
-    "Template Best Practices in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
-    "Advanced Template Features in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "Function Templates in C++.md",
@@ -414,7 +414,6 @@
     "Class template specialisation in C++.md",
     "Partial Specialisation in C++.md",
     "Tags/Latex.md",
-    "Special Types in C++.md",
     "\"Template and Generic Types in C++\".md",
     "User-Defined Types in C++.md",
     "3 - Main Notes/C++/C++ Basic Data Structures.md",
