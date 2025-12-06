@@ -22,7 +22,6 @@ aliases:
     - C++ Data Types <!-- parent, plain text on purpose -->
     - Templates in C++ <!-- template mechanism, plain text -->
         
-    - [[std optional in C++]]
     - [[Template Mental Models and Use Cases in C++]]
         
 - **Topic Tags:**
