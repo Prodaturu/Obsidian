@@ -23,19 +23,27 @@
 
 ## Definition
 
-- **Class**: A user-defined data type that acts as a blueprint for creating objects
-    
+- **Class**: A<span class="color-green"> user-defined </span>data type that acts as a blueprint for creating objects
 - It bundles data (attributes) and functions (methods) that operate on that data
-    
 - Created using the `class` keyword
 
 ## Access Specifiers
 
-- **private**: Accessible only within the class (default)
+### Definition - Access Specifiers
+
+- **Access specifiers** control who can use or see parts of a class in object-oriented programming.
+
+### Types of Access Specifiers (in C++)
+
+- **private**:
+	- Accessible only <span class="color-green">within the class</span>
+	- default access specifier
     
-- **public**: Accessible from anywhere
+- **public**:
+	- Accessible <span class="color-green">from anywhere</span>
     
-- **protected**: Accessible within the class and its derived classes
+- **protected**:
+	- Accessible <span class="color-green">within the class</span> and its <span class="color-green">derived classes</span>
 
 ## Basic Syntax
 
@@ -140,7 +148,7 @@ double Student::getGPA() {
     
 - No memory is allocated when we define a class
     
-- The class defines **what** properties and behaviors its future objects will have
+- The class defines **what** properties and behaviours its future objects will have
     
 - We can think of a class like a "cookie cutter" - it defines the shape but isn't a cookie itself
 

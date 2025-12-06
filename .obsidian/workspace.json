@@ -86,9 +86,19 @@
               "icon": "lucide-file",
               "title": "Classes and Objects in C++"
             }
+          },
+          {
+            "id": "4fb25d79b081d22b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -337,11 +347,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1002d79236518121",
+  "active": "4fb25d79b081d22b",
   "lastOpenFiles": [
     "Tags/Classes and Objects in C++.md",
-    "Class Templates in C++.md",
+    "Tags/[[Tagsuser-defined.mduser-defined]].md",
+    "Tags/user-defined.md",
     "3 - Main Notes/C++/Templates in C++.md",
+    "Class Templates in C++.md",
     "Template Array Example in C++.md",
     "Template Mental Models and Use Cases in C++.md",
     "Template Best Practices in C++.md",
@@ -363,8 +375,6 @@
     "1 - Rough Notes/I let you pass.md",
     "Pointer and Reference Types in C++.md",
     "Indexes/C++.md",
-    "Lvalue and Rvalue references in c++.md",
-    "Lvalue.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
