@@ -28,6 +28,7 @@ aliases:
     - #sumtypes
     - #eitheror
 
+---
 # std::variant in C++
 
 > Part of generic types in C++.
