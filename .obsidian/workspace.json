@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Templates in C++.md",
+                "file": "Template and Generic Types in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Templates in C++"
+              "title": "Template and Generic Types in C++"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "11d7231244f5c23e",
         "type": "tabs",
-        "dimension": 73.86206896551724,
+        "dimension": 36.93103448275862,
         "children": [
           {
             "id": "b5431daa1a067c2a",
@@ -95,10 +95,56 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
+            },
+            "group": "a7646f2c255ba1ad"
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "8ce635cd80ac6668",
+        "type": "tabs",
+        "dimension": 36.93103448275862,
+        "children": [
+          {
+            "id": "685fb4dd95ebb634",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Templates in C++"
+            },
+            "group": "a7646f2c255ba1ad"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -349,9 +395,9 @@
   },
   "active": "4fb25d79b081d22b",
   "lastOpenFiles": [
-    "Types of Templates in C++.md",
-    "3 - Main Notes/C++/Templates in C++.md",
     "Template and Generic Types in C++.md",
+    "3 - Main Notes/C++/Templates in C++.md",
+    "Types of Templates in C++.md",
     "Tags/Classes and Objects in C++.md",
     "Tags/[[Tagsuser-defined.mduser-defined]].md",
     "Tags/user-defined.md",
