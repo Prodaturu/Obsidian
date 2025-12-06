@@ -23,7 +23,7 @@
 
 > Part of generic types in C++.
 
-`std::optional<T>` represents **“a value of type T or nothing”**.
+- `std::optional<T>` represents **“a value of type T or nothing”**.
 
 ## Basic idea
 
@@ -56,3 +56,19 @@ int main()
         cout << "No index found" << endl;
     }
 }
+```
+
+### Key points
+
+- `optional<T>` can be:
+    
+    - “engaged” (contains a T)
+    - “disengaged” (empty)
+    
+- Access:
+    
+    - `has_value()`
+    - `operator*` to get the value
+    - `value_or(defaultValue)` to fall back
+
+# References
