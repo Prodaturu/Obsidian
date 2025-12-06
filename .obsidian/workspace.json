@@ -228,13 +228,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -474,12 +472,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0f2b438fe8b235f",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
-    "std variant in C++.md",
-    "std array in C++.md",
-    "Generic Types in C++.md",
     "std pair in C++.md",
+    "std array in C++.md",
+    "std variant in C++.md",
+    "Generic Types in C++.md",
     "std tuple in C++.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
@@ -489,19 +487,19 @@
     "3 - Main Notes/C++/Templates in C++.md",
     "Special Types in C++.md",
     "Template Best Practices in C++.md",
-    "Advanced Template Features in C++.md",
+    "3 - Main Notes/C++/Advanced Template Features in C++.md",
     "Template Mental Models and Use Cases in C++.md",
     "Types of Templates in C++.md",
     "Tags/[[Tagsuser-defined.mduser-defined]].md",
     "Tags/user-defined.md",
-    "Class Templates in C++.md",
+    "3 - Main Notes/C++/Class Templates in C++.md",
     "Template Array Example in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
-    "Function Templates in C++.md",
-    "Default Template Parameters in C++.md",
-    "Class template specialisation in C++.md",
+    "3 - Main Notes/C++/Function Templates in C++.md",
+    "3 - Main Notes/C++/Default Template Parameters in C++.md",
+    "3 - Main Notes/C++/Class template specialisation in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
