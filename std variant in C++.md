@@ -52,6 +52,7 @@ using NumberOrText = variant<int, double, string>
 ```
 
 - At any time, the variant holds exactly one of these:
+	
 	- `int`
 	- `double`
 	- `string`

@@ -73,5 +73,40 @@ int main()
         cout << "Value: " << result.second << endl;
     }
 }
-
 ```
+
+### Helpers: make_pair and auto
+
+```cpp
+auto p = make_pair(string("pi"), 3.14);
+// p is pair<string, double>
+
+cout << p.first  << endl;   // "pi"
+cout << p.second << endl;   // 3.14
+```
+
+- Using `auto` and `make_pair` avoids repeating long template parameters.
+
+## When to use std::pair
+
+- When you need to pass or return **two small related values**:
+	- name + age
+    - success flag + result
+    - key + value
+    
+- When a **full struct or class** would be overkill.
+	
+- If you have more than two values or the meaning is unclear, consider:
+	
+	- a proper `struct` with named fields, or
+	- [[std tuple in C++]] for more elements.
+
+## Mental model
+
+- Think of `std::pair<T, U>` as a tiny **2-slot container**:
+    
+    - slot 1 → `first` of type `T`
+        
+    - slot 2 → `second` of type `U`
+
+# References
