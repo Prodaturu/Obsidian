@@ -111,7 +111,6 @@ cout << p.second << endl;   // 3.14
 - Think of `std::pair<T, U>` as a tiny **2-slot container**:
     
     - slot 1 → `first` of type `T`
-        
     - slot 2 → `second` of type `U`
 
 # References
