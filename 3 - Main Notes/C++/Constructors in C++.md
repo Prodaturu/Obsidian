@@ -50,32 +50,28 @@ int main()
 # Types of Constructors
 
 - [[Default Constructor]]
-    
 - [[Parameterised Constructor]]
-    
 - [[Copy Constructor]]
-    
 - [[Delegating Constructor]]
-    
 - [[Move Constructor]]
-    
 - [[Converting Constructor]]
 
 
-## Linked Notes
+## Linked Notes:
 
-### **Other Related Concepts**
+### Advanced Topics
+
+- [[Constructor Overloading in C++]] - multiple constructors in same class
+- [[Constructor Initialisation List]] - 
+- [[Constructors for const Members]]
+
+### Other Related Concepts
 
 - [[Constructor Initialisation List]]
-    
 - [[Constructors for const Members]]
-    
 - [[Constructor Definition Outside Class]]
-    
-- [[Rule of Three / Orthodox Canonical Form]]
-    
+- [[Orthodox Canonical Form in C++]]
 - [[Destructor]]
-    
 - [[Copy Assignment Operator]]
 
 
