@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "memory management",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -124,12 +124,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -369,7 +369,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "252b9aa6afe4d20b",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "Tags/C++ Language Features.md",
     "Memory management in C++.md",

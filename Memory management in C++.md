@@ -34,7 +34,7 @@ How C++ creates, stores, and destroys objects in memory.
 ---
 ## 1. Memory regions: Stack, Heap, Static
 
-### 1.1 Stack
+### 1.1 Stack (in C++)
 
 - Automatic Storage
 - It is used for
@@ -44,27 +44,17 @@ How C++ creates, stores, and destroys objects in memory.
 #### Properties of Stack
 
 - Allocated and freed automatically when a function is called / returns
+- Very fast, contiguous.
+- Limited in size.
+ ```cpp
+void f()
+{
+	int x = 10;      // automatic (stack)
+	std::string s;   // s is on stack, but it may use heap internally
+}
+```
 
-
-
-### 1.1 Stack (Automatic storage)
-
-- Used for:
-  - Function parameters.
-  - Local variables with *automatic* storage duration.
-- Properties:
-  - Allocated and freed automatically when a function is called / returns.
-  - Very fast, contiguous.
-  - Limited in size.
-- C++ view:
-  - Variables like:
-    ```cpp
-    void f() {
-        int x = 10;      // automatic (stack)
-        std::string s;   // s is on stack, but it may use heap internally
-    }
-    ```
-  - Lifetime: from the point of declaration until the end of the block.
+- Lifetime: from the point of declaration until the end of the block.
 
 ### 1.2 Heap / Free store (Dynamic storage)
 
@@ -121,23 +111,17 @@ See: [[Dynamic Memory Allocation in C++ (new / delete)]] for details.
 ### 3.1 'new' and 'delete'
 
 - **Single object**:
-    
     `int* p = new int(42); delete p;`
     
 - **Arrays**:
-    
     `int* arr = new int[10]; delete[] arr;`
     
 - Problems if misused:
     
     - Memory leaks (forgetting `delete`).
-        
     - Double `delete`.
-        
     - `delete` vs `delete[]` mismatch.
-        
     - Dangling pointers (use after free).
-        
 
 ### 3.2 'malloc' / 'free' (C-style)
 
@@ -148,7 +132,8 @@ See: [[Dynamic Memory Allocation in C++ (new / delete)]] for details.
 In modern C++, prefer:
 
 - `new` / `delete` only when you really need it.
-- Even better: **avoid raw `new` / `delete`** in application code; use RAII and smart pointers.
+- Even better: **avoid raw `new` / `delete`** in application code;
+	- use RAII and smart pointers.
 
 ---
 ## 4. RAII and Smart Pointers
@@ -164,16 +149,18 @@ See: [[RAII and Smart Pointers in C++]].
 
 #### Example:
 ```cpp
-struct File {
+struct File
+{
     FILE* f;
     File(const char* path) : f(std::fopen(path, "r")) {}
     ~File() { if (f) std::fclose(f); }
 };
 
-void g() {
+void g()
+{
     File file("data.txt"); // opened here
     // use file
-} // file automatically closed here
+}   // file automatically closed here
 
 ```
 
