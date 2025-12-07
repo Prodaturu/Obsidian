@@ -66,7 +66,7 @@ int main()
 
 ### **Other Related Concepts**
 
-- [[Constructor Initialization List]]
+- [[Constructor Initialisation List]]
     
 - [[Constructors for const Members]]
     
