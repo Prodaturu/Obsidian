@@ -26,7 +26,7 @@ This makes C++ fast and flexible, but error-prone if misused.
 
 ## Memory Areas in C++
 
-### 1. Stack
+### 1. [[Stack]]
 
 - Stores local variables and function calls
 - Automatic allocation and deallocation
