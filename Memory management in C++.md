@@ -118,7 +118,7 @@ Key idea:
 
 See: [[Dynamic Memory Allocation in C++ (new / delete)]] for details.
 
-### 3.1 `new` and `delete`
+### 3.1 'new' and 'delete'
 
 - **Single object**:
     
@@ -139,7 +139,7 @@ See: [[Dynamic Memory Allocation in C++ (new / delete)]] for details.
     - Dangling pointers (use after free).
         
 
-### 3.2 `malloc` / `free` (C-style)
+### 3.2 'malloc' / 'free' (C-style)
 
 - From `<cstdlib>`.
 - Do **not** call constructors / destructors.
@@ -151,7 +151,6 @@ In modern C++, prefer:
 - Even better: **avoid raw `new` / `delete`** in application code; use RAII and smart pointers.
 
 ---
-
 ## 4. RAII and Smart Pointers
 
 See: [[RAII and Smart Pointers in C++]].
@@ -213,6 +212,99 @@ auto sp = std::make_shared<Foo>(args...);
 
 ## 5. Ownership and value semantics
 
-C++ encourages **value semantics**:
+C++ encourages **value semantics** over raw pointers:
 
 - Prefer:
+```cpp
+std::string s = "hello";          // value
+std::vector<int> v = {1, 2, 3};  // value
+```
+
+Ownership rules:
+
+- If you use raw pointers:
+    
+    - Clearly decide who _owns_ the object.
+    - Document whether the pointer is owning or non-owning.
+    
+- References (`T&`, `const T&`):
+    
+    - Never own.
+    - Just aliases.
+
+Patterns:
+
+- **Rule of 3/5/0**:
+    
+    - If you manage a resource manually, you may need custom destructor, copy/move constructors, and assignment operators.
+    - If you use RAII types (like `std::string`, `std::vector`, smart pointers), you often need none (Rule of 0).
+
+---
+## 6. Common memory errors in C++
+
+- **Memory leak**:
+	- You allocate memory and never free it.
+
+- **Dangling pointer / reference**:
+```cpp
+int* p;
+{     
+	int x = 10;
+	p = &x;  // p points to x
+}            // x is destroyed, but p is now dangling
+```
+
+- **Use-after-free**:
+```cpp
+int* p = new int(5);
+delete p;
+
+*p = 10;  // undefined behavior
+```
+
+- **Double delete**:
+```cpp
+int* p = new int(5);
+delete p;
+delete p; // undefined behavior
+```
+
+- **Incorrect array delete**:
+
+```cpp
+int* a = new int[10];
+delete a;    // wrong delete[] a;  // correct
+```
+ 
+---
+## 7. Best practices (cheat sheet)
+
+- Prefer **stack** objects and **value types** whenever possible.
+- When you need dynamic allocation:
+    
+    - Prefer **`std::unique_ptr` / `std::shared_ptr`** over raw `new` / `delete`.
+    - Use `std::make_unique` / `std::make_shared`.
+    
+- Avoid manual `new` / `delete` in high-level code.
+- Use RAII for any resource that needs cleanup.
+- Keep ownership clear:
+    
+    - Who creates?
+    - Who destroys?
+    
+- Turn on warnings and use tools (sanitizers, valgrind, etc.) to catch bugs.
+
+---
+
+## 8. Links to deeper notes
+
+- [[Stack vs Heap (C++)]] – detail how C++ uses stack/heap in practice.
+    
+- [[Dynamic Memory Allocation in C++ (new / delete)]] – syntax, patterns, and pitfalls.
+    
+- [[RAII and Smart Pointers in C++]] – patterns for safe memory management.
+    
+- [[C++ Error Handling]] – interactions between exceptions and resource management (RAII).
+
+
+``If you want, next step I can write the child notes:  - `Stack vs Heap (C++)` - `Dynamic Memory Allocation in C++ (new / delete)` - `RAII and Smart Pointers in C++`  in the same style.``
