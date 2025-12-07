@@ -369,10 +369,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "252b9aa6afe4d20b",
   "lastOpenFiles": [
-    "Tags/C++ Language Features.md",
+    "Dynamic Memory Allocation in C++ (new / delete).md",
     "Memory management in C++.md",
+    "Dynamic Memory Allocation in C++ (new ",
+    "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
@@ -396,7 +398,6 @@
     "3 - Main Notes/C++/Advanced Template Features in C++.md",
     "3 - Main Notes/C++/Template Mental Models and Use Cases in C++.md",
     "3 - Main Notes/C++/Types of Templates in C++.md",
-    "Tags/[[Tagsuser-defined.mduser-defined]].md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
@@ -409,7 +410,6 @@
     "4 - Full Notes/Pasted image 20251116165539.png",
     "Tags",
     "4 - Full Notes",
-    "2 - Source Material/Books",
-    "3 - Main Notes"
+    "2 - Source Material/Books"
   ]
 }

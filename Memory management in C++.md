@@ -287,11 +287,8 @@ delete a;    // wrong delete[] a;  // correct
 
 - [[Stack vs Heap (C++)]] – detail how C++ uses stack/heap in practice.
     
-- [[Dynamic Memory Allocation in C++ (new / delete)]] – syntax, patterns, and pitfalls.
+- [[Dynamic Memory Allocation in C++]] – syntax, patterns, and pitfalls.
     
 - [[RAII and Smart Pointers in C++]] – patterns for safe memory management.
     
 - [[C++ Error Handling]] – interactions between exceptions and resource management (RAII).
-
-
-``If you want, next step I can write the child notes:  - `Stack vs Heap (C++)` - `Dynamic Memory Allocation in C++ (new / delete)` - `RAII and Smart Pointers in C++`  in the same style.``
