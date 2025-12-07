@@ -19,6 +19,8 @@
   - [[C++ Error Handling]]
   - [[C++ Data Types]]
 
+cat /etc/passwd
+
 # Memory Management in C++
 
 How C++ creates, stores, and destroys objects in memory.
