@@ -89,9 +89,7 @@ This makes C++ fast and flexible, but error-prone if misused.
 ⚠ Important:
 
 - `new` → `delete`
-    
 - `new[]` → `delete[]`
-    
 
 ---
 
