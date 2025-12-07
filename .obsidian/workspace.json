@@ -124,8 +124,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -371,9 +370,11 @@
   },
   "active": "252b9aa6afe4d20b",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Constructor Overloading in C++.md",
+    "3 - Main Notes/C++/Parameterised Constructor.md",
+    "3 - Main Notes/C++/regex library in C++.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/Constructors in C++.md",
-    "Parameterised Constructor.md",
+    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete/)'.md",
@@ -386,10 +387,8 @@
     "Dynamic Memory Allocation in C++ (new ",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
-    "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "regex library in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/C++/std.md",
