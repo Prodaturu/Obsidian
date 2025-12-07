@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "C++ Libraries"
             }
+          },
+          {
+            "id": "252b9aa6afe4d20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory management in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memory management in C++"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "libraries",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -99,8 +124,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -344,10 +368,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de095d0fc18c372f",
+  "active": "252b9aa6afe4d20b",
   "lastOpenFiles": [
-    "regex library in C++.md",
+    "Tags/C++ Language Features.md",
+    "Memory management in C++.md",
+    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/Types of Errors in C++.md",
+    "3 - Main Notes/C++/Virtual Functions in C++.md",
+    "regex library in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/C++/std.md",
@@ -367,11 +396,6 @@
     "3 - Main Notes/C++/Template Mental Models and Use Cases in C++.md",
     "3 - Main Notes/C++/Types of Templates in C++.md",
     "Tags/[[Tagsuser-defined.mduser-defined]].md",
-    "Tags/user-defined.md",
-    "3 - Main Notes/C++/Class Templates in C++.md",
-    "3 - Main Notes/C++/Template Array Example in C++.md",
-    "3 - Main Notes/C++/Functions in C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
