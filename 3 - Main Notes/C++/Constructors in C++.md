@@ -68,10 +68,10 @@ int main()
 ### Other Related Concepts
 
 - [[Constructor Initialisation List]] - Initialising members efficiently
-- [[Constructors for const Members]] - 
-- [[Constructor Definition Outside Class]]
-- [[Orthodox Canonical Form in C++]]
-- Destructors in C++
+- [[Constructors for const Members]] - Handling const members in constructors
+- [[Constructor Definition Outside Class]] - Defining constructors outside the class
+- [[Orthodox Canonical Form in C++]] - Different special member functions and their roles
+- Destructors in C++ 
 - [[Copy Assignment Operator]]
 
 
