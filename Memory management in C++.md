@@ -68,6 +68,6 @@ This makes C++ fast and flexible, but error-prone if misused.
 ## Dynamic Memory Allocation
 
 - Used when:
-\
+	
 	- Size is not known at compile time
 	- Lifetime exceeds function scope
