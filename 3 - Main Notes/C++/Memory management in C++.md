@@ -1,6 +1,6 @@
 **Created:** 07.12.25, 01:18
 
-**Status:** #map  
+**Status:** #map 
 
 **Hashtags:**
 - #cpp
