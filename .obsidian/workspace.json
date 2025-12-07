@@ -124,8 +124,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -369,7 +368,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "252b9aa6afe4d20b",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
     "Dynamic Memory Allocation in C++ (new / delete).md",
     "Memory management in C++.md",

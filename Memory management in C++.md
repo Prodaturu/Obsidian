@@ -282,13 +282,9 @@ delete a;    // wrong delete[] a;  // correct
 - Turn on warnings and use tools (sanitizers, valgrind, etc.) to catch bugs.
 
 ---
-
 ## 8. Links to deeper notes
 
-- [[Stack vs Heap (C++)]] – detail how C++ uses stack/heap in practice.
-    
-- [[Dynamic Memory Allocation in C++]] – syntax, patterns, and pitfalls.
-    
-- [[RAII and Smart Pointers in C++]] – patterns for safe memory management.
-    
+- [[Stack vs Heap (C++)]] – detail how C++ uses stack/heap in practice   
+- [[Dynamic Memory Allocation in C++]] – syntax, patterns, and pitfalls
+- [[RAII and Smart Pointers in C++]] – patterns for safe memory management.    
 - [[C++ Error Handling]] – interactions between exceptions and resource management (RAII).
