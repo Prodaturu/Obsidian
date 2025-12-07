@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "3 - Main Notes/C++/Constructors in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memory management in C++"
+              "title": "Constructors in C++"
             }
           }
         ],
@@ -113,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memory management",
+                "query": "constru",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -124,7 +124,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -368,10 +369,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "252b9aa6afe4d20b",
   "lastOpenFiles": [
-    "Dynamic Memory Allocation in C++ '/(new / delete/)'.md",
+    "Parameterised Constructor.md",
+    "3 - Main Notes/C++/Constructors in C++.md",
+    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
+    "Dynamic Memory Allocation in C++ '/(new / delete/)'.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
@@ -393,14 +397,11 @@
     "3 - Main Notes/C++/std variant in C++.md",
     "3 - Main Notes/C++/Generic Types in C++.md",
     "3 - Main Notes/C++/std tuple in C++.md",
-    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "3 - Main Notes/C++/std visit in C++.md",
     "3 - Main Notes/C++/std optional in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/Special Types in C++.md",
-    "3 - Main Notes/C++/Template Best Practices in C++.md",
-    "3 - Main Notes/C++/Advanced Template Features in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",

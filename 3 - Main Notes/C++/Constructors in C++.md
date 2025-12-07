@@ -1,5 +1,88 @@
 **Created:** *27.11.25, 03:50*
 
+**Tags:** #CPP #OOP #Constructors
+
+# Constructors in C++
+
+## Definition
+
+- A constructor is a special function that runs automatically when an object is created
+- It has the same name as the class and no return type.
+
+`class MyClass { public:     MyClass(); // constructor };`
+
+#### Example: Defining and creating a class using constructor
+
+```cpp
+class MyClass
+{
+public:
+	MyClass()
+	{
+		cout << "Hello World!";
+	}
+}
+
+int main()
+{
+	MyClass myObj; // will call the constructor
+	
+	return 0;
+}
+
+```
+
+## Key Rules
+
+- same name as the class
+- no `return` type
+- usually public
+- automatically called when the object is created
+
+## Why Constructors Matter
+
+- ensure objects start in a valid state
+- enforce in-variants
+- implement RAII (acquire resources in constructor, release in destructor)
+- allow multiple ways to build an object (overloading)
+
+---
+# Types of Constructors
+
+- [[Default Constructor]]
+    
+- [[Parameterised Constructor]]
+    
+- [[Copy Constructor]]
+    
+- [[Delegating Constructor]]
+    
+- [[Move Constructor]]
+    
+- [[Converting Constructor]]
+
+
+## Linked Notes
+
+### **Other Related Concepts**
+
+- [[Constructor Initialization List]]
+    
+- [[Constructors for const Members]]
+    
+- [[Constructor Definition Outside Class]]
+    
+- [[Rule of Three / Orthodox Canonical Form]]
+    
+- [[Destructor]]
+    
+- [[Copy Assignment Operator]]
+
+
+------------
+---------
+-------
+
 **Status:** 
 
 **Hashtags:**
