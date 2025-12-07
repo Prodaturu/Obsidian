@@ -47,7 +47,6 @@
 Each “library” below usually comes from **one or more headers**.
 
 ---
-
 ## Table of common components
 
 | Component / Topic          | Header(s)               | Note file                     | Standard |
