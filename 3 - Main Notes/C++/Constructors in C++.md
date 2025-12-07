@@ -1,6 +1,6 @@
 **Created:** *27.11.25, 03:50*
 
-**Tags:** #CPP #OOP #Constructors
+**Tags:** #CPP #OOP #Constructors #map
 
 # Constructors in C++
 
@@ -62,16 +62,16 @@ int main()
 ### Advanced Topics
 
 - [[Constructor Overloading in C++]] - multiple constructors in same class
-- [[Constructor Initialisation List]] - 
-- [[Constructors for const Members]]
+- [[Constructor Initialisation List]] - How to initialise members efficiently
+- [[Constructors for const Members]] - Handling const members in constructors
 
 ### Other Related Concepts
 
-- [[Constructor Initialisation List]]
-- [[Constructors for const Members]]
+- [[Constructor Initialisation List]] - Initialising members efficiently
+- [[Constructors for const Members]] - 
 - [[Constructor Definition Outside Class]]
 - [[Orthodox Canonical Form in C++]]
-- [[Destructor]]
+- Destructors in C++
 - [[Copy Assignment Operator]]
 
 
