@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory management in C++.md",
+                "file": "3 - Main Notes/C++/Memory management in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -370,8 +370,14 @@
   },
   "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "Dynamic Memory Allocation in C++ '/(new / delete/)'.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
+    "Dynamic Memory Allocation in C++ '/(new / delete",
+    "Dynamic Memory Allocation in C++ '/(new ",
+    "Dynamic Memory Allocation in C++ '",
+    "Dynamic Memory Allocation in C++ '(new / delete)'.md",
+    "Dynamic Memory Allocation in C++ '(new ",
     "Dynamic Memory Allocation in C++ (new / delete).md",
-    "Memory management in C++.md",
     "Dynamic Memory Allocation in C++ (new ",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
@@ -395,8 +401,6 @@
     "3 - Main Notes/C++/Special Types in C++.md",
     "3 - Main Notes/C++/Template Best Practices in C++.md",
     "3 - Main Notes/C++/Advanced Template Features in C++.md",
-    "3 - Main Notes/C++/Template Mental Models and Use Cases in C++.md",
-    "3 - Main Notes/C++/Types of Templates in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
@@ -405,10 +409,6 @@
     "Excalidraw",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "3 - Main Notes/InformationTheoryTum",
-    "6 - Full Notes",
-    "4 - Full Notes/Pasted image 20251116165539.png",
-    "Tags",
-    "4 - Full Notes",
-    "2 - Source Material/Books"
+    "4 - Full Notes/Pasted image 20251116165539.png"
   ]
 }

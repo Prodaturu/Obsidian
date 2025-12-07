@@ -106,7 +106,7 @@ Key idea:
 
 ## 3. Dynamic memory in C++ (Heap)
 
-See: [[Dynamic Memory Allocation in C++ (new / delete)]] for details.
+See: [[Dynamic Memory Allocation in C++ ]] for details.
 
 ### 3.1 'new' and 'delete'
 
