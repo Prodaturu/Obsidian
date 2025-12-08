@@ -89,14 +89,5 @@ int main()
 - [[Advanced Constructor Concepts in C++]]  
     Initialiser lists, const members, explicit, default/delete, etc.
 
----
 
-## Linked Notes:
-
-### Advanced Topics
-
-
-### Other Related Concepts
-
-
-# References
+# External References
