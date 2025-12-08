@@ -11,11 +11,11 @@
 	- #classdesign
 
 **Links / Tags:** 
-- **Relevance Links:**
+- **Relevance Links:** 
 	- Classes and Objects in C++
-	- 
+		
 	- [[Types of Constructors in C++]]  
-
+	
 - **Topic Links:**
 	- [[Advanced Constructor Concepts in C++]] 
 	- Destructors in C++ 
