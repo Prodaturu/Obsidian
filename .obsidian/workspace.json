@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compile-Time Errors.md",
+                "file": "3 - Main Notes/C++/Types of Errors in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compile-Time Errors"
+              "title": "Types of Errors in C++"
             }
           },
           {
@@ -510,8 +510,8 @@
   },
   "active": "110e554a396e1d25",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Types of Errors in C++.md",
     "Compile-Time Errors.md",
+    "3 - Main Notes/C++/Types of Errors in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
