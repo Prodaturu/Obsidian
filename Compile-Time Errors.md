@@ -43,6 +43,26 @@
 
 #### 3. Name Resolution Error
 
+- Calling a undeclared variable
+- Incorrect variable name
+
+#### 4. Wrong Function Call
+
+- Too many / Too few arguments in function call
+- Wrong types
+- Compiler can't find a version that matches what we wrote
+
+#### 5. Template Issues
+
+- Templates allow any type
+	- but not all types support all operations
+	- Doing `x++` on a `string`
+
+#### 6. 'access' / 'const' Violations
+
+- Trying to change something marked as `const`
+- Trying to access a private variable from outside the class
+
 # Internal References
 
 
