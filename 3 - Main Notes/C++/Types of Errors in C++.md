@@ -9,11 +9,11 @@
 - #danglingpointers
 - #logicalerrors
 
-# Types of [[3 - Main Notes/C++/C++ Error Handling.md|Errors]] in C++
+# Types of Errors in C++
 
 - Errors are classified into types depending on why and where the Error occurs
 
-## 1. Compile-Time [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
+## 1. [[Compile-Time Errors]]
 
 - Errors preventing program from compiling
 - Common Compile Time Errors:
@@ -21,7 +21,7 @@
 	- Using undeclared variables
 	- Mismatched types
 
-#### Example: Compile Time [[3 - Main Notes/C++/C++ Error Handling.md|Error]]
+#### Example: Compile Time Error
 
 ```cpp
 int x = 5 // Missing semi-colon
@@ -29,7 +29,7 @@ std::cout << y; // Undeclared y
 int x = "Hello"; // Type Mismatch
 ```
 
-## 2. Runtime [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
+## 2. Runtime Errors
 
 - Runtime errors occur when the program compiles but crashes or behaves unexpectedly
 - Common Runtime Errors:
@@ -37,7 +37,7 @@ int x = "Hello"; // Type Mismatch
 	- Accessing out-of-bounds array elements
 	- Using deleted memory (dangling pointer)
 
-#### Examples: Common Runtime [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
+#### Examples: Common Runtime Errors
 
 ##### Un-computable logic
 ```cpp
@@ -61,7 +61,7 @@ delete ptr;
 std::cout << *ptr; // danglling pointer
 ```
 
-## 3. Linktime [[3 - Main Notes/C++/C++ Error Handling.md|Errors]]
+## 3. Linktime Errors
 
 - Occur during the **linking phase** after compilation
 - When object files are combined into executable
@@ -71,7 +71,7 @@ std::cout << *ptr; // danglling pointer
 	- Library linking issues
 	- Incorrect include paths
 
-#### Example: Linktime [[3 - Main Notes/C++/C++ Error Handling.md|Error]]
+#### Example: Linktime Error
 
 ```cpp
 // File1.cpp

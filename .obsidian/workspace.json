@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "3 - Main Notes/C++/Abstract Classes in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Data Types"
+              "title": "Abstract Classes in C++"
             }
           },
           {
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Error Handling.md",
+                "file": "Compile-Time Errors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -154,7 +154,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Error Handling"
+              "title": "Compile-Time Errors"
             }
           }
         ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Data types",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -229,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 299.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -495,14 +495,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de095d0fc18c372f",
+  "active": "110e554a396e1d25",
   "lastOpenFiles": [
-    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Types of Errors in C++.md",
+    "Compile-Time Errors.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
+    "3 - Main Notes/C++/Abstract Classes in C++.md",
+    "3 - Main Notes/C++/Access Specifiers in C++.md",
+    "3 - Main Notes/C++/Advanced Template Features in C++.md",
+    "3 - Main Notes/C++/C++ Basic Data Structures.md",
+    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Types.md",
+    "Tags/C++ Language Features.md",
     "C++ Datatypes.md",
     "Datatypes in C++.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "Indexes/C++.md",
     "Tags/Classes and Objects in C++.md",
     "Structuring a C++ codebase.md",
@@ -517,12 +523,6 @@
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "3 - Main Notes/C++/Methods in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/Constructor Overloading in C++.md",
-    "3 - Main Notes/C++/Parameterised Constructor.md",
-    "3 - Main Notes/C++/Encapsulation in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
