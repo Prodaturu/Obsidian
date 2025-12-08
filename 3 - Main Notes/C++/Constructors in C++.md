@@ -12,14 +12,13 @@
 
 **Links / Tags:** 
 - **Relevance Links:** 
-	- Classes and Objects in C++
-		
-	- [[Types of Constructors in C++]]  
+	- Destructors in C++
+	- [[Orthodox C]]
 	
 - **Topic Links:**
-	- [[Advanced Constructor Concepts in C++]] 
-	- Destructors in C++ 
-	- Copy Assignment Operator
+	- Classes and Objects in C++
+	- [[Advanced Constructor Concepts in C++]]
+	- [[Types of Constructors in C++]]  
 
 
 # Constructors in C++
