@@ -59,7 +59,8 @@ public:
     Buffer(const Buffer& other);           // copy constructor
     Buffer& operator=(const Buffer& other); // copy assignment
     ~Buffer();                             // destructor
-};- 
+};
+``` 
 
 # Internal References
 
