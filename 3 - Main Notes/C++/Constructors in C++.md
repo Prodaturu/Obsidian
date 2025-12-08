@@ -46,6 +46,24 @@ int main()
 - implement RAII (acquire resources in constructor, release in destructor)
 - allow multiple ways to build an object (overloading)
 
+### Use of Constructors
+
+1. **Automatic initialisation** 
+	- Objects are ready to use immediately after creation
+    
+2. **Encapsulation**
+	- Control how objects are set up, enforcing in-variants
+    
+3. **Overloading**
+	- Multiple ways to create objects with different parameters
+    
+4. **RAII**
+	- Acquire resources in constructor, release in destructor
+    
+5. **Default values**
+	- Sensible defaults when no parameters provided
+
+
 ---
 # Types of Constructors
 
@@ -73,6 +91,8 @@ int main()
 - [[Orthodox Canonical Form in C++]] - Different special member functions and their roles
 - Destructors in C++ 
 - [[Copy Assignment Operator]]
+
+
 
 
 ------------
@@ -208,23 +228,6 @@ int main()
 
 ```
 
-
-### Use of Constructors
-
-1. **Automatic initialisation** 
-	- Objects are ready to use immediately after creation
-    
-2. **Encapsulation**
-	- Control how objects are set up, enforcing in-variants
-    
-3. **Overloading**
-	- Multiple ways to create objects with different parameters
-    
-4. **RAII**
-	- Acquire resources in constructor, release in destructor
-    
-5. **Default values**
-	- Sensible defaults when no parameters provided
 
 
 

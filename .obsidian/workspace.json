@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/Constructors in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Libraries"
+              "title": "Constructors in C++"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constru",
+                "query": "constructo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -123,12 +123,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 426.5,
-    "collapsed": true
+    "width": 426.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -396,13 +396,15 @@
   },
   "active": "de095d0fc18c372f",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Date and Time in C++.md",
+    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
     "3 - Main Notes/C++/Parameterised Constructor.md",
     "3 - Main Notes/C++/regex library in C++.md",
-    "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
-    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete/)'.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
@@ -412,12 +414,10 @@
     "Dynamic Memory Allocation in C++ '(new ",
     "Dynamic Memory Allocation in C++ (new / delete).md",
     "Dynamic Memory Allocation in C++ (new ",
-    "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/C++/std.md",
     "3 - Main Notes/C++/std array in C++.md",
     "3 - Main Notes/C++/std pair in C++.md",
