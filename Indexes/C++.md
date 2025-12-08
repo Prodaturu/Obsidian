@@ -14,18 +14,18 @@ sticker: lucide//code
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - [[C++ Language Features]]
-  - [[OOPS in C++]]
-  - [[C++ Data Structures and Algorithms]]
-  - [[C++ Libraries]]
-  - [[Memory management in C++]]
+	- [[C vs C++]] - Main Differences and Commonality between C and C++
+	- [[OOPS in C++]] - Object Oriented Programming in C++
+	- [[C++ Data Structures and Algorithms]] - DSA in C++
+	- [[C++ Libraries]] - Most common libraries in C++
+	- [[Memory management in C++]]
 
 
 - **Topic Tags:**
-  - #oop
-  - #generic_programming
-  - #systems_programming
-  - #compiled_language
+	- #oop
+	- #generic_programming
+	- #systems_programming
+	- #compiled_language
 
 # C++
 

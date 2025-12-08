@@ -29,9 +29,9 @@ aliases:
 - Orthodox Canonical Form (OCF) is a **classic C++98 idiom**:
 
 -  A class explicitly declares:
-	- default constructor 
-	- copy constructor
-	- [[Copy Assignment Operator in C++ | Copy Assignment Operator]] 
+	- [[Default constructor]] 
+	- [[Copy constructor]]
+	- [[Copy Assignment Operator in C++ | Copy Assignment Operator]]
 	- [[Destructors in C++|Destructor]]
 	
 - so its **lifetime behaviour is fully defined and visible**.
