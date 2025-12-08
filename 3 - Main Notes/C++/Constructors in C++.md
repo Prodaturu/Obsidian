@@ -83,26 +83,11 @@ int main()
 
 ## Sub-maps
 
-- [[Types of Constructors in C++]] 
-	- Default, parameterised, copy, Delegating, Move, Converting
+- [[Types of Constructors in C++]]  
+    Different constructor kinds: default, parameterised, copy, move, delegating, converting.
     
 - [[Advanced Constructor Concepts in C++]]  
-	- Constructor Overloading
-	- 
-	- [[Constructor Overloading in C++]] - multiple constructors in same class
-	- [[Constructor Initialisation List]] - How to initialise members efficiently
-	- [[Constructors for const Members]] - Handling const members in constructors
-	- [[Constructor Definition Outside Class]] - Defining constructors outside the class
-	- [[Orthodox Canonical Form in C++]] - Different special member functions and their roles
-	  
-- Other Related Notes:
-	- Destructors in C++ 
-	- Copy Assignment Operator
-
-# Types of Constructors
-
-
-
+    Initialiser lists, const members, explicit, default/delete, etc.
 
 ---
 
