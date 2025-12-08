@@ -2,6 +2,19 @@
 
 **Tags:** #CPP #OOP #Constructors #map
 
+**Hashtags:**
+
+- #CPP 
+- #constructors
+- #OOPS 
+
+**Links / Tags:** 
+- **Relevance Links:**
+	- 
+
+- **Topic Tags:**
+	- [[Constructor Overloading in C++]]
+
 # Constructors in C++
 
 ## Definition
@@ -41,30 +54,22 @@ int main()
 
 ## Why Constructors Matter
 
-- ensure objects start in a valid state
-- enforce in-variants
-- implement RAII (acquire resources in constructor, release in destructor)
-- allow multiple ways to build an object (overloading)
+- **Automatic initialisation**  
+  Objects start in a valid state immediately after creation.
 
-### Use of Constructors
+- **[[Encapsulation in C++|Encapsulation]] and invariants**  
+  The constructor controls how the object is set up and can enforce invariants.
 
-1. **Automatic initialisation** 
-	- Objects are ready to use immediately after creation
-    
-2. **Encapsulation**
-	- Control how objects are set up, enforcing in-variants
-    
-3. **Overloading**
-	- Multiple ways to create objects with different parameters
-    
-4. **RAII**
-	- Acquire resources in constructor, release in destructor
-    
-5. **Default values**
-	- Sensible defaults when no parameters provided
+- **RAII (Resource Acquisition Is Initialisation)**  
+  Acquire resources in the constructor, release them in the destructor.
+
+- **[[Constructor Overloading in C++|Overloading]]**  
+  Provide multiple ways to create an object with different parameter sets.
+
+- **Default values**  
+  Allow creating objects with sensible defaults when no arguments are given.
 
 
----
 # Types of Constructors
 
 - [[Default Constructor]]
@@ -74,6 +79,8 @@ int main()
 - [[Move Constructor]]
 - [[Converting Constructor]]
 
+
+---
 
 ## Linked Notes:
 
@@ -101,18 +108,7 @@ int main()
 
 **Status:** 
 
-**Hashtags:**
 
-- #CPP 
-- #constructors
-- #OOPS 
-
-**Links / Tags:** 
-- **Relevance Links:**
-	- 
-
-- **Topic Tags:**
-	- [[Constructor Overloading in C++]]
 
 
 # Constructors
