@@ -12,10 +12,13 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- [[Types of Constructors in C++]]  
 
 - **Topic Links:**
-	- [[Constructor Overloading in C++]]
+	- [[Advanced Constructor Concepts in C++]] 
+	- Destructors in C++ 
+	- Copy Assignment Operator
+
 
 # Constructors in C++
 
@@ -76,15 +79,32 @@ int main()
 - **Default values**  
   Allow creating objects with sensible defaults when no arguments are given.
 
+# Related Notes
+
+## Sub-maps
+
+- [[Types of Constructors in C++]]  
+	- [[Default Constructor]]
+	- [[Parameterised Constructor]]
+	- [[Copy Constructor]]
+	- [[Delegating Constructor]]
+	- [[Move Constructor]]
+	- [[Converting Constructor]]
+    
+- [[Advanced Constructor Concepts in C++]]  
+	- [[Constructor Overloading in C++]] - multiple constructors in same class
+	- [[Constructor Initialisation List]] - How to initialise members efficiently
+	- [[Constructors for const Members]] - Handling const members in constructors
+	- [[Constructor Definition Outside Class]] - Defining constructors outside the class
+	- [[Orthodox Canonical Form in C++]] - Different special member functions and their roles
+	  
+- Other Related Notes:
+	- Destructors in C++ 
+	- Copy Assignment Operator
 
 # Types of Constructors
 
-- [[Default Constructor]]
-- [[Parameterised Constructor]]
-- [[Copy Constructor]]
-- [[Delegating Constructor]]
-- [[Move Constructor]]
-- [[Converting Constructor]]
+
 
 
 ---
@@ -93,15 +113,8 @@ int main()
 
 ### Advanced Topics
 
-- [[Constructor Overloading in C++]] - multiple constructors in same class
-- [[Constructor Initialisation List]] - How to initialise members efficiently
-- [[Constructors for const Members]] - Handling const members in constructors
-- [[Constructor Definition Outside Class]] - Defining constructors outside the class
-- [[Orthodox Canonical Form in C++]] - Different special member functions and their roles
 
 ### Other Related Concepts
 
-- Destructors in C++ 
-- Copy Assignment Operator
 
 # References
