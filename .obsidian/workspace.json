@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+                "file": "5 - Templates/Title.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Orthodox Canonical Form in C++"
+              "title": "Title"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "b530456072ed0fef",
@@ -437,7 +437,12 @@
   "active": "110e554a396e1d25",
   "lastOpenFiles": [
     "Indexes/C++.md",
+    "History of C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+    "5 - Templates/Title.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Templates in C++.md",
+    "3 - Main Notes/C++/Partial Specialisation in C++.md",
     "Copy Assignment Operator in C++.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
@@ -445,9 +450,7 @@
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
-    "5 - Templates/Title.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
@@ -462,11 +465,8 @@
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
-    "Dynamic Memory Allocation in C++ '(new / delete)'.md",
     "Dynamic Memory Allocation in C++ '(new ",
-    "Dynamic Memory Allocation in C++ (new / delete).md",
     "Dynamic Memory Allocation in C++ (new ",
-    "3 - Main Notes/C++/Types of Errors in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",

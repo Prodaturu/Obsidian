@@ -15,7 +15,6 @@
   - [[Operators in C++]]
   - [[Functions in C++]]
   - [[Templates in C++]]
-  - [[C++ Error Handling]]
   - [[C++ Files]]
 
 - **Topic Tags:**

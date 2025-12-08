@@ -1,4 +1,4 @@
-**Created:** *<span class ="color-green">{{date}}, {{time}}</span>*
+**Created:**  <span class ="color-green">08.12.25, 06:24</span>
 
 **Note Type:**
 
@@ -16,7 +16,7 @@
 
 ---
 
-# {{Title}}
+# History of C++
 
 - 
 

@@ -14,13 +14,15 @@ sticker: lucide//code
 
 **Links / Tags:** 
 - **Relevance Links:**
+	- [[History of C++]]
 	- [[C vs C++]] - Main Differences and Commonality between C and C++
 	- [[OOPS in C++]] - Object Oriented Programming in C++
 	- [[C++ Data Structures and Algorithms]] - DSA in C++
 	- [[C++ Libraries]] - Most common libraries in C++
+	- [[C++ Language Features]]
 	- [[Memory management in C++]]
-
-
+	- [[C++ Error Handling]]
+	  
 - **Topic Tags:**
 	- #oop
 	- #generic_programming
