@@ -109,11 +109,10 @@ x++; //strings dont support increment / ++
     Don’t try to fix 10 things at once.
     
 5. **Turn on warnings.**  
-    They help you catch stuff before it becomes an error.
-
+    Helps catch stuff before it becomes an error.
 
 # Internal References
 
 
-
 # External References
+
