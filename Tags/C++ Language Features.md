@@ -17,8 +17,6 @@
   - [[Templates in C++]]
   - [[C++ Error Handling]]
   - [[C++ Files]]
-  - [[C++ Libraries]]          <!-- optional, if you treat it as “features + ecosystem” -->
-  - [[Memory management in C++]]
 
 - **Topic Tags:**
   - #types

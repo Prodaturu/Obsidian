@@ -90,10 +90,24 @@
             "id": "110e554a396e1d25",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Tags/C++ Language Features.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Language Features"
             }
           }
         ]
@@ -436,6 +450,8 @@
   },
   "active": "110e554a396e1d25",
   "lastOpenFiles": [
+    "Indexes/C++.md",
+    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "Tags/Classes and Objects in C++.md",
@@ -444,7 +460,6 @@
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Parameterised Constructor.md",
@@ -461,7 +476,6 @@
     "Dynamic Memory Allocation in C++ '(new ",
     "Dynamic Memory Allocation in C++ (new / delete).md",
     "Dynamic Memory Allocation in C++ (new ",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",

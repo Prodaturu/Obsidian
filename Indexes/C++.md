@@ -17,9 +17,9 @@ sticker: lucide//code
   - [[C++ Language Features]]
   - [[OOPS in C++]]
   - [[C++ Data Structures and Algorithms]]
-  - [[C++ STL]]
   - [[C++ Libraries]]
-  - [[C++ IO & Time]]     <!-- you can create this as a new map note -->
+  - [[Memory management in C++]]
+
 
 - **Topic Tags:**
   - #oop
