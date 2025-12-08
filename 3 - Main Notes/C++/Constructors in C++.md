@@ -13,7 +13,6 @@
 **Links / Tags:** 
 - **Relevance Links:** 
 	- Destructors in C++
-	- [[Orthodox C]]
 	
 - **Topic Links:**
 	- Classes and Objects in C++
