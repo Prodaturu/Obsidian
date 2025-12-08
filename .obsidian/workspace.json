@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Overloading",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -123,8 +123,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -396,8 +395,9 @@
   },
   "active": "de095d0fc18c372f",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Constructor Overloading in C++.md",
+    "5 - Templates/Title.md",
     "3 - Main Notes/C++/Constructors in C++.md",
+    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "Tags/Classes and Objects in C++.md",
     "Tags/C++ Language Features.md",
@@ -426,7 +426,6 @@
     "3 - Main Notes/C++/Generic Types in C++.md",
     "3 - Main Notes/C++/std tuple in C++.md",
     "3 - Main Notes/C++/std visit in C++.md",
-    "3 - Main Notes/C++/std optional in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
