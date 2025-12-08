@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Methods in C++.md",
+                "file": "Tags/Classes and Objects in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Methods in C++"
+              "title": "Classes and Objects in C++"
+            }
+          },
+          {
+            "id": "25f1312e3c304629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthodox Canonical Form in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Orthodox Canonical Form in C++"
+            }
+          },
+          {
+            "id": "eb128a43f8b9eaa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orthodox Canonical Form in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Orthodox Canonical Form in C++"
             }
           },
           {
@@ -55,7 +103,8 @@
               "title": "Date and Time in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,8 +172,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -394,20 +442,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de095d0fc18c372f",
+  "active": "eb128a43f8b9eaa7",
   "lastOpenFiles": [
     "Tags/Classes and Objects in C++.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
+    "5 - Templates/Title.md",
+    "Orthodox Canonical Form in C++.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Methods in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
-    "5 - Templates/Title.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Parameterised Constructor.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
-    "3 - Main Notes/C++/Date and Time in C++.md",
     "3 - Main Notes/C++/regex library in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete/)'.md",
@@ -425,8 +475,6 @@
     "3 - Main Notes/C++/std.md",
     "3 - Main Notes/C++/std array in C++.md",
     "3 - Main Notes/C++/std pair in C++.md",
-    "3 - Main Notes/C++/std variant in C++.md",
-    "3 - Main Notes/C++/Generic Types in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",

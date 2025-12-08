@@ -11,6 +11,7 @@
 - **Relevance Links:**
 	- OOPS in C++
 	- [[Operator Overloading in C++]]
+	- [[Orthodox Canonical Form in C++]]
 
 - **Topic Tags:**
 	- [[Constructors in C++]]
