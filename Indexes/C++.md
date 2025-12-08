@@ -22,6 +22,7 @@ sticker: lucide//code
 	- [[C++ Language Features]]
 	- [[Memory management in C++]]
 	- [[C++ Error Handling]]
+	- [[Structuring a C++ codebase|C++ code structuring]]
 	  
 - **Topic Tags:**
 	- #oop
