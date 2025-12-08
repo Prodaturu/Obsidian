@@ -18,8 +18,24 @@
 
 # Compile-Time Errors
 
-- An Error that the **compiler** finds **before the program runs**
-- Stops the compiler from pro
+- **Definition:**
+	
+- An error that the compiler finds before the program runs
+- Stops the build and must be fixed before code can be executed
+
+## Why do compiler-time errors occur?
+
+#### 1. Syntax Errors
+
+- If we broke the **basic rules** of C++.
+	- Forgot a semicolon.
+	- Forgot a closing brace.
+    - Wrote something the compiler cannot read.
+    
+- Think of it like **bad grammar** in a sentence.
+
+#### 2. Type Mistakes
+
 
 # Internal References
 

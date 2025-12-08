@@ -6,6 +6,7 @@
       {
         "id": "8ce635cd80ac6668",
         "type": "tabs",
+        "dimension": 66.52497343251859,
         "children": [
           {
             "id": "de095d0fc18c372f",
@@ -29,6 +30,30 @@
               },
               "icon": "lucide-file",
               "title": "Abstract Classes in C++"
+            }
+          },
+          {
+            "id": "110e554a396e1d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compile-Time Errors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Compile-Time Errors"
             }
           },
           {
@@ -127,34 +152,22 @@
               "title": "Title"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b530456072ed0fef",
         "type": "tabs",
+        "dimension": 33.4750265674814,
         "children": [
           {
-            "id": "110e554a396e1d25",
+            "id": "b7adcb6e193641b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compile-Time Errors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Compile-Time Errors"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -497,8 +510,8 @@
   },
   "active": "110e554a396e1d25",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Types of Errors in C++.md",
     "Compile-Time Errors.md",
+    "3 - Main Notes/C++/Types of Errors in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
