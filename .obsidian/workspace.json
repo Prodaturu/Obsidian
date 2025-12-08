@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Classes and Objects in C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes and Objects in C++"
+              "title": "C++ Language Features"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Classes",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -395,12 +396,14 @@
   },
   "active": "de095d0fc18c372f",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Operators in C++.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Parameterised Constructor.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
-    "Tags/Classes and Objects in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
@@ -424,8 +427,6 @@
     "3 - Main Notes/C++/std pair in C++.md",
     "3 - Main Notes/C++/std variant in C++.md",
     "3 - Main Notes/C++/Generic Types in C++.md",
-    "3 - Main Notes/C++/std tuple in C++.md",
-    "3 - Main Notes/C++/std visit in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",

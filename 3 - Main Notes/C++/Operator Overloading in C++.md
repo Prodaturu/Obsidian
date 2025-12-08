@@ -1,22 +1,34 @@
-**Created:** 27.11.25, 18:51
+**Created:** *27.11.25, 18:51*
 
-**Status:**
+**Status:** #map
 
 **Hashtags:**
-- #CPP #OOPS #polymorphism #operatoroverloading 
-  
+- **Relevance Tags:**
+    - #cpp
+    - #oop
+    - #operatoroverloading
+- **Topic Tags:**
+    - #polymorphism
+
 **Links / Tags:** 
 - **Relevance Links:**
+    - Operators in C++               <!-- parent, plain text on purpose -->
+    - Classes and Objects in C++     <!-- also related, plain text -->
+- **Topic Links:**
+    - [[Copy Assignment Operator in C++]]
+    - [[Overloading Arithmetic Operators in C++]]
+    - [[Overloading Comparison Operators in C++]]
+    - [[Overloading Stream Operators in C++]]
+    - [[Member vs Non Member Operator Overloads in C++]]
 
-- **Topic Tags:**
-
+---
 
 # Operator Overloading in C++
 
-- Extending the functionality of existing C++ operators to work with custom class objects in a meaningful way
-- Making operators like `+`, `-`, `==`, etc., work with your own classes
-	- by defining what these operations should do for your specific data types.
-- Makes custom types feel as natural and intuitive to use as built-in types.
+- Extends existing C++ operators so they work with custom class objects in a meaningful way.
+- Makes operators like `+`, `-`, `==`, etc. work with your own classes
+    - by defining what these operations should do for your specific data types.
+- Goal: make custom types feel as natural to use as built-in types.
 
 ## Syntax
 
@@ -48,12 +60,36 @@ bool operator==(const Date& other) { }
 - **At least one operand must be user-defined type**
 - **Some operators cannot be overloaded**: `::`, `.*`, `.`, `?:`, `sizeof`
 
-# References
+# Internal References
+
+## Sub-notes
+
+- [[Copy Assignment Operator in C++]]  
+    Special member function that can also be seen as an overloaded `operator=`.
+    
+- [[Overloading Arithmetic Operators in C++]]  
+    Designing `+`, `-`, `*`, `/`, etc. for custom numeric-like types.
+    
+- [[Overloading Comparison Operators in C++]]  
+    Designing `==`, `!=`, `<`, `>`, `<=`, `>=`.
+    
+- [[Overloading Stream Operators in C++]]  
+    `operator<<` / `operator>>` for `std::ostream` and `std::istream`.
+    
+- [[Member vs Non Member Operator Overloads in C++]]  
+    When to make an operator a member, and when to use a free function or friend.
 
 
+---
 
-## Closely Related Notes
+## Related Notes
 
-### Next:
+- Operators in C++ 
+    
+- Classes and Objects in C++ 
+    
+- Orthodox Canonical Form 
+- Rule of Three Five Zero in C++
 
-### Prev:
+# External References
+
