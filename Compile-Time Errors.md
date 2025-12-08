@@ -36,6 +36,12 @@
 
 #### 2. Type Mistakes
 
+- Trying to use wrong kind of data
+	- Assigning to a number
+	- `double` where an `int` was expected
+- Think of it like putting a US charger in an European power socket
+
+#### 3. Name Resolution Error
 
 # Internal References
 
