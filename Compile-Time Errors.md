@@ -34,17 +34,32 @@
     
 - Think of it like **bad grammar** in a sentence.
 
-#### 2. Type Mistakes
+```cpp
+// Missing ;
+int x = 10
+```
+
+#### 2. Type Error
 
 - Trying to use wrong kind of data
 	- Assigning to a number
 	- `double` where an `int` was expected
 - Think of it like putting a US charger in an European power socket
 
+```cpp
+int X = "Hello"
+```
+
 #### 3. Name Resolution Error
 
 - Calling a undeclared variable
 - Incorrect variable name
+
+```cpp
+int num;
+
+number = 10; // num is declared not number
+```
 
 #### 4. Wrong Function Call
 
@@ -52,11 +67,23 @@
 - Wrong types
 - Compiler can't find a version that matches what we wrote
 
+```cpp
+void empty(int a){}
+
+empty("string"); // wrong parameter type
+```
+
 #### 5. Template Issues
 
 - Templates allow any type
 	- but not all types support all operations
 	- Doing `x++` on a `string`
+
+```cpp
+std::string x ="hi";
+
+x++; //strings dont support increment / ++
+```
 
 #### 6. 'access' / 'const' Violations
 
