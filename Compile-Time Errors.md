@@ -1,3 +1,7 @@
+---
+aliases:
+  - Fixing compile time errors
+---
 **Created:** *<span class ="color-green">08.12.25, 08:59</span>*
 
 **Note Type:**
@@ -89,6 +93,24 @@ x++; //strings dont support increment / ++
 
 - Trying to change something marked as `const`
 - Trying to access a private variable from outside the class
+
+# Fixing compile-time errors
+
+1. **Always read the first error first.**  
+    Everything after it might just be noise.
+    
+2. **Go to the line number.**  
+    And check a few lines above it too.
+    
+3. **Read the message slowly.**  
+    The compiler usually hints what it expected.
+    
+4. **Fix one thing, compile again.**  
+    Don’t try to fix 10 things at once.
+    
+5. **Turn on warnings.**  
+    They help you catch stuff before it becomes an error.
+
 
 # Internal References
 
