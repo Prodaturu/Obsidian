@@ -18,7 +18,8 @@
 
 # Compile-Time Errors
 
-- 
+- An Error that the **compiler** finds **before the program runs**
+- Stops the compiler from pro
 
 # Internal References
 
