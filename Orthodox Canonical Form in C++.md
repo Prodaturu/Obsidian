@@ -44,7 +44,6 @@ aliases:
 - **the class clearly controls how it is created, copied, moved, and destroyed.**
 
 ---
-
 ## Classic canonical form (C++98 style)
 
 ```cpp
@@ -65,5 +64,5 @@ public:
 # Internal References
 
 
-
 # External References
+
