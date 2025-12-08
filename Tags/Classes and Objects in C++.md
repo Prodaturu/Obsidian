@@ -13,6 +13,7 @@
 
 - **Topic Tags:**
 	- [[Constructors in C++]]
+	- [[Destructors in C++]]
 	- [[Methods in C++]]
 	- [[Access Specifiers in C++]]
 	- [[Abstract Classes in C++]]
@@ -220,11 +221,6 @@ int main()
 ```
 
 
-# Next Topic:
-
-
----
----
 # References
 
 ## Closely Related Notes
