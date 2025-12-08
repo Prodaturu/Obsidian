@@ -12,6 +12,8 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
+	- Classes and Objects in C++
+	- 
 	- [[Types of Constructors in C++]]  
 
 - **Topic Links:**

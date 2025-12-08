@@ -12,7 +12,7 @@
 - **Relevance Links:**
 	- 
 - **Topic Links:**
-	- [[Constructor Overloading in C++]]
+	- 
 
 ---
 
@@ -22,9 +22,6 @@
 
 # Related Notes
 
-## Submap
-
-## Sub Notes
 
 
 # External References

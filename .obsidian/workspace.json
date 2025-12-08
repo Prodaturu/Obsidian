@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Title.md",
+                "file": "3 - Main Notes/C++/Constructors in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Title"
+              "title": "Constructors in C++"
             }
           },
           {
@@ -395,10 +395,10 @@
   },
   "active": "de095d0fc18c372f",
   "lastOpenFiles": [
+    "5 - Templates/Title.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Parameterised Constructor.md",
-    "5 - Templates/Title.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "Tags/Classes and Objects in C++.md",
     "Tags/C++ Language Features.md",
