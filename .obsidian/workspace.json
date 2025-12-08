@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthodox Canonical Form in C++.md",
+                "file": "3 - Main Notes/C++/Constructors in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Orthodox Canonical Form in C++"
+              "title": "Constructors in C++"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Classes and objects in C++\"",
+                "query": "\"constructor",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -172,7 +172,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -442,17 +443,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eb128a43f8b9eaa7",
+  "active": "25f1312e3c304629",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Constructors in C++.md",
+    "Orthodox Canonical Form in C++.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
     "5 - Templates/Title.md",
-    "Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Parameterised Constructor.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
