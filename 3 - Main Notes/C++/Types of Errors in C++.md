@@ -29,7 +29,7 @@ std::cout << y; // Undeclared y
 int x = "Hello"; // Type Mismatch
 ```
 
-## 2. Runtime Errors
+## 2. [[Runtime Errors]]
 
 - Runtime errors occur when the program compiles but crashes or behaves unexpectedly
 - Common Runtime Errors:

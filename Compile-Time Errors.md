@@ -24,7 +24,7 @@ aliases:
 
 - **Definition:**
 	
-- An error that the compiler finds before the program runs
+- An error that the compiler finds during **before the program runs**
 - Stops the build and must be fixed before code can be executed
 
 ## Why do compiler-time errors occur?

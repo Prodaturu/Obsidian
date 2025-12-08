@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Types of Errors in C++.md",
+                "file": "Runtime Errors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Errors in C++"
+              "title": "Runtime Errors"
             }
           },
           {
@@ -510,8 +510,9 @@
   },
   "active": "110e554a396e1d25",
   "lastOpenFiles": [
-    "Compile-Time Errors.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
+    "Runtime Errors.md",
+    "Compile-Time Errors.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
@@ -535,7 +536,6 @@
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C.md",
-    "3 - Main Notes/C++/Date and Time in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
