@@ -83,7 +83,8 @@ int main()
 
 ## Sub-maps
 
-- [[Types of Constructors in C++]]  
+- [[Types of Constructors in C++]] 
+	- Default, parameterised, copy, Delegating Cns
 	- [[Default Constructor]]
 	- [[Parameterised Constructor]]
 	- [[Copy Constructor]]
