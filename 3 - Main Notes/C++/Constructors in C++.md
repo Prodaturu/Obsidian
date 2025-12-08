@@ -84,15 +84,11 @@ int main()
 ## Sub-maps
 
 - [[Types of Constructors in C++]] 
-	- Default, parameterised, copy, Delegating Cns
-	- [[Default Constructor]]
-	- [[Parameterised Constructor]]
-	- [[Copy Constructor]]
-	- [[Delegating Constructor]]
-	- [[Move Constructor]]
-	- [[Converting Constructor]]
+	- Default, parameterised, copy, Delegating, Move, Converting
     
 - [[Advanced Constructor Concepts in C++]]  
+	- Constructor Overloading
+	- 
 	- [[Constructor Overloading in C++]] - multiple constructors in same class
 	- [[Constructor Initialisation List]] - How to initialise members efficiently
 	- [[Constructors for const Members]] - Handling const members in constructors
