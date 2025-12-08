@@ -41,8 +41,8 @@
 
 - This note is a **map** of standard library components you will see often:
 
-	- some are **C++98** (allowed for 42 CPP modules)
-	- some are **C++11 and later** (useful to know for modern C++)
+	- some are **C++98**
+	- some are **C++11 and later**
 
 Each “library” below usually comes from **one or more headers**.
 
@@ -66,7 +66,7 @@ Each “library” below usually comes from **one or more headers**.
 | futures & async            | `<future>`              | [[async and future in C++]]   | C++11    |
 | random (modern generators) | `<random>`              | [[random library in C++]]     | C++11    |
 
-> For 42 CPP modules (C++98), you mostly stay on the **C++98** row entries.  
-> The C++11+ ones are for when you go beyond the school projects.
+
+
 
 # References

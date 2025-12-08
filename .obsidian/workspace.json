@@ -55,8 +55,7 @@
               "title": "Date and Time in C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 426.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -394,8 +394,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "252b9aa6afe4d20b",
+  "active": "de095d0fc18c372f",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Date and Time in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Parameterised Constructor.md",
     "3 - Main Notes/C++/regex library in C++.md",
@@ -423,7 +424,6 @@
     "3 - Main Notes/C++/std variant in C++.md",
     "3 - Main Notes/C++/Generic Types in C++.md",
     "3 - Main Notes/C++/std tuple in C++.md",
-    "3 - Main Notes/C++/Date and Time in C++.md",
     "3 - Main Notes/C++/std visit in C++.md",
     "3 - Main Notes/C++/std optional in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
