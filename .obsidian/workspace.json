@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Classes and Objects in C++.md",
+                "file": "3 - Main Notes/C++/Canonical Forms in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes and Objects in C++"
+              "title": "Canonical Forms in C++"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orthodox Canonical Form in C++.md",
+                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "b530456072ed0fef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "110e554a396e1d25",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"constructor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -148,8 +164,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -419,12 +434,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25f1312e3c304629",
+  "active": "110e554a396e1d25",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+    "3 - Main Notes/C++/Canonical Forms in C++.md",
+    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
-    "Orthodox Canonical Form in C++.md",
-    "Tags/Classes and Objects in C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
@@ -451,7 +467,6 @@
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/std.md",
     "3 - Main Notes/C++/std array in C++.md",
-    "3 - Main Notes/C++/std pair in C++.md",
     "all.base",
     "3 - Main Notes/C++",
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",

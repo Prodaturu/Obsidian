@@ -4,6 +4,7 @@ aliases:
   - OCF C++
   - Orthodox Canonical Form
   - OCF
+  - Classic Canonical Form in C++
 ---
 **Created:** 08.12.25, 05:30
 
