@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/Methods in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "Methods in C++"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Classes",
+                "query": "\"Classes and objects in C++\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -396,15 +396,15 @@
   },
   "active": "de095d0fc18c372f",
   "lastOpenFiles": [
+    "Tags/Classes and Objects in C++.md",
+    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Parameterised Constructor.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/Date and Time in C++.md",
