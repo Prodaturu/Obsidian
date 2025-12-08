@@ -28,21 +28,20 @@ aliases:
 - Orthodox Canonical Form (OCF) is a **classic C++98 idiom**:
 
 -  A class explicitly declares:
-	- default constructor  
-	- copy constructor  
-	- copy assignment operator  
-	- destructor  
-
-
-so its **lifetime behaviour is fully defined and visible**.
-
-In C++11 and later, a “modern” canonical form may also add:
-
-- move constructor  
-- move assignment operator  
-
-but the core idea stays the same:  
-**the class clearly controls how it is created, copied, moved, and destroyed.**
+	- default constructor 
+	- copy constructor
+	- [[Copy Assignment Operator in C++ | Copy Assignment Operator]] 
+	- [[Destructors in C++|Destructor]]
+	
+- so its **lifetime behaviour is fully defined and visible**.
+	
+- In C++11 and later, a “modern” canonical form may also add:
+	- move constructor  
+	- move assignment operator  
+	
+- but the core idea stays the same:  
+	
+- **the class clearly controls how it is created, copied, moved, and destroyed.**
 
 ---
 

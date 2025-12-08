@@ -78,30 +78,6 @@
               "icon": "lucide-file",
               "title": "Constructors in C++"
             }
-          },
-          {
-            "id": "252b9aa6afe4d20b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Date and Time in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Date and Time in C++"
-            }
           }
         ],
         "currentTab": 1
@@ -446,9 +422,9 @@
   "active": "25f1312e3c304629",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Constructors in C++.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
     "Orthodox Canonical Form in C++.md",
     "Tags/Classes and Objects in C++.md",
-    "3 - Main Notes/C++/Date and Time in C++.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Methods in C++.md",
