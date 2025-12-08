@@ -14,6 +14,7 @@
 	
 - **Topic Tags:**
 	- [[Classes and Objects in C++]]
+	- [[Structs in C++]]
 
 
 # C++ Data Structures and Algorithms

@@ -29,7 +29,7 @@
 
 Map note for the main “feature areas” of C++.
 
-- Types / Datatype in C++ → [[C++ Data Types]]
+- Types / Datatype in C++ → [[3 - Main Notes/C++/C++ Data Types.md|Datatypes in C++]]
 - Operators → [[Operators in C++]]
 - Data structures in C++ → [[C++ Data Structures and Algorithms]]
 - Data structures in C++ → [[C++ Data Structures and Algorithms]]
