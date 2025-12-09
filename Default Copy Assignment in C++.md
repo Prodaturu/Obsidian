@@ -36,7 +36,7 @@
 - When we don't declare a copy assignment operator for a class
 - The compiler **generates one automatically**
 
-## Default definition
+## Implementation of Default Copy Assignment
 
 ```cpp
 class Point
@@ -64,9 +64,24 @@ int main()
 ## Syntax
 
 - The syntax is same for both user-defined and default Copy assignment operator
+
 ```cpp
 Point &Point::operator=(const Point &other)
 ```
+- `point&`
+	- returns `this` so we can chain `a = b = c`
+	  
+- `operator=`
+	- Called when we write `b = a;`
+	  
+- `const Point& other`
+	- Source object, passed by const reference
+	  
+- So we can just write `b = a` for actual copy assignment
+
+## Using '=default' (C++ 11)
+
+- 
 
 # Internal References
 
