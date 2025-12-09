@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0f756c36cda5804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/German/Satzsystem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Satzsystem"
-            }
-          },
-          {
             "id": "0ac6a02a0f78b1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/GeneralCodingConcepts/Compile Time Errors.md",
+                "file": "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Compile Time Errors"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -407,14 +382,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
-    "3 - Main Notes/German/German Books/Momo_MichaelEnde",
+    "3 - Main Notes/German/Satzsystem.md",
+    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Untitled.md",
+    "3 - Main Notes/GeneralCodingConcepts/Compile Time Errors.md",
+    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
     "3 - Main Notes/German/Hauptsatz.md",
     "3 - Main Notes/German/Deutsch.md",
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
-    "3 - Main Notes/German/Satzsystem.md",
     "3 - Main Notes/German/German Books",
     "1. Satzsystem.md",
     "Indexes/C++.md",
@@ -426,7 +403,6 @@
     "3 - Main Notes/C++/Types of Constructors in C++.md",
     "3 - Main Notes/C++/Template Best Practices in C++.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
-    "3 - Main Notes/GeneralCodingConcepts/Compile Time Errors.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
@@ -444,7 +420,6 @@
     "Dynamic Memory Allocation in C++ '(new ",
     "Dynamic Memory Allocation in C++ (new ",
     "all.base",
-    "3 - Main Notes/C++",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
