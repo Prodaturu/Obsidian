@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Access Violation in C++.md",
+                "file": "3 - Main Notes/C++/Default Copy Assignment in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Access Violation in C++"
+              "title": "Default Copy Assignment in C++"
             }
           }
         ],
@@ -172,13 +172,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -195,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Access Violation in C++.md",
+                "file": "3 - Main Notes/C++/Default Copy Assignment in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Access Violation in C++"
+              "title": "Outline of Default Copy Assignment in C++"
             }
           },
           {
@@ -308,12 +306,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Access Violation in C++.md",
+                "file": "3 - Main Notes/C++/Default Copy Assignment in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Access Violation in C++"
+              "title": "Outgoing links from Default Copy Assignment in C++"
             }
           }
         ]
@@ -356,24 +354,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6367f8277a843ed7",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Access Violation in C++.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
-    "Access Violation in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Error Handling Mechanisms in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
-    "C++ Algorithms.md",
+    "3 - Main Notes/C++/C++ Algorithms.md",
     "Indexes/C++.md",
     "3 - Main Notes/German/Deutsch.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
-    "Copy Constructor in C++.md",
-    "Default Copy Assignment in C++.md",
+    "3 - Main Notes/C++/Copy Constructor in C++.md",
+    "3 - Main Notes/C++/Default Copy Assignment in C++.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
-    "Overloading Copy Assignment Operator in C++.md",
+    "3 - Main Notes/C++/Overloading Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
