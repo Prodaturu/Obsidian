@@ -1,6 +1,6 @@
 **Created:** *<span class ="color-green">09.12.25, 06:00</span>*
 
-**Note Type:**
+**Note Type:** #Novel #incomplete
 
 **Hashtags:**
 - **Relevance Tags:**

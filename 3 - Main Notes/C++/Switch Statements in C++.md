@@ -93,7 +93,10 @@ switch (day)
 ## Fall-through (common control-flow error)
 
 - If you **forget `break`**
-	- execution “falls through” into the next case:
+	- execution “falls through” into the next case
+	
+- Sometimes, fall-through could be intentional
+	- but, it is often an *logical bug*
 
 ```cpp
 int day = 1;
