@@ -14,8 +14,11 @@
       
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- Classes and Objects in C++        <!-- Parent -->
+    - Memory management in C++          <!-- Parent -->
 - **Topic Links:**
+	- [[Shallow copy in C++]]
+	- [[Deep copy in C++]]
 	- 
 
 ---
