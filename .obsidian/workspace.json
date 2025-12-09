@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "791178f606efeb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/German/Deutsch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deutsch"
+            }
+          },
+          {
             "id": "f86ce5d078a86924",
             "type": "leaf",
             "state": {
@@ -65,7 +89,8 @@
               "title": "C++ Language Features"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +147,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Memory management in C++\"",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -133,7 +158,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Copy semantics in C++.md",
+                "file": "3 - Main Notes/German/Deutsch.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Copy semantics in C++"
+              "title": "Outline of Deutsch"
             }
           },
           {
@@ -267,12 +293,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Copy semantics in C++.md",
+                "file": "3 - Main Notes/German/Deutsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Copy semantics in C++"
+              "title": "Outgoing links from Deutsch"
             }
           }
         ]
@@ -315,10 +341,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0ac6a02a0f78b1d3",
+  "active": "791178f606efeb9a",
   "lastOpenFiles": [
-    "Default Copy Assignment in C++.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
+    "Copy Constructor in C++.md",
+    "Default Copy Assignment in C++.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "Overloading Copy Assignment Operator in C++.md",
     "Indexes/C++.md",
@@ -345,8 +373,6 @@
     "3 - Main Notes/German/Deutsch.md",
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "3 - Main Notes/German/German Books",
-    "1. Satzsystem.md",
-    "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "3 - Main Notes/German",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
