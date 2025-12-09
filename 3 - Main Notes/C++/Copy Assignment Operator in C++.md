@@ -14,6 +14,7 @@
     - #copyassignmentoperator
     - #assignmentoperator
     - #operatoroverloading 
+    - #copy
 
 **Links / Tags:**
 

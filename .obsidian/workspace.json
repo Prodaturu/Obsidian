@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#oops",
+                "query": "tag:#copy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
