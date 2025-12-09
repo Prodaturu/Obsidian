@@ -112,8 +112,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#copy",
-                "matchingCase": false,
+                "query": "\"Rules of Three Five and Zero in C",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": true,
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -295,7 +294,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0ac6a02a0f78b1d3",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "Indexes/C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",

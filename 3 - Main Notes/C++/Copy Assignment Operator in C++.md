@@ -22,20 +22,33 @@
     - Classes and Objects in C++ <!-- main parent, plain text -->
     - Canonical Forms in C++ <!-- lifetime cluster, plain text -->
     - Operator Overloading in C++
+    - Classic Canonical Form in C++
+    - Rules of Three Five and Zero in C++
       
 - **Topic Links:**
 	- [[Default Copy Assignment in C++]]
-	- [[]]
-    - [[Classic Canonical Form in C++]]
+	- [[Overloading Copy Assignment Operator in C++]]
 
 
 ---
 
 # Copy Assignment Operator in C++
 
-- **copy assignment operator** helps assign one existing object to another existing object of the same
-- one of *special member functions* and is also an example of *operator overloading*
-- `operator=` 
+> Assigns one existing object’s contents to another existing object of the same class.
+
+- It is both:
+	- a **special member function** (controls object lifetime)
+	- an **overloaded operator** (`operator=`)
+
+## Kinds of Copy Assignment Operators
+
+- [[Default Copy Assignment in C++|Default Copy Assignment Operator]]
+	- Generated automatically by compiler
+	- When we don't write our own
+	  
+- [[Overloading Copy Assignment Operator in C++|Overloaded Copy Assignment Operator]]
+	- [[Overloading Copy Assignment Operator in C++|User Defined Copy Assignment Operator]]
+	- Replaces or extends the default behaviour
 
 ## Typical signature
 
