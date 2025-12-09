@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template Mental Models and Use Cases in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Template Mental Models and Use Cases in C++"
+              "title": "Outline of Operator Overloading in C++"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Template Mental Models and Use Cases in C++.md"
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -198,6 +198,16 @@
             }
           },
           {
+            "id": "0e4eb3b86fb1a121",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "c2de9157a09f15a3",
             "type": "leaf",
             "state": {
@@ -232,16 +242,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "0e4eb3b86fb1a121",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           },
           {
@@ -385,11 +385,11 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 595.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -408,7 +408,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0ac6a02a0f78b1d3",
+  "active": "5f154ac4f67e9ce4",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
