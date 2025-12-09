@@ -10,7 +10,8 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- Types of Errors in C++
+	
 - **Topic Links:**
 	- 
 

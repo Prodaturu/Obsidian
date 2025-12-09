@@ -15,7 +15,6 @@
 - **Relevance Links:**
     
     - Templates in C++ <!-- parent, plain text on purpose -->
-    - [[Advanced Template Features in C++]]
       
 - **Topic Tags:**
     

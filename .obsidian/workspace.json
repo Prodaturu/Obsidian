@@ -6,7 +6,7 @@
       {
         "id": "8ce635cd80ac6668",
         "type": "tabs",
-        "dimension": 66.52497343251859,
+        "dimension": 48.01565120178871,
         "children": [
           {
             "id": "de095d0fc18c372f",
@@ -158,7 +158,7 @@
       {
         "id": "b530456072ed0fef",
         "type": "tabs",
-        "dimension": 33.4750265674814,
+        "dimension": 51.984348798211286,
         "children": [
           {
             "id": "b7adcb6e193641b3",
@@ -521,10 +521,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "110e554a396e1d25",
+  "active": "b7adcb6e193641b3",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Types of Errors in C++.md",
+    "3 - Main Notes/C++/Template Best Practices in C++.md",
     "Runtime Errors.md",
+    "3 - Main Notes/C++/Types of Errors in C++.md",
     "Compile-Time Errors.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
@@ -548,7 +549,6 @@
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C vs C++.md",
-    "3 - Main Notes/C.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
