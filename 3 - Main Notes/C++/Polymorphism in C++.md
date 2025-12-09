@@ -3,34 +3,48 @@
 **Status:** 
 
 **Hashtags:**
-- #OOPS 
-- #CPP 
-- #polymorphism 
-- #compiletimepolymorphism 
-- #runtimepolymorphism 
-- #functionoverloading 
-- #operatoroverloading 
-- #virtualfunctions
-
-**Links / Tags:** 
-- **Relevance Links:**
-	- OOPS in C++
-
+- **Relevance Tags:**
+    - #cpp
+    - #oops
+    - #polymorphism
+       
 - **Topic Tags:**
-	- [[Function Overloading in C++]]
-	- [[Operator Overloading in C++]]
-	- [[Virtual Functions in C++]]
-	- [[Abstract Classes in C++]]
-	- [[Templates in C++]]
+    - #compiletimepolymorphism
+    - #runtimepolymorphism
+    - #functionoverloading
+    - #operatoroverloading
+    - #virtualfunctions
+    - #abstractclasses
 
+**Links / Tags:**
 
-# Polymorphism
+- **Relevance Links:**
+	- OOPS in C++ <!-- parent, plain text -->
+    - Classes and Objects in C++ <!-- related, plain text -->
+    - C++ Language Features <!-- related, plain text -->
+    - [[Types of Polymorphism in C++]]
+       
+- **Topic Links:**
+    - [[Function Overloading in C++]]
+    - [[Operator Overloading in C++]]
+    - [[Constructor Overloading in C++]]
+    - [[Templates in C++]]
+    - [[Virtual Functions in C++]]
+    - [[Abstract Classes in C++]]
+
+---
+
+# Polymorphism in C++
 
 - Polymorphism $\implies$ "Many forms"
 - Ability to process objects differently based on their data type or class
-- Same Interface, different Implementations
+- Same Interface, different Implementations / behaviour depending on
+	- data type
+	- actual class of the object
+- same function / call site
+	- different implementation behind it
 
-## Types of Polymorphism
+## [[Types of Polymorphism in C++]]
 
 ### 1. Compile-time Polymorphism
 

@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Polymorphism in C++"
             }
+          },
+          {
+            "id": "cf37189b576e06bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of Polymorphism in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Types of Polymorphism in C++"
+            }
           }
         ]
       }
@@ -298,6 +322,8 @@
   },
   "active": "791178f606efeb9a",
   "lastOpenFiles": [
+    "Types of Polymorphism in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
@@ -322,8 +348,6 @@
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
-    "3 - Main Notes/C++/Control Flow in C++.md",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
