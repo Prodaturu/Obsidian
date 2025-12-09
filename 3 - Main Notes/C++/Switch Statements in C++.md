@@ -1,33 +1,54 @@
 **Created:** *25.11.25, 20:46*
 
-**Status:**
+**Status:** #atomic
 
 **Hashtags:**
-- #CPP 
-- #switchstatements
-- #conditionalstatements
 
-**Links / Tags:** 
-- **Relevance Links:**
-	- 
-	- 
-
+- **Relevance Tags:**
+    
+    - #cpp
+    - #switchstatements
+    - #conditionalstatements
+    - #controlflow
+    
 - **Topic Tags:**
-	- 
+    
+    - #branches
+    - #break
+    - #default
+    - #fallthrough
 
-# Switch statement
 
-- `switch` is used to select one of many blocks to be executed
+**Links / Tags:**
 
-## How switch works:
+- **Relevance Links:**
+    - Control Flow in C++ <!-- parent -->
+    - C++ Language Features <!-- higher-level parent -->
+    
+- **Topic Links:**
+    - [[If else in C++]]
+    - [[Break and Continue in C++]]
 
-- `switch` statement is evaluated once
-- Value of the expression is compared with the values of each case
-- If there is a match, the associated block of code is executed
-- The `break` and `default` keywords are optional
-- `break` : Breaks out of switch block
-- `default` : Specifies some code to run if there is no case match
 
+# Switch Statements in C++
+
+`switch` is used to select **one of many code blocks** based on the value of an expression.
+
+## How switch works
+
+- the `switch` expression is evaluated once
+    
+- its value is compared with each `case` label
+    
+- when a match is found, execution jumps to that `case`
+    
+- from there it continues **downwards** until:
+    
+    - a `break` is hit, or
+        
+    - the `switch` block ends
+        
+- `break` and `default` are **optional**, but very important in practice
 ### Example usage:
 
 ```c++
@@ -61,15 +82,4 @@ switch (day)
 // Output : "Thursday"
 
 ```
-
-
-
-# References
-
-
-## Closely Related Notes
-
-### Next:
-
-### Prev:
 

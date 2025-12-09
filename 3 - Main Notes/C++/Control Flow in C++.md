@@ -17,10 +17,9 @@
 	- C++ Language Features          <!-- parent, plain text on purpose -->
 	- [[Operators in C++]]
 	- [[Functions in C++]]
-	- [[C++ Error Handling]]
 	  
 - **Topic Links:**
-	- [[If and Else in C++]]
+	- [[If else in C++]]
 	- [[Switch Statements in C++]]
 	- [[Loops in C++]]
 	- [[Range Based For Loop in C++]]
