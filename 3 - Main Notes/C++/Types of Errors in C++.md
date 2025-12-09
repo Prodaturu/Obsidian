@@ -13,7 +13,7 @@
 
 - Errors are classified into types depending on why and where the Error occurs
 
-## 1. [[Compile-Time Errors]]
+## 1. [[Compile Time Errors]]
 
 - Errors preventing program from compiling
 - Common Compile Time Errors:

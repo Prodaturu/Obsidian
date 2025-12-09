@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Satzsystem"
             }
+          },
+          {
+            "id": "0ac6a02a0f78b1d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/GeneralCodingConcepts/Compile Time Errors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Compile Time Errors"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -382,24 +407,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
-    "3 - Main Notes/German/German Books",
+    "3 - Main Notes/GeneralCodingConcepts",
+    "3 - Main Notes/German/Hauptsatz.md",
     "3 - Main Notes/German/Deutsch.md",
+    "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "3 - Main Notes/German/Satzsystem.md",
-    "Hauptsatz.md",
+    "3 - Main Notes/German/German Books",
     "1. Satzsystem.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
-    "Structuring a C++ codebase.md",
+    "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-    "Runtime Errors.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/German",
-    "Types of Constructors in C++.md",
+    "3 - Main Notes/C++/Types of Constructors in C++.md",
     "3 - Main Notes/C++/Template Best Practices in C++.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
-    "Compile-Time Errors.md",
+    "3 - Main Notes/GeneralCodingConcepts/Compile Time Errors.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
@@ -421,7 +447,6 @@
     "3 - Main Notes/InformationTheoryTum/Introduction to Information Theory 0",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
-    "Excalidraw",
     "6 - Full Notes/Pasted image 20251119045008.png",
     "4 - Full Notes/Pasted image 20251116165539.png"
   ]

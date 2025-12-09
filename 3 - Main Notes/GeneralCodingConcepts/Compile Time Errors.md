@@ -111,8 +111,4 @@ x++; //strings dont support increment / ++
 5. **Turn on warnings.**  
     Helps catch stuff before it becomes an error.
 
-# Internal References
-
-
 # External References
-
