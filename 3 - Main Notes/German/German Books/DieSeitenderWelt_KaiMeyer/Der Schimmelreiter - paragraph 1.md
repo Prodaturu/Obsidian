@@ -14,42 +14,121 @@
 - **Topic Links:**
 	- 
 
+
 ---
+
 # Der Schimmelreiter - paragraph 1
 
-- Was ich zu berichten (to report) beabsichtige (intend), ist mir vor reichlich einem halben Jahrhundert im Hause meiner Urgroßmutter (great-grandmother) kund geworden (became known to me),
-    - What I intend to report became known to me more than half a century ago in my great-grandmother’s house.
-    
-- während ich, an ihrem Lehnstuhl sitzend (sitting by her armchair), mich mit dem Lesen eines in blaue Pappe eingebundenen (bound in blue cardboard) Zeitschriftenheftes beschäftigte (was occupied with),
-    
-    - while I sat by her armchair and occupied myself with reading a magazine bound in blue cardboard,
+- Was ich zu berichten beabsichtige,
+    - what I intend to report,
         
-- ich vermag (am able) mich nicht mehr zu entsinnen (to remember), ob von den „Leipziger“ oder von „Pappes Hamburger Lesefrüchten“.
-    
-    - I can no longer remember whether it was from the Leipziger or from Pappe’s Hamburger Lesefrüchte.
+- ist mir vor reichlich einem halben Jahrhundert im Hause meiner Urgroßmutter kund geworden,
+    - became known to me more than half a century ago in my great-grandmother’s house,
         
-- Noch fühle ich es gleich einem Schauer (like a shiver), wie dabei die linde Hand (gentle hand) der über Achtzigjährigen (woman over eighty) mitunter (sometimes) liebkosend (caressingly) über das Haupthaar (hair on my head) ihres Urenkels glitt (glided).
-    
-    - I can still feel, like a shiver, how the gentle hand of the over-eighty-year-old woman sometimes softly glided over her great-grandson’s hair.
+- während ich, an ihrem Lehnstuhl sitzend,
+    - while I am, sitting by her armchair,
         
-- Sie selbst und jene Zeit sind längst begraben (long buried),
-    
-    - She herself and that time are long gone,
+- mich mit dem Lesen eines in blaue Pappe eingebundenen Zeitschriftenheftes beschäftigte,
+    - was occupied with reading a magazine bound in blue cardboard,
         
-- vergebens (in vain) auch habe ich seitdem jenen Blättern nachgeforscht (searched for those pages),
+- ich vermag mich nicht mehr zu entsinnen,
+    - I can no longer remember,
+- ob von den „Leipziger“ oder von „Pappes Hamburger Lesefrüchten“.
+    - whether it was from the Leipziger or from Pappe’s Hamburger Lesefrüchte.
+
+
+- Noch fühle ich es gleich einem Schauer,
     
-    - I have searched for those magazines in vain ever since,
+    - I can still feel it like a shiver,
         
-- und ich kann daher um so weniger (all the less) weder die Wahrheit der Tatsachen verbürgen (guarantee the truth of the facts) als, wenn jemand sie bestreiten wollte, dafür aufstehen (stand up for it);
+- wie dabei die linde Hand der über Achtzigjährigen mitunter liebkosend über das Haupthaar ihres Urenkels hinglitt.
     
-    - and therefore I can even less guarantee the truth of the events nor defend them if someone wanted to dispute them;
+    - how the gentle hand of the woman over eighty sometimes softly glided over her great-grandson’s hair.
         
-- nur so viel kann ich versichern (assure), daß ich sie seit jener Zeit, obgleich (although) sie durch keinen äußeren Anlaß (external cause) in mir aufs neue belebt wurden (were revived in me), niemals aus dem Gedächtnis verloren habe (have never forgotten them).
+- Sie selbst und jene Zeit sind längst begraben,
     
-    - I can only assure that since that time, although nothing has ever reminded me of them, I have never forgotten them.
+    - she herself and that time are long gone,
+        
+- vergebens auch habe ich seitdem jenen Blättern nachgeforscht,
+    
+    - I have searched in vain for those pages since then,
+        
+- und ich kann daher um so weniger weder die Wahrheit der Tatsachen verbürgen,
+    
+    - and therefore I can even less guarantee the truth of the events,
+        
+- als, wenn jemand sie bestreiten wollte, dafür aufstehen;
+    
+    - nor stand up for them if someone wanted to dispute them;
+        
+- nur so viel kann ich versichern,
+    
+    - this much I can assure,
+        
+- daß ich sie seit jener Zeit,
+    
+    - that since that time,
+        
+- obgleich sie durch keinen äußeren Anlaß in mir aufs neue belebt wurden,
+    
+    - although nothing from outside ever brought the story back to life in me,
+        
+- niemals aus dem Gedächtnis verloren habe.
+    
+    - I have never forgotten it.
+
+
 # Vocabulary / Meanings
 
-- berichten - 
+- zu
+	- to, towards (indicating direction or destination)
+
+- berichten
+	- report, tell (a story or information)
+
+- beabsichtigen
+	- intend, plan
+
+- reichlich
+	- more than enough, ample (often used to indicate quantity)
+
+- Urgroßmutter
+	- great-grandmother
+
+- geworden
+	- become, turned into (past participle of "werden")
+
+- während
+	- while, during
+
+- ihrem (singlar form of "ihr")
+	- her (indicating possession)
+
+- Lehnstuhl
+	- armchair, recliner
+
+- sitzend
+	- sitting (present participle of "sitzen")
+
+- Pappe
+	- cardboard
+
+- eingebunden
+	- bound, wrapped (past participle of "einbinden")
+
+- Zeitschriftenheftes
+	- magazine issue
+	  
+	- breakdown: (zeit + schrift + heft + es)
+		- zeit
+			- time, period
+		- schriften
+			- pages (plural of "Blatt" in the context of printed material)
+		- heft
+			- issue(in terms of publication), booklet
+		- es
+			- (genitive singular ending for neutral nouns)
+
 
 # Internal References
 
