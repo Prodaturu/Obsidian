@@ -27,7 +27,7 @@
     
     - [[Constructors in C++]] 
     - [[Destructors in C++]]
-    - [[Rules of Three Five and Zero in C++]]
+    - Rules of Three Five and Zero in C++
     
 ---
 
@@ -112,6 +112,6 @@ public:
 
 # Internal References
 
-- Rule of Zero
+- Rules of Three Five and Zero in C++
 
 # External References
