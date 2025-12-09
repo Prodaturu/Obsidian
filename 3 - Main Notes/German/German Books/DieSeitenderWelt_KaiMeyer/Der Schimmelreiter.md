@@ -15,14 +15,13 @@
 	- 
 
 ---
-
 # Der Schimmelreiter - The Rider on the White Horse
 
-- Novelle von Theodor Storm, veröffentlicht 1888.  
+- Novelle von Theodor Storm, veröffentlicht (published) 1888.  
 - Novel by Theodor Storm, published in 1888.
 
 # Internal References
 
-- Der Schimmelreiter 
+- [[Der Schimmelreiter - paragraph 1]]
 
 # External References

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
+                "file": "Der Schimmelreiter - paragraph 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Der Schimmelreiter"
+              "title": "Der Schimmelreiter - paragraph 1"
             }
           }
         ]
@@ -384,11 +384,12 @@
   },
   "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
+    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
+    "Der Schimmelreiter - paragraph 1.md",
     "5 - Templates/NovelPage.md",
     "5 - Templates/Title.md",
     "5 - Templates/5 - Templates.md",
     "5 - Templates/.md",
-    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/Satzsystem.md",
     "3 - Main Notes/GeneralCodingConcepts/Compile Time Errors.md",
@@ -414,7 +415,6 @@
     "3 - Main Notes/C++/C++ Basic Data Structures.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Types.md",
-    "Tags/C++ Language Features.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
