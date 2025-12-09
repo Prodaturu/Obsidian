@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Default Copy Assignment in C++.md",
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Default Copy Assignment in C++"
+              "title": "Copy Assignment Operator in C++"
+            }
+          },
+          {
+            "id": "f86ce5d078a86924",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -112,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Rules of Three Five and Zero in C",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -145,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Default Copy Assignment in C++.md",
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Default Copy Assignment in C++"
+              "title": "Outline of Copy Assignment Operator in C++"
             }
           },
           {
@@ -187,7 +197,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Default Copy Assignment in C++.md"
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -199,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Default Copy Assignment in C++.md",
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Copy Assignment in C++"
+              "title": "Backlinks for Copy Assignment Operator in C++"
             }
           },
           {
@@ -246,12 +256,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Default Copy Assignment in C++.md",
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Default Copy Assignment in C++"
+              "title": "Outgoing links from Copy Assignment Operator in C++"
             }
           }
         ]
@@ -296,6 +306,7 @@
   },
   "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
+    "Overloading Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "Default Copy Assignment in C++.md",
     "Indexes/C++.md",
@@ -325,7 +336,6 @@
     "1. Satzsystem.md",
     "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-    "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/German",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",

@@ -24,7 +24,20 @@
     - Operator Overloading in C++
     - Classic Canonical Form in C++
     - Rules of Three Five and Zero in C++
-      
+      ￼￼
+
+￼￼Hashtags:￼￼
+￼- ￼￼Relevance Tags:￼￼
+	- 
+￼- ￼￼Topic Tags:￼￼
+	- 
+
+￼￼Links / Tags:￼￼ 
+￼- ￼￼Relevance Links:￼￼
+	- 
+￼- ￼￼Topic Links:￼￼
+	- 
+
 - **Topic Links:**
 	- [[Default Copy Assignment in C++]]
 	- [[Overloading Copy Assignment Operator in C++]]
