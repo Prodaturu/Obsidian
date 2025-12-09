@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/German/Untitled.md",
+                "file": "3 - Main Notes/German/Deutsch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,7 +181,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Deutsch"
             }
           }
         ]
@@ -537,7 +537,7 @@
   },
   "active": "b7adcb6e193641b3",
   "lastOpenFiles": [
-    "3 - Main Notes/German/Untitled.md",
+    "3 - Main Notes/German/Deutsch.md",
     "3 - Main Notes/German",
     "Types of Constructors in C++.md",
     "3 - Main Notes/C++/Template Best Practices in C++.md",
