@@ -4,164 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ce635cd80ac6668",
+        "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 48.01565120178871,
         "children": [
           {
-            "id": "de095d0fc18c372f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Abstract Classes in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Abstract Classes in C++"
-            }
-          },
-          {
-            "id": "110e554a396e1d25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Runtime Errors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Runtime Errors"
-            }
-          },
-          {
-            "id": "25f1312e3c304629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Orthodox Canonical Form in C++"
-            }
-          },
-          {
-            "id": "167a2ebac3e53af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structuring a C++ codebase.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structuring a C++ codebase"
-            }
-          },
-          {
-            "id": "3ea8af7b4785782f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structuring a C++ codebase.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structuring a C++ codebase"
-            }
-          },
-          {
-            "id": "eb128a43f8b9eaa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Templates/Title.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Title"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b530456072ed0fef",
-        "type": "tabs",
-        "dimension": 51.984348798211286,
-        "children": [
-          {
-            "id": "b7adcb6e193641b3",
+            "id": "a0f756c36cda5804",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -535,13 +382,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b7adcb6e193641b3",
+  "active": "a0f756c36cda5804",
   "lastOpenFiles": [
+    "Indexes/C++.md",
+    "5 - Templates/Title.md",
+    "Structuring a C++ codebase.md",
+    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+    "Runtime Errors.md",
+    "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/German/Deutsch.md",
     "3 - Main Notes/German",
     "Types of Constructors in C++.md",
     "3 - Main Notes/C++/Template Best Practices in C++.md",
-    "Runtime Errors.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
     "Compile-Time Errors.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
@@ -554,16 +406,11 @@
     "Tags/C++ Language Features.md",
     "C++ Datatypes.md",
     "Datatypes in C++.md",
-    "Indexes/C++.md",
     "Tags/Classes and Objects in C++.md",
-    "Structuring a C++ codebase.md",
-    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "History of C++.md",
-    "5 - Templates/Title.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/Partial Specialisation in C++.md",
     "Copy Assignment Operator in C++.md",
-    "3 - Main Notes/C++/Canonical Forms in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
