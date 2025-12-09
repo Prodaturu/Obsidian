@@ -33,13 +33,19 @@
 
 Two main ideas:
 
-- [[Shallow Copy in C++]] – copy **member values as-is** (including pointer addresses)
-- [[Deep Copy in C++]] – copy the **data behind** the pointers / resources
+- [[Shallow Copy in C++]]
+	- copies **member values as-is** (including pointer addresses)
+	  
+- [[Deep Copy in C++]]
+	- copy the **data behind** the pointers / resources
 
-These matter most when a class **owns resources** (heap memory, file handles, etc.).
+- These matter most when a class **owns resources** (heap memory, file handles, etc.).
 
 # Internal References
 
-
+- [[Copy Constructor in C++]] – copying when creating a new object
+- [[Copy Assignment Operator in C++]] – copying into an existing object
+- [[Canonical Forms in C++]] – how copy semantics fit lifetime design
+- [[Rules of Three Five and Zero in C++]]
 
 # External References
