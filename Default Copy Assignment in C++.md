@@ -61,6 +61,13 @@ int main()
 		- `x` from `other.x`
 		- `y` from `other.y`
 
+## Syntax
+
+- The syntax is same for both user-defined and default Copy assignment operator
+```cpp
+Point& Point::operator=(const Point& other)
+```
+
 # Internal References
 
 
