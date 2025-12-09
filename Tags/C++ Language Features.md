@@ -36,7 +36,6 @@ Map note for the main “feature areas” of C++.
 - Data structures in C++ → [[C++ Data Structures and Algorithms]]
 - Functions & Callables → [[Functions in C++]]
 - Generic Programming → [[Generic Types in C++]]
-- Error Handling → [[C++ Error Handling]]
 - Files & IO → [[C++ Files]]
 - Libraries & ecosystem → [[C++ Libraries]]
 
