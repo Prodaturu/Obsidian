@@ -65,7 +65,7 @@ int main()
 
 - The syntax is same for both user-defined and default Copy assignment operator
 ```cpp
-Point& Point::operator=(const Point& other)
+Point &Point::operator=(const Point &other)
 ```
 
 # Internal References
