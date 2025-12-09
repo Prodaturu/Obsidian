@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
+                "file": "Types of Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Polymorphism in C++"
+              "title": "Types of Polymorphism in C++"
             }
           },
           {
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -145,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
+                "file": "Types of Polymorphism in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Polymorphism in C++"
+              "title": "Outline of Types of Polymorphism in C++"
             }
           },
           {
@@ -253,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
+                "file": "Types of Polymorphism in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -263,7 +264,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Polymorphism in C++"
+              "title": "Backlinks for Types of Polymorphism in C++"
             }
           },
           {
@@ -272,12 +273,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
+                "file": "Types of Polymorphism in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Polymorphism in C++"
+              "title": "Outgoing links from Types of Polymorphism in C++"
             }
           }
         ]
@@ -322,8 +323,8 @@
   },
   "active": "791178f606efeb9a",
   "lastOpenFiles": [
-    "Types of Polymorphism in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
+    "Types of Polymorphism in C++.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/C++ Data Structures.md",

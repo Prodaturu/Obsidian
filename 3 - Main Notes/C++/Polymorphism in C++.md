@@ -22,9 +22,9 @@
 	- OOPS in C++ <!-- parent, plain text -->
     - Classes and Objects in C++ <!-- related, plain text -->
     - C++ Language Features <!-- related, plain text -->
-    - [[Types of Polymorphism in C++]]
        
 - **Topic Links:**
+    - [[Types of Polymorphism in C++]]
     - [[Function Overloading in C++]]
     - [[Operator Overloading in C++]]
     - [[Constructor Overloading in C++]]
@@ -47,7 +47,14 @@
 ## [[Types of Polymorphism in C++]]
 
 - Run time Polymorphism in C++
+	- Function Overloading
+	- Operator Overloading
+	- Constructor Overloading
+	  
 - Compile time Polymorphism in C++
+	- Virtual Functions
+	- base-class pointers / Interfaces
+	- abstract classes as interfaces
 
 
 ### Key Differences
