@@ -1,110 +1,87 @@
 **Created:** *<span class ="color-green">09.12.25, 23:58</span>*
 
-**Note Type:**
+**Note Type:** #map
 
 **Hashtags:**
 - **Relevance Tags:**
-	- 
+    
+    - #cpp
+    - #oops
+    - #polymorphism
+    - #map
+       
 - **Topic Tags:**
-	- 
+    
+	- #compiletimepolymorphism
+    - #runtimepolymorphism
+    - #functionoverloading
+    - #operatoroverloading
+    - #virtualfunctions
+    - #abstractclasses
+ 
 
-**Links / Tags:** 
+**Links / Tags:**
+
 - **Relevance Links:**
-	- 
+    - Polymorphism in C++ <!-- parent, plain text -->
+    - OOPS in C++ <!-- higher-level map -->
+    - C++ Language Features <!-- related, plain text -->
+     
 - **Topic Links:**
-	- 
+    - [[Compile Time Polymorphism in C++]]
+    - [[Runtime Polymorphism in C++]]
+    - [[Function Overloading in C++]]
+    - [[Operator Overloading in C++]]
+    - [[Constructor Overloading in C++]]
+    - [[Templates in C++]]
+    - [[Virtual Functions in C++]]
+    - [[Abstract Classes in C++]]
 
 ---
 
 # Types of Polymorphism in C++
 
-## 1. Compile-time Polymorphism
+> Main flavours of polymorphism in C++
+
+## 1. [[Compile Time Polymorphism in C++|Compile-time Polymorphism]]
 
 - These are **Resolved during Compilation**
+- The compiler decides which code to call based on types and parameters
 
-#### Function Overloading
+### Typical Mechanisms
 
-- Same function name, different parameters
-```cpp
-void print(int a){};
-void print(double a){};
-void print(string a){};
-```
-
-#### Operator Overloading
-
-- Redefining operators for user-defined types
-```cpp
-class Vector
-{
-	Vector operator+(vector other) {};
-}
-```
-
-#### Constructor Overloading
-
-- Multiple constructors with different parameters
-```cpp
-class Rectangle
-{
-private:
-	int width, height;
-public:
-	Rectangle(){width = height = 0;}                 // Default
-	Rectangle(int w, int h) {width = w; height = h;} // Parameterized
-	Rectangle(int size) {width = height = size;}     // Square
-};
-```
+- [[Function Overloading in C++]] 
+	- same function name, different parameter types
+	  
+- [[Operator Overloading in C++]] 
+	- Redefine `+`, `==` etc., for user-defined types
+	  
+- [[Constructor Overloading in C++]] 
+	- Multiple Constructors for different ways to build the same class
+	
+- [[Templates in C++]]
+	- compiler generates type-specific code from a template
 
 ## 2. Runtime Polymorphism (Dynamic / Late Binding)
 
 - Resolved during **Runtime** / **Program Execution**
+- Calls depend on actual object type, not just the pointer / reference type
 
-#### Virtual Function Mechanism
+### Typical Mechanisms
 
-```cpp
-#include <iostream>
-using namespace std;
-
-class Animal
-{
-public:
-    // VIRTUAL - enables runtime binding
-    virtual void speak() {cout << "Animal speaks" << endl;}
-    
-    virtual ~Animal() = default;
-};
-
-class Dog : public Animal
-{
-public:
-	// OVERRIDE - replaces parent's implementation
-	void speak() override {cout << "Woof! Woof!" << endl;}
-};
-
-class Cat : public Animal
-{
-public:
-	void speak() override {cout << "Meow!" << endl;}
-};
-
-// Usage demonstrating runtime decision:
-int main()
-{
-	Animal* animal;
+- [[Virtual Functions in C++]]
+	- Calling through a base-class pointer/ reference, selects the correct override at runtime
 	
-	Dog dog;
-	Cat cat;
-	
-	animal = &dog;
-	animal->speak(); /* Output: "Woof! Woof!" (Runtime decision)*/
-	
-	animal = &cat;
-	animal->speak(); /* Output: "Meow!" (Runtime decision)*/
-	
-	//without 'virtual' -> Both would ouput: "Animal speaks"
-}
-```
+- [[Abstract Classes in C++]]
+	- Interface-like base classes with pure virtual functions that derived class must implement
 
+## High-level Comparison
+
+|Aspect|Compile time polymorphism|Runtime polymorphism|
+|---|---|---|
+|Resolution|at compile time|at runtime|
+|Performance|faster (no virtual dispatch)|slightly slower|
+|Flexibility|limited to known overloads/templates|high (depends on actual object type)|
+|Mechanism|overloading, templates|virtual functions, abstract interfaces|
 
 # External References
