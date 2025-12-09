@@ -35,6 +35,7 @@ int x = "Hello"; // Type Mismatch
 - Common Runtime Errors:
 	- Dividing by zero
 	- Accessing out-of-bounds array elements
+		- Also called as [[Access Violation in C++|Access Violation]]
 	- Using deleted memory (dangling pointer)
 
 #### Examples: Common Runtime Errors

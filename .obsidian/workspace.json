@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "Access Violation in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memory management in C++"
+              "title": "Access Violation in C++"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Stack",
+                "query": "error handling",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -172,7 +172,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "Access Violation in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Memory management in C++"
+              "title": "Outline of Access Violation in C++"
             }
           },
           {
@@ -307,12 +308,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "Access Violation in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Memory management in C++"
+              "title": "Outgoing links from Access Violation in C++"
             }
           }
         ]
@@ -357,12 +358,14 @@
   },
   "active": "6367f8277a843ed7",
   "lastOpenFiles": [
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
+    "Access Violation in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
+    "3 - Main Notes/C++/Error Handling Mechanisms in C++.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
+    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
-    "3 - Main Notes/C++/Memory management in C++.md",
     "C++ Algorithms.md",
     "Indexes/C++.md",
     "3 - Main Notes/German/Deutsch.md",
@@ -381,8 +384,6 @@
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter - paragraph 1.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
     "5 - Templates/NovelPage.md",
-    "5 - Templates/Title.md",
-    "5 - Templates/5 - Templates.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
