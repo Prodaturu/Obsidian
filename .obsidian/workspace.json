@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operator Overloading in C++"
+              "title": "Copy Assignment Operator in C++"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#oops",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -123,12 +123,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operator Overloading in C++"
+              "title": "Outline of Copy Assignment Operator in C++"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md"
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operator Overloading in C++"
+              "title": "Backlinks for Copy Assignment Operator in C++"
             }
           },
           {
@@ -246,12 +246,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Operator Overloading in C++"
+              "title": "Outgoing links from Copy Assignment Operator in C++"
             }
           }
         ]
@@ -296,8 +296,12 @@
   },
   "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/Canonical Forms in C++.md",
+    "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/User-Defined Types in C++.md",
+    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "Tags/C++ Language Features.md",
@@ -318,15 +322,11 @@
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "3 - Main Notes/German/German Books",
     "1. Satzsystem.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/German",
     "3 - Main Notes/C++/Types of Constructors in C++.md",
-    "3 - Main Notes/C++/Template Best Practices in C++.md",
-    "3 - Main Notes/C++/Types of Errors in C++.md",
-    "3 - Main Notes/C++/C++ Error Handling.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",

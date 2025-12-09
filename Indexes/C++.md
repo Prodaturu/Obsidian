@@ -25,7 +25,7 @@ sticker: lucide//code
 	- [[Structuring a C++ codebase|C++ code structuring]]
 	  
 - **Topic Tags:**
-	- #oop
+	- #OOPS 
 	- #generic_programming
 	- #systems_programming
 	- #compiled_language

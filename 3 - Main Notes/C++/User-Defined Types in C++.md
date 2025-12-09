@@ -6,7 +6,7 @@
 - #cpp
 - #datatypes
 - #atomic
-- #oop
+- #oops
 
 **Links / Tags:** 
 - **Relevance Links:**
