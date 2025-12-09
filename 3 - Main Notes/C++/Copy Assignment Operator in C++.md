@@ -50,17 +50,32 @@
 	- [[Overloading Copy Assignment Operator in C++|User Defined Copy Assignment Operator]]
 	- Replaces or extends the default behaviour
 
-## Typical signature
+## Typical signature / Syntax
 
 ```cpp
 Myclass& operator=(const MyClass& other);
 ```
 
+### Syntax Breakdown
+
 - `MyClass&`
-	- `return`s a reference to `*this` so we can chain assignments ( a = b = c;)
+	- `return` type
+	- returns a reference to `*this`
+	- Let's us chain assignments `a = b = c`
 	  
-- `const MyClass& other`
-	- 
+- `operator=`
+	- function name used by compiler to write `a = b`
+	- i.e when we write `a = b` it changes to
+		- `a.operator=(b);` // for member versions
+		- `operator=(a, b);` // for non-member versions
+		  
+	  - The function signature is typically
+		  - `MyClass& MyClass::operator=(const MyClass &other)`
+	
+  - `const MyClass &other`
+	  - `&other` is address / reference to the source object we are copying from
+	  - `const` promises not to modify `other` inside the assignment operator
+	  - reference(`&`) $\rightarrow$ no extra copy, just for the parameter
 
 # Internal References
 
