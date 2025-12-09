@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Untitled.md",
+                "file": "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Der Schimmelreiter"
             }
           }
         ]
@@ -384,8 +384,12 @@
   },
   "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
+    "5 - Templates/NovelPage.md",
+    "5 - Templates/Title.md",
+    "5 - Templates/5 - Templates.md",
+    "5 - Templates/.md",
+    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
-    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Untitled.md",
     "3 - Main Notes/German/Satzsystem.md",
     "3 - Main Notes/GeneralCodingConcepts/Compile Time Errors.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
@@ -396,7 +400,6 @@
     "3 - Main Notes/German/German Books",
     "1. Satzsystem.md",
     "Indexes/C++.md",
-    "5 - Templates/Title.md",
     "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C vs C++.md",
@@ -412,8 +415,6 @@
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
-    "C++ Datatypes.md",
-    "Datatypes in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
