@@ -16,6 +16,7 @@
   - [[Functions in C++]]
   - [[Templates in C++]]
   - [[C++ Files]]
+  - [[Control Flow in C++]]
 
 - **Topic Tags:**
   - #types

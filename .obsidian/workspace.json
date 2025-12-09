@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter - paragraph 1.md",
+                "file": "3 - Main Notes/C++/Control Flow in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Der Schimmelreiter - paragraph 1"
+              "title": "Control Flow in C++"
+            }
+          },
+          {
+            "id": "6367f8277a843ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/C++ Language Features.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Language Features"
             }
           }
         ]
@@ -382,10 +406,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
-    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Control Flow in C++.md",
+    "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter - paragraph 1.md",
+    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
     "5 - Templates/NovelPage.md",
     "5 - Templates/Title.md",
     "5 - Templates/5 - Templates.md",
@@ -412,9 +439,6 @@
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "3 - Main Notes/C++/Advanced Template Features in C++.md",
-    "3 - Main Notes/C++/C++ Basic Data Structures.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
