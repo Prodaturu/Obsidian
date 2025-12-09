@@ -26,7 +26,7 @@
 - Accessing an array out of bounds
 - Reading or writing to memory freed by user or Operating System
 
-## Issues caused by Access Viloation
+## Issues caused by Access Violation
 
 - Leads to unpredictable behaviour, Application crashes, or 
 
