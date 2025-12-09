@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Switch Statements in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Switch Statements in C++"
+              "title": "Operator Overloading in C++"
             }
           },
           {
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"\\\"operator overloading\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -123,11 +123,13 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -408,6 +410,7 @@
   },
   "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
@@ -438,7 +441,6 @@
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "3 - Main Notes/C++/Advanced Template Features in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
