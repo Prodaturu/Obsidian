@@ -22,13 +22,21 @@
 	- [[Copy constructor in C++|Copy constructor]]
 	- [[Copy Assignment Operator in C++]]
 	- [[Canonical Forms in C++]]
-	- [[Rules of ]]
+	- [[Rules of Three Five and Zero in C++]]
 
 ---
 
 # Copy semantics in C++
 
-- 
+> How objects are **copied** in C++: 
+> 	what exactly is duplicated when you do `a = b;` or `MyClass c = b;`.
+
+Two main ideas:
+
+- [[Shallow Copy in C++]] – copy **member values as-is** (including pointer addresses)
+- [[Deep Copy in C++]] – copy the **data behind** the pointers / resources
+
+These matter most when a class **owns resources** (heap memory, file handles, etc.).
 
 # Internal References
 
