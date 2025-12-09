@@ -133,8 +133,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
+                "file": "Default Copy Assignment in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Copy Assignment Operator in C++"
+              "title": "Outline of Default Copy Assignment in C++"
             }
           },
           {
@@ -255,8 +254,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "353b5826e8f5adba",
@@ -317,7 +315,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0ac6a02a0f78b1d3",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "Overloading Copy Assignment Operator in C++.md",

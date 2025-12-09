@@ -77,14 +77,41 @@ Point &Point::operator=(const Point &other)
 - `const Point& other`
 	- Source object, passed by const reference
 	  
-- So we can just write `b = a` for actual copy assignment
+- So we can just write `b = a` while calling the `operator=`
 
 ## Using '=default' (C++ 11)
 
-- 
+- We can explicitly ask for the `default` behaviour
+```cpp
+class Point
+{
+public:
+	int  x;
+	int  y;
+	
+	Point &operator=(const Point&) = default;
+};
+```
+
+### Use-cases for'default' call
+
+- Document that copying is allowed
+- We defined other special members (like a custom destructor) but still need default copy assignment
+
+## When to use default copy assignment
+
+- The class doesn't manage raw resources (no `new` or `delete`) 
+- All members are:
+	- value types (`int`, `double`, `enums` etc.,) 
+	   or
+	- RAII types (`std::string`, `std::vector`, smart pointers, etc;)
+	  
+- This is the **Rule of Zero** situation
+	- Let member objects handle copying and destruction
+	- no need for a custom `operator=`
 
 # Internal References
 
-
+- Rule of Zero
 
 # External References
