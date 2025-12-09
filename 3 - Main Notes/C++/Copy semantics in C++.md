@@ -16,6 +16,7 @@
 - **Relevance Links:**
 	- Classes and Objects in C++        <!-- Parent -->
     - Memory management in C++          <!-- Parent -->
+    - Inheritance in C++
 - **Topic Links:**
 	- [[Shallow copy in C++]]
 	- [[Deep copy in C++]]
@@ -39,7 +40,7 @@ Two main ideas:
 	  
 - [[Deep Copy in C++]]
 	- copy the **data behind** the pointers / resources
-
+	  
 - These matter most when a class **owns resources** (heap memory, file handles, etc.).
 
 # Internal References

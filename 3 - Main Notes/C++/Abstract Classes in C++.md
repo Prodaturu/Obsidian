@@ -3,18 +3,29 @@
 **Status:** 
 
 **Hashtags:**
-- #CPP 
-- #advancedcpp 
-- #cppclasses 
-- #purevirtualfunctions
-- #virtualfunctions  
-- #abstractclasses
-- #polymorphism 
-
-**Links / Tags:** 
-- **Relevance Links:**
-
+- **Relevance Tags:**
+    - #cpp
+    - #advancedcpp
+    - #cppclasses
+      
 - **Topic Tags:**
+    - #abstractclasses
+    - #purevirtualfunctions
+    - #virtualfunctions
+    - #polymorphism  
+
+**Links / Tags:**
+
+- **Relevance Links:**
+    - Classes and Objects in C++ <!-- parent, plain text -->
+    - Polymorphism in C++ <!-- parent, plain text -->
+    - OOPS in C++ <!-- higher-level OOP map, plain text -->
+    - Inheritance in C++
+      
+- **Topic Links:**
+    - [[Virtual Functions in C++]]
+    - [[Pure Virtual Functions in C++]]
+    - [[Interfaces in C++]] <!-- if you make this note later -->
 
 # Abstract Classes
 
@@ -27,10 +38,10 @@
 
 ## Properties of Abstract Class
 
-- **Requires PURE virtual functions** (`= 0`)
-- **No implementation** for pure Virtual Functions
-- **Must be overridden**
-- Used for **interfaces/blueprints**
+- Requires **PURE virtual functions** (`= 0`)
+- **No implementation** for pure Virtual Functions in the base class
+- **Must be overridden** in concrete derived classes
+- Used as **interfaces/blueprints**
 
 ## Pure Virtual Function
 
@@ -40,10 +51,10 @@ virtual void function() = 0; // Makes class abstract
 
 ## Key Points
 
-- `= 0` $\Rightarrow$ Pure Virtual (no Implementation)
+- `= 0` $\Rightarrow$ Pure Virtual (no Implementation in this class)
 - Class becomes abstract
 - cannot create objects of abstract class
-- Derived classes must implement all pure virtual functions
+- Derived classes must implement all pure virtual functions to become concrete
 
 ## Examples:
 
@@ -73,16 +84,23 @@ public:
 class Dog : public Animal
 {
 public:
-	// MUST implement
+	// MUST implement the pure virtual funtion speak=0
     void speak() override {cout << "Woof!" << endl;}
 };
 
-Dog dog;  // OK - implements all pure virtual functions
+int main()
+{
+	// Animal a;  // Still abstract
+	Dog dog;  // OK - implements all pure virtual functions
+	
+	dog.speak() // Output: "Woof!"
+}
 ```
 
-- The `virtual void speak = 0;` says that `speak` must be modified in the derived functions
+- The `virtual void speak = 0;` says that `speak` must be implemented in the derived class
 - Then in the derived class `Dog`
 	- The `override` keyword is used to modify `speak`
+		- making it clear we are overriding a virtual function
 	- In this particular example, `void speak() override {cout << "Woof!" << endl;}`
 
 #### Practical Usage
@@ -95,6 +113,9 @@ public:
     virtual void query(string sql) = 0;
     virtual ~Database() = default;
 };
+
+// As `query` is now a pure virtual function
+// we must override it all the classes derived from Database
 
 class MySQL : public Database
 {
@@ -137,10 +158,4 @@ useDatabase(new PostgreSQL()); // Uses PostgreSQL - same interface!
 
 # References
 
-## Closely Related Notes
-
-- Virtual Functions in C++
-
-### Next:
-
-### Prev:
+- [Pure Virtual Functions and Abstract Classes in C++ - Geeks for Geeks](https://www.geeksforgeeks.org/cpp/pure-virtual-functions-and-abstract-classes/)

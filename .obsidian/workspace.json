@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ac6a02a0f78b1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Copy semantics in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": true,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Copy semantics in C++"
-            }
-          },
-          {
             "id": "791178f606efeb9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memory management in C++"
-            }
-          },
-          {
-            "id": "f86ce5d078a86924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Types of Errors in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Types of Errors in C++"
-            }
-          },
-          {
-            "id": "6367f8277a843ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Default Copy Assignment in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Default Copy Assignment in C++"
-            }
-          },
-          {
-            "id": "f87a6f2efc5749a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Abstract Classes in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Abstract Classes in C++"
-            }
-          },
-          {
-            "id": "f53b86884bf3d019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/C++ Data Structures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++ Data Structures"
+              "title": "Polymorphism in C++"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "error handling",
+                "query": "tag:#runtimepolymorphism",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -220,7 +99,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -241,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Abstract Classes in C++.md",
+                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abstract Classes in C++"
+              "title": "Outline of Polymorphism in C++"
             }
           },
           {
@@ -287,25 +167,6 @@
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
-            }
-          },
-          {
-            "id": "2294c04759ebe7ec",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Copy Assignment Operator in C++"
             }
           },
           {
@@ -355,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "353b5826e8f5adba",
@@ -363,17 +224,36 @@
         "dimension": 25.49715909090909,
         "children": [
           {
+            "id": "2294c04759ebe7ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Polymorphism in C++"
+            }
+          },
+          {
             "id": "dffa69b0e2fb67a7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Abstract Classes in C++.md",
+                "file": "3 - Main Notes/C++/Polymorphism in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Abstract Classes in C++"
+              "title": "Outgoing links from Polymorphism in C++"
             }
           }
         ]
@@ -416,22 +296,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f87a6f2efc5749a2",
+  "active": "791178f606efeb9a",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Copy semantics in C++.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
+    "3 - Main Notes/C++/C++ Data Structures.md",
+    "3 - Main Notes/C++/Virtual Functions in C++.md",
+    "3 - Main Notes/C++/Default Copy Assignment in C++.md",
+    "3 - Main Notes/C++/Types of Errors in C++.md",
+    "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Template Array Example in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
-    "3 - Main Notes/C++/C++ Data Structures.md",
-    "3 - Main Notes/C++/Default Copy Assignment in C++.md",
     "3 - Main Notes/C++/Access Violation in C++.md",
-    "3 - Main Notes/C++/Types of Errors in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Error Handling Mechanisms in C++.md",
-    "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/C++ Algorithms.md",
     "Indexes/C++.md",
     "3 - Main Notes/German/Deutsch.md",
-    "3 - Main Notes/C++/Copy semantics in C++.md",
     "3 - Main Notes/C++/Copy Constructor in C++.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Overloading Copy Assignment Operator in C++.md",
@@ -442,8 +324,6 @@
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
-    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter - paragraph 1.md",
-    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
