@@ -46,7 +46,8 @@
 
 ## [[Types of Polymorphism in C++]]
 
-- 
+- [[Run time Polymorphism in C++]]
+- [[Compile time Polymorphism in C++]]
 
 
 ### Key Differences
