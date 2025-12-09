@@ -25,3 +25,10 @@
 - [[Der Schimmelreiter - paragraph 1]]
 
 # External References
+
+- [Der Schimmelreiter - Wikipedia](https://de.wikipedia.org/wiki/Der_Schimmelreiter)
+	- Überblick über die Novelle und ihren Autor
+	- Overview of the novel and its author
+	
+- [The Rider on the White Horse - Wikipedia](https://en.wikipedia.org/wiki/The_Rider_on_the_White_Horse)
+	- Overview of the novel and its author
