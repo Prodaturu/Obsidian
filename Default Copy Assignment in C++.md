@@ -33,7 +33,33 @@
 
 # Default Copy Assignment in C++
 
-- 
+- When we don't declare a copy assignment operator for a class
+- The compiler **generates one automatically**
+
+## Default definition
+
+```cpp
+class Point
+{
+public:
+	int  x;
+	int  y;
+}
+
+int main()
+{
+	Point a{1, 2};
+	Point b{3, 4};
+	b = a;
+	std::cout << b.x << ", " << b.y; 
+}
+```
+
+- Default copy assignment does a **member wise copy**
+	- Assigns each non-static data member from `other` to `this` class
+	- for `Point` class example
+		- `x` from `other.x`
+		- `y` from `other.y`
 
 # Internal References
 
