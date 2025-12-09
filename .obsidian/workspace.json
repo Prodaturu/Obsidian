@@ -164,10 +164,24 @@
             "id": "b7adcb6e193641b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/German/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -523,6 +537,8 @@
   },
   "active": "b7adcb6e193641b3",
   "lastOpenFiles": [
+    "3 - Main Notes/German/Untitled.md",
+    "3 - Main Notes/German",
     "Types of Constructors in C++.md",
     "3 - Main Notes/C++/Template Best Practices in C++.md",
     "Runtime Errors.md",
@@ -548,7 +564,6 @@
     "3 - Main Notes/C++/Partial Specialisation in C++.md",
     "Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
-    "3 - Main Notes/C++/Constructors in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
@@ -561,7 +576,6 @@
     "6 - Full Notes/Pasted image 20251125054541.png",
     "Excalidraw",
     "6 - Full Notes/Pasted image 20251119045008.png",
-    "3 - Main Notes/InformationTheoryTum",
     "4 - Full Notes/Pasted image 20251116165539.png"
   ]
 }
