@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/German/Deutsch.md",
+                "file": "3 - Main Notes/German/Satzsystem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deutsch"
+              "title": "Satzsystem"
             }
           }
         ]
@@ -99,13 +99,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -386,9 +384,10 @@
   },
   "active": "a0f756c36cda5804",
   "lastOpenFiles": [
-    "3 - Main Notes/German/Satzsystem.md",
-    "1. Satzsystem.md",
     "3 - Main Notes/German/Deutsch.md",
+    "3 - Main Notes/German/Satzsystem.md",
+    "Hauptsatz.md",
+    "1. Satzsystem.md",
     "Indexes/C++.md",
     "5 - Templates/Title.md",
     "Structuring a C++ codebase.md",
@@ -412,7 +411,6 @@
     "Datatypes in C++.md",
     "Tags/Classes and Objects in C++.md",
     "History of C++.md",
-    "3 - Main Notes/C++/Templates in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
