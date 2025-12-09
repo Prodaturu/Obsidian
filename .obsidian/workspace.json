@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"\\\"operator overloading\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -123,8 +123,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,6 +137,7 @@
       {
         "id": "1fe2ea7f18082816",
         "type": "tabs",
+        "dimension": 47.58522727272727,
         "children": [
           {
             "id": "620fa379c273d379",
@@ -155,56 +155,16 @@
             }
           },
           {
-            "id": "d39fbf903e5a288b",
+            "id": "419561d6108fe7bb",
             "type": "leaf",
             "state": {
-              "type": "footnotes",
+              "type": "file-explorer",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
-            "id": "dffa69b0e2fb67a7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "2294c04759ebe7ec",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "autoReveal": false
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "0e4eb3b86fb1a121",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -222,6 +182,37 @@
             }
           },
           {
+            "id": "d39fbf903e5a288b",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "2294c04759ebe7ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Operator Overloading in C++"
+            }
+          },
+          {
             "id": "f90a992b88e4685c",
             "type": "leaf",
             "state": {
@@ -229,149 +220,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "df0603d20bf01256",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5f154ac4f67e9ce4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "6d765a4f1f2708f6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "27a21b42db257031",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5f12e0757ce94a78",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "6bf613ffc67378f5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "68d8c06d3a5f1421",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "dd2e2fd9029f0a71",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5646d1f04656c67b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "313918546d53fde3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "419561d6108fe7bb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
             }
           },
           {
@@ -385,11 +233,49 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
+      },
+      {
+        "id": "353b5826e8f5adba",
+        "type": "tabs",
+        "dimension": 25.49715909090909,
+        "children": [
+          {
+            "id": "dffa69b0e2fb67a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Operator Overloading in C++"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb7695eb625860bc",
+        "type": "tabs",
+        "dimension": 26.917613636363637,
+        "children": [
+          {
+            "id": "0e4eb3b86fb1a121",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -408,8 +294,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5f154ac4f67e9ce4",
+  "active": "0ac6a02a0f78b1d3",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "Tags/C++ Language Features.md",
@@ -439,8 +327,6 @@
     "3 - Main Notes/C++/Template Best Practices in C++.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
-    "3 - Main Notes/C++/Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Dynamic Memory Allocation in C++ '/(new / delete",
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
