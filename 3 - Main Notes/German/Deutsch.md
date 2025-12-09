@@ -10,17 +10,17 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-    - [[1. Satzsystem]] – Deutscher Satzbau • German sentence structure  
-    - [[2. Wortschatzsystem]] – Wichtiger Wortschatz • Essential vocabulary  
-    - [[3. Grammatiksystem]] – Kernregeln der Grammatik • Core grammar rules  
-    - [[4. Praepositionssystem]] – Praepositionen im Alltag • Daily-use prepositions  
-    - [[5. Tempussystem]] – Zeitformen • Verb tenses  
-    - [[6. Konnektorsystem]] – Verbindungswoerter • Connectors for fluent speech  
-    - [[7. Sprechsystem]] – Sprechmuster • Speaking patterns  
-    - [[8. Alltagssituationen]] – Deutsche Alltagsszenen • Real-life situations  
-    - [[9. Partikeln und Sprachgefuehl]] – Natuerliche Sprachelemente • Natural speech flow  
-    - [[10. Hoerverstehen und Shadowing]] – Hoertraining und Aussprache • Listening and shadowing  
-    - [[11. Fehler Korrektur Map]] – Eigene Fehlerliste • Personal correction map
+    - 1. [[Satzsystem]] – Deutscher Satzbau • German sentence structure  
+    - 2. [[Wortschatzsystem]] – Wichtiger Wortschatz • Essential vocabulary  
+    - 3. [[Grammatiksystem]] – Kernregeln der Grammatik • Core grammar rules  
+    - 4. [[Praepositionssystem]] – Praepositionen im Alltag • Daily-use prepositions  
+    - 5. [[Tempussystem]] – Zeitformen • Verb tenses  
+    - 6. [[Konnektorsystem]] – Verbindungswoerter • Connectors for fluent speech  
+    - 7. [[Sprechsystem]] – Sprechmuster • Speaking patterns  
+    - 8. [[Alltagssituationen]] – Deutsche Alltagsszenen • Real-life situations  
+    - 9. [[Partikeln und Sprachgefuehl]] – Natuerliche Sprachelemente • Natural speech flow  
+    - 10. [[Hoerverstehen und Shadowing]] – Hoertraining und Aussprache • Listening and shadowing  
+    - 11. [[Fehler Korrektur Map]] – Eigene Fehlerliste • Personal correction map
 
 - **Topic Tags:**
     - #satzbau
