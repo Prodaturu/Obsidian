@@ -19,6 +19,7 @@
   - [[RAII and Smart Pointers in C++]]
   - [[C++ Error Handling]]
   - [[C++ Data Types]]
+  - [[Runtime Errors]]
 
 cat /etc/passwd
 
