@@ -13,7 +13,7 @@
 **Links / Tags:**
 - **Relevance Links:**
     - Templates in C++ <!-- parent, plain text on purpose -->
-    - [[C++ Data Structures and Algorithms]]
+    - [[C++ Data Structures]]
       
 - **Topic Tags:**
     - #genericarray

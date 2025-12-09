@@ -107,10 +107,24 @@
             "id": "f87a6f2efc5749a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Template Array Example in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Template Array Example in C++"
             }
           },
           {
@@ -227,12 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/C++/Template Array Example in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Template Array Example in C++"
             }
           },
           {
@@ -339,11 +354,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 - Main Notes/C++/Template Array Example in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Template Array Example in C++"
             }
           }
         ]
