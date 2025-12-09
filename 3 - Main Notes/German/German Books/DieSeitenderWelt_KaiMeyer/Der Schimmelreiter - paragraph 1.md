@@ -24,10 +24,10 @@
         
 - ist mir vor reichlich einem halben Jahrhundert im Hause meiner Urgroßmutter kund geworden,
     - became known to me more than half a century ago in my great-grandmother’s house,
-        
+
 - während ich, an ihrem Lehnstuhl sitzend,
-    - while I am, sitting by her armchair,
-        
+    - while I was, sitting by her armchair,
+
 - mich mit dem Lesen eines in blaue Pappe eingebundenen Zeitschriftenheftes beschäftigte,
     - was occupied with reading a magazine bound in blue cardboard,
         
@@ -36,45 +36,34 @@
 - ob von den „Leipziger“ oder von „Pappes Hamburger Lesefrüchten“.
     - whether it was from the Leipziger or from Pappe’s Hamburger Lesefrüchte.
 
-
-- Noch fühle ich es gleich einem Schauer,
-    
+- Noch fühle ich es gleich einem Schauer,    
     - I can still feel it like a shiver,
         
 - wie dabei die linde Hand der über Achtzigjährigen mitunter liebkosend über das Haupthaar ihres Urenkels hinglitt.
-    
     - how the gentle hand of the woman over eighty sometimes softly glided over her great-grandson’s hair.
         
 - Sie selbst und jene Zeit sind längst begraben,
-    
     - she herself and that time are long gone,
         
 - vergebens auch habe ich seitdem jenen Blättern nachgeforscht,
-    
     - I have searched in vain for those pages since then,
         
 - und ich kann daher um so weniger weder die Wahrheit der Tatsachen verbürgen,
-    
     - and therefore I can even less guarantee the truth of the events,
-        
-- als, wenn jemand sie bestreiten wollte, dafür aufstehen;
-    
+
+- als, wenn jemand sie bestreiten wollte, dafür aufstehen;    
     - nor stand up for them if someone wanted to dispute them;
         
 - nur so viel kann ich versichern,
-    
     - this much I can assure,
-        
+
 - daß ich sie seit jener Zeit,
-    
     - that since that time,
         
 - obgleich sie durch keinen äußeren Anlaß in mir aufs neue belebt wurden,
-    
     - although nothing from outside ever brought the story back to life in me,
         
 - niemals aus dem Gedächtnis verloren habe.
-    
     - I have never forgotten it.
 
 
@@ -129,9 +118,7 @@
 		- es
 			- (genitive singular ending for neutral nouns)
 
-
 # Internal References
 
-
-
 # External References
+
