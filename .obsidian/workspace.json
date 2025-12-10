@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loops in C++.md",
+                "file": "for loops in C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -98,7 +98,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Loops in C++"
+              "title": "Graph of for loops in C++"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loops in C++.md",
+                "file": "for loops in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Loops in C++"
+              "title": "for loops in C++"
             }
           },
           {
@@ -289,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loops in C++.md",
+                "file": "for loops in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Loops in C++"
+              "title": "Outline of for loops in C++"
             }
           },
           {
@@ -331,7 +331,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Loops in C++.md"
+                "file": "for loops in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -370,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loops in C++.md",
+                "file": "for loops in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Loops in C++"
+              "title": "Backlinks for for loops in C++"
             }
           },
           {
@@ -389,12 +389,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loops in C++.md",
+                "file": "for loops in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Loops in C++"
+              "title": "Outgoing links from for loops in C++"
             }
           }
         ]
@@ -439,8 +439,9 @@
   },
   "active": "b4c68df752eafce9",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Control Flow in C++.md",
     "Loops in C++.md",
+    "for loops in C++.md",
+    "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Copy Constructor in C++.md",
     "If else in C++.md",
     "Tags/C++ Language Features.md",
@@ -464,7 +465,6 @@
     "3 - Main Notes/C++/Types of Polymorphism in C++.md",
     "Untitled.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
-    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
