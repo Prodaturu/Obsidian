@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - Main Notes/C++/Control Flow in C++.md",
+                "file": "Loops in C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -98,7 +98,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Control Flow in C++"
+              "title": "Graph of Loops in C++"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Control Flow in C++.md",
+                "file": "Loops in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Control Flow in C++"
+              "title": "Loops in C++"
             }
           },
           {
@@ -289,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Control Flow in C++.md",
+                "file": "Loops in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Control Flow in C++"
+              "title": "Outline of Loops in C++"
             }
           },
           {
@@ -331,7 +331,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/C++/Control Flow in C++.md"
+                "file": "Loops in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -370,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Control Flow in C++.md",
+                "file": "Loops in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Control Flow in C++"
+              "title": "Backlinks for Loops in C++"
             }
           },
           {
@@ -389,12 +389,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Control Flow in C++.md",
+                "file": "Loops in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Control Flow in C++"
+              "title": "Outgoing links from Loops in C++"
             }
           }
         ]
@@ -439,15 +439,15 @@
   },
   "active": "b4c68df752eafce9",
   "lastOpenFiles": [
-    "Loops in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
+    "Loops in C++.md",
+    "3 - Main Notes/C++/Copy Constructor in C++.md",
     "If else in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/Character and String Types in C++.md",
     "3 - Main Notes/C++/Floating-Point Types in C++.md",
     "Indexes/C++.md",
-    "3 - Main Notes/C++/Copy Constructor in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Primitive Integral Types in C++.md",

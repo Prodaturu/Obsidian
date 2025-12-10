@@ -96,8 +96,4 @@ see: [[Copy Assignment Operator in C++]]
 - [[Disabling Copy Constructor in C++]]
 	- deleting the copy constructor to make the type non-copyable
 
-# Internal References
-
-
-
 # External References
