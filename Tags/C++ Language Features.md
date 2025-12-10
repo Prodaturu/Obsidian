@@ -16,7 +16,6 @@
   - [[Templates in C++]]
   - [[Control Flow in C++]]
   - [[C++ Files]]
-  - [[C++ Type System]]
 
 - **Topic Tags:**
   - #types
@@ -44,9 +43,6 @@ Central map for “**Core Language Building Blocks**.”
 
 ### Files & IO  
 → [[C++ Files]] — streams, file I/O, reading/writing.
-
-### Type System Rules  
-→ [[C++ Type System]] — static typing, conversions, qualifiers, deduced types.
 
 # References
 

@@ -18,6 +18,7 @@ sticker: lucide//code
 		- [[History of C++]]
 		- [[C vs C++]] - Main Differences and Commonality between C and C++
 		- [[C++ Language Features]]
+		- [[C++ Type System]]  
 		  
 	- OOPS:
 		- [[OOPS in C++]] - Object Oriented Programming in C++

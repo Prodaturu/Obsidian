@@ -86,9 +86,33 @@
               "icon": "lucide-file",
               "title": "C++"
             }
+          },
+          {
+            "id": "ef98786034d769a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/C++ Language Features.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Language Features"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of C++ Language Features"
             }
           },
           {
@@ -219,7 +243,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Indexes/C++.md"
+                "file": "Tags/C++ Language Features.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -258,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -268,7 +292,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for C++ Language Features"
             }
           },
           {
@@ -277,12 +301,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++"
+              "title": "Outgoing links from C++ Language Features"
             }
           }
         ]
@@ -325,8 +349,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f262823372cff46c",
+  "active": "ef98786034d769a6",
   "lastOpenFiles": [
+    "Indexes/C++.md",
     "Tags/C++ Language Features.md",
     "C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
@@ -352,7 +377,6 @@
     "Tempussystem.md",
     "Praepositionssystem.md",
     "Grammatiksystem.md",
-    "Wortschatzsystem.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
