@@ -160,7 +160,7 @@ public:
 - “I only know that this is a **Shape**.”
 - “At runtime,
 	- the system looks at the **real object** (Rectangle, Circle, etc.)  
-	- calls the correct override via `virtual`.”
+	- calls the correct override via `virtual`.
 
 # Internal References
 
