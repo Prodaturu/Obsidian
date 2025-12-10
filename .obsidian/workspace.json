@@ -37,7 +37,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 63.877266387726635,
+        "dimension": 63.87726638772663,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -61,6 +61,16 @@
               },
               "icon": "lucide-file",
               "title": "If else in C++"
+            }
+          },
+          {
+            "id": "d6e36509207cb08d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -111,7 +121,8 @@
               "title": "CV-Qualifiers in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/If else in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of If else in C++"
+              "title": "Outline"
             }
           },
           {
@@ -242,9 +252,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "3 - Main Notes/C++/If else in C++.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -261,6 +269,19 @@
           },
           {
             "id": "feb748bd4d7732ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "70b461057ec34414",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -282,7 +303,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/If else in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -292,7 +312,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for If else in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -301,12 +321,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/If else in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from If else in C++"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -349,8 +368,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94b408e44d3ea9ec",
+  "active": "d6e36509207cb08d",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/If else in C++.md",
     "3 - Main Notes/German/Sprechsystem.md",
     "3 - Main Notes/German/Alltagssituationen.md",
     "3 - Main Notes/C++/Deep Copy in C++.md",
@@ -376,7 +396,6 @@
     "3 - Main Notes/German/Hoerverstehen und Shadowing.md",
     "3 - Main Notes/German/Partikeln und Sprachgefuehl.md",
     "3 - Main Notes/German/Konnektorsystem.md",
-    "3 - Main Notes/German/Tempussystem.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
