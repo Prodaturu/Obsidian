@@ -23,7 +23,7 @@
 # CV-Qualifiers in C++
 
 - Map note for `const` / `volatile` (CV-qualifiers) in C++.
-	- [[const Keyword in C++]]
+	- [[Const Keyword in C++]]
 	- [[Const Data Members in C++]]
 	- [[Const Member Functions in C++]]
 	- [[Const-Correct Getters in C++]]
