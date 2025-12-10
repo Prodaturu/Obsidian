@@ -73,12 +73,11 @@ for (int i = 0; i<n; )
 }
 ```
 
-## 
-
-
-
 # Internal References
 
+## [[Range Based For Loop in C++|Range based for loops]]
 
+- Cleaner syntax for "go through every element in a container"
+- when you don't need the index
 
 # External References
