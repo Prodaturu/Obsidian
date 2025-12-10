@@ -31,14 +31,21 @@
               "icon": "lucide-file",
               "title": "Runtime Polymorphism in C++"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c4aebc1087e81e68",
+        "type": "tabs",
+        "dimension": 63.488576449912124,
+        "children": [
           {
             "id": "2d5ccc945f7b043e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Copy Constructor in C++.md",
+                "file": "3 - Main Notes/German/Deutsch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,52 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Copy Constructor in C++"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c4aebc1087e81e68",
-        "type": "tabs",
-        "dimension": 63.488576449912124,
-        "children": [
-          {
-            "id": "be76d2a73f5cbd02",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "for loops in C++.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0394582426349543,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of for loops in C++"
+              "title": "Deutsch"
             }
           },
           {
@@ -197,8 +159,7 @@
               "title": "Operators in C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "for loops in C++.md",
+                "file": "3 - Main Notes/German/Deutsch.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of for loops in C++"
+              "title": "Outline of Deutsch"
             }
           },
           {
@@ -331,7 +292,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "for loops in C++.md"
+                "file": "3 - Main Notes/German/Deutsch.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -370,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "for loops in C++.md",
+                "file": "3 - Main Notes/German/Deutsch.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -380,7 +341,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for for loops in C++"
+              "title": "Backlinks for Deutsch"
             }
           },
           {
@@ -389,12 +350,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "for loops in C++.md",
+                "file": "3 - Main Notes/German/Deutsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from for loops in C++"
+              "title": "Outgoing links from Deutsch"
             }
           }
         ]
@@ -437,10 +398,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b4c68df752eafce9",
+  "active": "2d5ccc945f7b043e",
   "lastOpenFiles": [
-    "Loops in C++.md",
+    "Fehler Korrektur Map.md",
+    "3 - Main Notes/German/Deutsch.md",
+    "Hoerverstehen und Shadowing.md",
+    "Partikeln und Sprachgefuehl.md",
+    "Alltagssituationen.md",
+    "Sprechsystem.md",
+    "Konnektorsystem.md",
+    "Tempussystem.md",
+    "Praepositionssystem.md",
+    "Grammatiksystem.md",
+    "Wortschatzsystem.md",
     "for loops in C++.md",
+    "Loops in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Copy Constructor in C++.md",
     "If else in C++.md",
@@ -454,17 +426,6 @@
     "3 - Main Notes/C++/Primitive Integral Types in C++.md",
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
     "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
-    "3 - Main Notes/C++/History of C++.md",
-    "C++ Type System.md",
-    "CV-Qualifiers in C++.md",
-    "3 - Main Notes/C++/User-Defined Types in C++.md",
-    "3 - Main Notes/C++/C++ Data Structures.md",
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "Runtime Polymorphism in C++.md",
-    "3 - Main Notes/C++/Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Types of Polymorphism in C++.md",
-    "Untitled.md",
-    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
