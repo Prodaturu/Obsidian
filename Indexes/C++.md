@@ -18,12 +18,15 @@ sticker: lucide//code
 		- [[History of C++]]
 		- [[C vs C++]] - Main Differences and Commonality between C and C++
 		- [[C++ Language Features]]
+		  
 	- OOPS:
 		- [[OOPS in C++]] - Object Oriented Programming in C++
+		  
 	- DSA:
 		- [[C++ Data Structures and Algorithms]] - DSA in C++
-		- [[C++ Libraries]] - Most common libraries in C++
-	- memory, errors, and project structure:
+		- [[C++ Libraries]] - Libraries and C++ ecosystem
+		  
+	- Memory, errors, and project structure:
 		- [[Memory management in C++]]
 		- [[C++ Error Handling]]
 		- [[Structuring a C++ codebase|C++ code structuring]]
