@@ -31,14 +31,27 @@
 
 Central map for “**Core Language Building Blocks**.”  
 
-- Types / Datatype in C++ → [[3 - Main Notes/C++/C++ Data Types.md|Datatypes in C++]]
-- Operators → [[Operators in C++]]
-- Data structures in C++ → [[C++ Data Structures and Algorithms]]
-- Data structures in C++ → [[C++ Data Structures and Algorithms]]
-- Functions & Callables → [[Functions in C++]]
-- Generic Programming → [[Generic Types in C++]]
-- Files & IO → [[C++ Files]]
-- Libraries & ecosystem → [[C++ Libraries]]
+
+### Types  
+→ [[C++ Data Types]] — primitive, composite, pointers, special types.
+
+### Operators  
+→ [[Operators in C++]] — arithmetic, logical, comparison, overloadable ops.
+
+### Functions & Callables  
+→ [[Functions in C++]] — declarations, returns, parameters, call rules.
+
+### Control Flow  
+→ [[Control Flow in C++]] — if/switch/loops and control statements.
+
+### Generic Programming  
+→ [[Templates in C++]] — function + class templates, template parameters.
+
+### Files & IO  
+→ [[C++ Files]] — streams, file I/O, reading/writing.
+
+### Type System Rules  
+→ [[C++ Type System]] — static typing, conversions, qualifiers, deduced types.
 
 # References
 

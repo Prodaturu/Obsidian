@@ -9,25 +9,23 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - [[Primitive Integral Types in C++]]
-  - [[Floating-Point Types in C++]]
-  - [[Character and String Types in C++]]
-  - [[Pointer and Reference Types in C++]]
-  - [[User-Defined Types in C++]]
-  - [[Special Types in C++]]
-  - [[C++ Time & Date Datatypes, Timestamps]]
-  - [[C++ STL]]
-  - [[Templates in C++]]
-  - [[Generic Types in C++]]
-
+	- [[Primitive Integral Types in C++]]
+	- [[Floating-Point Types in C++]]
+	- [[Character and String Types in C++]]
+	- [[Pointer and Reference Types in C++]]
+	- [[Fixed-Width Integer Types in C++]]
+	- [[User-Defined Types in C++]]
+	- [[Special Types in C++]]
+	- [[C++ Time & Date Datatypes, Timestamps]]
+	  
 - **Topic Tags:**
-  - #types
-  - #numeric
-  - #characters
-  - #pointers
-  - #user_defined
-  - #template_types
-  - #special_types
+	- #types
+	- #numeric
+	- #characters
+	- #pointers
+	- #user_defined
+	- #template_types
+	- #special_types
 
 # C++ Data Types
 
