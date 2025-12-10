@@ -8,15 +8,15 @@
 	- #controlflow
 	- #languagefeatures
 - **Topic Tags:**
-  - #branches
+	- #branches
 	- #loops
 	- #jumps
 
 **Links / Tags:**
 - **Relevance Links:**
-	- C++ Language Features          <!-- parent, plain text on purpose -->
-	- [[Operators in C++]]
-	- [[Functions in C++]]
+	- C++ Language Features          <!-- parent -->
+	- Operators in C++
+	- Functions in C++
 	  
 - **Topic Links:**
 	- [[If else in C++]]
@@ -25,7 +25,7 @@
 	- [[Range Based For Loop in C++]]
 	- [[Break and Continue in C++]]
 	- [[Return Statement in C++]]
-	- [[Goto and Labels in C++]]      <!-- optional, but nice to separate -->
+	- [[goto and Labels in C++]]      
 
 # Control Flow in C++
 
@@ -41,7 +41,7 @@ Control flow is about:
 
 ## Branching
 
-- [[If and Else in C++]]  
+- [[If else in C++]]  
   Basic conditional logic.
 
 - [[Switch Statements in C++]]  
@@ -67,18 +67,8 @@ Control flow is about:
 - [[Return Statement in C++]]  
   Leaving a function and (optionally) returning a value.
 
-- [[Goto and Labels in C++]]  
+- [[goto and Labels in C++]]  
   Rarely used, but part of the control flow toolbox.
-
----
-
-## Related Notes
-
-- [[Operators in C++]]            <!-- conditions use operators like ==, <, && -->
-- [[Functions in C++]]            <!-- return and early exit -->
-- [[C++ Error Handling]]          <!-- try/catch also affects control flow -->
-# Internal References
-
 
 
 # External References
