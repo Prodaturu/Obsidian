@@ -29,13 +29,13 @@
      
 - **Topic Links:**
     - [[Compile Time Polymorphism in C++]]
+	    - Function Overloading in C++
+	    - Operator Overloading in C++
+	    - Constructor Overloading in C++
+	    - Templates in C++
     - [[Runtime Polymorphism in C++]]
-    - [[Function Overloading in C++]]
-    - [[Operator Overloading in C++]]
-    - [[Constructor Overloading in C++]]
-    - [[Templates in C++]]
-    - [[Virtual Functions in C++]]
-    - [[Abstract Classes in C++]]
+	    - Virtual Functions in C++
+	    - Abstract Classes in C++
 
 ---
 
@@ -50,19 +50,19 @@
 
 ### Typical Mechanisms
 
-- [[Function Overloading in C++]] 
+- Function Overloading in C++ 
 	- same function name, different parameter types
 	  
-- [[Operator Overloading in C++]] 
+- Operator Overloading in C++
 	- Redefine `+`, `==` etc., for user-defined types
 	  
-- [[Constructor Overloading in C++]] 
+- Constructor Overloading in C++
 	- Multiple Constructors for different ways to build the same class
 	
-- [[Templates in C++]]
+- Templates in C++
 	- compiler generates type-specific code from a template
 
-## 2. Runtime Polymorphism (Dynamic / Late Binding)
+## 2. [[Runtime Polymorphism in C++|Runtime Polymorphism]] (Dynamic / Late Binding)
 
 - Resolved during **Runtime** / **Program Execution**
 - Calls depend on actual object type, not just the pointer / reference type
@@ -85,3 +85,4 @@
 |Mechanism|overloading, templates|virtual functions, abstract interfaces|
 
 # External References
+

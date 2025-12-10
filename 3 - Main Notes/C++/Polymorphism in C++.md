@@ -25,12 +25,14 @@
        
 - **Topic Links:**
     - [[Types of Polymorphism in C++]]
-    - [[Function Overloading in C++]]
-    - [[Operator Overloading in C++]]
-    - [[Constructor Overloading in C++]]
-    - [[Templates in C++]]
-    - [[Virtual Functions in C++]]
-    - [[Abstract Classes in C++]]
+	    - Compile Time Polymorphism in C++
+		    - Function Overloading in C++
+		    - Operator Overloading in C++
+		    - Constructor Overloading in C++
+		    - Templates in C++
+	    - Runtime Polymorphism in C++
+		    - Virtual Functions in C++
+		    - Abstract Classes in C++
 
 ---
 
@@ -44,7 +46,9 @@
 - same function / call site
 	- different implementation behind it
 
-## [[Types of Polymorphism in C++]]
+## [[Types of Polymorphism in C++|Types of Polymorphism]]
+
+> See: [[Types of Polymorphism in C++]] for detailed information
 
 - Run time Polymorphism in C++
 	- Function Overloading

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Polymorphism in C++.md",
+                "file": "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Polymorphism in C++"
+              "title": "Compile Time Polymorphism in C++"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Polymorphism in C++.md",
+                "file": "3 - Main Notes/C++/Types of Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -123,13 +123,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -146,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Polymorphism in C++.md",
+                "file": "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Types of Polymorphism in C++"
+              "title": "Outline of Compile Time Polymorphism in C++"
             }
           },
           {
@@ -188,7 +186,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md"
+                "file": "3 - Main Notes/C++/Compile Time Polymorphism in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -205,32 +203,6 @@
             }
           },
           {
-            "id": "ceef186e7aa16e4d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "d807a93d2da8fb69",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "feb748bd4d7732ad",
             "type": "leaf",
             "state": {
@@ -240,8 +212,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "353b5826e8f5adba",
@@ -254,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Polymorphism in C++.md",
+                "file": "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -264,7 +235,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Types of Polymorphism in C++"
+              "title": "Backlinks for Compile Time Polymorphism in C++"
             }
           },
           {
@@ -273,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Polymorphism in C++.md",
+                "file": "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Types of Polymorphism in C++"
+              "title": "Outgoing links from Compile Time Polymorphism in C++"
             }
           }
         ]
@@ -321,10 +292,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "791178f606efeb9a",
+  "active": "620fa379c273d379",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Types of Polymorphism in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
-    "Types of Polymorphism in C++.md",
+    "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
@@ -348,7 +320,6 @@
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
-    "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
