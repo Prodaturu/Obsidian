@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "3 - Main Notes/C++/Floating-Point Types in C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -98,7 +98,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of C++ Data Types"
+              "title": "Graph of Floating-Point Types in C++"
             }
           },
           {
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/Floating-Point Types in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "Floating-Point Types in C++"
             }
           },
           {
@@ -172,9 +172,33 @@
               "icon": "lucide-file",
               "title": "C++ Data Types"
             }
+          },
+          {
+            "id": "dda2f5c12c053f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Operators in C++"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +255,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"types",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -265,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "3 - Main Notes/C++/Floating-Point Types in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Data Types"
+              "title": "Outline of Floating-Point Types in C++"
             }
           },
           {
@@ -307,7 +331,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md"
+                "file": "3 - Main Notes/C++/Floating-Point Types in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -346,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "3 - Main Notes/C++/Floating-Point Types in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -356,7 +380,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Data Types"
+              "title": "Backlinks for Floating-Point Types in C++"
             }
           },
           {
@@ -365,12 +389,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "3 - Main Notes/C++/Floating-Point Types in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Data Types"
+              "title": "Outgoing links from Floating-Point Types in C++"
             }
           }
         ]
@@ -413,16 +437,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de8f817809acd63e",
+  "active": "b4c68df752eafce9",
   "lastOpenFiles": [
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Control Flow in C++.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/Copy Constructor in C++.md",
+    "3 - Main Notes/C++/Operators in C++.md",
+    "3 - Main Notes/C++/Ternary Operators in C++.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/Primitive Integral Types in C++.md",
     "3 - Main Notes/C++/Floating-Point Types in C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
-    "3 - Main Notes/C++/Operators in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/History of C++.md",
     "C++ Type System.md",
     "CV-Qualifiers in C++.md",
@@ -432,15 +459,12 @@
     "Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Types of Polymorphism in C++.md",
-    "3 - Main Notes/C++/Copy Constructor in C++.md",
     "Untitled.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "Shallow Copy in C++.md",
-    "3 - Main Notes/C++/Control Flow in C++.md",
     "goto and Labels in C++.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",

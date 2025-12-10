@@ -1,3 +1,7 @@
+---
+aliases:
+  - Floating Point Types in C++
+---
 **Created:** 03.12.25, 01:53
 
 **Status:** #atomic
