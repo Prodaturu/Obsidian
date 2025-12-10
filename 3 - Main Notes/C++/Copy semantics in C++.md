@@ -18,7 +18,7 @@
     - Memory management in C++          <!-- Parent -->
     - Inheritance in C++
 - **Topic Links:**
-	- [[Shallow copy in C++]]
+	- [[Shallow Copy in C++]]
 	- [[Deep Copy in C++]]
 	- [[Copy Constructor in C++|Copy constructor]]
 	- [[Copy Assignment Operator in C++]]

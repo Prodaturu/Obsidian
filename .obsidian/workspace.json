@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 32.41860465116279,
+        "dimension": 36.122733612273365,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Runtime Polymorphism in C++.md",
+                "file": "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 67.58139534883722,
+        "dimension": 63.877266387726635,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/2025-12-10.md",
+                "file": "3 - Main Notes/C++/If else in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-10"
+              "title": "If else in C++"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV-Qualifiers in C++.md",
+                "file": "3 - Main Notes/C++/CV-Qualifiers in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -111,8 +111,7 @@
               "title": "CV-Qualifiers in C++"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +179,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
+    "width": 335.51625061035156,
     "collapsed": true
   },
   "right": {
@@ -203,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV-Qualifiers in C++.md",
+                "file": "3 - Main Notes/C++/If else in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CV-Qualifiers in C++"
+              "title": "Outline of If else in C++"
             }
           },
           {
@@ -245,7 +243,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "CV-Qualifiers in C++.md"
+                "file": "3 - Main Notes/C++/If else in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -284,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV-Qualifiers in C++.md",
+                "file": "3 - Main Notes/C++/If else in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -294,7 +292,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CV-Qualifiers in C++"
+              "title": "Backlinks for If else in C++"
             }
           },
           {
@@ -303,12 +301,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV-Qualifiers in C++.md",
+                "file": "3 - Main Notes/C++/If else in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CV-Qualifiers in C++"
+              "title": "Outgoing links from If else in C++"
             }
           }
         ]
@@ -351,34 +349,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef98786034d769a6",
+  "active": "94b408e44d3ea9ec",
   "lastOpenFiles": [
-    "C++ Type System.md",
-    "Const Data Members in C++.md",
-    "CV-Qualifiers in C++.md",
-    "Runtime Polymorphism in C++.md",
-    "Tags/C++ Language Features.md",
-    "Indexes/C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
+    "3 - Main Notes/German/Sprechsystem.md",
+    "3 - Main Notes/German/Alltagssituationen.md",
+    "3 - Main Notes/C++/Deep Copy in C++.md",
+    "3 - Main Notes/C++/for loops in C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
     "6 - Full Notes/2025-12-10.md",
+    "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/Const Data Members in C++.md",
+    "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
-    "Deep Copy in C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ STL.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "for loops in C++.md",
-    "Loops in C++.md",
+    "3 - Main Notes/C++/Loops in C++.md",
     "3 - Main Notes/C++/Copy Constructor in C++.md",
     "3 - Main Notes/German/Deutsch.md",
-    "Deutsch Romane und Novelle.md",
+    "3 - Main Notes/German/Deutsch Romane und Novelle.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
-    "Fehler Korrektur Map.md",
-    "Hoerverstehen und Shadowing.md",
-    "Partikeln und Sprachgefuehl.md",
-    "Alltagssituationen.md",
-    "Sprechsystem.md",
-    "Konnektorsystem.md",
-    "Tempussystem.md",
+    "3 - Main Notes/German/Fehler Korrektur Map.md",
+    "3 - Main Notes/German/Hoerverstehen und Shadowing.md",
+    "3 - Main Notes/German/Partikeln und Sprachgefuehl.md",
+    "3 - Main Notes/German/Konnektorsystem.md",
+    "3 - Main Notes/German/Tempussystem.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
