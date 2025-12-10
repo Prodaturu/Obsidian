@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/If else in C++.md",
+                "file": "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of If else in C++"
+              "title": "Outline of Runtime Polymorphism in C++"
             }
           },
           {
@@ -304,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/If else in C++.md",
+                "file": "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -314,7 +314,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for If else in C++"
+              "title": "Backlinks for Runtime Polymorphism in C++"
             }
           },
           {
@@ -370,10 +370,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94b408e44d3ea9ec",
+  "active": "791178f606efeb9a",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/If else in C++.md",
+    "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "3 - Main Notes/German/Sprechsystem.md",
     "3 - Main Notes/German/Alltagssituationen.md",
     "3 - Main Notes/C++/Deep Copy in C++.md",

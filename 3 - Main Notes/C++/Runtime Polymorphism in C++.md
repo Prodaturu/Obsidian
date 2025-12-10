@@ -27,7 +27,8 @@
 # Runtime Polymorphism in C++
 
 > Polymorphism where the **program decides at runtime** which function to call  
-> based on the **actual object type**, not just the pointer/reference type.
+>  - based on the **actual object type**
+>  - not just the pointer/reference type.
 
 - Uses:
     - `virtual` functions
