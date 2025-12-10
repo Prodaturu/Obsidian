@@ -56,6 +56,17 @@
             }
           },
           {
+            "id": "7e66f7d50515a77b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "a23ae9bd609284f3"
+          },
+          {
             "id": "cf37189b576e06bf",
             "type": "leaf",
             "state": {
@@ -81,6 +92,50 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "c4aebc1087e81e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be76d2a73f5cbd02",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "3 - Main Notes/C++/C++ STL.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of C++ STL"
+            },
+            "group": "a23ae9bd609284f3"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"copy constructor",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -148,8 +203,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -321,8 +375,11 @@
   },
   "active": "2d5ccc945f7b043e",
   "lastOpenFiles": [
-    "Shallow Copy in C++.md",
+    "Untitled.md",
     "3 - Main Notes/C++/Copy Constructor in C++.md",
+    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
+    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+    "Shallow Copy in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "goto and Labels in C++.md",
@@ -344,9 +401,6 @@
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Error Handling Mechanisms in C++.md",
     "3 - Main Notes/C++/C++ Algorithms.md",
-    "Indexes/C++.md",
-    "3 - Main Notes/German/Deutsch.md",
-    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",

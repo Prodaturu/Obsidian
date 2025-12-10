@@ -18,11 +18,11 @@
 	- Canonical Forms in C++ %% Lifetime cluster %%
 	- Copy Semantics %% Shallow vs Deep %%
 - **Topic Links:**
-	- [[Shallow Copy in C++]]
-	- [[Deep copy in C++]]
+	- [[Default Copy Constructor in C++]]
+	- [[User-Defined Copy Constructor in C++]]
+	- [[Disabling Copy Constructor in C++]]
 	- [[Copy Assignment Operator in C++]]
 	- [[Rules of Three Five and Zero in C++]]
-
 
 ---
 
@@ -41,6 +41,8 @@ class MyClass
 public:
 	MyClass(const MyClass &other);
 }
+
+MyClass::MyClass(const MyClass &other);
 ```
 
 **Parts:**
@@ -52,9 +54,20 @@ public:
 	- `const` $\rightarrow$ we promise not to modify `other`
 	- reference `&` $\rightarrow$ no extra copy just for the parameter
 
+**function**
+- Creates a **new** object
+- Initialises it using an **existing** object (`other`)
+- part of the **special member functions** cluster
+	(constructor, destructor, copy/move operations)
+
 ## When is the copy constructor called?
 
 #### Typical Cases:
+
+1. **Direct Copy Initialisation**
+2. **Copy Initialisation**
+3. **Pass by Value**
+4. **Return by Value** (maybe optimised away, or moved)
 
 ```cpp
 MyClass a; // existing object
