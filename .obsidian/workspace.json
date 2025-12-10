@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -320,6 +321,8 @@
   },
   "active": "2d5ccc945f7b043e",
   "lastOpenFiles": [
+    "Shallow Copy in C++.md",
+    "3 - Main Notes/C++/Copy Constructor in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "goto and Labels in C++.md",
@@ -343,9 +346,7 @@
     "3 - Main Notes/C++/C++ Algorithms.md",
     "Indexes/C++.md",
     "3 - Main Notes/German/Deutsch.md",
-    "3 - Main Notes/C++/Copy Constructor in C++.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
-    "3 - Main Notes/C++/Overloading Copy Assignment Operator in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
