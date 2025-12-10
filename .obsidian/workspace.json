@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Virtual Functions in C++.md",
+                "file": "3 - Main Notes/C++/User-Defined Types in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Virtual Functions in C++"
+              "title": "User-Defined Types in C++"
             }
           }
         ],
@@ -92,7 +92,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - Main Notes/C++/Virtual Functions in C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -115,16 +114,16 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6666666666666666,
+                  "scale": 1.0394582426349543,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Virtual Functions in C++"
+              "title": "Graph view"
             }
           },
           {
-            "id": "3ec0051ad4700d31",
+            "id": "b4c68df752eafce9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -191,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Abstract Classes in C++\"",
+                "query": "\"types",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -225,13 +224,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Virtual Functions in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Virtual Functions in C++"
+              "title": "Outline"
             }
           },
           {
@@ -266,9 +264,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "3 - Main Notes/C++/Virtual Functions in C++.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -306,7 +302,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Virtual Functions in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -316,7 +311,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Virtual Functions in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -325,12 +320,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Virtual Functions in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Virtual Functions in C++"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -373,11 +367,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf37189b576e06bf",
+  "active": "b4c68df752eafce9",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/User-Defined Types in C++.md",
+    "3 - Main Notes/C++/C++ Data Structures.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "3 - Main Notes/C++/Virtual Functions in C++.md",
     "Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Types of Polymorphism in C++.md",
     "3 - Main Notes/C++/Copy Constructor in C++.md",
     "Untitled.md",
@@ -391,7 +388,6 @@
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
-    "3 - Main Notes/C++/C++ Data Structures.md",
     "3 - Main Notes/C++/Default Copy Assignment in C++.md",
     "3 - Main Notes/C++/Types of Errors in C++.md",
     "3 - Main Notes/C++/Template Array Example in C++.md",
@@ -399,8 +395,6 @@
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/Access Violation in C++.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
-    "3 - Main Notes/C++/Error Handling Mechanisms in C++.md",
-    "3 - Main Notes/C++/C++ Algorithms.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",

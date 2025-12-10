@@ -9,6 +9,7 @@
 - **Relevance Links:**
 
 - **Topic Tags:**
+	- [[User-Defined Types in C++]]
 
 
 # Basic Data Structures
