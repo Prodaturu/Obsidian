@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 49.12012241775057,
+        "dimension": 36.317953403380535,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -37,7 +37,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 50.87987758224942,
+        "dimension": 63.68204659661946,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+                "file": "Const Keyword in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -132,11 +132,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CV-Qualifiers in C++"
+              "title": "Const Keyword in C++"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -398,12 +398,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d6e36509207cb08d",
+  "active": "ef98786034d769a6",
   "lastOpenFiles": [
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+    "Const Member Functions in C++.md",
     "Const Keyword in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/If else in C++.md",
     "3 - Main Notes/German/Sprechsystem.md",
@@ -425,7 +426,6 @@
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
     "3 - Main Notes/German/Fehler Korrektur Map.md",
     "3 - Main Notes/German/Hoerverstehen und Shadowing.md",
-    "3 - Main Notes/German/Partikeln und Sprachgefuehl.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
