@@ -29,7 +29,7 @@
 
 # C++ Language Features
 
-Map note for the main “feature areas” of C++.
+Central map for “**Core Language Building Blocks**.”  
 
 - Types / Datatype in C++ → [[3 - Main Notes/C++/C++ Data Types.md|Datatypes in C++]]
 - Operators → [[Operators in C++]]

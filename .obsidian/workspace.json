@@ -94,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -122,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of C++ Language Features"
+              "title": "Graph of C++ Data Types"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -170,7 +170,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "C++ Data Types"
             }
           },
           {
@@ -289,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Language Features"
+              "title": "Outline of C++ Data Types"
             }
           },
           {
@@ -331,7 +331,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Tags/C++ Language Features.md"
+                "file": "3 - Main Notes/C++/C++ Data Types.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -370,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Language Features"
+              "title": "Backlinks for C++ Data Types"
             }
           },
           {
@@ -389,12 +389,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Language Features"
+              "title": "Outgoing links from C++ Data Types"
             }
           }
         ]
@@ -439,9 +439,9 @@
   },
   "active": "9c3cbc17ef0503cc",
   "lastOpenFiles": [
+    "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/History of C++.md",
-    "Tags/C++ Language Features.md",
     "C++ Type System.md",
     "CV-Qualifiers in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
