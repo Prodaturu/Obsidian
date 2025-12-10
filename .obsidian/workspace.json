@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Type System.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -84,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Type System"
+              "title": "C++"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Type System.md",
+                "file": "Indexes/C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Type System"
+              "title": "Outline of C++"
             }
           },
           {
@@ -219,7 +219,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "C++ Type System.md"
+                "file": "Indexes/C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Type System.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Type System"
+              "title": "Backlinks for C++"
             }
           },
           {
@@ -277,12 +277,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Type System.md",
+                "file": "Indexes/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Type System"
+              "title": "Outgoing links from C++"
             }
           }
         ]
@@ -327,9 +327,9 @@
   },
   "active": "f262823372cff46c",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Data Types.md",
-    "C++ Type System.md",
     "Tags/C++ Language Features.md",
+    "C++ Type System.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
     "6 - Full Notes/2025-12-10.md",
     "Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",

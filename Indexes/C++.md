@@ -41,53 +41,54 @@ sticker: lucide//code
 
 # C++
 
-- Main hub for my C++ notes.
-- Links to second-level maps (language features, OOP, STL, algorithms, IO, time).
+- Main hub for all C++ notes.
+- Links to second-level maps: language features, OOP, STL/algorithms, memory, errors, project structure.
 
-## 1. background and big picture
+---
+
+## 1. Background and big picture
 
 - [[History of C++]]  
-  where C++ came from, how it evolved, major standards.
-
+    evolution of the language, major standards.
+    
 - [[C vs C++]]  
-  how C and C++ differ, where they overlap, when to use which.
-
+    comparison, shared roots, differences.
+    
 - [[C++ Language Features]]  
-  overview of key language features: types, references, RAII, OOP, templates, etc.
+    operators, functions, templates, control flow, files, type system.
+    
+- [[C++ Type System]]  
+    built-in types, user-defined types, references, pointers, CV-qualifiers, type deduction.
+
 
 ---
 
-## 2. object-oriented view
+## 2. Object-oriented view
 
 - [[OOPS in C++]]  
-  main map for classes, objects, inheritance, polymorphism, and related concepts.
+    classes, objects, inheritance, polymorphism, abstraction, encapsulation.
+    
 
 ---
 
-## 3. working with data and algorithms
+## 3. Working with data and algorithms
 
 - [[C++ Data Structures and Algorithms]]  
-  map for containers, basic data structures, and algorithms in C++ (own code + STL usage).
-
----
-
-## 4. libraries and ecosystem
-
+    map for containers, algorithms, STL patterns, and custom structures.
+    
 - [[C++ Libraries]]  
-  standard library overview plus important external libraries and what they are used for.
+    STL + important external libraries.
+    
 
 ---
 
-## 5. memory, errors, and project structure
+## 4. Memory, errors, and project structure
 
 - [[Memory management in C++]]  
-  stack vs heap, pointers, references, smart pointers, RAII, and related patterns.
-
+    stack vs heap, allocation, RAII, smart pointers.
+    
 - [[C++ Error Handling]]  
-  exceptions, error codes, assertions, and different error handling styles.
-
-- [[C++ Error Handling]] and [[Memory management in C++]] can cross-link if needed,
-  but both stay children of this note, not each other.
-
+    exceptions, error codes, assertions.
+    
 - [[Structuring a C++ codebase|C++ code structuring]]  
-  how to organise headers, source files, modules, and folders for small and large projects.
+    headers, source files, separation, modules, naming rules
