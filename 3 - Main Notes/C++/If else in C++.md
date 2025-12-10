@@ -143,3 +143,10 @@ else
 	...
 }
 ```
+
+## wichtige punkte
+
+- Die Bedingung ist `bool`
+	- alles Nicht-Null gilt als `true`
+- Nur **ein** block läuft
+	- Wenn ein Block passt, werden die anderen übersprungen
