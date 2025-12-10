@@ -15,8 +15,8 @@
   - [[Operators in C++]]
   - [[Functions in C++]]
   - [[Templates in C++]]
-  - [[C++ Files]]
   - [[Control Flow in C++]]
+  - [[C++ Files]]
   - [[C++ Type System]]
 
 - **Topic Tags:**
