@@ -87,7 +87,10 @@ MyClass d = make(); // 4) return by value (may call copy constructor(ctor), or e
 
 see: [[Copy Assignment Operator in C++]]
 
+## Sub notes
 
+- [[Default Copy Constructor in C++]]
+	- Compiler-generated, member wise (shallow) copy
 
 # Internal References
 
