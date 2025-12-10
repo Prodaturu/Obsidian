@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#deennotes",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -189,12 +189,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -369,7 +369,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94b408e44d3ea9ec",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/If else in C++.md",

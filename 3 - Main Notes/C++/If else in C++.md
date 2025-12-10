@@ -1,6 +1,6 @@
 **Created:** *<span class ="color-green">10.12.25, 08:38</span>*
 
-**Note Type:** #atomic
+**Note Type:** #atomic  #EnDeNotes
 
 **Hashtags:**
 - #cpp
