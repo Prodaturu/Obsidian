@@ -10,15 +10,15 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - Primitive Integral Types in C++
-  - [[Special Types in C++]]
-  - [[IEE754]]
+	- Primitive Integral Types in C++
+	- [[Special Types in C++]]
+	- [[IEE754]]
 
 - **Topic Tags:**
-  - #floating_point
-  - #precision
-  - #rounding
-  - #ieee754
+	- #floatingpoint
+	- #precision
+	- #rounding
+	- #ieee754
 
 # Floating-Point Types in C++
 
