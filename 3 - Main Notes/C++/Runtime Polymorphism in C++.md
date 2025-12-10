@@ -56,7 +56,7 @@ public:
     {
         std::cout << "Animal speaks\n";
     }
-
+    
     virtual ~Animal() = default;
 };
 
@@ -81,16 +81,16 @@ public:
 int main()
 {
     Animal *animal = nullptr;
-
+    
     Dog dog;
     Cat cat;
-
+    
     animal = &dog;
     animal->speak();   // prints "Woof! Woof!"
-
+    
     animal = &cat;
     animal->speak();   // prints "Meow!"
-
+    
     // without 'virtual', both calls would print "Animal speaks"
 }
 ```
@@ -100,8 +100,6 @@ int main()
     - when it points to `Cat`, `Cat::speak` runs 
       
 - Decision is made **at runtime** using the virtual table (vtable).
-
----
 
 ## Abstract Classes and Interfaces
 
@@ -144,8 +142,6 @@ public:
 - Database / driver interfaces: `Database *db; db->query(...);`
 	
 - You write code against the **interface**, not the concrete type.
-
----
 
 ## Characteristics
 

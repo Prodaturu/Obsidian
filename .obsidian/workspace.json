@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -369,7 +370,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "94b408e44d3ea9ec",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/If else in C++.md",
