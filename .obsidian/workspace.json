@@ -67,10 +67,24 @@
             "id": "d6e36509207cb08d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Const Keyword in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Const Keyword in C++"
             }
           },
           {
@@ -121,7 +135,8 @@
               "title": "CV-Qualifiers in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
+                "file": "Const Keyword in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Runtime Polymorphism in C++"
+              "title": "Outline of Const Keyword in C++"
             }
           },
           {
@@ -304,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
+                "file": "Const Keyword in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -314,7 +329,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Runtime Polymorphism in C++"
+              "title": "Backlinks for Const Keyword in C++"
             }
           },
           {
@@ -370,18 +385,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "791178f606efeb9a",
+  "active": "d6e36509207cb08d",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/If else in C++.md",
+    "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+    "Const Keyword in C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
+    "Indexes/C++.md",
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
+    "3 - Main Notes/C++/If else in C++.md",
     "3 - Main Notes/German/Sprechsystem.md",
     "3 - Main Notes/German/Alltagssituationen.md",
     "3 - Main Notes/C++/Deep Copy in C++.md",
     "3 - Main Notes/C++/for loops in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "6 - Full Notes/2025-12-10.md",
-    "3 - Main Notes/C++/CV-Qualifiers in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Types.md",
@@ -397,7 +413,6 @@
     "3 - Main Notes/German/Fehler Korrektur Map.md",
     "3 - Main Notes/German/Hoerverstehen und Shadowing.md",
     "3 - Main Notes/German/Partikeln und Sprachgefuehl.md",
-    "3 - Main Notes/German/Konnektorsystem.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",

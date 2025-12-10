@@ -16,7 +16,7 @@
 - **Relevance Links:**
     - C++ Type System %% Parent %%
 - **Topic Links:**
-    - [[Pointer and Reference Types in C++]]
+    - [[Pointer and Reference Types in C++]] %% sibling / related %%
 
 
 # CV-Qualifiers in C++

@@ -15,7 +15,7 @@
     - [[Pointer and Reference Types in C++]]
     - [[Lvalue and Rvalue references in c++]]
     - [[Templates in C++]]
-    - [[CV-Qualifiers in C++]]  <!-- will be new -->
+    - [[CV-Qualifiers in C++]] 
 - **Topic Tags:**
     - #types
     - #references
