@@ -146,7 +146,15 @@ else
 
 ## wichtige punkte
 
-- Die Bedingung ist `bool`
+- Die Bedingung ist `bool` (the condition is `bool`)
 	- alles Nicht-Null gilt als `true`
 - Nur **ein** block läuft
 	- Wenn ein Block passt, werden die anderen übersprungen
+- Klammen `{}` sind gut, damit keine Fehler passieren
+
+## wofür man es nutzt
+
+- Dinge vergleichen
+- Eingaben prüfen
+- Fehler vermeiden
+- Standardfall festlegen
