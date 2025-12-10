@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "C++ Type System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,7 +108,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "C++ Type System"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "C++ Type System.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Language Features"
+              "title": "Outline of C++ Type System"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Tags/C++ Language Features.md"
+                "file": "C++ Type System.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "C++ Type System.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Language Features"
+              "title": "Backlinks for C++ Type System"
             }
           },
           {
@@ -301,12 +301,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "C++ Type System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Language Features"
+              "title": "Outgoing links from C++ Type System"
             }
           }
         ]
@@ -351,8 +351,8 @@
   },
   "active": "ef98786034d769a6",
   "lastOpenFiles": [
-    "Indexes/C++.md",
     "Tags/C++ Language Features.md",
+    "Indexes/C++.md",
     "C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "6 - Full Notes/2025-12-10.md",

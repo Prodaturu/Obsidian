@@ -10,7 +10,6 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-    - [[C++ Language Features]]
     - [[C++ Data Types]]
     - [[User-Defined Types in C++]]
     - [[Pointer and Reference Types in C++]]
