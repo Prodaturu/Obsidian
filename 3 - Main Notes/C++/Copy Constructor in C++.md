@@ -91,6 +91,10 @@ see: [[Copy Assignment Operator in C++]]
 
 - [[Default Copy Constructor in C++]]
 	- Compiler-generated, member wise (shallow) copy
+- [[User-Defined Copy Constructor in C++]]
+	- Write the body (often for deep copy of resources)
+- [[Disabling Copy Constructor in C++]]
+	- deleting the copy constructor to make the type non-copyable
 
 # Internal References
 
