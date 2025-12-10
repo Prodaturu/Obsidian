@@ -11,7 +11,6 @@
 **Links / Tags:** 
 - **Relevance Links:**
   - C++                    <!-- parent map -->
-  - [[C++ Data Types]]
   - [[Operators in C++]]
   - [[Functions in C++]]
   - [[Templates in C++]]
@@ -30,10 +29,6 @@
 # C++ Language Features
 
 Central map for “**Core Language Building Blocks**.”  
-
-
-### Types  
-→ [[C++ Data Types]] — primitive, composite, pointers, special types.
 
 ### Operators  
 → [[Operators in C++]] — arithmetic, logical, comparison, overloadable ops.

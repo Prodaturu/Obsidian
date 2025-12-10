@@ -62,8 +62,33 @@
               "icon": "lucide-file",
               "title": "2025-12-10"
             }
+          },
+          {
+            "id": "f262823372cff46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ Type System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Type System"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -153,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Full Notes/2025-12-10.md",
+                "file": "C++ Type System.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-10"
+              "title": "Outline of C++ Type System"
             }
           },
           {
@@ -195,7 +219,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "6 - Full Notes/2025-12-10.md"
+                "file": "C++ Type System.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -234,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/2025-12-10.md",
+                "file": "C++ Type System.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -244,7 +268,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-10"
+              "title": "Backlinks for C++ Type System"
             }
           },
           {
@@ -253,12 +277,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Full Notes/2025-12-10.md",
+                "file": "C++ Type System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-12-10"
+              "title": "Outgoing links from C++ Type System"
             }
           }
         ]
@@ -301,16 +325,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94b408e44d3ea9ec",
+  "active": "f262823372cff46c",
   "lastOpenFiles": [
-    "Runtime Polymorphism in C++.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "C++ Type System.md",
+    "Tags/C++ Language Features.md",
     "6 - Full Notes/2025-12-10.md",
+    "Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
     "Deep Copy in C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ STL.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "for loops in C++.md",
     "Loops in C++.md",
     "3 - Main Notes/C++/Copy Constructor in C++.md",
@@ -327,8 +353,6 @@
     "Praepositionssystem.md",
     "Grammatiksystem.md",
     "Wortschatzsystem.md",
-    "3 - Main Notes/C++/Control Flow in C++.md",
-    "If else in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
