@@ -21,7 +21,7 @@
     - [[Partikeln und Sprachgefuehl]]  
     - [[Hoerverstehen und Shadowing]]  
     - [[Fehler Korrektur Map]]
-    - [[Deutsch Novelle]]
+    - [[Deutsch Romane und Novelle]]
 
 - **Topic Tags:**
     - #satzbau

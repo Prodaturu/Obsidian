@@ -43,24 +43,10 @@
             "id": "2d5ccc945f7b043e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/German/Deutsch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Deutsch"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -250,13 +236,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/German/Deutsch.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deutsch"
+              "title": "Outline"
             }
           },
           {
@@ -291,9 +276,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "3 - Main Notes/German/Deutsch.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -331,7 +314,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/German/Deutsch.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -341,7 +323,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deutsch"
+              "title": "Backlinks"
             }
           },
           {
@@ -350,12 +332,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/German/Deutsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deutsch"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -400,7 +381,10 @@
   },
   "active": "2d5ccc945f7b043e",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Copy Constructor in C++.md",
     "3 - Main Notes/German/Deutsch.md",
+    "Deutsch Romane und Novelle.md",
+    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
     "Fehler Korrektur Map.md",
     "Hoerverstehen und Shadowing.md",
     "Partikeln und Sprachgefuehl.md",
@@ -414,7 +398,6 @@
     "for loops in C++.md",
     "Loops in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
-    "3 - Main Notes/C++/Copy Constructor in C++.md",
     "If else in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Types.md",
@@ -424,8 +407,6 @@
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Primitive Integral Types in C++.md",
-    "3 - Main Notes/C++/C++ Time & Date Datatypes, Timestamps.md",
-    "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
