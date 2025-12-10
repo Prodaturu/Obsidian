@@ -3,18 +3,22 @@
 **Note Type:** #map
 
 **Hashtags:**
-- #cpp
-- #type_system
-- #cv_qualifiers
-- #const
+- **Relevance Tags:**
+	- #cpp
+	- #type_system
+	- #cv_qualifiers
+	- #const
+- **Topic Tags:**
+    - #types
+    - #qualifiers
 
 **Links / Tags:** 
 - **Relevance Links:**
     - [[C++ Type System]]
     - [[Pointer and Reference Types in C++]]
-- **Topic Tags:**
-    - #types
-    - #qualifiers
+- **Topic Links:**
+	- 
+
 
 # CV-Qualifiers in C++
 
