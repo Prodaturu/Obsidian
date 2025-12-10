@@ -17,9 +17,9 @@ sticker: lucide//code
 	- [[History of C++]]
 	- [[C vs C++]] - Main Differences and Commonality between C and C++
 	- [[OOPS in C++]] - Object Oriented Programming in C++
+	- [[C++ Language Features]]
 	- [[C++ Data Structures and Algorithms]] - DSA in C++
 	- [[C++ Libraries]] - Most common libraries in C++
-	- [[C++ Language Features]]
 	- [[Memory management in C++]]
 	- [[C++ Error Handling]]
 	- [[Structuring a C++ codebase|C++ code structuring]]
@@ -29,6 +29,8 @@ sticker: lucide//code
 	- #generic_programming
 	- #systems_programming
 	- #compiled_language
+
+---
 
 # C++
 
