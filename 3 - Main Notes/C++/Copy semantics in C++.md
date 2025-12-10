@@ -19,7 +19,7 @@
     - Inheritance in C++
 - **Topic Links:**
 	- [[Shallow copy in C++]]
-	- [[Deep copy in C++]]
+	- [[Deep Copy in C++]]
 	- [[Copy Constructor in C++|Copy constructor]]
 	- [[Copy Assignment Operator in C++]]
 	- [[Canonical Forms in C++]]

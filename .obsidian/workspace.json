@@ -6,7 +6,6 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 36.511423550087876,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -35,27 +34,16 @@
         ]
       },
       {
-        "id": "c4aebc1087e81e68",
+        "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 63.488576449912124,
         "children": [
           {
-            "id": "2d5ccc945f7b043e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b4c68df752eafce9",
+            "id": "94b408e44d3ea9ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "for loops in C++.md",
+                "file": "6 - Full Notes/2025-12-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,79 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "for loops in C++"
-            }
-          },
-          {
-            "id": "9c3cbc17ef0503cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operators in C++"
-            }
-          },
-          {
-            "id": "de8f817809acd63e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++ Data Types"
-            }
-          },
-          {
-            "id": "dda2f5c12c053f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operators in C++"
+              "title": "2025-12-10"
             }
           }
         ]
@@ -202,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#datatypes",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -213,8 +129,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6 - Full Notes/2025-12-10.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-12-10"
             }
           },
           {
@@ -276,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "6 - Full Notes/2025-12-10.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -314,6 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Full Notes/2025-12-10.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -323,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-12-10"
             }
           },
           {
@@ -332,11 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Full Notes/2025-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-12-10"
             }
           }
         ]
@@ -379,8 +299,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2d5ccc945f7b043e",
+  "active": "94b408e44d3ea9ec",
   "lastOpenFiles": [
+    "Runtime Polymorphism in C++.md",
+    "6 - Full Notes/2025-12-10.md",
+    "3 - Main Notes/C++/Copy semantics in C++.md",
+    "Deep Copy in C++.md",
+    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
+    "3 - Main Notes/C++/C++ STL.md",
+    "3 - Main Notes/C++/Operators in C++.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "for loops in C++.md",
+    "Loops in C++.md",
     "3 - Main Notes/C++/Copy Constructor in C++.md",
     "3 - Main Notes/German/Deutsch.md",
     "Deutsch Romane und Novelle.md",
@@ -395,18 +325,8 @@
     "Praepositionssystem.md",
     "Grammatiksystem.md",
     "Wortschatzsystem.md",
-    "for loops in C++.md",
-    "Loops in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "If else in C++.md",
-    "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
-    "3 - Main Notes/C++/Character and String Types in C++.md",
-    "3 - Main Notes/C++/Floating-Point Types in C++.md",
-    "Indexes/C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
-    "3 - Main Notes/C++/Primitive Integral Types in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
