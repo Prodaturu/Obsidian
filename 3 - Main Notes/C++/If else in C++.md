@@ -102,6 +102,44 @@ else
 > Teil der Kontrollstrukturen in C++
 
 - `if` und `else`, helfen dir, einen Weg im program zu wählen
-- Die Bedingung entscheidet yyyyyyyyyyyy
+- Die Bedingung entscheidet:
+	- `true` = läuft, `false` = läuft nicht.
 
-## 
+## einfaches 'if'
+
+```cpp
+if (Bedingung)
+{
+	// läuft nur, wenn Bedingung wahr ist
+}
+```
+
+## if - else
+
+```cpp
+if (Bedingung)
+{
+	// wird ausgeführt, wenn Bedingung wahr ist
+}
+else
+{
+	// passiert, wenn Bedingung falschist
+}
+```
+
+## if - else if - else
+
+```cpp
+if (a)
+{
+	... 
+}
+else if (b)
+{
+	...
+}
+else
+{
+	...
+}
+```
