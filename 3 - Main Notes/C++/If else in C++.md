@@ -101,6 +101,7 @@ else
 
 > Teil der Kontrollstrukturen in C++
 
-- `if` und `else` wählen einen Ablaufweg
+- `if` und `else`, helfen dir, einen Weg im program zu wählen
+- Die Bedingung entscheidet
 
 ## 
