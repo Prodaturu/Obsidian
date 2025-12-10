@@ -158,3 +158,10 @@ else
 - Eingaben prüfen
 - Fehler vermeiden
 - Standardfall festlegen
+
+## wofür man es nutzt
+
+- Dinge vergleichen
+- Eingaben prüfen
+- Fehler vermeiden
+- Standardfall festlegen
