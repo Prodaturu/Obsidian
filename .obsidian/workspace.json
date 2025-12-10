@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#datatypes",
+                "query": "tag:#type_system",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -180,12 +180,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -353,6 +353,8 @@
   "active": "ef98786034d769a6",
   "lastOpenFiles": [
     "C++ Type System.md",
+    "Const Data Members in C++.md",
+    "CV-Qualifiers in C++.md",
     "Runtime Polymorphism in C++.md",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
@@ -376,8 +378,6 @@
     "Sprechsystem.md",
     "Konnektorsystem.md",
     "Tempussystem.md",
-    "Praepositionssystem.md",
-    "Grammatiksystem.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",

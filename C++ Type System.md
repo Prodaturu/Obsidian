@@ -4,7 +4,7 @@
 
 **Hashtags:**
 - #cpp
-- #type_system
+- #typesystem
 - #map
 - #overview
 

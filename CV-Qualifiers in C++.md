@@ -5,8 +5,8 @@
 **Hashtags:**
 - **Relevance Tags:**
 	- #cpp
-	- #type_system
-	- #cv_qualifiers
+	- #typesystem
+	- #cvqualifiers
 	- #const
 - **Topic Tags:**
     - #types
