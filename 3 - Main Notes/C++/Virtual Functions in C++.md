@@ -111,7 +111,7 @@ public:
 
 ## 💀 Virtual Destructors
 
-- **ALWAYS use virtual destructors in base classes:**
+- ALWAYS use **virtual destructors in base classes**
 
 ```cpp
 class Base
@@ -141,7 +141,7 @@ delete ptr; // Calls both Derived::~Derived() AND Base::~Base()
 
 ## Closely Related Notes
 
-- Abstract Classes in C++
+- 
 
 ### Next:
 

@@ -58,7 +58,7 @@
 	- C++ checks **which derived type** the object really is.
 - It then calls the **correct override** via the virtual function mechanism.
 
-See: [[Virtual Functions in C++]]
+See: Virtual Functions in C++
 
 ## Basic Example with Virtual Functions
 
@@ -122,7 +122,7 @@ int main()
 ## Abstract Classes and Interfaces
 
 - Often the base class is **abstract** (pure virtual)
-See: [[Abstract Classes in C++]]
+See: Abstract Classes in C++
 
 ```cpp
 class Shape
