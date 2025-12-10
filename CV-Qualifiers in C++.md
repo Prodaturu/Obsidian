@@ -22,14 +22,13 @@
 
 # CV-Qualifiers in C++
 
-Map note for `const` / `volatile` (cv-qualifiers) in C++.
-
-- [[const Keyword in C++]]
-- [[Const Data Members in C++]]
-- [[Const Member Functions in C++]]
-- [[Const-Correct Getters in C++]]
-- [[Const Objects and Member Function Calls in C++]]
-- [[Const and Copy / Assignment Semantics in C++]]
-- `volatile` 
+- Map note for `const` / `volatile` (CV-qualifiers) in C++.
+	- [[const Keyword in C++]]
+	- [[Const Data Members in C++]]
+	- [[Const Member Functions in C++]]
+	- [[Const-Correct Getters in C++]]
+	- [[Const Objects and Member Function Calls in C++]]
+	- [[Const and Copy / Assignment Semantics in C++]]
+	- `volatile` 
 
 # References
