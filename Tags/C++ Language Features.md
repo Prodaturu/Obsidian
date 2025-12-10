@@ -17,6 +17,7 @@
   - [[Templates in C++]]
   - [[C++ Files]]
   - [[Control Flow in C++]]
+  - [[C++ Type System]]
 
 - **Topic Tags:**
   - #types
