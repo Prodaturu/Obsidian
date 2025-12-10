@@ -23,9 +23,9 @@
 	- #numeric
 	- #characters
 	- #pointers
-	- #user_defined
-	- #template_types
-	- #special_types
+	- #userdefined
+	- #templatetypes
+	- #specialtypes
 
 # C++ Data Types
 

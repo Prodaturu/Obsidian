@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -170,7 +170,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Data Types"
+              "title": "Operators in C++"
             }
           },
           {
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -437,11 +437,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9c3cbc17ef0503cc",
+  "active": "de8f817809acd63e",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
+    "3 - Main Notes/C++/Operators in C++.md",
     "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/History of C++.md",
     "C++ Type System.md",
@@ -458,7 +459,6 @@
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "Shallow Copy in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
     "goto and Labels in C++.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
