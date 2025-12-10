@@ -37,8 +37,6 @@ Control flow is about:
 - repeating work (loops)
 - leaving a block or function early (jumps and return)
 
----
-
 ## Branching
 
 - [[If else in C++]]  
