@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 52.67686424474187,
+        "dimension": 42.84170718530524,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -37,7 +37,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 47.32313575525813,
+        "dimension": 57.158292814694754,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Type System.md",
+                "file": "CV-Qualifiers in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,7 +108,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Type System"
+              "title": "CV-Qualifiers in C++"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Type System.md",
+                "file": "CV-Qualifiers in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Type System"
+              "title": "Outline of CV-Qualifiers in C++"
             }
           },
           {
@@ -243,7 +243,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "C++ Type System.md"
+                "file": "CV-Qualifiers in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Type System.md",
+                "file": "CV-Qualifiers in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Type System"
+              "title": "Backlinks for CV-Qualifiers in C++"
             }
           },
           {
@@ -301,12 +301,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Type System.md",
+                "file": "CV-Qualifiers in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Type System"
+              "title": "Outgoing links from CV-Qualifiers in C++"
             }
           }
         ]
@@ -330,7 +330,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -351,12 +351,12 @@
   },
   "active": "ef98786034d769a6",
   "lastOpenFiles": [
+    "C++ Type System.md",
+    "Runtime Polymorphism in C++.md",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
-    "C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "6 - Full Notes/2025-12-10.md",
-    "Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
     "Deep Copy in C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
