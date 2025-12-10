@@ -28,9 +28,18 @@
 > part of C++ control flow.
 
 - loops let you repeat work until a condition is met or a sequence is finished
-- C++ has three main loop forms:
-	- [[for loops in C++|for loops]]
-	- [[while loops in C++|while loops]]
-	- [[do-while loops in C++|do-while loops]]
+- C++ main loop types:
+	- [[for loops in C++]]  
+		- counter-based or sequence-based iteration
+		  
+	- [[while loops in C++]]  
+		- repeat while a condition stays true
+		  
+	- [[do-while loops in C++]]  
+		- run the body at least once, then check the condition
+	 
+- loop control helpers:
+	- [[Break and Continue in C++]]  
+		- exit early or skip an iteration
 
 # External References
