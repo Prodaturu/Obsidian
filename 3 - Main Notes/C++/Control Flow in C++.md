@@ -33,9 +33,9 @@
 
 Control flow is about:
 
-- making decisions (branches)
-- repeating work (loops)
-- leaving a block or function early (jumps and return)
+- choosing between paths (branches)
+- repeating actions (loops)
+- exiting a block or function early (jumps / return)
 
 ## Branching
 
@@ -43,30 +43,28 @@ Control flow is about:
   Basic conditional logic.
 
 - [[Switch Statements in C++]]  
-  Multi-way branch based on an integral / enum / constant expression.
+  Multi-way branching based on an integral / enum / constant expression.
 
----
 
 ## Loops
 
-- [[Loops in C++]]  
-  Overview: `for`, `while`, `do-while`.
-
+- [[Loops in C++]] 
+	- Overview: `for`, `while`, `do-while`.
+	
 - [[Range Based For Loop in C++]]  
-  Cleaner `for (auto x : container)` syntax (C++11+).
+	- Container-friendly loop syntax (`for (auto x : container)`)  {syntax (C++11+)}
+	  
+- [[Break and Continue in C++]] 
+	- Controlling how loops proceed or stop
 
-- [[Break and Continue in C++]]  
-  Controlling loop execution.
-
----
 
 ## Jumps and function exit
 
 - [[Return Statement in C++]]  
-  Leaving a function and (optionally) returning a value.
+	- Exit a function and (optionally) return a value.
 
 - [[goto and Labels in C++]]  
-  Rarely used, but part of the control flow toolbox.
+	- Rarely used, but part of the control flow toolbox.
 
 
 # External References
