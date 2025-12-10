@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 36.122733612273365,
+        "dimension": 49.12012241775057,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -37,7 +37,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 63.87726638772663,
+        "dimension": 50.87987758224942,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -121,8 +121,7 @@
               "title": "CV-Qualifiers in C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/C++/If else in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of If else in C++"
             }
           },
           {
@@ -303,6 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/If else in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -312,7 +313,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for If else in C++"
             }
           },
           {
@@ -368,8 +369,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d6e36509207cb08d",
+  "active": "94b408e44d3ea9ec",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "3 - Main Notes/C++/If else in C++.md",
     "3 - Main Notes/German/Sprechsystem.md",
     "3 - Main Notes/German/Alltagssituationen.md",
@@ -380,7 +382,6 @@
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
-    "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",

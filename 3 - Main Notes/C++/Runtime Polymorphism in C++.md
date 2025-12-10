@@ -1,22 +1,6 @@
 **Created:** *<span class ="color-green">10.12.25, 01:36</span>*
 
-**Note Type:**
-
-**Hashtags:**
-- **Relevance Tags:**
-	- 
-- **Topic Tags:**
-	- 
-
-**Links / Tags:** 
-- **Relevance Links:**
-	- 
-- **Topic Links:**
-	- 
-
----
-
-**Status:** #atomic
+**Note Type:** #atomic
 
 **Hashtags:**
 - **Relevance Tags:**

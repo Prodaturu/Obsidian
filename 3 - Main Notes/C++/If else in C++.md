@@ -99,5 +99,8 @@ else
 ---
 # German Version
 
-> Tiel der Kontrollst
+> Teil der Kontrollstrukturen in C++
+
+- `if` und `else` 
+
 ## 
