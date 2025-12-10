@@ -17,6 +17,7 @@
 	- [[User-Defined Types in C++]]
 	- [[Special Types in C++]]
 	- [[C++ Time & Date Datatypes, Timestamps]]
+	- [[Generic Types in C++]]
 	  
 - **Topic Tags:**
 	- #types

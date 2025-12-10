@@ -10,20 +10,21 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - [[Floating-Point Types in C++]]
-  - [[Fixed-Width Integer Types in C++]]
-
+	- [[Floating-Point Types in C++]]
+	- [[Fixed-Width Integer Types in C++]]
+	  
 - **Topic Tags:**
-  - #integral_types
-  - #signed
-  - #unsigned
-  - #integer_ranges
+	- #integraltypes
+	- #signed
+	- #unsigned
+	- #integerranges
 
 # Primitive Integral Types in C++
 
 > Part of C++ data types.
 
-Primitive integral types represent whole numbers and simple boolean values. They differ in **size** and whether they are **signed** or **unsigned**.
+Primitive integral types represent whole numbers and simple boolean values.
+They differ mainly in **size** and whether they are **signed** or **unsigned**.
 
 ## List of primitive integral types
 
@@ -39,17 +40,17 @@ Primitive integral types represent whole numbers and simple boolean values. They
 ## Key ideas
 
 - **Signed vs unsigned**  
-  - Signed: can store negative and positive values.  
-  - Unsigned: only non-negative, but larger max value in same number of bits.
-
+	- Signed: can store negative and positive values.  
+	- Unsigned: only non-negative, but larger max value in same number of bits.
+	  
 - **Overflow**  
-  - Behaviour of signed overflow is undefined.  
-  - Unsigned overflow wraps modulo $2^n$.
-
+	- Behaviour of signed overflow is undefined.  
+	- Unsigned overflow wraps modulo $2^n$.
+	  
 - **Type choice**  
-  - `int` for most general counting.  
-  - `size_t` (see fixed-width note) for sizes and indexes.  
-  - wider types only when we really need them.
+	- `int` for most general counting.  
+	- `size_t` (see fixed-width note) for sizes and indexes.  
+	- wider types only when we really need them.
 
 # References
 
