@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Const Keyword in C++.md",
+                "file": "3 - Main Notes/C++/const_keyword_in_cpp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -132,7 +132,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Const Keyword in C++"
+              "title": "const_keyword_in_cpp"
             }
           }
         ],
@@ -204,13 +204,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -227,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Const Keyword in C++.md",
+                "file": "3 - Main Notes/C++/const_keyword_in_cpp.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Const Keyword in C++"
+              "title": "Outline of const_keyword_in_cpp"
             }
           },
           {
@@ -345,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Const Keyword in C++.md",
+                "file": "3 - Main Notes/C++/const_keyword_in_cpp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -355,7 +353,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Const Keyword in C++"
+              "title": "Backlinks for const_keyword_in_cpp"
             }
           },
           {
@@ -413,9 +411,12 @@
   },
   "active": "ef98786034d769a6",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Data Structures.md",
+    "2025-12-11.md",
+    "Const Keyword in C++.md",
+    "3 - Main Notes/C++/const_keyword_in_cpp.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "Const Member Functions in C++.md",
-    "Const Keyword in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
@@ -436,9 +437,6 @@
     "3 - Main Notes/C++/Copy Constructor in C++.md",
     "3 - Main Notes/German/Deutsch.md",
     "3 - Main Notes/German/Deutsch Romane und Novelle.md",
-    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Der Schimmelreiter.md",
-    "3 - Main Notes/German/Fehler Korrektur Map.md",
-    "3 - Main Notes/German/Hoerverstehen und Shadowing.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
