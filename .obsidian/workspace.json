@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 36.317953403380535,
+        "dimension": 42.94294294294294,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -51,7 +51,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 63.68204659661946,
+        "dimension": 57.05705705705706,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -453,8 +453,9 @@
   },
   "active": "ef98786034d769a6",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/const_keyword_in_cpp.md",
     "all.base",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/const_keyword_in_cpp.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "Copy constructor.md",
@@ -478,7 +479,6 @@
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/Copy semantics in C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
-    "3 - Main Notes/C++/C++ STL.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",

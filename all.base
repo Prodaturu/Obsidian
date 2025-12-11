@@ -6,4 +6,5 @@ views:
       - file.links
       - file.backlinks
     columnSize:
-      file.links: 604
+      file.name: 276
+      file.links: 390

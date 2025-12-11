@@ -43,7 +43,6 @@
 ## Examples
 
 ```cpp
-
 // returnType = `Car&`; operator_symbol = `=`; parameters = "(const Car& other)"
 Car& operator=(const Car &other) {}
 
