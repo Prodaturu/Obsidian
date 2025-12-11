@@ -148,9 +148,33 @@
               "icon": "lucide-file",
               "title": "Operator Overloading in C++"
             }
+          },
+          {
+            "id": "be3f03865443997c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Operator Overloading in C++"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#deennotes",
+                "query": "overloading",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -218,12 +242,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -451,10 +475,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef98786034d769a6",
+  "active": "be3f03865443997c",
   "lastOpenFiles": [
-    "all.base",
+    "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "all.base",
     "3 - Main Notes/C++/const_keyword_in_cpp.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
