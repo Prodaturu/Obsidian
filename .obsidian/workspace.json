@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "6 - Full Notes/2025-12-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -170,7 +170,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operator Overloading in C++"
+              "title": "2025-12-10"
             }
           }
         ],
@@ -242,8 +242,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -409,7 +408,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "6 - Full Notes/2025-12-10.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -419,7 +418,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operator Overloading in C++"
+              "title": "Backlinks for 2025-12-10"
             }
           },
           {
@@ -477,8 +476,14 @@
   },
   "active": "be3f03865443997c",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
+    "2025-12-11.md",
+    "6 - Full Notes/2025-12-10.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
+    "3 - Main Notes/C++/C++ Data Structures.md",
+    "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
     "all.base",
     "3 - Main Notes/C++/const_keyword_in_cpp.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
@@ -486,24 +491,18 @@
     "Copy constructor.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
-    "3 - Main Notes/C++/C++ Data Structures.md",
-    "2025-12-11.md",
     "Const Keyword in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "Const Member Functions in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/If else in C++.md",
     "3 - Main Notes/German/Sprechsystem.md",
     "3 - Main Notes/German/Alltagssituationen.md",
     "3 - Main Notes/C++/Deep Copy in C++.md",
     "3 - Main Notes/C++/for loops in C++.md",
-    "6 - Full Notes/2025-12-10.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Types.md",
-    "3 - Main Notes/C++/Copy semantics in C++.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
