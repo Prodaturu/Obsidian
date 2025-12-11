@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 42.94294294294294,
+        "dimension": 59.21259842519685,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -51,7 +51,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 57.05705705705706,
+        "dimension": 40.78740157480315,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -408,7 +409,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Full Notes/2025-12-10.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -418,7 +419,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-10"
+              "title": "Backlinks for C++"
             }
           },
           {
@@ -474,10 +475,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "be3f03865443997c",
+  "active": "f262823372cff46c",
   "lastOpenFiles": [
-    "2025-12-11.md",
     "6 - Full Notes/2025-12-10.md",
+    "2025-12-11.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",

@@ -7,11 +7,18 @@ sticker: lucide//code
 **Notes Type:** #map
 
 **Hashtags:**
-- #cpp
-- #programming_language
-- #map
-- #overview
-
+- **Relevance Tags**
+	- #cpp
+	- #programminlanguage
+	- #map
+	- #overview
+- **Topic Tags:**
+	- #OOPS 
+	- #genericprogramming
+	- #systemsprogramming
+	- #compiledlanguage
+	- #lowlevel
+	
 **Links / Tags:** 
 - **Relevance Links:**
 	- Background:
@@ -31,12 +38,6 @@ sticker: lucide//code
 		- [[Memory management in C++]]
 		- [[C++ Error Handling]]
 		- [[Structuring a C++ codebase|C++ code structuring]]
-	  
-- **Topic Tags:**
-	- #OOPS 
-	- #generic_programming
-	- #systems_programming
-	- #compiled_language
 
 ---
 
