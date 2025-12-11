@@ -36,24 +36,13 @@
             "id": "32d009c9a8ba58e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "all.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Copy Assignment Operator in C++"
+              "icon": "lucide-table",
+              "title": "all"
             }
           }
         ],
@@ -142,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/const_keyword_in_cpp.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -157,7 +146,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "const_keyword_in_cpp"
+              "title": "Operator Overloading in C++"
             }
           }
         ],
@@ -233,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -250,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Copy Assignment Operator in C++"
+              "title": "Outline of Operator Overloading in C++"
             }
           },
           {
@@ -362,6 +352,19 @@
             "id": "e73228ac790dee9d",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "71f94c93f5b4c912",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -382,7 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -392,7 +395,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Copy Assignment Operator in C++"
+              "title": "Backlinks for Operator Overloading in C++"
             }
           },
           {
@@ -448,13 +451,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "32d009c9a8ba58e3",
+  "active": "ef98786034d769a6",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/const_keyword_in_cpp.md",
+    "all.base",
+    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "Copy constructor.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
-    "3 - Main Notes/C++/const_keyword_in_cpp.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "2025-12-11.md",
     "Const Keyword in C++.md",
@@ -474,8 +479,6 @@
     "3 - Main Notes/C++/Copy semantics in C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ STL.md",
-    "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/Loops in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
@@ -485,7 +488,6 @@
     "Dynamic Memory Allocation in C++ '/(new ",
     "Dynamic Memory Allocation in C++ '",
     "Dynamic Memory Allocation in C++ '(new ",
-    "Dynamic Memory Allocation in C++ (new ",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
