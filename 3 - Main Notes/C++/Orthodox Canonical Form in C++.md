@@ -55,7 +55,7 @@ class Buffer
 private:
     int* data;
     size_t size;
-
+    
 public:
     Buffer();                              // default constructor
     Buffer(const Buffer& other);           // copy constructor
@@ -64,10 +64,28 @@ public:
 };
 ``` 
 
+- This is called *orthodox* because it follows the traditional, explicit C++98 object model
 
-## When do we care about Orthodox Canonical Form
+## What problem Orthodox Canonical Form solves
+
+- Without OCF:
+	- The compiler may generate copy and assignment behaviour automatically
+	- That behaviour may be incorrect for classes that own resources
+	- ownership rules are hidden and unclear
+	
+- With OCF:
+	- Copy behaviour is intentional
+	- assignment behaviour is intentional
+	- destruction behaviour is visible
+	- object lifetime is easy to reason about
+
+## Responsibility of each function for OCF
+
+#### Default Constructor
+
+- Defines how a valid object is created with no arguments
+- Ensures the object starts in a usable state
 
 # Internal References
 
 # External References
-
