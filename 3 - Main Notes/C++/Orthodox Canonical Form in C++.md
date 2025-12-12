@@ -16,9 +16,10 @@ aliases:
 - **Topic Tags:**
 	- 
 
-**Links / Tags:** 
-- **Relevance Links:**
-	- 
+- **Links / Tags:** 
+	- **Relevance Links:**
+	- Canonical Forms in C++
+	- Classes and Objects in C++
 - **Topic Links:**
 	- 
 
@@ -62,8 +63,9 @@ public:
 };
 ``` 
 
+
+## When do we care about Orthodox Canonical Form
+
 # Internal References
 
-
 # External References
-
