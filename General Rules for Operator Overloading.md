@@ -22,6 +22,8 @@
 	- such as `..`
 	  
 - Cannot redefine the meaning of operators when applied to built-in datatypes
+	- `int` + `int` can not be redefined
+	- Overloaded operators must either be a **non static class member** function or a **global** function
 
 # Internal References
 
