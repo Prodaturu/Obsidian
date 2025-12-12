@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "General Rules for Operator Overloading.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operator Overloading in C++"
+              "title": "General Rules for Operator Overloading"
             }
           },
           {
@@ -421,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "General Rules for Operator Overloading.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -431,7 +431,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operator Overloading in C++"
+              "title": "Backlinks for General Rules for Operator Overloading"
             }
           },
           {
@@ -489,6 +489,8 @@
   },
   "active": "791178f606efeb9a",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "General Rules for Operator Overloading.md",
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "Indexes/C++.md",
     "6 - Full Notes/2025-12-10.md",
@@ -496,7 +498,6 @@
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "Tags/Classes and Objects in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
     "all.base",
     "3 - Main Notes/C++/const_keyword_in_cpp.md",
@@ -515,7 +516,6 @@
     "3 - Main Notes/C++/for loops in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
     "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",

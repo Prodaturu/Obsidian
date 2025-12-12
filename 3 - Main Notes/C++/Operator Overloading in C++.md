@@ -16,6 +16,7 @@
     - Classes and Objects in C++     <!-- also related, plain text -->
     
 - **Topic Links:**
+	- [[General Rules for Operator Overloading]]
     - [[Copy Assignment Operator in C++]]
     - [[Overloading Arithmetic Operators in C++]]
     - [[Overloading Comparison Operators in C++]]
@@ -75,6 +76,9 @@ bool operator==(const Date& other) { }
 
 ## Sub-notes
 
+- [[General Rules for Operator Overloading]]
+	Rules how overloaded operators can be implemented
+	
 - [[Copy Assignment Operator in C++]]  
     Special member function that can also be seen as an overloaded `operator=`.
     
