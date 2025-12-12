@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 59.48414830736163,
+        "dimension": 37.087653157398684,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -50,7 +50,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 40.515851692638364,
+        "dimension": 62.912346842601316,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -101,22 +101,12 @@
             }
           },
           {
-            "id": "f262823372cff46c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "ef98786034d769a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,7 +121,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operator Overloading in C++"
+              "title": "Orthodox Canonical Form in C++"
             }
           },
           {
@@ -216,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "operator",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -420,6 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -429,7 +420,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Orthodox Canonical Form in C++"
             }
           },
           {
@@ -485,14 +476,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f262823372cff46c",
+  "active": "ef98786034d769a6",
   "lastOpenFiles": [
+    "6 - Full Notes/2025-12-12.md",
+    "6 - Full Notes/2025-12-11.md",
+    "Const Keyword in C++.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "Copy constructor.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "cpp map.md",
     "Indexes/C++.md",
     "General Rules for Operator Overloading.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "6 - Full Notes/2025-12-10.md",
-    "2025-12-11.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "Tags/Classes and Objects in C++.md",
@@ -501,19 +498,13 @@
     "3 - Main Notes/C++/const_keyword_in_cpp.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-    "Copy constructor.md",
     "3 - Main Notes/C++/Constructors in C++.md",
-    "Const Keyword in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "Const Member Functions in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/If else in C++.md",
     "3 - Main Notes/German/Sprechsystem.md",
     "3 - Main Notes/German/Alltagssituationen.md",
-    "3 - Main Notes/C++/Deep Copy in C++.md",
-    "3 - Main Notes/C++/for loops in C++.md",
-    "3 - Main Notes/C++/Const Data Members in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
