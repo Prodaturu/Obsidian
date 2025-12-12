@@ -86,6 +86,20 @@ public:
 - Defines how a valid object is created with no arguments
 - Ensures the object starts in a usable state
 
+#### Copy Constructor
+
+- Defines how a **new object** is created from an existing object
+- called when:
+
+```cpp
+T b(a);
+T b = a;
+```
+
+#### Copy Assignment Operator
+
+
+
 # Internal References
 
 # External References
