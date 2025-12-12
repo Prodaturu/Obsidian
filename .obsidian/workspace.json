@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 59.212598425196845,
+        "dimension": 59.48414830736163,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Runtime Polymorphism in C++"
+              "title": "Operator Overloading in C++"
             }
           },
           {
@@ -45,13 +45,12 @@
               "title": "all"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 40.78740157480315,
+        "dimension": 40.515851692638364,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -231,7 +230,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overloading",
+                "query": "operator",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -422,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -432,7 +431,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for Operator Overloading in C++"
             }
           },
           {
@@ -488,11 +487,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f262823372cff46c",
+  "active": "791178f606efeb9a",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
+    "Indexes/C++.md",
     "6 - Full Notes/2025-12-10.md",
     "2025-12-11.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "Tags/Classes and Objects in C++.md",
@@ -504,7 +504,6 @@
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "Copy constructor.md",
     "3 - Main Notes/C++/Constructors in C++.md",
-    "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "Const Keyword in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "Const Member Functions in C++.md",

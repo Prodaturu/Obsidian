@@ -26,10 +26,21 @@
 
 # Operator Overloading in C++
 
-- Extends existing C++ operators so they work with custom class objects in a meaningful way.
+- The `operator` keyword declares a function specifying
+	- what an *operator symbol* means 
+	- when applied to a class instance
+	  
+- Extends existing C++ operators
+	- so they work with custom class objects in a meaningful way
+	  
 - Makes operators like `+`, `-`, `==`, etc. work with your own classes
-    - by defining what these operations should do for your specific data types.
-- Goal: make custom types feel as natural to use as built-in types.
+    - by defining what these operations should do for your specific data types
+    
+- Goal: make custom types feel as natural to use as built-in types
+
+```cpp
+type operator operator_symbol (parameter_list)
+```
 
 ## Syntax
 
@@ -93,3 +104,6 @@ bool operator==(const Date& other) { }
 
 # External References
 
+# Rough Notes on Topic
+
+- 
