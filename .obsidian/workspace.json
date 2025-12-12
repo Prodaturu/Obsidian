@@ -334,6 +334,19 @@
             "id": "47ec2509e7dc2f6e",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "032761b17618a8c2",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -341,7 +354,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       },
       {
         "id": "353b5826e8f5adba",
