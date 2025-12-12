@@ -1,16 +1,21 @@
 **Created:** *<span class ="color-green">12.12.25, 05:58</span>*
 
-**Note Type:**
+**Status:** #map
 
 **Hashtags:**
 - **Relevance Tags:**
-	- 
+    - #cpp
+    - #OOPS 
+    - #operatoroverloading
 - **Topic Tags:**
-	- 
+    - #polymorphism
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+    - Operators in C++               <!-- grand parent, plain text on purpose -->
+    - Classes and Objects in C++     <!-- also related, plain text -->
+    - Operator Overloading in C++      <!-- parent, plain text on purpose -->
+    
 - **Topic Links:**
 	- 
 

@@ -6,7 +6,7 @@
       {
         "id": "c35872f43450a216",
         "type": "tabs",
-        "dimension": 37.087653157398684,
+        "dimension": 40.9048067860509,
         "children": [
           {
             "id": "791178f606efeb9a",
@@ -50,7 +50,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 62.912346842601316,
+        "dimension": 59.0951932139491,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -410,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+                "file": "General Rules for Operator Overloading.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -420,7 +420,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orthodox Canonical Form in C++"
+              "title": "Backlinks for General Rules for Operator Overloading"
             }
           },
           {
@@ -476,18 +476,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef98786034d769a6",
+  "active": "791178f606efeb9a",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "General Rules for Operator Overloading.md",
+    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "6 - Full Notes/2025-12-12.md",
     "6 - Full Notes/2025-12-11.md",
     "Const Keyword in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "Copy constructor.md",
     "Untitled 1.md",
     "Untitled.md",
     "cpp map.md",
     "Indexes/C++.md",
-    "General Rules for Operator Overloading.md",
     "3 - Main Notes/C++/Runtime Polymorphism in C++.md",
     "6 - Full Notes/2025-12-10.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
@@ -497,7 +498,6 @@
     "all.base",
     "3 - Main Notes/C++/const_keyword_in_cpp.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
-    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "Const Member Functions in C++.md",
