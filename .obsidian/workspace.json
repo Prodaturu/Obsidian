@@ -4,40 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "c35872f43450a216",
-        "type": "tabs",
-        "dimension": 40.9048067860509,
-        "children": [
-          {
-            "id": "6755c8863acaeed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPP05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CPP05"
-            }
-          }
-        ]
-      },
-      {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 59.0951932139491,
         "children": [
           {
             "id": "94b408e44d3ea9ec",
@@ -136,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -396,7 +364,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "all.base",
+                "file": "Const Keyword in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -406,7 +374,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for all"
+              "title": "Backlinks for Const Keyword in C++"
             }
           },
           {
@@ -462,8 +430,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "d6e36509207cb08d",
   "lastOpenFiles": [
+    "\"operator.md",
+    "Const Keyword in C++.md",
     "CPP05.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
@@ -473,7 +443,6 @@
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "6 - Full Notes/2025-12-12.md",
     "6 - Full Notes/2025-12-11.md",
-    "Const Keyword in C++.md",
     "Copy constructor.md",
     "Untitled 1.md",
     "cpp map.md",
