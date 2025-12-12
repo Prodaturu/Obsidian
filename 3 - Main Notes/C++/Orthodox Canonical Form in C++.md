@@ -93,12 +93,19 @@ public:
 
 ```cpp
 T b(a);
-T b = a;
+T b = a; // b is just created
 ```
 
 #### Copy Assignment Operator
 
+- Defines how an **existing object** is overwritten by another object
+- Called when:
+```cpp
+b = a; // b was created well before assignment
+```
 
+#### Destructor
+- Defines 
 
 # Internal References
 
