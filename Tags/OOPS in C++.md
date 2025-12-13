@@ -16,7 +16,7 @@
 	- C++
 
 - **Topic Links:**
-	- [[Classes and Objects in C++]]
+	- [[Classes in C++]]
 	- [[Encapsulation in C++]]
 	- [[Inheritance in C++]]
 	- [[Polymorphism in C++]]
@@ -31,7 +31,7 @@
 
 ## Core OOP concepts
 
-- [[Classes and Objects in C++]]  
+- [[Classes in C++]]  
   how data and behaviour are grouped together.
 
 - [[Encapsulation in C++]]  

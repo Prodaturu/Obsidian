@@ -14,6 +14,7 @@
     - [[Canonical Forms in C++]]
 
 - **Topic Links:**
+	- [[Const Objects and Member Function Calls in C++]]
     - [[Constructors in C++]]
     - [[Destructors in C++]]
     - [[Methods in C++]]
@@ -28,7 +29,7 @@
 
 > core building block of object-oriented programming in C++.
 
-- this note is a **hub** for understanding how data and behavior are modeled using classes and objects.
+- this note is a **hub** for understanding how data and behaviour are modelled using classes and objects.
 
 
 ## What is a class?
@@ -36,25 +37,14 @@
 - a **user-defined type**
 - acts as a **blueprint**
 - groups:
-  - data (data members)
-  - behavior (member functions)
-
-a class itself does **not** allocate memory.
-
----
-
-## What is an object?
-
-- an **instance** of a class
-- memory is allocated when an object is created
-- each object has its **own copy** of data members
-
----
+	- data (data members)
+	- behaviour (member functions)
+- A class itself does **not** allocate memory.
 
 ## Core parts of a class
 
 - data members (state)
-- member functions (behavior)
+- member functions (behaviour)
 - access control
 - constructors & destructors
 

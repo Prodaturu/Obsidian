@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Classes and Objects in C++.md",
+                "file": "Tags/Classes in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes and Objects in C++"
+              "title": "Classes in C++"
             }
           },
           {
@@ -405,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/Classes and Objects in C++.md",
+                "file": "Tags/Classes in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -415,7 +415,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Classes and Objects in C++"
+              "title": "Backlinks for Classes in C++"
             }
           },
           {
@@ -474,7 +474,7 @@
   "active": "8ffceb3e51b03b12",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "Tags/Classes and Objects in C++.md",
+    "Tags/Classes in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Indexes/C++.md",

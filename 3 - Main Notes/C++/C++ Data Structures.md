@@ -36,6 +36,6 @@
 | C++ Binary Tree                 |
 | C++ Binary Search Tree          |
 | C++ Trie                        |
-| [[Classes and Objects in C++]]  |
+| [[Classes in C++]]  |
 
 # References
