@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "Const in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Data Types"
+              "title": "Const in C++"
             }
           },
           {
@@ -444,7 +444,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "Const in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -454,7 +454,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Data Types"
+              "title": "Backlinks for Const in C++"
             }
           },
           {
@@ -512,8 +512,12 @@
   },
   "active": "f82700a6b37934eb",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+    "Const in C++.md",
+    "Volatile in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
+    "3 - Main Notes/C++/Special Types in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "Tags/C++ Language Features.md",
@@ -534,12 +538,8 @@
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "\"operator.md",
-    "CPP05.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
-    "3 - Main Notes/C++/.md",
-    "General Rules for Operator Overloading.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
