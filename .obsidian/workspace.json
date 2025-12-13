@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "C++ Data Types"
             }
           },
           {
@@ -444,7 +444,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -454,7 +454,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Language Features"
+              "title": "Backlinks for C++ Data Types"
             }
           },
           {
@@ -512,7 +512,10 @@
   },
   "active": "f82700a6b37934eb",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
     "Indexes/C++.md",
+    "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "Const Objects in C++.md",
@@ -523,7 +526,6 @@
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/for loops in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Range Based For Loop in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
@@ -538,8 +540,6 @@
     "3 - Main Notes/C++/.md",
     "General Rules for Operator Overloading.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "6 - Full Notes/2025-12-12.md",
-    "6 - Full Notes/2025-12-11.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
