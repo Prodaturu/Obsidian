@@ -12,7 +12,6 @@
 - **Relevance Links:**
     - OOPS in C++              <!-- parent -->
     - [[Canonical Forms in C++]]
-
 - **Topic Links:**
 	- [[Objects  in C++]]
     - [[Constructors in C++]]

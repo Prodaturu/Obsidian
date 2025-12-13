@@ -1,10 +1,10 @@
 **Created:** *27.11.25, 03:50*
 
-**Note Type:**
+**Note Type:** #map
 
 **Hashtags:**
 - **Relevance Tags:**
-	- #CPP , #OOPS  , #constructors , #map 
+	- #CPP , #OOPS  , #constructors  
 - **Topic Tags:**
 	- #specialmemberfunctions    
 	- #raii    
@@ -12,10 +12,10 @@
 
 **Links / Tags:** 
 - **Relevance Links:** 
-	- Destructors in C++
+	- Classes  in C++
 	
 - **Topic Links:**
-	- Classes and Objects in C++
+	- [[Destructors in C++]]
 	- [[Advanced Constructor Concepts in C++]]
 	- [[Types of Constructors in C++]] 
 	- [[Constructor Overloading in C++]]
