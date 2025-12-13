@@ -57,7 +57,7 @@ sticker: lucide//code
     comparison, shared roots, differences.
     
 - [[C++ Language Features]]  
-    operators, functions, templates, control flow, files, type system.
+    operators, functions, templates, control flow, files.
     
 - [[C++ Type System]]  
     built-in types, user-defined types, references, pointers, CV-qualifiers, type deduction.
