@@ -4,7 +4,7 @@
 
 **Hashtags:**
 - #cpp
-- #language_features
+- #languagefeatures
 - #map
 - #overview
 
@@ -22,7 +22,6 @@
   - #operators
   - #functions
   - #templates
-  - #exceptions
   - #io
 
 # C++ Language Features

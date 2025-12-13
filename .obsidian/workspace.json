@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "C++ Language Features"
             }
           },
           {
@@ -444,7 +444,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -454,7 +454,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for C++ Language Features"
             }
           },
           {
@@ -512,6 +512,8 @@
   },
   "active": "f82700a6b37934eb",
   "lastOpenFiles": [
+    "Indexes/C++.md",
+    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "Const Objects in C++.md",
     "Untitled.md",
@@ -520,10 +522,8 @@
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/for loops in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Range Based For Loop in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
