@@ -57,7 +57,7 @@ public:
 	{
 	// custom setup
 	// we can write something we want to do here
-	// where as the default just initalizes the class
+	// where as the default just initalizes the members / bases and nothing more
 	}
 };
 ```
