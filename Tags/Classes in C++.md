@@ -14,7 +14,7 @@
     - [[Canonical Forms in C++]]
 
 - **Topic Links:**
-	- [[Const Objects and Member Function Calls in C++]]
+	- [[Objects  in C++]]
     - [[Constructors in C++]]
     - [[Destructors in C++]]
     - [[Methods in C++]]
@@ -25,12 +25,11 @@
 
 ---
 
-# Classes and Objects in C++
+# Classes in C++
 
 > core building block of object-oriented programming in C++.
 
-- this note is a **hub** for understanding how data and behaviour are modelled using classes and objects.
-
+- this note is a **hub** for understanding how classes are defined, structured, and extended in C++.
 
 ## What is a class?
 
@@ -55,7 +54,7 @@ each of these is explained in its own note.
 ## Related concepts
 
 - object lifetime and copying → see *Canonical Forms*
-- behavior exposure → see *Access Specifiers*
+- behaviour exposure → see *Access Specifiers*
 - reusable designs → see *Class Templates*
 
 ---
