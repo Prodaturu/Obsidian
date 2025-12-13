@@ -11,7 +11,7 @@
 **Links / Tags:** 
 - **Relevance Links:**
     - Classes in C++            <!-- parent -->
-    - [[Const Objects and Member Function Calls in C++]]
+    - [[Const Objects in C++]]
 
 - **Topic Tags:**
     - #instances

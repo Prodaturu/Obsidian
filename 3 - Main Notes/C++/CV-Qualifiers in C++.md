@@ -26,7 +26,7 @@
 	- [[Const Data Members in C++]]
 	- [[Const Member Functions in C++]]
 	- [[Const-Correct Getters in C++]]
-	- [[Const Objects and Member Function Calls in C++]]
+	- [[Const Objects in C++]]
 	- [[Const and Copy / Assignment Semantics in C++]]
 	- `volatile` 
 

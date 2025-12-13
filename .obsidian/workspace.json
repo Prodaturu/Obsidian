@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Objects  in C++.md",
+                "file": "Const Objects in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Objects  in C++"
+              "title": "Const Objects in C++"
             }
           },
           {
@@ -418,7 +418,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Objects  in C++.md",
+                "file": "Const Objects in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -428,7 +428,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Objects  in C++"
+              "title": "Backlinks for Const Objects in C++"
             }
           },
           {
@@ -484,10 +484,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "8ffceb3e51b03b12",
   "lastOpenFiles": [
-    "Tags/Classes in C++.md",
     "3 - Main Notes/C++/Objects  in C++.md",
+    "Tags/Classes in C++.md",
+    "Const Objects in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
@@ -513,7 +514,6 @@
     "6 - Full Notes/2025-12-11.md",
     "Copy constructor.md",
     "Untitled 1.md",
-    "cpp map.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
