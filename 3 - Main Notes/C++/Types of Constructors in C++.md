@@ -28,9 +28,9 @@
 
 # Types of Constructors in C++
 
-constructors come in different **forms**, each solving a different object-creation problem.
+> this note classifies constructor types.  
 
-this note classifies constructor types.  
+constructors come in different **forms**, each solving a different object-creation problem.
 each type has (or will have) its own focused note.
 
 ## Core constructor types
