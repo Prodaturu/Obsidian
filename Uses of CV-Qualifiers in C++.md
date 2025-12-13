@@ -24,19 +24,13 @@
 CV-qualifiers (`const`, `volatile`) exist to:
 
 - protect data from accidental modification
-    
 - make intent explicit (read-only vs mutable)
-    
 - enable correct overload resolution
-    
 - make APIs safe and predictable
-    
 - let the compiler catch bugs early
-    
 - support correct object-oriented design
-    
-
-Without cv-qualifiers, large C++ programs become fragile and unsafe.
+	
+- Without cv-qualifiers, large C++ programs become fragile and unsafe.
 
 ---
 
