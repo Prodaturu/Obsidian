@@ -1,231 +1,75 @@
-**Created:** *26.11.25, 22:04*
+**Created:** 26.11.25, 22:04
 
-**Status:** 
+**Note Type:** #map
 
 **Hashtags:**
-- #CPP 
-- #cppclasses 
-- #accessspecifiers
+- #cpp
+- #classes
+- #oops
+- #map
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- OOPS in C++
-	- [[Operator Overloading in C++]]
-	- [[Canonical Forms in C++]]
+    - OOPS in C++              <!-- parent -->
+    - [[Canonical Forms in C++]]
 
-- **Topic Tags:**
-	- [[Constructors in C++]]
-	- [[Destructors in C++]]
-	- [[Methods in C++]]
-	- [[Access Specifiers in C++]]
-	- [[Abstract Classes in C++]]
-	- [[Class Templates in C++]]
+- **Topic Links:**
+    - [[Constructors in C++]]
+    - [[Destructors in C++]]
+    - [[Methods in C++]]
+    - [[Access Specifiers in C++]]
+    - [[Abstract Classes in C++]]
+    - [[Class Templates in C++]]
+    - [[Operator Overloading in C++]]
 
+---
 
-# Classes
+# Classes and Objects in C++
 
-## Definition
+> core building block of object-oriented programming in C++.
 
-- **Class**: A<span class="color-green"> user-defined </span>data type that acts as a blueprint for creating objects
-- It bundles data (attributes) and functions (methods) that operate on that data
-- Created using the `class` keyword
-
-## Access Specifiers
-
-### Definition - Access Specifiers
-
-- **Access specifiers** control who can use or see parts of a class in object-oriented programming.
-
-### Types of Access Specifiers (in C++)
-
-- **private**:
-	- Accessible only <span class="color-green">within the class</span>
-	- default access specifier
-    
-- **public**:
-	- Accessible <span class="color-green">from anywhere</span>
-    
-- **protected**:
-	- Accessible <span class="color-green">within the class</span> and its <span class="color-green">derived classes</span>
-
-## Basic Syntax
-
-```cpp
-class ClassName
-{
-private:
-    // Private data members and functions
-    // Accessible only within the class
-    
-public:
-    // Public data members and functions  
-    // Accessible from anywhere
-    
-protected:
-    // Protected members
-    // Accessible within class and derived classes
-};
-```
-
-## Class Components
-
-### 1. Data Members (Attributes/Properties)
-
-- Variables that belong to the class
-    
-- Store the state of objects
-    
-
-### 2. Member Functions (Methods/Behaviors)
-
-- Functions that belong to the class
-    
-- Define what objects can do
+- this note is a **hub** for understanding how data and behavior are modeled using classes and objects.
 
 
-## Simple Class Example
+## What is a class?
 
-```c++
-#include <iostream>
-#include <string>
+- a **user-defined type**
+- acts as a **blueprint**
+- groups:
+  - data (data members)
+  - behavior (member functions)
 
-// Class Definition - just the blueprint
-class Student {
-private:
-    // Data members (attributes)
-    std::string name;
-    int age;
-    double gpa;
+a class itself does **not** allocate memory.
 
-public:
-    // Member function declarations
-    // These just say what students CAN do
-    void displayInfo();
-    void study(int hours);
-    void setGrade(double grade);
-    
-    // Getter function declarations
-    std::string getName();
-    int getAge();
-    double getGPA();
-};
+---
 
-```
+## What is an object?
 
-## Class Implementation
+- an **instance** of a class
+- memory is allocated when an object is created
+- each object has its **own copy** of data members
 
-```cpp
-// Implementing the member functions
-// This is where we define WHAT the functions actually do
+---
 
-void Student::displayInfo() {
-    std::cout << "Name: " << name << std::endl;
-    std::cout << "Age: " << age << std::endl;
-    std::cout << "GPA: " << gpa << std::endl;
-}
+## Core parts of a class
 
-void Student::study(int hours) {
-    std::cout << name << " is studying for " << hours << " hours" << std::endl;
-}
+- data members (state)
+- member functions (behavior)
+- access control
+- constructors & destructors
 
-void Student::setGrade(double grade) {
-    gpa = grade;
-}
+each of these is explained in its own note.
 
-std::string Student::getName() {
-    return name;
-}
+---
 
-int Student::getAge() {
-    return age;
-}
+## Related concepts
 
-double Student::getGPA() {
-    return gpa;
-}
-```
+- object lifetime and copying → see *Canonical Forms*
+- behavior exposure → see *Access Specifiers*
+- reusable designs → see *Class Templates*
 
-## Key Points About Classes
-
-- A class is just a **template** - it doesn't store actual data
-    
-- No memory is allocated when we define a class
-    
-- The class defines **what** properties and behaviours its future objects will have
-    
-- We can think of a class like a "cookie cutter" - it defines the shape but isn't a cookie itself
-
-
-# Objects
-
-## Definition
-
-- **Object**: An actual instance of a class
-    
-- When we create an object, memory is allocated for its data members
-    
-- Each object has its own copy of the class's data members
-
-## Creating Objects
-
-```cpp
-
-// Now we create actual objects from the Student class
-int main() {
-    // Creating objects (instances) of Student class
-    Student student1;  // student1 is an object
-    Student student2;  // student2 is another object
-    
-    // Each object has its own separate data
-    // We'll learn how to use them in the next section
-}
-```
-
-### Example problem
-
-- **Question:**
-- Create a class called `Book` with the following attributes:
-	- `title` (`string`)
-	- `author` (`string`)
-	- `year` (`int`)
-- Then create two objects of the `Book` class and print their attribute values.
-
-```c++
-#include <iostream>
-#include <string>
-using namespace std;
-
-class Book
-{
-public:
-	std::string title;
-	std::string author;
-	int         year;
-}
-
-int main()
-{
-	Book book1;
-	
-	book1.title = "Matilda";  
-	book1.author = "Roald Dahl";  
-	book1.year = 1988;  
-	
-	Book book2;  
-	book2.title = "The Giving Tree";  
-	book2.author = "Shel Silverstein";  
-	book2.year = 1964;  
-	
-	cout << book1.title << ", by " << book1.author << ", " << book1.year << "\n";  
-	cout << book2.title << ", by " << book2.author << ", " << book2.year;  
-	return 0;
-}
-```
-
+---
 
 # References
 
-## Closely Related Notes
-
-### Next: 
-
+-
