@@ -23,6 +23,8 @@
 
 - Map note for `const` / `volatile` (CV-qualifiers) in C++.
 	- [[Const in C++]]
+		- Restricts modification
 	- [[Volatile in C++]]
+		- Restricts optimisation assumptions
 
 # References
