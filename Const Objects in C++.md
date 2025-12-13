@@ -48,6 +48,26 @@ const Student s;
 - allow safer APIs
 - Enable compiler optimisations
 
+## Common mistakes
+
+```cpp
+const Student s;
+s.setAge(20); // ❌ error! won't work if setAge is not const
+```
+
+- This fails because:
+	- modifying member functions are not allowed
+	- `this` is treated as `const` inside member functions
+
+see: [[Const Member Functions in C++]]
+
+
+## Relation to member functions
+
+- const objects restrict which member functions can be called
+- Only functions marked `const` are allowed
+
+
 # Internal References
 
 
