@@ -5,11 +5,9 @@
 **Hashtags:**
 - **Relevance Tags:**
 	- #cpp
-	- #typesystem
 	- #cvqualifiers
 	- #const
 - **Topic Tags:**
-    - #types
     - #qualifiers
 
 **Links / Tags:** 
