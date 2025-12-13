@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "f82700a6b37934eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Const Member Functions in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Const Member Functions in C++"
+            }
+          },
+          {
             "id": "be3f03865443997c",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -418,7 +442,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Const Objects in C++.md",
+                "file": "3 - Main Notes/C++/Const Member Functions in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -428,7 +452,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Const Objects in C++"
+              "title": "Backlinks for Const Member Functions in C++"
             }
           },
           {
@@ -484,10 +508,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8ffceb3e51b03b12",
+  "active": "f82700a6b37934eb",
   "lastOpenFiles": [
-    "Untitled.md",
     "Const Objects in C++.md",
+    "Untitled.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Objects  in C++.md",
     "Tags/Classes in C++.md",

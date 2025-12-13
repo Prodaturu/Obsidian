@@ -68,8 +68,13 @@ see: [[Const Member Functions in C++]]
 - Only functions marked `const` are allowed
 
 
-# Internal References
+## Key Takeaways
 
+- Const object $\implies$ read-only state
+- class definition stays the same
+- constness is enforced at **Compile time**
+
+# Internal References
 
 
 # External References
