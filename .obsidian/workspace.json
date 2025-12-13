@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Types of Constructors in C++.md",
+                "file": "3 - Main Notes/C++/Constructors in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Constructors in C++"
+              "title": "Constructors in C++"
             }
           },
           {
@@ -466,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Types of Constructors in C++.md",
+                "file": "3 - Main Notes/C++/Constructors in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -476,7 +476,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Types of Constructors in C++"
+              "title": "Backlinks for Constructors in C++"
             }
           },
           {
@@ -534,6 +534,7 @@
   },
   "active": "ba7f2dfc3eb9a54c",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Types of Constructors in C++.md",
     "Member Initialiser List in C++.md",
@@ -559,7 +560,6 @@
     "3 - Main Notes/C++/for loops in C++.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Range Based For Loop in C++.md",
-    "3 - Main Notes/C++/If else in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",

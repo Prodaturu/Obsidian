@@ -74,7 +74,7 @@ int main()
 - **RAII (Resource Acquisition Is Initialisation)**  
   Acquire resources in the constructor, release them in the destructor.
 
-- **[[Constructor Overloading in C++|Overloading]]**  
+- **[[Constructor Overloading in C++|Constructor Overloading]]**  
   Provide multiple ways to create an object with different parameter sets.
 
 - **Default values**  
