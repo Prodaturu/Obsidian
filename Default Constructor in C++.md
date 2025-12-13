@@ -16,7 +16,7 @@
 - **Relevance Links:**
 	- Types of Constructors in C++        <!-- parent -->
 - **Topic Links:**
-	- 
+	- [[Initi]]
 
 ---
 
@@ -105,3 +105,10 @@ class A
 - needed for value-initialisation
 - simplifies generic and template code
 - enables objects to be created in stages
+
+# Key Takeaways
+
+- Default Constructor = callable with no arguments
+- can be compiler-generated or user-defined
+- not always available
+- often works together with Initialiser lists
