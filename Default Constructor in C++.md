@@ -67,5 +67,10 @@ public:
 ### Default Constructor and member Initialisation
 
 ```cpp
-
+class A
+{
+	int x;
+public:
+	A() : x(0) {}
+};
 ```
