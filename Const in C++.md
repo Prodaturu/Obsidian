@@ -23,6 +23,7 @@
 - [[Const Member Functions in C++]]
 - [[Const-Correct Getters in C++]]
 - [[Const Objects in C++]]
+- [[Const Placement Rules]]
 - [[Const and Copy / Assignment Semantics in C++]]
 
 # Internal References

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+                "file": "Const in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CV-Qualifiers in C++"
+              "title": "Const in C++"
             }
           },
           {
@@ -444,7 +444,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+                "file": "Const in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -454,7 +454,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CV-Qualifiers in C++"
+              "title": "Backlinks for Const in C++"
             }
           },
           {
@@ -512,8 +512,8 @@
   },
   "active": "f82700a6b37934eb",
   "lastOpenFiles": [
-    "Const in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+    "Const in C++.md",
     "Volatile in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
