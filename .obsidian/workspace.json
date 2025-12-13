@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "8ffceb3e51b03b12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "be3f03865443997c",
             "type": "leaf",
             "state": {
@@ -55,7 +65,8 @@
               "title": "2025-12-10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -347,6 +358,19 @@
             "id": "032761b17618a8c2",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "382b47c597b5ef80",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -354,7 +378,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       },
       {
         "id": "353b5826e8f5adba",
@@ -367,7 +391,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -377,7 +400,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orthodox Canonical Form in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -433,11 +456,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ef98786034d769a6",
+  "active": "8ffceb3e51b03b12",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/If else in C++.md",
     "6 - Full Notes/2025-12-10.md",
-    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "Const Keyword in C++.md",
     "\"operator.md",
