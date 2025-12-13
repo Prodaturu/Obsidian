@@ -10,41 +10,19 @@
 
 **Topic Tags:**
 - #forloops
+- #rangebasedforloops
 - #iteration 
 - #counters
 
 **Links / Tags:** 
 - **Relevance Links:**
-    - Loops in C++             %% parent %%
-    - [[while loops in C++]]
+    - for loops in C++             %% parent %%
+    - 
 
 - **Topic Links:**
-    - [[Range Based For Loop in C++]]
+    - 
 
 ---
 
-# 'for' loops in C++
+# Range based'for' loops in C++
 
-> part of C++ loop mechanisms
-
-a `for` loop repeats code using a clear **start → check → update** pattern.
-
----
-
-## basic 'for' loop
-
-```cpp
-for (initialisation; condition; perLoopUpdate)
-{
-    // body
-}
-```
-
-**Translates to:**
-- Run *initialisation* once at the start of the loop
-- check the condition
-- if true $\rightarrow$ run body
-- then do the update
-- repeat until condition falls (checked at the start of each iteration)
-
-#### Basic Example

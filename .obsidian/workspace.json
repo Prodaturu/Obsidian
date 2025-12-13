@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Range Based For Loop in C++.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Range Based For Loop in C++"
+              "title": "C++"
             }
           },
           {
@@ -148,8 +148,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -406,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Range Based For Loop in C++.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -416,7 +415,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Range Based For Loop in C++"
+              "title": "Backlinks for C++"
             }
           },
           {
@@ -474,9 +473,11 @@
   },
   "active": "8ffceb3e51b03b12",
   "lastOpenFiles": [
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Control Flow in C++.md",
+    "Indexes/C++.md",
     "3 - Main Notes/C++/for loops in C++.md",
     "Range Based For Loop in C++.md",
-    "Indexes/C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/If else in C++.md",
@@ -500,8 +501,6 @@
     "3 - Main Notes/C++/C++ Data Structures.md",
     "Tags/Classes and Objects in C++.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
-    "3 - Main Notes/C++/const_keyword_in_cpp.md",
-    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
     "3 - Main Notes/GeneralCodingConcepts",
