@@ -19,7 +19,7 @@
 	- [[Advanced Constructor Concepts in C++]]
 	- [[Types of Constructors in C++]] 
 	- [[Constructor Overloading in C++]]
-	- [[Member Initialisier List in C++]]
+	- [[Member Initialiser List in C++]]
 
 # Constructors in C++
 
@@ -89,6 +89,5 @@ int main()
     
 - [[Advanced Constructor Concepts in C++]]  
     Initialiser lists, const members, explicit, default/delete, etc.
-
 
 # External References
