@@ -16,7 +16,7 @@
 - **Relevance Links:**
 	- Types of Constructors in C++        <!-- parent -->
 - **Topic Links:**
-	- [[Initi]]
+	- [[Member Initialiser List in C++]]
 
 ---
 
@@ -71,7 +71,7 @@ class A
 {
 	int x;
 public:
-	A() : x(0) {}
+	A() : x(0) {} //member initialiser list
 };
 ```
 
@@ -112,3 +112,4 @@ class A
 - can be compiler-generated or user-defined
 - not always available
 - often works together with Initialiser lists
+
