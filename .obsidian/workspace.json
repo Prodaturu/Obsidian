@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Types of Constructors in C++.md",
+                "file": "Default Constructor in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of Constructors in C++"
+              "title": "Default Constructor in C++"
             }
           },
           {
@@ -466,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Types of Constructors in C++.md",
+                "file": "Default Constructor in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -476,7 +476,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Types of Constructors in C++"
+              "title": "Backlinks for Default Constructor in C++"
             }
           },
           {
@@ -534,8 +534,8 @@
   },
   "active": "ba7f2dfc3eb9a54c",
   "lastOpenFiles": [
-    "Default Constructor in C++.md",
     "3 - Main Notes/C++/Types of Constructors in C++.md",
+    "Default Constructor in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "Member Initialiser List in C++.md",

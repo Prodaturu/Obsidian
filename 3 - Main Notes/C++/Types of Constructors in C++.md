@@ -80,20 +80,18 @@ each type has (or will have) its own focused note.
 ## Notes on classification
 
 - all constructors are **member functions**
+	
 - they differ by:
 	- parameters
 	- how objects are created
 	- how resources are handled
+	  
 - some constructors interact closely with:
 	- copy / assignment semantics
 	- const correctness
 	- initialiser lists
 
 those relationships are handled in sibling notes.
-
-# Internal References
-
-- Constructors in C++
 
 # External References
 
