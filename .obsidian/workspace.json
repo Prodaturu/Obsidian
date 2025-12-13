@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Const Member Functions in C++.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Const Member Functions in C++"
+              "title": "C++"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Range based",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -172,11 +172,13 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -442,7 +444,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Const Member Functions in C++.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -452,7 +454,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Const Member Functions in C++"
+              "title": "Backlinks for C++"
             }
           },
           {
@@ -510,9 +512,9 @@
   },
   "active": "f82700a6b37934eb",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Const Member Functions in C++.md",
     "Const Objects in C++.md",
     "Untitled.md",
-    "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Objects  in C++.md",
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",

@@ -9,7 +9,7 @@ sticker: lucide//code
 **Hashtags:**
 - **Relevance Tags**
 	- #cpp
-	- #programminlanguage
+	- #programminglanguage 
 	- #map
 	- #overview
 - **Topic Tags:**
@@ -21,18 +21,18 @@ sticker: lucide//code
 	
 **Links / Tags:** 
 - **Relevance Links:**
-	- Background:
+	- Background and ecosystem:
 		- [[History of C++]]
 		- [[C vs C++]] - Main Differences and Commonality between C and C++
 		- [[C++ Language Features]]
 		- [[C++ Type System]]  
-		  
+		- [[C++ Libraries]] - Libraries and C++ ecosystem
+		
 	- OOPS:
 		- [[OOPS in C++]] - Object Oriented Programming in C++
 		  
 	- DSA:
 		- [[C++ Data Structures and Algorithms]] - DSA in C++
-		- [[C++ Libraries]] - Libraries and C++ ecosystem
 		  
 	- Memory, errors, and project structure:
 		- [[Memory management in C++]]
