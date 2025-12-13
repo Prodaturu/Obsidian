@@ -38,8 +38,15 @@ const Student s;
 
 ## What "const" really applies to
 
-- `const` applies to the object itself not the class
+- `const` applies to the **object itself** not the class
 - Same class can create `const` and `non const` objects
+
+## Why "const" objects exist
+
+- express intent ("this object should not change")
+- Prevent accidental modification
+- allow safer APIs
+- Enable compiler optimisations
 
 # Internal References
 
