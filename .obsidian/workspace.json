@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Default Constructor in C++.md",
+                "file": "3 - Main Notes/Eat the Frog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Default Constructor in C++"
+              "title": "Eat the Frog"
             }
           },
           {
@@ -479,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Default Constructor in C++.md",
+                "file": "3 - Main Notes/Eat the Frog.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -489,7 +489,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Default Constructor in C++"
+              "title": "Backlinks for Eat the Frog"
             }
           },
           {
@@ -547,8 +547,10 @@
   },
   "active": "ba7f2dfc3eb9a54c",
   "lastOpenFiles": [
-    "Member Initialiser List in C++.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/Eat the Frog.md",
     "Default Constructor in C++.md",
+    "Member Initialiser List in C++.md",
     "Initi.md",
     "3 - Main Notes/C++/Types of Constructors in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
@@ -556,7 +558,6 @@
     "Advanced Constructor Concepts in C++.md",
     "Tags/Classes in C++.md",
     "Tags/OOPS in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/Special Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
@@ -572,7 +573,6 @@
     "Untitled.md",
     "3 - Main Notes/C++/Objects  in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "3 - Main Notes/C++/for loops in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
