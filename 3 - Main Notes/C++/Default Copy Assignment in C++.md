@@ -11,7 +11,7 @@
     - #classdesign
        
 - **Topic Tags:**
-    - #copyassignment
+    - #copyassignmentoperator 
     - #defaulted        
     - #ruleofzero
 

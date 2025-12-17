@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Eat the Frog.md",
+                "file": "3 - Main Notes/C++/Default Copy Assignment in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eat the Frog"
+              "title": "Default Copy Assignment in C++"
             }
           },
           {
@@ -185,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#copyassignmentoperator",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -196,7 +196,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -218,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Default Copy Assignment in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operator Overloading in C++"
+              "title": "Outline of Default Copy Assignment in C++"
             }
           },
           {
@@ -275,214 +276,6 @@
             }
           },
           {
-            "id": "feb748bd4d7732ad",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "70b461057ec34414",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "21ce3ff554c4d2ac",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "1a67ac8196ac6ab4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "e73228ac790dee9d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "71f94c93f5b4c912",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "f7d9c54d203a2d0c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "f538372163e9035e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "f9a38da4ddbcf5ff",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "73f474ff378f9774",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "47ec2509e7dc2f6e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "032761b17618a8c2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "382b47c597b5ef80",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "ee675071194f8df0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "40b344817ac009b0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "e9e6b75f3a3c6599",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "b11042fddeb7c2dc",
             "type": "leaf",
             "state": {
@@ -492,8 +285,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 19
+        ]
       },
       {
         "id": "353b5826e8f5adba",
@@ -506,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/Eat the Frog.md",
+                "file": "3 - Main Notes/C++/Default Copy Assignment in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -516,7 +308,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eat the Frog"
+              "title": "Backlinks for Default Copy Assignment in C++"
             }
           },
           {
@@ -574,8 +366,10 @@
   },
   "active": "ba7f2dfc3eb9a54c",
   "lastOpenFiles": [
-    "Indexes/C++.md",
+    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
+    "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/Eat the Frog.md",
+    "Indexes/C++.md",
     "Default Constructor in C++.md",
     "Member Initialiser List in C++.md",
     "Initi.md",
@@ -598,8 +392,6 @@
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "Const Objects in C++.md",
     "Untitled.md",
-    "3 - Main Notes/C++/Objects  in C++.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
