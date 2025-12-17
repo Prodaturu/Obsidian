@@ -50,7 +50,7 @@ const int* const p // both const
 
 ```cppconst int& ref = x;  // cannot modify x through ref```
 
-### 5. **Member functions (`...() const`)**
+### 5. Member functions (...() const)
 
 `int getValue() const;`
 
