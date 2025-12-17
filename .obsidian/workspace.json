@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Special Types in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Special Types in C++"
-            }
-          },
-          {
-            "id": "8ffceb3e51b03b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2025-12-17.md",
                 "mode": "source",
                 "source": false,
@@ -194,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Special Types in C++.md",
+                "file": "2025-12-17.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Special Types in C++"
+              "title": "Outline of 2025-12-17"
             }
           },
           {
@@ -273,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Special Types in C++.md",
+                "file": "2025-12-17.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -283,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Special Types in C++"
+              "title": "Backlinks for 2025-12-17"
             }
           },
           {
@@ -341,7 +317,9 @@
   },
   "active": "ef98786034d769a6",
   "lastOpenFiles": [
+    "Uses of CV-Qualifiers in C++.md",
     "2025-12-17.md",
+    "3 - Main Notes/C++/Special Types in C++.md",
     "6 - Full Notes/2025-12-11.md",
     "Const Objects in C++.md",
     "6 - Full Notes/2025-12-12.md",
@@ -360,10 +338,8 @@
     "Advanced Constructor Concepts in C++.md",
     "Tags/Classes in C++.md",
     "Tags/OOPS in C++.md",
-    "3 - Main Notes/C++/Special Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-    "Uses of CV-Qualifiers in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "Const in C++.md",

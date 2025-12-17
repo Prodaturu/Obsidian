@@ -41,7 +41,6 @@ C++ is:
 - low-level enough to access memory directly
     
 - high-level enough to build complex abstractions
-    
 
 This combination is powerful but dangerous.
 
