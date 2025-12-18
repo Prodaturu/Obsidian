@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Const in C++.md",
+                "file": "3 - Main Notes/C++/Const Keyword in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Const in C++"
+              "title": "Const Keyword in C++"
             }
           },
           {
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Const in C++.md",
+                "file": "3 - Main Notes/C++/Const Keyword in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Const in C++"
+              "title": "Outline of Const Keyword in C++"
             }
           },
           {
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Const in C++.md",
+                "file": "3 - Main Notes/C++/Const Keyword in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Const in C++"
+              "title": "Backlinks for Const Keyword in C++"
             }
           },
           {
@@ -397,10 +397,10 @@
   },
   "active": "da12d032395ba464",
   "lastOpenFiles": [
+    "Const in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "Indexes/C++.md",
-    "Const in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",

@@ -60,7 +60,7 @@ const int* const p;  // both are const
 
 - exact meaning depends on placement
 - detailed rules live in:
-    - Const Placement Rules in C++
+    - [[Const Placement Rules in C++]]
 
 ---
 
@@ -83,7 +83,7 @@ int getValue() const;
 - guarantees the function does not modify the object
 
 see:
-- Const Member Functions in C++
+- [[Const Member Functions in C++]]
 
 ---
 
@@ -96,7 +96,7 @@ const MyClass obj;
 - only `const` member functions may be called
 
 see:
-- Const Objects in C++
+- [[Const Objects in C++]]
 
 ---
 
