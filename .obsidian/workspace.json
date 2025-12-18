@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Const Keyword in C++.md",
+                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Const Keyword in C++"
+              "title": "Orthodox Canonical Form in C++"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "OCF",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -237,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Const Keyword in C++.md",
+                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Const Keyword in C++"
+              "title": "Outline of Orthodox Canonical Form in C++"
             }
           },
           {
@@ -316,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Const Keyword in C++.md",
+                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -326,7 +326,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Const Keyword in C++"
+              "title": "Backlinks for Orthodox Canonical Form in C++"
             }
           },
           {
@@ -384,11 +384,11 @@
   },
   "active": "da12d032395ba464",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Const Keyword in C++.md",
     "Const in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "Indexes/C++.md",
-    "3 - Main Notes/C++/Const Keyword in C++.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
     "3 - Main Notes/C vs C++.md",
