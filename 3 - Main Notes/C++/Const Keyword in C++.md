@@ -34,14 +34,15 @@
 
 - A common mistake is thinking `const` always protects a variable.
 	- That is **not true**.
-
-- `const` always  **protects whatever is immediately to its right** (or to its left if nothing is on the right).
+- `const` qualifies a **type**. it makes _that part_ of the type read-only
+	- to decode it, use the **right-left rule** (read from the name outward)
+	- `const`  **protects whatever is immediately to its right** (or to its left if nothing is on the right).
+- “immediately to the right” is a **helpful heuristic**, not a law
 
 What gets protected depends on where `const` is written.
 
 The details of this rule are explained in:
-- Const Placement Rules in C++
-
+- [[Const Placement Rules in C++]]
 
 ---
 
@@ -75,18 +76,13 @@ void foo(const std::string& s);
 Meaning:
 
 - the function promises not to modify `s`
-    
 - the caller’s data is protected
-    
 
 Why this matters:
 
 - avoids accidental changes
-    
 - allows passing temporaries and const objects
-    
 - improves readability and trust in the API
-    
 
 ---
 
@@ -98,18 +94,13 @@ const int* p;        // value cannot change
 const int* const p;  // neither can change
 ```
 
-These look similar but mean **very different things**.
-
-This is where most confusion starts.
-
-Instead of memorising, always ask:
-
-> what is being protected from modification?
+- These look similar but mean **very different things**
+- Instead of memorising, always ask:
+	- what is being protected from modification?
 
 Full explanation lives in:
 
-- Const Placement Rules in C++
-    
+- [[Const Placement Rules in C++]]
 
 ---
 
@@ -122,18 +113,13 @@ const int& ref = x;
 Meaning:
 
 - `ref` cannot be used to modify `x`
-    
 - but `x` itself may still change through other means
-    
 
 This is heavily used for:
 
 - function parameters
-    
 - avoiding copies
-    
 - read-only access
-    
 
 ---
 
@@ -146,21 +132,16 @@ int getValue() const;
 Meaning:
 
 - this function promises not to modify the object
-    
 - inside the function, `this` is treated as a pointer to const
-    
 
 Why it matters:
 
 - allows the function to be called on const objects
-    
 - enables const-correct APIs
-    
 
 Details live in:
 
 - Const Member Functions in C++
-    
 
 ---
 
@@ -173,16 +154,12 @@ const MyClass obj;
 Meaning:
 
 - `obj` itself cannot be modified
-    
 - only `const` member functions may be called
-    
 
 This enforces read-only usage at the object level.
 
 See:
-
-- Const Objects in C++
-    
+- [[Const Objects in C++]]
 
 ---
 
@@ -193,17 +170,11 @@ Every time you see `const`, ask:
 > **What exactly is not allowed to change?**
 
 - a value?
-    
 - a pointed value?
-    
 - a pointer?
-    
 - an object?
-    
 - a function’s behaviour?
-    
-
-The answer depends on **placement**, not on the keyword itself.
+- The answer depends on **placement**, not on the keyword itself.
 
 ---
 
