@@ -56,6 +56,8 @@ sticker: lucide//code
 	- c with classes and inheritance (when invented)
 	- most C programs can be compiled and run with a C++ compiler
 
+
+
 ---
 
 ## 1. Background and big picture

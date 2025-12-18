@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Type System.md",
+                "file": "Const in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Type System"
+              "title": "Const in C++"
             }
           },
           {
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "95739fb80564007a",
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Const in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of Const in C++"
             }
           },
           {
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Const in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for Const in C++"
             }
           },
           {
@@ -395,15 +395,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "da12d032395ba464",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
+    "Indexes/C++.md",
     "Const in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Uses of CV-Qualifiers in C++.md",
