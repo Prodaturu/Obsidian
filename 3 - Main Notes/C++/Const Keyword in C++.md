@@ -22,89 +22,191 @@
     - [[Pointer and Reference Types in C++]]
 
 ---
-
 # Const Keyword in C++
-- `const` is a promise you make to the compiler.
-- It means: **this thing must not be changed after this point**.
+
+- `const` is a promise you make to the compiler
+- It means: **this thing must not be changed after this point**
 - The compiler then _enforces_ that promise and raises an error if your code tries to break it.
 
 ---
 
-## Where `const` can appear
+## What `const` actually protects
 
-### Variables
+- A common mistake is thinking `const` always protects a variable.
+	- That is **not true**.
 
-```cpp
-const int x = 9;
-```
-- `x` cannot be reassigned after initialisation
+- `const` always protects **whatever is immediately to its right** (or to its left if nothing is on the right).
+
+What gets protected depends on where `const` is written.
+
+The details of this rule are explained in:
+
+- Const Placement Rules in C++
+    
+
+Here, we focus on **what kinds of things can be protected**.
 
 ---
 
-### Function parameters
+## Const on variables
 
-```cpp
+```
+const int x = 9;
+```
+
+Meaning:
+
+- `x` is initialised once
+    
+- any later attempt to modify `x` is rejected
+    
+
+```
+x = 10;   // ❌ compiler error
+```
+
+Use this when a value should never change after creation.
+
+---
+
+## Const on function parameters
+
+```
 void foo(const std::string& s);
 ```
 
-- protects the argument from accidental modification
+Meaning:
+
+- the function promises not to modify `s`
+    
+- the caller’s data is protected
+    
+
+Why this matters:
+
+- avoids accidental changes
+    
+- allows passing temporaries and const objects
+    
+- improves readability and trust in the API
+    
 
 ---
 
-### Pointers and pointed values
+## Const with pointers
 
-```cpp
-int* const p;        // pointer is const
-const int* p;        // pointed value is const
-const int* const p;  // both are const
+```
+int* const p;        // pointer cannot change
+const int* p;        // value cannot change
+const int* const p;  // neither can change
 ```
 
-- exact meaning depends on placement
-- detailed rules live in:
-    - [[Const Placement Rules in C++]]
+These look similar but mean **very different things**.
+
+This is where most confusion starts.
+
+Instead of memorising, always ask:
+
+> what is being protected from modification?
+
+Full explanation lives in:
+
+- Const Placement Rules in C++
+    
 
 ---
 
-### Reference value
+## Const with references
 
-```cpp
+```
 const int& ref = x;
 ```
 
-- value cannot be modified through the reference
+Meaning:
+
+- `ref` cannot be used to modify `x`
+    
+- but `x` itself may still change through other means
+    
+
+This is heavily used for:
+
+- function parameters
+    
+- avoiding copies
+    
+- read-only access
+    
 
 ---
 
-### Member functions
+## Const member functions
 
-```cpp
+```
 int getValue() const;
 ```
 
-- guarantees the function does not modify the object
+Meaning:
 
-see:
-- [[Const Member Functions in C++]]
+- this function promises not to modify the object
+    
+- inside the function, `this` is treated as a pointer to const
+    
+
+Why it matters:
+
+- allows the function to be called on const objects
+    
+- enables const-correct APIs
+    
+
+Details live in:
+
+- Const Member Functions in C++
+    
 
 ---
 
-### Objects
+## Const objects
 
-```cpp
+```
 const MyClass obj;
 ```
 
-- only `const` member functions may be called
+Meaning:
 
-see:
-- [[Const Objects in C++]]
+- `obj` itself cannot be modified
+    
+- only `const` member functions may be called
+    
+
+This enforces read-only usage at the object level.
+
+See:
+
+- Const Objects in C++
+    
 
 ---
 
-## Key idea
+## Key mental model
 
-`const` always applies to **something specific**
-understanding `const` means understanding **what is being protected from change**
+Every time you see `const`, ask:
+
+> **What exactly is not allowed to change?**
+
+- a value?
+    
+- a pointed value?
+    
+- a pointer?
+    
+- an object?
+    
+- a function’s behaviour?
+    
+
+The answer depends on **placement**, not on the keyword itself.
 
 ---
 
