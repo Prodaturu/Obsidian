@@ -6,6 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
+        "dimension": 73.09236947791165,
         "children": [
           {
             "id": "ef98786034d769a6",
@@ -133,6 +134,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
+        "dimension": 26.907630522088354,
         "children": [
           {
             "id": "e9cccd5e37816641",
@@ -234,13 +236,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Const Keyword in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Const Keyword in C++"
+              "title": "Outline"
             }
           },
           {
@@ -327,7 +328,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Const Keyword in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -337,7 +337,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Const Keyword in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -393,14 +393,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "e9cccd5e37816641",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/Const Keyword in C++.md",
     "Const in C++.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
-    "3 - Main Notes/C++/Const Keyword in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "Indexes/C++.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",

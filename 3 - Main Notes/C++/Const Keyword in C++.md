@@ -102,9 +102,8 @@ see:
 
 ## Key idea
 
-`const` always applies to **something specific**.
-
-understanding `const` means understanding **what is being protected from change**.
+`const` always applies to **something specific**
+understanding `const` means understanding **what is being protected from change**
 
 ---
 
