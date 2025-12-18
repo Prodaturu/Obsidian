@@ -24,8 +24,9 @@
 ---
 
 # Const Keyword in C++
-- `const` tells the compiler that something **cannot be modified** after it is initialised
-- it enforces **read-only guarantees** at compile time
+- `const` is a promise you make to the compiler.
+- It means: **this thing must not be changed after this point**.
+- The compiler then _enforces_ that promise and raises an error if your code tries to break it.
 
 ---
 
