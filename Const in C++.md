@@ -39,7 +39,7 @@
 ## Core const concepts
 
 - [[Const Keyword in C++]]  
-    basic meaning and intent of `const`.
+    basic meaning and intent of `const`
     
 - [[Const Placement Rules in C++]]  
     how placement changes meaning (`const T`, `T const`, `T* const`, `f() const`, etc.).
