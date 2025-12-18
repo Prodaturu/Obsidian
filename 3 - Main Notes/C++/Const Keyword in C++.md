@@ -32,14 +32,14 @@
 
 ## What `const` actually protects
 
-- A common mistake is thinking `const` always protects a variable.
-	- That is **not true**.
+- A common mistake is thinking `const` always protects a variable
+	- That is **not true**
 - `const` qualifies a **type**. it makes _that part_ of the type read-only
 	- to decode it, use the **right-left rule** (read from the name outward)
-	- `const`  **protects whatever is immediately to its right** (or to its left if nothing is on the right).
+	- `const`  **protects whatever is immediately to its right** (or to its left if nothing is on the right)
 - “immediately to the right” is a **helpful heuristic**, not a law
 
-What gets protected depends on where `const` is written.
+What gets protected depends on where `const` is written
 
 The details of this rule are explained in:
 - [[Const Placement Rules in C++]]
@@ -63,7 +63,7 @@ Meaning:
 x = 10;   // ❌ compiler error
 ```
 
-Use this when a value should never change after creation.
+Use this when a value should never change after creation
 
 ---
 
