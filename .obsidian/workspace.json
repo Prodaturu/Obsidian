@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#const  ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -214,7 +214,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -281,6 +282,19 @@
           },
           {
             "id": "27404fc611febb2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc749da37f6a67ce",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -368,7 +382,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "620fa379c273d379",
+  "active": "da12d032395ba464",
   "lastOpenFiles": [
     "Const in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
