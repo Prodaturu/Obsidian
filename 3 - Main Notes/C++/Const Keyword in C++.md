@@ -49,7 +49,6 @@ void foo(const std::string& s);
 ```
 
 - protects the argument from accidental modification
-    
 
 ---
 
@@ -62,11 +61,8 @@ const int* const p;  // both are const
 ```
 
 - exact meaning depends on placement
-    
 - detailed rules live in:
-    
     - Const Placement Rules in C++
-        
 
 ---
 
@@ -77,7 +73,6 @@ const int& ref = x;
 ```
 
 - value cannot be modified through the reference
-    
 
 ---
 
@@ -88,12 +83,9 @@ int getValue() const;
 ```
 
 - guarantees the function does not modify the object
-    
 
 see:
-
 - Const Member Functions in C++
-    
 
 ---
 
