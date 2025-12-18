@@ -50,10 +50,11 @@ sticker: lucide//code
 	- created by Bjarne Stroustrup
 	- extension of the C programming language
 	- introduced in 1985
-	- c with classes and inheritance (when invented)
 - C++ is a statically-typed language
 	- type of a variable is determined during compilation
-
+- C++ builds upon the features of C,
+	- c with classes and inheritance (when invented)
+	- most C programs can be compiled and run with a C++ compiler
 
 ---
 
@@ -78,7 +79,6 @@ sticker: lucide//code
 
 - [[OOPS in C++]]  
     classes, objects, inheritance, polymorphism, abstraction, encapsulation.
-    
 
 ---
 
@@ -89,7 +89,6 @@ sticker: lucide//code
     
 - [[C++ Libraries]]  
     STL + important external libraries.
-    
 
 ---
 
