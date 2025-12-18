@@ -35,7 +35,7 @@
 - A common mistake is thinking `const` always protects a variable.
 	- That is **not true**.
 
-- `const` always protects **whatever is immediately to its right** (or to its left if nothing is on the right).
+- `const` always  **protects whatever is immediately to its right** (or to its left if nothing is on the right).
 
 What gets protected depends on where `const` is written.
 
