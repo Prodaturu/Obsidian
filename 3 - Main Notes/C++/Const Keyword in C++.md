@@ -24,7 +24,6 @@
 ---
 
 # Const Keyword in C++
-
 - `const` tells the compiler that something **cannot be modified** after it is initialised
 - it enforces **read-only guarantees** at compile time
 
@@ -37,7 +36,6 @@
 ```cpp
 const int x = 9;
 ```
-
 - `x` cannot be reassigned after initialisation
 
 ---
@@ -96,12 +94,9 @@ const MyClass obj;
 ```
 
 - only `const` member functions may be called
-    
 
 see:
-
 - Const Objects in C++
-    
 
 ---
 
