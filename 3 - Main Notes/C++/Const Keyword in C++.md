@@ -40,13 +40,12 @@
 What gets protected depends on where `const` is written.
 
 The details of this rule are explained in:
-
 - Const Placement Rules in C++
-    
 
-Here, we focus on **what kinds of things can be protected**.
 
 ---
+
+# what kinds of things can be protected using `const`
 
 ## Const on variables
 
@@ -57,9 +56,7 @@ const int x = 9;
 Meaning:
 
 - `x` is initialised once
-    
 - any later attempt to modify `x` is rejected
-    
 
 ```
 x = 10;   // ❌ compiler error
