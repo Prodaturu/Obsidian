@@ -64,7 +64,7 @@ const int* const p;  // both are const
 
 ---
 
-### References
+### Reference value
 
 ```cpp
 const int& ref = x;
