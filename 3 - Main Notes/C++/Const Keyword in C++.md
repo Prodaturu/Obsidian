@@ -1,68 +1,126 @@
-a **Created:** *<span class ="color-green">10.12.25, 14:46</span>*
+**Created:** 10.12.25, 14:46*
 
-**Note Type:**
+**Note Type:** #atomic
 
 **Hashtags:**
-- **Relevance Tags:**
-	- #cpp 
-	- #cvqualifiers 
-- **Topic Tags:**
-	- #const 
-	- 
 
-**Links / Tags:** 
+- **Relevance Tags:**
+    - #cpp 
+    - #cvqualifiers
+- **Topic Tags:**
+    - #const
+    - #immutability
+
+**Links / Tags:**
+
 - **Relevance Links:**
-	- CV-Qualifiers in C++
+    - Const in C++
 - **Topic Links:**
-	- [[Pointer and Reference Types in C++]]
+    - [[Const Placement Rules in C++]]
+    - [[Const Member Functions in C++]]
+    - [[Const Objects in C++]]
+    - [[Pointer and Reference Types in C++]]
 
 ---
+
 # Const Keyword in C++
 
-- `const` tells compiler that a value **cannot be modified** after creation
-- enforces **read-only** behaviour at compile time
+- `const` tells the compiler that something **cannot be modified** after it is initialised
+- it enforces **read-only guarantees** at compile time
 
-## Where 'const' can appear
+---
+
+## Where `const` can appear
 
 ### Variables
 
 ```cpp
-const int x = 9; //cannot change x;
+const int x = 9;
 ```
 
-### Function Parameters
+- `x` cannot be reassigned after initialisation
+
+---
+
+### Function parameters
 
 ```cpp
 void foo(const std::string& s);
 ```
 
-- Protects the argument from accidental modification
+- protects the argument from accidental modification
+    
 
-### Pointers and referenced values
+---
+
+### Pointers and pointed values
 
 ```cpp
-int* const p // pointer is const
-const int* p // pointee is const
-const int* const p // both const
+int* const p;        // pointer is const
+const int* p;        // pointed value is const
+const int* const p;  // both are const
 ```
 
-### **References**
+- exact meaning depends on placement
+    
+- detailed rules live in:
+    
+    - Const Placement Rules in C++
+        
 
-```cppconst int& ref = x;  // cannot modify x through ref```
+---
 
-### 5. Member functions (...() const)
+### References
 
-`int getValue() const;`
+```cpp
+const int& ref = x;
+```
 
-Guarantees the method won’t modify the object.
+- value cannot be modified through the reference
+    
 
-### 6. **Objects**
+---
 
-`const MyClass obj;`
+### Member functions
 
-You may only call `const` member functions on `obj`.
+```cpp
+int getValue() const;
+```
+
+- guarantees the function does not modify the object
+    
+
+see:
+
+- Const Member Functions in C++
+    
+
+---
+
+### Objects
+
+```cpp
+const MyClass obj;
+```
+
+- only `const` member functions may be called
+    
+
+see:
+
+- Const Objects in C++
+    
+
+---
+
+## Key idea
+
+`const` always applies to **something specific**.
+
+understanding `const` means understanding **what is being protected from change**.
+
+---
 
 # Internal References
-
 
 # External References
