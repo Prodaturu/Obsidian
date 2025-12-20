@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/User-Defined Types in C++.md",
+                "file": "Tags/Classes in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "User-Defined Types in C++"
+              "title": "Classes in C++"
             }
           },
           {
@@ -217,9 +217,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OCF",
+                "query": "",
                 "matchingCase": true,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/User-Defined Types in C++.md",
+                "file": "Tags/Classes in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of User-Defined Types in C++"
+              "title": "Outline of Classes in C++"
             }
           },
           {
@@ -343,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/User-Defined Types in C++.md",
+                "file": "Tags/Classes in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -353,7 +353,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for User-Defined Types in C++"
+              "title": "Backlinks for Classes in C++"
             }
           },
           {
@@ -411,11 +411,14 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
     "Indexes/C++.md",
-    "3 - Main Notes/C++/Memory management in C++.md",
     "Tags/OOPS in C++.md",
+    "Tags/Classes in C++.md",
+    "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
@@ -434,9 +437,6 @@
     "6 - Full Notes/2025-12-10.md",
     "3 - Main Notes/C++/Default Copy Assignment in C++.md",
     "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
-    "3 - Main Notes/C++/Canonical Forms in C++.md",
-    "3 - Main Notes/Eat the Frog.md",
-    "Default Constructor in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",

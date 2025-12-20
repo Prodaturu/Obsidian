@@ -10,7 +10,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-    - OOPS in C++              <!-- parent -->
+    - [[OOPS in C++      ]]       
     - [[Canonical Forms in C++]]
 - **Topic Links:**
 	- [[Objects  in C++]]
