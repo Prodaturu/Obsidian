@@ -34,9 +34,6 @@ Map note for all *type-related* concepts in C++.
 
 ## User-defined types
 - [[User-Defined Types in C++]]
-- [[structs in C++]]
-- [[Classes in C++]]
-- [[Class vs Struct in C++]]
 
 ## Pointers and references
 - [[Pointer and Reference Types in C++]]

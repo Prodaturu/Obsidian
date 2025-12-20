@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/User-Defined Types in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "User-Defined Types in C++"
             }
           },
           {
@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/User-Defined Types in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of User-Defined Types in C++"
             }
           },
           {
@@ -343,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/User-Defined Types in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -353,7 +353,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for User-Defined Types in C++"
             }
           },
           {

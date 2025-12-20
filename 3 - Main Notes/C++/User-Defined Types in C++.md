@@ -10,18 +10,20 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - OOPS in C++
-  - [[Templates in C++]]
-  - [[enums in c++]]
-  - [[structs in C++]]
-  - [[Classes in C++]]
+	- OOPS in C++
+	- [[Templates in C++]]
+	- [[enums in C++]]
+	- [[structs in C++]]
+	- [[Classes in C++]]
+	- [[Class vs Struct in C++]]
+	- [[Union in C++]]
 
 - **Topic Tags:**
-  - #struct
-  - #class
-  - #enum
-  - #enumclass
-  - #union
+	- #struct
+	- #class
+	- #enum
+	- #enumclass
+	- #union
 
 # User-Defined Types in C++
 
