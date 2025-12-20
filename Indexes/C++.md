@@ -51,7 +51,8 @@ sticker: lucide//code
 	- type of a variable is determined during compilation
 - C++ builds upon the features of C,
 	- extension of the C programming language
-	- C with classes and inheritance (when invented)
+	- C with classes and inheritance
+		- C with [[OOPS in C++|OOPS]] (when invented)
 	- most C programs can be compiled and run with a C++ compiler
 
 ---

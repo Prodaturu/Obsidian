@@ -140,10 +140,24 @@
             "id": "e9cccd5e37816641",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memory management in C++"
             }
           }
         ]
@@ -237,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/Memory management in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of Memory management in C++"
             }
           },
           {
@@ -329,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/Memory management in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -339,7 +353,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for Memory management in C++"
             }
           },
           {
@@ -395,10 +409,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "e9cccd5e37816641",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/History of C++.md",
     "Indexes/C++.md",
+    "Tags/OOPS in C++.md",
+    "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "Const in C++.md",
@@ -422,7 +437,6 @@
     "Default Constructor in C++.md",
     "Member Initialiser List in C++.md",
     "Initi.md",
-    "3 - Main Notes/C++/Types of Constructors in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
