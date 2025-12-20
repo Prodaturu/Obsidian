@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 73.09236947791165,
+        "dimension": 45.059665871121716,
         "children": [
           {
             "id": "ef98786034d769a6",
@@ -129,12 +129,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 26.907630522088354,
+        "dimension": 54.94033412887828,
         "children": [
           {
             "id": "e9cccd5e37816641",
@@ -237,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+                "file": "Indexes/C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Orthodox Canonical Form in C++"
+              "title": "Outline of C++"
             }
           },
           {
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orthodox Canonical Form in C++"
+              "title": "Backlinks for C++"
             }
           },
           {
@@ -395,13 +395,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "da12d032395ba464",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/History of C++.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "Const in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
     "3 - Main Notes/C vs C++.md",
@@ -421,8 +423,6 @@
     "Member Initialiser List in C++.md",
     "Initi.md",
     "3 - Main Notes/C++/Types of Constructors in C++.md",
-    "3 - Main Notes/C++/Constructors in C++.md",
-    "3 - Main Notes/C++/Constructor Overloading in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",

@@ -47,16 +47,12 @@ sticker: lucide//code
 >   Links to second-level maps: language features, OOP, STL/algorithms, memory, errors, project structure.
 
 - C++ is a general-purpose programming language
-	- created by Bjarne Stroustrup
-	- extension of the C programming language
-	- introduced in 1985
 - C++ is a statically-typed language
 	- type of a variable is determined during compilation
 - C++ builds upon the features of C,
-	- c with classes and inheritance (when invented)
+	- extension of the C programming language
+	- C with classes and inheritance (when invented)
 	- most C programs can be compiled and run with a C++ compiler
-
-
 
 ---
 
