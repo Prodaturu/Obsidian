@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "Indexes/C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Memory management in C++"
+              "title": "Outline of C++"
             }
           },
           {
@@ -343,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -353,7 +353,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Memory management in C++"
+              "title": "Backlinks for C++"
             }
           },
           {
@@ -409,16 +409,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e9cccd5e37816641",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/User-Defined Types in C++.md",
     "Indexes/C++.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "Const in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
     "3 - Main Notes/C vs C++.md",
@@ -435,8 +437,6 @@
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/Eat the Frog.md",
     "Default Constructor in C++.md",
-    "Member Initialiser List in C++.md",
-    "Initi.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",

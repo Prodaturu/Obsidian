@@ -44,7 +44,7 @@ sticker: lucide//code
 # C++
 
 >  Main hub for all C++ notes
->   Links to second-level maps: language features, OOP, STL/algorithms, memory, errors, project structure.
+>  Links to second-level maps: language features, OOP, STL/algorithms, memory, errors, project structure.
 
 - C++ is a general-purpose programming language
 - C++ is a statically-typed language
@@ -54,7 +54,6 @@ sticker: lucide//code
 	- C with classes and inheritance
 		- C with [[OOPS in C++|OOPS]] (when invented)
 	- most C programs can be compiled and run with a C++ compiler
-
 ---
 
 ## 1. Background and big picture
@@ -70,15 +69,12 @@ sticker: lucide//code
     
 - [[C++ Type System]]  
     built-in types, user-defined types, references, pointers, CV-qualifiers, type deduction.
-
-
 ---
 
 ## 2. Object-oriented view
 
 - [[OOPS in C++]]  
     classes, objects, inheritance, polymorphism, abstraction, encapsulation.
-
 ---
 
 ## 3. Working with data and algorithms
@@ -88,7 +84,6 @@ sticker: lucide//code
     
 - [[C++ Libraries]]  
     STL + important external libraries.
-
 ---
 
 ## 4. Memory, errors, and project structure
