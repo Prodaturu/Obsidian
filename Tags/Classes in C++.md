@@ -10,6 +10,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
+	- User-Defined Types in C++
     - [[OOPS in C++      ]]       
     - [[Canonical Forms in C++]]
 - **Topic Links:**

@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/Classes in C++.md",
+                "file": "Tags/OOPS in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classes in C++"
+              "title": "OOPS in C++"
             }
           },
           {
@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/Classes in C++.md",
+                "file": "Tags/OOPS in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Classes in C++"
+              "title": "Outline of OOPS in C++"
             }
           },
           {
@@ -343,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/Classes in C++.md",
+                "file": "Tags/OOPS in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -353,7 +353,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Classes in C++"
+              "title": "Backlinks for OOPS in C++"
             }
           },
           {
@@ -411,11 +411,11 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "Tags/Classes in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "Indexes/C++.md",
     "Tags/OOPS in C++.md",
-    "Tags/Classes in C++.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
