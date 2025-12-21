@@ -17,7 +17,7 @@
 
 # Lambda Functions
 
-- lambda function or lambda is anonymous function that's defined in place
+- *lambda function* also called as *lambda*
 - Small, Anonymous function you can write directly in your code
 - Perfect for short, one-off operations
 
