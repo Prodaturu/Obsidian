@@ -44,7 +44,9 @@ auto times = [multiplier] (int x) {return (x * multiplier);};
 std::cout << times(5) << std::endl;
 ```
 - `[multiplier]` - *capture list*
-	- variable from 
+	- variable from outside that can be accessed
+	- `multiplier` is accessed by value, so lambda gets its own copy
+- 
 
 
 # References:
