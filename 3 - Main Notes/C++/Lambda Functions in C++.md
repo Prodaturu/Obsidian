@@ -10,10 +10,10 @@
 **Links / Tags:** 
 - **Relevance Links:**
 	- Functions in C++
-
+	
 - **Topic Tags:**
 	- 
-
+	  
 
 # Lambda Functions
 
@@ -31,23 +31,12 @@
 - `{// function body}` - the body of the function
 
 #### Example 
-
 ```C++
 int multiplier = 3;
 
 auto times = [multiplier] (int x) {return (x * multiplier);};
 
 std::cout << times(5) << std::endl;
-
 ```
 
-
-# References
-
-
-## Closely Related Notes
-
-### Next:
-
-### Prev:
-
+# References:
