@@ -3,20 +3,29 @@
 **Status:** #atomic 
 
 **Hashtags:**
-- #CPP 
-- #functions 
-- #lambdafunctions
-
+- **Relevance Tags:**
+    - #cpp
+    - #functions
+    - #lambdafunctions
+    
+- **Topic Tags:**
+    - #anonymousfunctions
+    - #captures
+    - #moderncpp
+    
 **Links / Tags:** 
 - **Relevance Links:**
 	- Functions in C++
 	
 - **Topic Tags:**
-	- 
-	  
+	- [[Lambda Capture Modes in C++]]
+	- [[Generic Lambdas in C++]]
+	
 ---
 
-# Lambda Functions
+# Lambda Functions - (C++11)
+
+> Small anonymous function we can write inline
 
 - *lambda function* also called as *lambda*
 - Small, Anonymous function you can write directly in your code
@@ -35,6 +44,11 @@
 	- (optional) type of the return value
 - `{// function body}` 
 	- the body of the function
+	  
+	  
+ - Can also be written as 
+	`[capture-list] (parameter-list) -> return_type {};`
+
 
 #### Example 
 ```C++
