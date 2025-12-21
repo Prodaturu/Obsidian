@@ -23,9 +23,9 @@
 - A function is a block of code which only runs when it is called.
 - You can pass data, known as parameters, into a function.
 - Functions are used to perform:
-	- certain actions
+	- a specific task through a single call
 	- important for reusing code:
-		- Define the code once, and use it many times.
+		- Define the code once, and use it many times
 
 ## Create a Function
 

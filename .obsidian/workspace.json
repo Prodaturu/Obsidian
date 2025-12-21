@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operators in C++"
+              "title": "Functions in C++"
             }
           }
         ]
@@ -155,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"control flow\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operators in C++"
+              "title": "Outline of Functions in C++"
             }
           },
           {
@@ -307,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -317,7 +318,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operators in C++"
+              "title": "Backlinks for Functions in C++"
             }
           },
           {
@@ -376,12 +377,12 @@
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
     "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Operators in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
