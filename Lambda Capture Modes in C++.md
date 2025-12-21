@@ -52,16 +52,16 @@ auto f = [] ()
 - we use this when the lambda does not need outer variables
 
 
-## 2. Capture by value - `[=]` and `[x]`
+## 2. Capture by value - `[=]`, `[...]`
 
-- `[=]` -> capture used variables by value
-
+#### `[=]` -> capture used variables by value
 ```cpp
 int a = 1;
 int b = 2;
 
 auto f = [=] ()
 {
+	//
 	// a and b are copied into the lambda
 	std::cout << a + b << "\n";
 };
@@ -69,6 +69,21 @@ auto f = [=] ()
 - each used outer variable is **copied**
 - inside lambda you see **const-like copy**
 	- by default
+
+#### `[...]` -> capture a specific variable by value
+```cpp
+int x = 10;
+int y = 20;
+
+auto f = [x]()
+{
+	std::cout << x << "\n";
+	// y not captured -> cannot use y
+};
+```
+- only `x` is captured
+- useful when you want to be explicit and avoid surprises
+
 
 
 # External References
