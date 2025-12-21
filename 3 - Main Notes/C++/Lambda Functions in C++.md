@@ -39,14 +39,17 @@
 ```C++
 int multiplier = 3;
 
-auto times = [multiplier] (int x) {return (x * multiplier);};
+auto times = [multiplier] (int x, int y) {return (x * multiplier);};
+// sam
 
 std::cout << times(5) << std::endl;
 ```
 - `[multiplier]` - *capture list*
 	- variable from outside that can be accessed
 	- `multiplier` is accessed by value, so lambda gets its own copy
-- 
+- `(int x, int y)` - *parameter list*
+	- lambda takes two parameters named `x`, `y` of type `int`
+- `return`
 
 
 # References:
