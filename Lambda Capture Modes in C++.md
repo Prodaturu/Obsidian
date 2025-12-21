@@ -34,4 +34,9 @@
 	- by value or by reference
 
 
+## 1. Capture nothing
+
+- `[]` -> 
+
+
 # External References
