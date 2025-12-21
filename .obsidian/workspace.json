@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Functions in C++.md",
+                "file": "3 - Main Notes/C++/Lambda Functions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Functions in C++"
+              "title": "Lambda Functions in C++"
             }
           }
         ]
@@ -189,12 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/C++/Lambda Functions in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lambda Functions in C++"
             }
           },
           {
@@ -307,6 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/Lambda Functions in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -316,7 +318,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lambda Functions in C++"
             }
           },
           {
@@ -372,11 +374,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eccb5d4979026c1b",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
     "3 - Main Notes/C++/Functions in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
+    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Type System.md",

@@ -37,7 +37,6 @@
 	- specify the name of the function, followed by parentheses `()`
 
 ### Syntax
-
 ```cpp
 void myFunction()
 {  
@@ -46,7 +45,6 @@ void myFunction()
 ```
 
 #### Example Explained
-
 - `myFunction()` is the name of the function
 - `void` means that the function does not have a return value
 - inside the function (the body), add code that defines what the function should do
@@ -62,8 +60,7 @@ void myFunction()
 	
 - In the following example, `myFunction()` is used to print a text (the action), when it is called
 
-### Example 1
-
+#### Example 1
 ```cpp
 Inside `main`, call `myFunction()`:
 
@@ -81,8 +78,7 @@ int main() {
 ```
 - A function can be called multiple times:
 
-### Example 2
-
+#### Example 2
 ```cpp
 void myFunction() {  
   cout << "I just got executed!\n";  
@@ -142,9 +138,10 @@ void myFunction()
 
 ### Forward Declaration / Function Prototyping
 
-- It is possible to separate the declaration and the definition of the function - for code optimisation.
+- It is possible to separate the declaration and the definition of the function
+	- This is done for code optimisation
 - C++ programs can have
-	- *function declaration* above `main()`,
+	- *function declaration* above `main()`
 	- and *function definition* below `main()`
 
 ### Advantages of Forward Declaration
@@ -197,14 +194,17 @@ void functionName(parameter1, parameter2, parameter3)
 
 #### Example
 ```cpp
-void myFunction(string fname) {  
-  cout << fname << " Refsnes\n";  
+void myFunction(string fname)
+{  
+  cout << fname << " Refsnes\n";
 }  
   
-int main() {  
+int main()
+{  
   myFunction("Liam");
   myFunction("Jenny");
   myFunction("Anja");
+  
   return 0;  
 }
 
@@ -215,16 +215,10 @@ int main() {
 
 ### Arguments
 
-- When a **parameter** is passed to the function, it is called an **argument**.
+- When a **parameter** is passed to the function, it is called an **argument**
 - So, from the example above: 
 	- `fname` is a **parameter**
-	- `Liam`, `Jenny` and `Anja` are **arguments**.
+	- `Liam`, `Jenny` and `Anja` are **arguments**
 
 # References
 
-
-## Closely Related Notes
-
-### Next:
-
-### Prev:

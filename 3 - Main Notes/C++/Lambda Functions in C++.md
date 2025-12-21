@@ -9,7 +9,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- Functions in C++
 
 - **Topic Tags:**
 	- 
@@ -17,6 +17,7 @@
 
 # Lambda Functions
 
+- lambda function or lambda is anonymous function that's defined in place
 - Small, Anonymous function you can write directly in your code
 - Perfect for short, one-off operations
 
