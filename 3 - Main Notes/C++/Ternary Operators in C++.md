@@ -1,20 +1,35 @@
 **Created:** *25.11.25, 19:33*
 
-**Status:**
+**Status:** #atomic
 
 **Hashtags:**
-- #CPP 
-- #ternaryoperators
-- #conditionalstatements 
 
-**Links / Tags:** 
-- **Relevance Links:**
-	- Operators in C++
-	- 
-
-
+- **Relevance Tags:**
+    - #cpp
+    - #ternaryoperators
+    - #conditionalstatements
+    
 - **Topic Tags:**
-	- 
+    
+    - #operators
+    - #syntax
+    - #readability
+    
+
+**Links / Tags:**
+
+- **Relevance Links:**
+    
+    - Operators in C++ <!-- parent, plain text -->
+    - Control Flow in C++ <!-- if/switch cluster, plain text -->
+    
+- **Topic Links:**
+    
+    - [[Operator precedence in C++]]
+    - [[Switch Statements in C++]]
+    - [[Polymorphism in C++]]
+      
+---
 
 # Ternary Operator
 
