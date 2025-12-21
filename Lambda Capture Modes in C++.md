@@ -30,10 +30,8 @@
 [capture-list] (parameters) {/* body */};
 ```
 
-- It tells the Lambda **which variables** it is allowed to use and **how** it gets them (by value or by reference)
-
-# Internal References
-
+- It tells the Lambda **which variables** it is allowed to use and **how** it gets them 
+	- by value or by reference
 
 
 # External References
