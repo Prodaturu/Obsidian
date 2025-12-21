@@ -37,6 +37,7 @@
 - `[capture-list] (parameters) -> return_type {// function body };`
 	- `[capture-list]`
 		- Variables from outside scope that **lambda** can access
+		- details in [[Lambda Capture Modes in C++]]
 	- `(parameters)`
 		- list of parameters that **lambda** takes as input
 	- `return_type` 
