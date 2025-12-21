@@ -1,6 +1,6 @@
 **Created:** *26.11.25, 21:08*
 
-**Status:**
+**Status:** #atomic 
 
 **Hashtags:**
 - #CPP 
