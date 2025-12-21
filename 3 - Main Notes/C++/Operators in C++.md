@@ -34,12 +34,15 @@
 	2. `&&`, `||`, `!`
     
 4. **Assignment Operators**:
-	1. Assignment operators are used to assign values 
+	1. Assignment operators are used to assign values to variables
 	2. `=`, `+=`, `-=`, `*=`, `/=`
     
-5. **Bitwise Operators**: `&`, `|`, `^`, `~`, `<<`, `>>`
+5. **Bitwise Operators**:
+	1. Perform operations at the bit level
+	2. `&`, `|`, `^`, `~`, `<<`, `>>`
     
-6. **Other**: `++`, `--`, `?:`, `::`, `.*`, `->` , `->*`
+6. **Other**:
+	1. `++`, `--`, `?:`, `::`, `.*`, `->` , `->*`
 
 ## Key Sub-topics:
 
