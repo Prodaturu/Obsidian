@@ -8,6 +8,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
+	- C++ Language Features
 
 - **Topic Tags:**
 	- [[Lambda Functions in C++]]
@@ -25,15 +26,15 @@
 - Functions are used to perform:
 	- a specific task through a single call
 	- important for reusing code:
-		- Define the code once, and use it many times
+		- Define the code once
+		- and use it many times
 
 ## Create a Function
 
-- C++ provides some pre-defined functions, such as `main()` which is used to execute code. 
-- Can also create own functions to perform certain actions.
-	
+- C++ provides some pre-defined functions, such as `main()` which is used to execute code
+- Can also create own functions to perform certain actions
 - To create (often referred to as _declare_) a function:
-	- specify the name of the function, followed by parentheses **()**:
+	- specify the name of the function, followed by parentheses `()`
 
 ### Syntax
 
@@ -47,15 +48,14 @@ void myFunction()
 #### Example Explained
 
 - `myFunction()` is the name of the function
-- `void` means that the function does not have a return value. You will learn more about return values later in the next chapter
+- `void` means that the function does not have a return value
 - inside the function (the body), add code that defines what the function should do
-
 
 ## Call a Function
 
-- Declared functions are not executed immediately.
+- Declared functions are not executed immediately
 	- They are "saved for later use"
-	- will be executed later, when they are called.
+	- will be executed later, when they are called
 	
 - To call a function:
 	- write the function's name followed by two parentheses `()` and a semicolon `;`
@@ -79,7 +79,6 @@ int main() {
   
 // Outputs "I just got executed!"  
 ```
-
 - A function can be called multiple times:
 
 ### Example 2
@@ -121,36 +120,32 @@ void myFunction()
 
 }  
 ```
-
 - **Note:**
 	- If a user-defined function, such as `myFunction()` is declared after the `main()` function, **an error will occur**:
 	- unless *forward declared*
 
-### Example
-
+#### Example
 ```cpp
-int main() {  
+int main()
+{  
   myFunction();  
   return 0;  
 }  
   
-void myFunction() {  
+void myFunction()
+{  
   cout << "I just got executed!";  
-}  
+}
 
-/*
-Error 
-*/
+/* Error */
 ```
-
 
 ### Forward Declaration / Function Prototyping
 
 - It is possible to separate the declaration and the definition of the function - for code optimisation.
-	
 - C++ programs can have
-	- *function declaration* above `main()`, 
-	- and *function definition* below `main()`. 
+	- *function declaration* above `main()`,
+	- and *function definition* below `main()`
 
 ### Advantages of Forward Declaration
 
@@ -159,8 +154,7 @@ Error
 - **Libraries** - Hide implementation details
 - **Linking** - Multiple files can use the same function declaration
 
-### Example
-
+#### Example
 ```cpp
 // **Function declaration**  
 void myFunction();  
@@ -183,9 +177,10 @@ void myFunction()
 
 ### Parameters
 
-- Information can be passed to functions as a parameter. Parameters act as variables inside the function.
-
-- Parameters are specified after the function name, inside the parentheses. You can add as many parameters as you want, just separate them with a comma:
+- Information can be passed to functions as a parameter
+- Parameters act as variables inside the function
+- Parameters are specified after the function name, inside the parentheses
+- You can add as many parameters as you want, just separate them with a comma:
 
 ### Syntax
 
@@ -200,8 +195,7 @@ void functionName(parameter1, parameter2, parameter3)
 - When the function is called, we pass along a first name
 	- which is used inside the function to print the full name:
 
-### Example
-
+#### Example
 ```cpp
 void myFunction(string fname) {  
   cout << fname << " Refsnes\n";  

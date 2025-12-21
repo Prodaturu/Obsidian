@@ -189,13 +189,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Functions in C++"
+              "title": "Outline"
             }
           },
           {
@@ -308,7 +307,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Functions in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -318,7 +316,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Functions in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -374,9 +372,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "eccb5d4979026c1b",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Functions in C++.md",
     "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
@@ -400,8 +400,6 @@
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
-    "Uses of CV-Qualifiers in C++.md",
-    "2025-12-17.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
