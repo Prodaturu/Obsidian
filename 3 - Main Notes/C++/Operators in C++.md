@@ -21,13 +21,21 @@
 
 ## Operator Categories
 
-1. **Arithmetic Operators**: `+`, `-`, `*`, `/`, `%`
+1. **Arithmetic Operators**: 
+	1. Operations used for performing calculations in C++
+	2. `+`, `-`, `*`, `/`, `%`
     
-2. **Relational Operators**: `==`, `!=`, `<`, `>`, `<=`, `>=`
+2. **Relational Operators**:
+	1. Compare 2 values & return bool values depending on comparison
+	2. `==`, `!=`, `<`, `>`, `<=`, `>=`
     
-3. **Logical Operators**: `&&`, `||`, `!`
+3. **Logical Operators**:
+	1. Logical operators are used for combining multiple conditions or bool values
+	2. `&&`, `||`, `!`
     
-4. **Assignment Operators**: `=`, `+=`, `-=`, `*=`, `/=`
+4. **Assignment Operators**:
+	1. Assignment operators are used to assign values 
+	2. `=`, `+=`, `-=`, `*=`, `/=`
     
 5. **Bitwise Operators**: `&`, `|`, `^`, `~`, `<<`, `>>`
     
