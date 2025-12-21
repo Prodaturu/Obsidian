@@ -2,25 +2,26 @@
 
 **Note Type:**
 
-
 **Hashtags:**
 - **Relevance Tags:**
 	- #CPP 
 	- #OOPS 
-	- 
+	  
 - **Topic Tags:**
-
+	- #encapsulation 
+	- #classes 
+	- #inheritance 
+	- #polymorphism 
 
 **Links / Tags:** 
 - **Relevance Links:**
 	- C++
-
+	
 - **Topic Links:**
 	- [[Classes in C++]]
 	- [[Encapsulation in C++]]
 	- [[Inheritance in C++]]
-	- [[Polymorphism in C++]]
-
+	- [[Polymorphism in C++]
 ---
 # OOPS in C++
 
