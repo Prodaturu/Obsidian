@@ -15,7 +15,6 @@
 	- [[Operator precedence in C++]]
 	- [[Operator Overloading in C++]]
 
-
 # Operators in C++
 
 - Symbols that perform operations on operands.
@@ -33,8 +32,6 @@
 5. **Bitwise Operators**: `&`, `|`, `^`, `~`, `<<`, `>>`
     
 6. **Other**: `++`, `--`, `?:`, `::`, `.*`, `->` , `->*`
-	
-
 
 ## Key Sub-topics:
 
@@ -43,8 +40,6 @@
 - **Operator Overloading in C++** - Custom operator behaviour
     
 - **Ternary Operators in C++** - Conditional operator
-	
-
 
 ## Basic Examples:
 

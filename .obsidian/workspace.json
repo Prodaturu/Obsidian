@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ternary Operators in C++"
+              "title": "Operators in C++"
             }
           }
         ]
@@ -166,8 +166,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ternary Operators in C++"
+              "title": "Outline of Operators in C++"
             }
           },
           {
@@ -294,7 +293,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "353b5826e8f5adba",
@@ -307,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -317,7 +317,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ternary Operators in C++"
+              "title": "Backlinks for Operators in C++"
             }
           },
           {
@@ -375,11 +375,13 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Switch Statements in C++.md",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C vs C++.md",
+    "3 - Main Notes/C++/Ternary Operators in C++.md",
+    "3 - Main Notes/C++/Switch Statements in C++.md",
+    "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
@@ -387,7 +389,6 @@
     "3 - Main Notes/C++/Access Specifiers in C++.md",
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/History of C++.md",
@@ -397,7 +398,6 @@
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
-    "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Uses of CV-Qualifiers in C++.md",
     "2025-12-17.md",
