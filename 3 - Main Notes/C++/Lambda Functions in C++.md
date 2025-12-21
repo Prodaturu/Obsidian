@@ -20,6 +20,7 @@
 - **Topic Tags:**
 	- [[Lambda Capture Modes in C++]]
 	- [[Generic Lambdas in C++]]
+	- [[Lambdas with STL Algorithms in C++]]
 	
 ---
 

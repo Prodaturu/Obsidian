@@ -321,6 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/Lambda Functions in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -330,7 +331,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lambda Functions in C++"
             }
           },
           {
@@ -386,8 +387,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eccb5d4979026c1b",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "Tags/C++ Language Features.md",
@@ -413,7 +415,6 @@
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "3 - Main Notes/C++/Const Member Functions in C++.md",
     "3 - Main Notes/C++/Const Data Members in C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
