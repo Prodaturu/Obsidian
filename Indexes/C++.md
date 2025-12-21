@@ -30,14 +30,15 @@ sticker: lucide//code
 		
 	- OOPS:
 		- [[OOPS in C++]] - Object Oriented Programming in C++
-		  
+		 
 	- DSA:
 		- [[C++ Data Structures and Algorithms]] - DSA in C++
-		  
+		
 	- Memory, errors, and project structure:
 		- [[Memory management in C++]]
 		- [[C++ Error Handling]]
 		- [[Structuring a C++ codebase|C++ code structuring]]
+		
 
 ---
 

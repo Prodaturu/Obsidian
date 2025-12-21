@@ -6,87 +6,15 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 45.059665871121716,
+        "dimension": 53.950811093668236,
         "children": [
-          {
-            "id": "ef98786034d769a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-12-17.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-17"
-            }
-          },
-          {
-            "id": "f82700a6b37934eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Const in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Const in C++"
-            }
-          },
-          {
-            "id": "da12d032395ba464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Orthodox Canonical Form in C++"
-            }
-          },
           {
             "id": "279e4db1a12b6019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/OOPS in C++.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,40 +29,15 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OOPS in C++"
-            }
-          },
-          {
-            "id": "be3f03865443997c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Full Notes/2025-12-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-10"
+              "title": "C++"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 54.94033412887828,
+        "dimension": 46.049188906331764,
         "children": [
           {
             "id": "e9cccd5e37816641",
@@ -159,8 +62,43 @@
               "icon": "lucide-file",
               "title": "Memory management in C++"
             }
+          },
+          {
+            "id": "eccb5d4979026c1b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "049d77a9d2b2169e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Constructors in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Constructors in C++"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,13 +189,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/OOPS in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOPS in C++"
+              "title": "Outline"
             }
           },
           {
@@ -356,7 +293,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/OOPS in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -366,7 +302,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OOPS in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -422,18 +358,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "eccb5d4979026c1b",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Constructors in C++.md",
+    "Indexes/C++.md",
+    "Tags/OOPS in C++.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
     "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "Tags/OOPS in C++.md",
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
@@ -449,7 +386,6 @@
     "6 - Full Notes/2025-12-11.md",
     "Const Objects in C++.md",
     "6 - Full Notes/2025-12-12.md",
-    "6 - Full Notes/2025-12-10.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
