@@ -25,8 +25,6 @@
     
 - **Topic Links:**
     
-    - [[Operator precedence in C++]]
-    - [[Switch Statements in C++]]
     - [[Polymorphism in C++]]
       
 ---
