@@ -4,9 +4,13 @@
 
 **Hashtags:**
 - **Relevance Tags:**
-	- 
+	- #cpp 
+	- #functions 
+	- #lambdafunctions 
 - **Topic Tags:**
-	- 
+	- #captures 
+	- #capturemodes
+	- #moderncpp 
 
 **Links / Tags:** 
 - **Relevance Links:**

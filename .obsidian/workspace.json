@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Lambda Functions in C++.md",
+                "file": "Lambda Capture Modes in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lambda Functions in C++"
+              "title": "Lambda Capture Modes in C++"
             }
           }
         ]
@@ -321,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Lambda Functions in C++.md",
+                "file": "Lambda Capture Modes in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lambda Functions in C++"
+              "title": "Backlinks for Lambda Capture Modes in C++"
             }
           },
           {
@@ -389,8 +389,8 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
+    "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
