@@ -14,9 +14,10 @@
 	- [[Ternary Operators in C++]]
 	- [[Operator precedence in C++]]
 	- [[Operator Overloading in C++]]
+	  
+---
 
 # Operators in C++
-
 - Symbols that perform operations on operands.
 
 ## Operator Categories
@@ -92,7 +93,6 @@
 
 ---
 ## Key Sub-topics:
-
 - **Operator Precedence in C++** - Order of evaluation
 - **Operator Overloading in C++** - Custom operator behaviour
 - **Ternary Operators in C++** - Conditional operator
@@ -111,7 +111,6 @@ a += 2;                 // Assignment
 
 ---
 ## The `->` Operator in C++
-
 - The `->` operator is used to access members (like functions or variables) through a [pointer](https://www.w3schools.com/cpp/cpp_pointers.asp).
 - It's a shortcut for writing `(*pointer).member`
 - If using a pointer to an object
