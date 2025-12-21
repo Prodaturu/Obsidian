@@ -43,7 +43,7 @@
 	   
 6. **Pointer Operators**:
 	1. Used to work with memory addresses
-	2. `&`, `*`
+	2. `&`, `*`, `->`, `->*`
 	   
 7. **Memory Management Operators**:
 	1. Used for memory management
@@ -56,9 +56,9 @@
 9. **Comma Operator**:
 	1. Allows multiple expressions in a single statement
 	2. `,`
-     
-10. **Other**:
-	1. `++`, `--`, `?:`, `::`, `.*`, `->` , `->*`
+    
+11. **Other**:
+	1. `++`, `--`, `?:`, `::`, `.*`
 
 ## Key Sub-topics:
 
