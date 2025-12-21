@@ -321,7 +321,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lambda Capture Modes in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -331,7 +330,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lambda Capture Modes in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -387,10 +386,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "eccb5d4979026c1b",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Lambda Functions in C++.md",
     "Lambda Capture Modes in C++.md",
+    "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
