@@ -34,18 +34,16 @@
 
 ### Syntax
 
-`[capture-list] (parameters) -> return_type {// function body };`
-
-- `[capture-list]`
-	- Variables from outside scope that **lambda** can access
-- `(parameters)`
-	- list of parameters that **lambda** takes as input
-- `return_type` 
-	- (optional) type of the return value
-- `{// function body}` 
-	- the body of the function
-	  
-	  
+- `[capture-list] (parameters) -> return_type {// function body };`
+	- `[capture-list]`
+		- Variables from outside scope that **lambda** can access
+	- `(parameters)`
+		- list of parameters that **lambda** takes as input
+	- `return_type` 
+		- (optional) type of the return value
+	- `{// function body}` 
+		- the body of the function
+	
  - Can also be written as 
 	`[capture-list] (parameter-list) -> return_type {};`
 
