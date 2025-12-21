@@ -43,8 +43,8 @@ auto times = [multiplier] (int x) {return (x * multiplier);};
 
 std::cout << times(5) << std::endl;
 ```
-- `[multiplier]`
-	- 
+- `[multiplier]` - *capture list*
+	- variable from 
 
 
 # References:
