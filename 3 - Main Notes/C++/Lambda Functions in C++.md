@@ -54,7 +54,7 @@ std::cout << times(5) << std::endl;
 - `-> int` - *return type*
 	- return type
 - `(x * multiplier);` - *body*
-	- 
+	- code executed when lambda is called
 
 
 # References:
