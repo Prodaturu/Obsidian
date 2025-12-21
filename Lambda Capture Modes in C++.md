@@ -34,9 +34,41 @@
 	- by value or by reference
 
 
-## 1. Capture nothing
+## 1. Capture nothing - `[]`
+- `[]` -> captures nothing
 
-- `[]` -> 
+```cpp
+int x = 9;
+
+auto f = [] ()
+{
+	// Cannot use x here - not captured
+};
+```
+- safest form
+- lambda can only see:
+	- its own **parameters**
+	- global/static variables
+- we use this when the lambda does not need outer variables
+
+
+## 2. Capture by value - `[=]` and `[x]`
+
+- `[=]` -> capture used variables by value
+
+```cpp
+int a = 1;
+int b = 2;
+
+auto f = [=] ()
+{
+	// a and b are copied into the lambda
+	std::cout << a + b << "\n";
+};
+```
+- each used outer variable is **copied**
+- inside lambda you see **const-like copy**
+	- by default
 
 
 # External References
