@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "Ternary Operators in C++"
             }
           }
         ]
@@ -189,12 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ternary Operators in C++"
             }
           },
           {
@@ -293,6 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -302,7 +304,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ternary Operators in C++"
             }
           },
           {
@@ -358,10 +360,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eccb5d4979026c1b",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Constructors in C++.md",
+    "3 - Main Notes/C++/Operators in C++.md",
+    "Tags/C++ Language Features.md",
     "Indexes/C++.md",
+    "3 - Main Notes/C++/Constructors in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/Encapsulation in C++.md",
@@ -384,8 +388,6 @@
     "2025-12-17.md",
     "3 - Main Notes/C++/Special Types in C++.md",
     "6 - Full Notes/2025-12-11.md",
-    "Const Objects in C++.md",
-    "6 - Full Notes/2025-12-12.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",

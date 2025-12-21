@@ -60,40 +60,44 @@ sticker: lucide//code
 ## 1. Background and big picture
 
 - [[History of C++]]  
-    evolution of the language, major standards.
+    evolution of the language, major standards
     
 - [[C vs C++]]  
-    comparison, shared roots, differences.
+    comparison, shared roots, differences
     
 - [[C++ Language Features]]  
-    operators, functions, templates, control flow, files.
+    operators, functions, templates, control flow, files
     
 - [[C++ Type System]]  
-    built-in types, user-defined types, references, pointers, CV-qualifiers, type deduction.
+    built-in types, user-defined types, references, pointers, CV-qualifiers, type deduction
+    
 ---
 
 ## 2. Object-oriented view
 
 - [[OOPS in C++]]  
-    classes, objects, inheritance, polymorphism, abstraction, encapsulation.
+    classes, objects, inheritance, polymorphism, abstraction, encapsulation
+    
 ---
 
 ## 3. Working with data and algorithms
 
 - [[C++ Data Structures and Algorithms]]  
-    map for containers, algorithms, STL patterns, and custom structures.
+    map for containers, algorithms, STL patterns, and custom structures
     
 - [[C++ Libraries]]  
-    STL + important external libraries.
+    STL + important external libraries
+    
 ---
 
 ## 4. Memory, errors, and project structure
 
 - [[Memory management in C++]]  
-    stack vs heap, allocation, RAII, smart pointers.
+    stack vs heap, allocation, RAII, smart pointers
     
 - [[C++ Error Handling]]  
-    exceptions, error codes, assertions.
+    exceptions, error codes, assertions
     
 - [[Structuring a C++ codebase|C++ code structuring]]  
     headers, source files, separation, modules, naming rules
+    
