@@ -14,6 +14,7 @@
 - **Topic Tags:**
 	- 
 	  
+---
 
 # Lambda Functions
 
@@ -25,10 +26,14 @@
 
 `[capture-list] (parameters) -> return_type {// function body };`
 
-- `[capture-list]` - Variables from outside the **lambda** can access
-- `(parameters)` - list of parameters that **lambda** takes as input
-- `return_type` - (optional) type of the return value
-- `{// function body}` - the body of the function
+- `[capture-list]`
+	- Variables from outside scope that **lambda** can access
+- `(parameters)`
+	- list of parameters that **lambda** takes as input
+- `return_type` 
+	- (optional) type of the return value
+- `{// function body}` 
+	- the body of the function
 
 #### Example 
 ```C++
@@ -38,5 +43,8 @@ auto times = [multiplier] (int x) {return (x * multiplier);};
 
 std::cout << times(5) << std::endl;
 ```
+- `[multiplier]`
+	- 
+
 
 # References:
