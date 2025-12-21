@@ -20,6 +20,7 @@
 
 - *lambda function* also called as *lambda*
 - Small, Anonymous function you can write directly in your code
+	- Anonymous -> No name
 - Perfect for short, one-off operations
 
 ### Syntax
