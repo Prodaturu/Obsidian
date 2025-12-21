@@ -39,8 +39,10 @@
 ```C++
 int multiplier = 3;
 
-auto times = [multiplier] (int x, int y) {return (x * multiplier);};
-// sam
+auto times = [multiplier] (int x, int y)  -> int {return (x * multiplier);};
+// same as
+// auto times = [multiplier] (int x, int y) {return (x * multiplier);};
+
 
 std::cout << times(5) << std::endl;
 ```
@@ -49,7 +51,9 @@ std::cout << times(5) << std::endl;
 	- `multiplier` is accessed by value, so lambda gets its own copy
 - `(int x, int y)` - *parameter list*
 	- lambda takes two parameters named `x`, `y` of type `int`
-- `return`
+- `-> int`
+	- return type
+	- 
 
 
 # References:
