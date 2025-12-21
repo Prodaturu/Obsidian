@@ -51,8 +51,9 @@ std::cout << times(5) << std::endl;
 	- `multiplier` is accessed by value, so lambda gets its own copy
 - `(int x, int y)` - *parameter list*
 	- lambda takes two parameters named `x`, `y` of type `int`
-- `-> int`
+- `-> int` - *return type*
 	- return type
+- `(x * multiplier);` - *body*
 	- 
 
 
