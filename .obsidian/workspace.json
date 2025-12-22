@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 59.309021113243766,
+        "dimension": 57.868852459016395,
         "children": [
           {
             "id": "279e4db1a12b6019",
@@ -37,102 +37,30 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 40.69097888675624,
+        "dimension": 42.131147540983605,
         "children": [
           {
-            "id": "e9cccd5e37816641",
+            "id": "d029584a61b2ecc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "2 - Source Material/Books/professionalcpp.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Memory management in C++"
+              "icon": "lucide-file-text",
+              "title": "professionalcpp"
             }
           },
           {
-            "id": "eccb5d4979026c1b",
+            "id": "e196ee186f8e72ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Indexes/C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf"
               },
-              "icon": "lucide-file",
-              "title": "C++"
-            }
-          },
-          {
-            "id": "8615e87489be0b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lambda Capture Modes in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lambda Capture Modes in C++"
-            }
-          },
-          {
-            "id": "049d77a9d2b2169e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Constructors in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Constructors in C++"
+              "icon": "lucide-file-text",
+              "title": "C++.Primer.5th.Edition_2013"
             }
           }
         ],
@@ -225,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capturing this in C++.md",
+                "file": "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Capturing this in C++"
+              "title": "Outline of C++.Primer.5th.Edition_2013"
             }
           },
           {
@@ -269,32 +197,6 @@
             }
           },
           {
-            "id": "aaccfb8c01d57801",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "60e4359e99229cc7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "e9acc25ece254f65",
             "type": "leaf",
             "state": {
@@ -311,13 +213,27 @@
             "id": "5e44be84f2311321",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4cb41c06cfdcf822",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "353b5826e8f5adba",
@@ -377,7 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -396,23 +312,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "e9acc25ece254f65",
   "lastOpenFiles": [
-    "6 - Full Notes/2025-12-10.md",
+    "2 - Source Material/Books/professionalcpp.pdf",
+    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "Capturing this in C++.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
+    "6 - Full Notes/2025-12-10.md",
     "2 - Source Material/Books/The Project Gutenberg eBook of Der Schimmelreiter, by Theodor Storm.pdf",
     "2 - Source Material/Books/InformationTheoryBook1.pdf",
     "2 - Source Material/Books/InfoTheoryLecturesAndExercises.pdf",
-    "2 - Source Material/Books/professionalcpp.pdf",
     "2 - Source Material/Books/InformationTheoryTUMBook.pdf",
-    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "Indexes/C++.md",
     "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
     "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
@@ -431,7 +347,6 @@
     "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
-    "Const in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "Untitled.canvas",
