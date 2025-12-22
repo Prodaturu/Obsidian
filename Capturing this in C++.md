@@ -89,6 +89,4 @@ auto f = [=]()
 
 # Internal References
 
-
-
 # External References
