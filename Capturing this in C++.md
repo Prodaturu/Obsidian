@@ -93,7 +93,7 @@ auto f = [=]()
 - `[this]` -> captures `this` by pointer
 - `[=]` -> also captures `this` by pointer
 - no way to capture the object by value
-	 
+	
 - So, both `[this]`, `[=]` behave similarly for `this`
 
 #### C++ 20 and later
