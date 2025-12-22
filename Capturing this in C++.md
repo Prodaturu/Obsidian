@@ -76,6 +76,7 @@ f(); //dangling `this`
 
 So:
 > Capturing `this` is safe only if the object **outlives the lambda**
+
 ---
 
 ## Implicit capture of `this`
@@ -107,6 +108,24 @@ auto f = [=] ()
 - `[=]` captures a copy of `*this`
 - the lambda owns its own snapshot of the object
 - changes do not affect the original object
+There is also an explicit form:
+```cpp
+auto f = [*this]()
+{
+	std::cout << value << "\n";
+};
+```
+This makes the intent very clear
+
+---
+
+## `[this]` vs `[*this]`
+|Capture|What is captured|Effect|
+|---|---|---|
+|`[this]`|pointer to object|modifies original|
+|`[*this]`|copy of object|works on snapshot|
+|`[=]` (C++20+)|copy of object|same as `[*this]`|
+
 
 # Internal References
 
