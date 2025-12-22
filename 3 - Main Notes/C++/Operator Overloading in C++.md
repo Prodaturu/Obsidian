@@ -121,6 +121,7 @@ bool operator==(const Date &other);
 ### Complete Example
 
 **Step 1**: **Define a Class**
+**Step 2:** **Overload required Operator**
 ```cpp
 class Vector
 {
@@ -135,10 +136,31 @@ public:
 	int getx() const { return _x; }
 	int gety() const { return _y; }
 	
-	Vector operator+
-}
+	Vector operator+(const Vector& other) const
+	{
+		return Vector(_x + other._x, _y + other._y);
+	}
+};
+```
+*Why this design is good:*
+- `operator+` is a member function
+- `const` -> does not modify either operand
+- accessors keep data encapsulated
+
+**Step 3**: **Use the overloaded Operator**
+```cpp
+Vector a(1, 2);
+Vector b(3, 4);
+
+Vector c = a + b; //result will be: (4, 6)
 ```
 
+*What compiler actually does:*
+- `a+b` is translated to `a.operator+(b)`
+- Makes it clear that
+	- `a` is the left hand operand
+	- `b` is passed as a parameter
+- The operator is just a function call
 
 ## Key Rules and Limitations
 - **❌ Cannot create new operators** - only existing C++ operators
