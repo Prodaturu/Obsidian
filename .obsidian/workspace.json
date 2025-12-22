@@ -189,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Lambda Functions in C++.md",
+                "file": "Lambda Capture Modes in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lambda Functions in C++"
+              "title": "Outline of Lambda Capture Modes in C++"
             }
           },
           {
@@ -233,71 +233,6 @@
             }
           },
           {
-            "id": "27404fc611febb2f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "cc749da37f6a67ce",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "590a6ccc78cf44bf",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5282d5c597d98f1e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "b00b8f506ad32c1b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "aaccfb8c01d57801",
             "type": "leaf",
             "state": {
@@ -307,8 +242,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       },
       {
         "id": "353b5826e8f5adba",
@@ -321,6 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lambda Capture Modes in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -330,7 +265,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lambda Capture Modes in C++"
             }
           },
           {
@@ -386,7 +321,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eccb5d4979026c1b",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
     "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",

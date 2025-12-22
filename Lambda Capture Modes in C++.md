@@ -70,7 +70,7 @@ auto f = [=] ()
 - inside lambda you see **const-like copy**
 	- by default
 
-#### `[...]` -> capture a specific variable by value
+#### `[...]` -> capture a specific variables by value
 ```cpp
 int x = 10;
 int y = 20;
@@ -84,6 +84,26 @@ auto f = [x]()
 - only `x` is captured
 - useful when you want to be explicit and avoid surprises
 
+## 3. Capture by reference - `[&]`, `[&x, &y, ...]`
 
+#### `[&]` -> Capture used variables by reference
+```cpp
+let counter = 0;
+
+auto inc = [&] ()
+{
+	++counter; //modifies original counter
+};
+
+inc();
+std::cout << counter; // 1
+```
+- outer variables are not copied
+- lambda works on **original** values
+
+#### `[&x, &y, ...]` -> Capture given variables by reference
+```cpp
+
+```
 
 # External References
