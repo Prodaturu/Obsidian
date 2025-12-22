@@ -90,7 +90,7 @@ auto f = [=]()
 - What happens depends on the C++ version
 
 #### Before C++ 20
-- `[this]` -> captures `this` by point
+- `[this]` -> captures `this` by pointer
 - `[=]` -> also captures `this` by pointer
 - no way to capture the object by value
 	
