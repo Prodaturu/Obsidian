@@ -59,7 +59,14 @@ public:
 ---
 ## Lifetime Risk
 
-- Because `[this]`
+- Because `[this]` captures a pointer:
+	- if lambda is stored
+	- and the object is destroyed
+	- calling the lambda causes **undefined behaviour**
+
+```cpp
+auto f ;
+```
 
 # Internal References
 
