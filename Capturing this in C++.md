@@ -75,7 +75,16 @@ f(); //dangling `this`
 ```
 
 So:
-> Capturing `this` is safe only if the object **outlives the lambda
+> Capturing `this` is safe only if the object **outlives the lambda**
+---
+
+inside a member function:
+```cpp
+auto f = [=]()
+{
+	value++;
+};
+```
 
 # Internal References
 
