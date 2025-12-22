@@ -212,12 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Capturing this in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Capturing this in C++"
             }
           },
           {
@@ -303,6 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capturing this in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -312,7 +314,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Capturing this in C++"
             }
           },
           {
@@ -368,8 +370,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eccb5d4979026c1b",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
     "Capturing this in C++.md",
     "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
@@ -395,7 +398,6 @@
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "Const in C++.md",
-    "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
