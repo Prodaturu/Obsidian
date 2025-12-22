@@ -108,7 +108,6 @@ auto f = [=] ()
 - the lambda owns its own snapshot of the object
 - changes do not affect the original object
 
-
 # Internal References
 
 # External References
