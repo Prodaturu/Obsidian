@@ -258,6 +258,19 @@
             "id": "aaccfb8c01d57801",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "60e4359e99229cc7",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -344,8 +357,8 @@
   },
   "active": "eccb5d4979026c1b",
   "lastOpenFiles": [
-    "Lambda Capture Modes in C++.md",
     "Capturing this in C++.md",
+    "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
