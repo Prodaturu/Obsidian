@@ -18,7 +18,7 @@
 	- Classes in C++
 - **Topic Links:**
 	- [[Const Member Functions in C++]]
-
+	  
 ---
 
 # Capturing `this` in C++
