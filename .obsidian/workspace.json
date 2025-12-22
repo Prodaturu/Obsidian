@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operators in C++"
+              "title": "Operator Overloading in C++"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operators in C++"
+              "title": "Outline of Operator Overloading in C++"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operators in C++"
+              "title": "Backlinks for Operator Overloading in C++"
             }
           },
           {
@@ -288,9 +288,10 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "Indexes/C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "3 - Main Notes/C++/Operators in C++.md",
+    "Indexes/C++.md",
     "Initi.md",
     "Capturing this in C++.md",
     "2 - Source Material/Books/professionalcpp.pdf",
@@ -307,7 +308,6 @@
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",

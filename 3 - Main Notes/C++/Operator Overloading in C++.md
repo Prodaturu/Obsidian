@@ -27,6 +27,14 @@
 
 # Operator Overloading in C++
 
+## Definition and simple explanation
+- **Definition:**
+	- Let's us define the meaning of an operator when applied to operand(s) of a class type
+	- Careful use of operator overloading can make our programs easier to write and read
+	  
+- In simple terms:
+	- We tell C++ what `+`, `==`, `=`, `<<`, etc., should mean **for our own types**
+	
 - The `operator` keyword declares a function specifying
 	- what an *operator symbol* means 
 	- when applied to a class instance
@@ -52,7 +60,7 @@ type operator operator_symbol (parameter_list)
 		- would do what is defined within the `//Implementation`
 	- parameters $\Rightarrow$ Right hand operand
 
-## Examples
+### Examples
 
 ```cpp
 // returnType = `Car&`; operator_symbol = `=`; parameters = "(const Car& other)"
@@ -65,17 +73,75 @@ Vector operator+(const Vector& other) { }
 bool operator==(const Date& other) { }
 ```
 
-## Key Rules and Limitations
+## Why operator Overloading Exists
 
-- **Cannot create new operators** - only existing C++ operators
-- **Cannot change operator precedence** - follows original rules
-- **At least one operand must be user-defined type**
-- **Some operators cannot be overloaded**: `::`, `.*`, `.`, `?:`, `sizeof`
+- Without operator overloading
+
+```cpp
+v1.add(v2);
+```
+
+- without operator overloading
+```cpp
+v1 + v2;
+```
+
+same logic - but the second is:
+- more readable
+- closer to mathematical intent
+- consistent with built-in types
+
+**Goal**
+- Make user-defined types feel as natural as built-in ones
+
+## What actually gets overloaded
+- Operators are implemented as **functions**
+- The keyword `operator` introduces the overload
+
+General Form:
+```cpp
+return_type operator<symbol>(parameters)
+{
+	// Implementation
+}
+```
+
+### Basic Examples:
+```cpp
+// Assignment
+Car& operator=(const Car& other);
+
+// Arithmetic
+Vector operator*(const Vector& other);
+
+// Comparison
+bool operator==(const Date &other);
+```
+
+### Complete Example
+
+**Step 1**: **Define a Class**
+```cpp
+class Vector
+{
+public:
+	int x;
+	int y;
+	
+	vector(int x, int y) : x(x), y(y)
+}
+```
+
+
+## Key Rules and Limitations
+- **❌ Cannot create new operators** - only existing C++ operators
+- **❌ Cannot change operator precedence** - follows original rules
+- **✅ At least one operand must be user-defined type**
+- **❌ Some operators cannot be overloaded**: `::`, `.*`, `.`, `?:`, `sizeof` etc.,
 
 # Internal References
 
 ## Sub-notes
-
 - [[General Rules for Operator Overloading]]
 	Rules how overloaded operators can be implemented
 	
@@ -94,7 +160,13 @@ bool operator==(const Date& other) { }
 - [[Member vs Non Member Operator Overloads in C++]]  
     When to make an operator a member, and when to use a free function or friend.
 
+# Operator overloading explained with code
 
+- Consider the following class
+
+```cpp
+
+```
 ---
 
 ## Related Notes
