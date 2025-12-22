@@ -125,10 +125,17 @@ bool operator==(const Date &other);
 class Vector
 {
 public:
-	int x;
-	int y;
+	int _x;
+	int _y;
 	
-	vector(int x, int y) : x(x), y(y)
+	vector(int x, int y) : _x(x), _y(y)
+	{
+	}
+	
+	int getx() const { return _x; }
+	int gety() const { return _y; }
+	
+	Vector operator+
 }
 ```
 
