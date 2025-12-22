@@ -126,7 +126,6 @@ This makes the intent very clear
 |`[*this]`|copy of object|works on snapshot|
 |`[=]` (C++20+)|copy of object|same as `[*this]`|
 
-
-# Internal References
+see: [[capturing using this in const functions]]
 
 # External References
