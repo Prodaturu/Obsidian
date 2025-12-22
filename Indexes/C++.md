@@ -58,7 +58,6 @@ sticker: lucide//code
 ---
 
 ## 1. Background and big picture
-
 - [[History of C++]]  
     evolution of the language, major standards
     
@@ -74,14 +73,12 @@ sticker: lucide//code
 ---
 
 ## 2. Object-oriented view
-
 - [[OOPS in C++]]  
     classes, objects, inheritance, polymorphism, abstraction, encapsulation
     
 ---
 
 ## 3. Working with data and algorithms
-
 - [[C++ Data Structures and Algorithms]]  
     map for containers, algorithms, STL patterns, and custom structures
     
@@ -91,7 +88,6 @@ sticker: lucide//code
 ---
 
 ## 4. Memory, errors, and project structure
-
 - [[Memory management in C++]]  
     stack vs heap, allocation, RAII, smart pointers
     

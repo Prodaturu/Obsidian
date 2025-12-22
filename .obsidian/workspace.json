@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 57.868852459016395,
+        "dimension": 54.31591309453905,
         "children": [
           {
             "id": "279e4db1a12b6019",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capturing this in C++.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Capturing this in C++"
+              "title": "Operators in C++"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 42.131147540983605,
+        "dimension": 45.68408690546095,
         "children": [
           {
             "id": "d029584a61b2ecc7",
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -153,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++.Primer.5th.Edition_2013"
+              "title": "Outline of Operators in C++"
             }
           },
           {
@@ -197,45 +198,6 @@
             }
           },
           {
-            "id": "e9acc25ece254f65",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5e44be84f2311321",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "4cb41c06cfdcf822",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "fb3e27f7ed296cbf",
             "type": "leaf",
             "state": {
@@ -245,8 +207,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "353b5826e8f5adba",
@@ -259,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capturing this in C++.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -269,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capturing this in C++"
+              "title": "Backlinks for Operators in C++"
             }
           },
           {
@@ -306,7 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 384.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,11 +286,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e9acc25ece254f65",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "2 - Source Material/Books/professionalcpp.pdf",
+    "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "Indexes/C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
+    "Initi.md",
     "Capturing this in C++.md",
+    "2 - Source Material/Books/professionalcpp.pdf",
     "3 - Main Notes/C++/Memory management in C++.md",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
     "6 - Full Notes/2025-12-10.md",
@@ -337,7 +301,6 @@
     "2 - Source Material/Books/InformationTheoryBook1.pdf",
     "2 - Source Material/Books/InfoTheoryLecturesAndExercises.pdf",
     "2 - Source Material/Books/InformationTheoryTUMBook.pdf",
-    "Indexes/C++.md",
     "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
     "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
@@ -356,10 +319,8 @@
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-    "3 - Main Notes/C++/Const Keyword in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "Untitled.canvas",
