@@ -70,8 +70,12 @@ auto f ;
 	Counter c;
 	f = [this]() { value++;} // ❌ dangerous
 }
-
+// c is destroyed here
+f(); //dangling `this`
 ```
+
+So:
+> Capturing `this` is safe only if the object **outlives the lambda
 
 # Internal References
 
