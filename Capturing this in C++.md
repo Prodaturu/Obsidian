@@ -87,6 +87,26 @@ auto f = [=]()
 };
 ```
 
+- What happens depends on the C++ version
+
+#### Before C++ 20
+- `[this]` -> captures `this` by point
+- `[=]` -> also captures `this` by pointer
+- no way to capture the object by value
+	
+- So, both `[this]`, `[=]` behaves similarly for `this`
+
+#### C++ 20 and later
+- C++20 changes the meaning:
+```cpp
+auto f = [=] ()
+{
+	std::cout << value <<"\n";
+};
+```
+- 
+
+
 # Internal References
 
 # External References
