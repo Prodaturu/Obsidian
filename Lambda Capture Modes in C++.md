@@ -225,6 +225,7 @@ public:
 - (C++98 - C++20): `[]` implied **pointer** capture (like `[this]`)
 - (C++ 20 +): `[=]` effectively captures a **copy** of the object (`*this`)
 	- makes it safer in some cases
+	
 
 # Quick Cheat Sheet
 
