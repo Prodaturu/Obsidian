@@ -188,6 +188,54 @@ public:
 - `[this]` captures the **this pointer**
 - lambda can access `value` and other members
 
+## C++20 detail - capturing `*this` by value
+##### Before C++20:
+- `[this]` -> capture `this` pointer (always by reference)
+- `[=]` inside a member -> also capture `this` by **reference** implicitly
+
+##### Before C++20:
+- `[=]` inside a member behaves as if it captures `*this` by **value**
+	- **copy of the object**, not the raw pointer
+- there is also an explicit `[*this]` capture (C++ 17)
+	- makes a **copy** of current object for this lambda
+
+#### Example:
+```cpp
+class Widget
+{
+private:
+	int value = 0;
+	
+public:
+	void demo()
+	{
+		// C++20: this lambda keeps a *copy* of the current widget
+		auto f = [=]()
+		{
+			// works on the captured copy of *this*
+			std::cout << value << "\n";
+		};
+		
+		f();
+	}
+}
+```
+- (C++98 - C++20): `[]` implied **pointer** capture (like `[this]`)
+- (C++ 20 +): `[=]` effectively captures a **copy** of the object (`*this`)
+	- makes it safer in some cases
+
 # Quick Cheat Sheet
+
+| Capture form | What it does                                                     | Typical use                                 | Notes                                         |
+| ------------ | ---------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------- |
+| `[]`         | captures **nothing**                                             | lambda uses only its params / globals       | safest, very explicit                         |
+| `[=]`        | captures **used** outer vars by **value** (and `*this` in C++20) | small lambdas that just read outer values   | doesn’t see later changes                     |
+| `[&]`        | captures **used** outer vars by **reference**                    | callbacks that must modify outer state      | risk of dangling refs if lambda outlives vars |
+| `[x]`        | captures `x` by value                                            | explicit, avoid accidental captures         | good for clarity                              |
+| `[&x]`       | captures `x` by reference                                        | modify just `x` from outer scope            | be sure `x` lives long enough                 |
+| `[x, &y]`    | mix: `x` by value, `y` by reference                              | fine-tuned control                          | common pattern                                |
+| `[z = expr]` | creates new captured var `z`, initialised with `expr`            | move-only types, precomputed values         | needs C++14+                                  |
+| `[this]`     | captures `this` pointer                                          | member functions needing full object access | classic OO capture                            |
+| `[*this]`    | captures a **copy** of `*this` (C++17+)                          | snapshot of object state inside lambda      | safer if object may later change              |
 
 # External References
