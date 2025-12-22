@@ -16,8 +16,8 @@
 - **Relevance Links:**
 	- Lambda Functions in C++
 - **Topic Links:**
-	- 
-
+	-  [[Capturing this in C++]]
+	  
 ---
 
 # Lambda Capture Modes in C++
@@ -165,6 +165,8 @@ auto f = [p = std::move(ptr)]()
 
 
 ## 6. Capturing `this`
+
+see: [[Capturing this in C++]]
 
 - Inside a member function:
 ```cpp
