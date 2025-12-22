@@ -66,6 +66,11 @@ public:
 
 ```cpp
 auto f ;
+{
+	Counter c;
+	f = [this]() { value++;} // ❌ dangerous
+}
+
 ```
 
 # Internal References
