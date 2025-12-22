@@ -74,6 +74,30 @@
             }
           },
           {
+            "id": "8615e87489be0b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lambda Capture Modes in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lambda Capture Modes in C++"
+            }
+          },
+          {
             "id": "049d77a9d2b2169e",
             "type": "leaf",
             "state": {
@@ -155,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#virtual",
+                "query": "\"member function\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,8 +190,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -321,8 +344,8 @@
   },
   "active": "eccb5d4979026c1b",
   "lastOpenFiles": [
-    "Capturing this in C++.md",
     "Lambda Capture Modes in C++.md",
+    "Capturing this in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
