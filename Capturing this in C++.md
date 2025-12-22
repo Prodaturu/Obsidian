@@ -34,7 +34,7 @@
 ## Capturing `this` explicitly
 
 ```cpp
-class counter
+class Counter
 {
 private:
 	int value = 0;
@@ -58,7 +58,6 @@ public:
 
 ---
 ## Lifetime Risk
-
 - Because `[this]` captures a pointer:
 	- if lambda is stored
 	- and the object is destroyed
