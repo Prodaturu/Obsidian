@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 57.77884155098133,
+        "dimension": 36.74614305750351,
         "children": [
           {
             "id": "279e4db1a12b6019",
@@ -37,7 +37,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 42.22115844901867,
+        "dimension": 63.2538569424965,
         "children": [
           {
             "id": "e9cccd5e37816641",
@@ -269,6 +269,19 @@
           },
           {
             "id": "60e4359e99229cc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9acc25ece254f65",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
