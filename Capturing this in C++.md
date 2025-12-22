@@ -104,7 +104,9 @@ auto f = [=] ()
 	std::cout << value <<"\n";
 };
 ```
-- 
+- `[=]` captures a copy of `*this`
+- the lambda owns its own snapshot of the object
+- changes do not affect the original object
 
 
 # Internal References
