@@ -78,6 +78,7 @@ So:
 > Capturing `this` is safe only if the object **outlives the lambda**
 ---
 
+## Implicit capture of `this`
 inside a member function:
 ```cpp
 auto f = [=]()

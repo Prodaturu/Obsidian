@@ -97,7 +97,8 @@
               "title": "Constructors in C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,13 +189,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capturing this in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Capturing this in C++"
+              "title": "Outline"
             }
           },
           {
@@ -254,7 +254,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capturing this in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -264,7 +263,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capturing this in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -320,10 +319,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "eccb5d4979026c1b",
   "lastOpenFiles": [
-    "Lambda Capture Modes in C++.md",
     "Capturing this in C++.md",
+    "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
