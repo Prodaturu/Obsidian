@@ -88,7 +88,7 @@ auto f = [x]()
 
 #### `[&]` -> Capture used variables by reference
 ```cpp
-let counter = 0;
+int counter = 0;
 
 auto inc = [&] ()
 {

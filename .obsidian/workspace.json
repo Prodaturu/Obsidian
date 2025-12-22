@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lambda Capture Modes in C++.md",
+                "file": "Capturing this in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lambda Capture Modes in C++"
+              "title": "Capturing this in C++"
             }
           }
         ]
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lambda Capture Modes in C++.md",
+                "file": "Capturing this in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lambda Capture Modes in C++"
+              "title": "Outline of Capturing this in C++"
             }
           },
           {
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lambda Capture Modes in C++.md",
+                "file": "Capturing this in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lambda Capture Modes in C++"
+              "title": "Backlinks for Capturing this in C++"
             }
           },
           {
@@ -322,10 +322,11 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "Lambda Capture Modes in C++.md",
+    "Capturing this in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
-    "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
@@ -347,7 +348,6 @@
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "Const in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
-    "3 - Main Notes/C++/Const Member Functions in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
