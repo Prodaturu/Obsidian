@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 36.74614305750351,
+        "dimension": 59.309021113243766,
         "children": [
           {
             "id": "279e4db1a12b6019",
@@ -37,7 +37,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 63.2538569424965,
+        "dimension": 40.69097888675624,
         "children": [
           {
             "id": "e9cccd5e37816641",
@@ -67,10 +67,24 @@
             "id": "eccb5d4979026c1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Indexes/C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++"
             }
           },
           {
@@ -194,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -385,8 +398,17 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
+    "6 - Full Notes/2025-12-10.md",
     "Capturing this in C++.md",
+    "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
+    "2 - Source Material/Books/The Project Gutenberg eBook of Der Schimmelreiter, by Theodor Storm.pdf",
+    "2 - Source Material/Books/InformationTheoryBook1.pdf",
+    "2 - Source Material/Books/InfoTheoryLecturesAndExercises.pdf",
+    "2 - Source Material/Books/professionalcpp.pdf",
+    "2 - Source Material/Books/InformationTheoryTUMBook.pdf",
+    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
+    "Indexes/C++.md",
+    "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
     "Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
@@ -394,7 +416,6 @@
     "3 - Main Notes/C++/Functions in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
@@ -413,14 +434,6 @@
     "Const in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
-    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer/Schimmelreiter.pdf",
-    "3 - Main Notes/German/German Books/DieSeitenderWelt_KaiMeyer",
-    "3 - Main Notes/GeneralCodingConcepts",
-    "3 - Main Notes/German/German Books",
-    "3 - Main Notes/German",
-    "Dynamic Memory Allocation in C++ '/(new / delete",
-    "Dynamic Memory Allocation in C++ '/(new ",
-    "Dynamic Memory Allocation in C++ '",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
