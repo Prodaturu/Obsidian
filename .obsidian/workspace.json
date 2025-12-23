@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "CPP05  ex00 concept breakdown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operator Overloading in C++"
+              "title": "CPP05  ex00 concept breakdown"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "CPP05  ex00 concept breakdown.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operator Overloading in C++"
+              "title": "Outline of CPP05  ex00 concept breakdown"
             }
           },
           {
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Operator Overloading in C++.md",
+                "file": "CPP05  ex00 concept breakdown.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operator Overloading in C++"
+              "title": "Backlinks for CPP05  ex00 concept breakdown"
             }
           },
           {
@@ -314,8 +314,10 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "General Rules for Operator Overloading in C++.md",
+    "CPP05.md",
+    "CPP05  ex00 concept breakdown.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
+    "General Rules for Operator Overloading in C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/Operators in C++.md",
     "Indexes/C++.md",
@@ -346,8 +348,6 @@
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/Compile Time Polymorphism in C++.md",
-    "3 - Main Notes/C++/History of C++.md",
-    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "all.base",
     "3 - Main Notes/C++/Untitled",
     "Untitled.canvas",
