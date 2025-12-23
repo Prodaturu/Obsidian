@@ -16,13 +16,15 @@
     - Classes and Objects in C++     <!-- also related, plain text -->
     
 - **Topic Links:**
-	- [[General Rules for Operator Overloading]]
-    - [[Copy Assignment Operator in C++]]
+	- [[General Rules for Operator Overloading in C++]]
+	- [[Overloading operators as member functions in C++]]
+	- [[Overloading operators as non-member functions in C++]]
+    - [[Member vs Non Member Operator Overloads in C++]]
     - [[Overloading Arithmetic Operators in C++]]
     - [[Overloading Comparison Operators in C++]]
     - [[Overloading Stream Operators in C++]]
-    - [[Member vs Non Member Operator Overloads in C++]]
-
+    - [[Copy Assignment Operator in C++]]
+    
 ---
 
 # Operator Overloading in C++
@@ -179,7 +181,7 @@ Vector c = a + b; //result will be: (4, 6)
 see:  [[Operator Overloading in C++ - explained in C++ code]]
 
 
-- [[General Rules for Operator Overloading]]
+- [[General Rules for Operator Overloading in C++]]
 	Rules how overloaded operators can be implemented
 	
 - [[Copy Assignment Operator in C++]]  
