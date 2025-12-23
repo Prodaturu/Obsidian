@@ -182,23 +182,34 @@ see:  [[Operator Overloading in C++ - explained in C++ code]]
 
 
 - [[General Rules for Operator Overloading in C++]]
-	Rules how overloaded operators can be implemented
+	- What is allowed
+	- What is forbidden
+	- Which Operators can not be overloaded
+	  
+- [[Overloading operators as member functions in C++]]
+	- Mechanics of operators overloaded as a member function
+	  
+- [[Overloading operators as non-member functions in C++]]
+	- Mechanics of operators overloaded as a member function
+	  
+- [[Member vs Non Member Operator Overloads in C++]]
+	- Mechanics of each form
+	- what is the difference and commonality between these 2 types
+	  
+- [[Overloading Arithmetic Operators in C++]]
+	- Applying the rules of overloading operators to arithmetic operators
 	
-- [[Copy Assignment Operator in C++]]  
-    Special member function that can also be seen as an overloaded `operator=`.
-    
-- [[Overloading Arithmetic Operators in C++]]  
-    Designing `+`, `-`, `*`, `/`, etc. for custom numeric-like types.
-    
-- [[Overloading Comparison Operators in C++]]  
-    Designing `==`, `!=`, `<`, `>`, `<=`, `>=`.
-    
-- [[Overloading Stream Operators in C++]]  
-    `operator<<` / `operator>>` for `std::ostream` and `std::istream`.
-    
-- [[Member vs Non Member Operator Overloads in C++]]  
-    When to make an operator a member, and when to use a free function or friend.
-
+- [[Overloading Comparison Operators in C++]]
+	- Applying the rules of overloading operators to comparison operators
+	  
+- [[Overloading Stream Operators in C++]]
+	- Applying rules of operator overloading to stream operators 
+	- ex: `operator<<`, `operator>>`
+	  
+- [[Copy Assignment Operator in C++]]
+    - mandatory member
+	- part of canonical forms
+	- interacts with const, lifetime, ownership
 ## Related Notes
 
 - Operators in C++ 
