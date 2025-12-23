@@ -47,11 +47,15 @@
     
 - Goal: make custom types feel as natural to use as built-in types
 
-```cpp
-type operator operator_symbol (parameter_list)
-```
+## What Operator overloading really is
+- Operators are implemented as **functions**
+- The `operator` keyword declares a function with special syntax
+- No new operators are created - only existing ones are reused
 
 ## Syntax
+```cpp
+return_type operator operator_symbol (parameter_list){}
+```
 
 - `returnType operator_symbol (parameters) {// Implementation}`
 	- returnType $\Rightarrow$ What the operator returns
@@ -76,12 +80,11 @@ bool operator==(const Date& other) { }
 ## Why operator Overloading Exists
 
 - Without operator overloading
-
 ```cpp
 v1.add(v2);
 ```
 
-- without operator overloading
+- With operator overloading
 ```cpp
 v1 + v2;
 ```
@@ -171,6 +174,11 @@ Vector c = a + b; //result will be: (4, 6)
 # Internal References
 
 ## Sub-notes
+
+##### For code based explanation of operator overloading
+see:  [[Operator Overloading in C++ - explained in C++ code]]
+
+
 - [[General Rules for Operator Overloading]]
 	Rules how overloaded operators can be implemented
 	
@@ -188,15 +196,6 @@ Vector c = a + b; //result will be: (4, 6)
     
 - [[Member vs Non Member Operator Overloads in C++]]  
     When to make an operator a member, and when to use a free function or friend.
-
-# Operator overloading explained with code
-
-- Consider the following class
-
-```cpp
-
-```
----
 
 ## Related Notes
 
