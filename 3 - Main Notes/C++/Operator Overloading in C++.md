@@ -175,12 +175,9 @@ Vector c = a + b; //result will be: (4, 6)
 
 # Internal References
 
-## Sub-notes
-
-##### For code based explanation of operator overloading
-see:  [[Operator Overloading in C++ - explained in C++ code]]
-
-
+-  [[Operator Overloading in C++ - explained in C++ code]]
+	- Code based explanation of operator overloading
+	  
 - [[General Rules for Operator Overloading in C++]]
 	- What is allowed
 	- What is forbidden
@@ -210,13 +207,12 @@ see:  [[Operator Overloading in C++ - explained in C++ code]]
     - mandatory member
 	- part of canonical forms
 	- interacts with const, lifetime, ownership
-## Related Notes
+	  
 
+## Related Notes
 - Operators in C++ 
-    
 - Classes and Objects in C++ 
-    
-- Orthodox Canonical Form 
+- Orthodox Canonical Form
 - Rule of Three Five Zero in C++
 
 # External References
