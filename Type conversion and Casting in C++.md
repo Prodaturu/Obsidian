@@ -23,6 +23,7 @@
 	- [[User-Defined Conversions in C++]]
 	- [[Choosing the Right Cast in C++]]
 	
+---
 
 # Type Conversion and Casting in C++
 > how C++ converts values from one type to another.
@@ -35,36 +36,36 @@
 	- numeric promotions
 	- pointer/reference adjustments
 	- conversions during expressions and function calls
-
+	  
 ## 2. Explicit type casting
 - [[Explicit Type Casting in C++]]
 	- programmer-requested conversions
 	- safer and more expressive than C-style casts
-
+	  
 ### C++ cast operators
 - `static_cast`
 - `const_cast`
 - `reinterpret_cast`
 - `dynamic_cast`
-
+  
 ## 3. C-style casts
 - [[C-Style Casts in C++]]
 	- legacy syntax: `(type)expression`
 	- mixes multiple cast meanings
 	- discouraged in modern C++
-
+	  
 ## 4. User-defined conversions
 - [[User-Defined Conversions in C++]]
 	- conversion constructors
 	- conversion operators (`operator T()`)
 	- interaction with overload resolution
-
+	  
 ## 5. Choosing the right cast
 - [[Choosing the Right Cast in C++]]
 	- decision rules
 	- safety vs intent
 	- compile-time vs runtime checks
-
+	  
 # Internal References
 - CV-Qualifiers in C++
 - Constructors in C++
