@@ -13,7 +13,7 @@
 	- 
 - **Topic Links:**
 	- 
-
+	  
 ---
 
 # CPP05  ex00 concept breakdown
@@ -26,6 +26,7 @@
 	- Grade validation in constructor and when incrementing/decrementing
 		- using custom exceptions
 	- Getters, grade manipulation functions, and `operator<<` overload for formatted printing
+	  
 
 ## Core C++ concepts involved
 Here are the main concepts you’ll touch in ex00, split into small units:
@@ -101,17 +102,11 @@ Here are the main concepts you’ll touch in ex00, split into small units:
     
 14. **Orthodox Canonical Form (conceptual for later)**
     
-    - Understanding what “Orthodox Canonical Form” means (default ctor, copy ctor, assignment operator, destructor), even though ex00 is simple.​
-    - How it applies to classes generally in Module 05 (exceptions excluded).
-      
+    - Understanding what “Orthodox Canonical Form” means 
+	    - (default ctor, copy ctor, assignment operator, destructor), even though ex00 is simple
+    - How it applies to classes generally in Module 05 (exceptions excluded)
+    
 
 ## Concept 1 - Classes definition basics
-
-- 
-
-
-# Internal References
-
-
 
 # External References

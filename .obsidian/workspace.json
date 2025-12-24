@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -340,9 +339,9 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/cpp00.en.subject.pdf",
     "CPP05.md",
     "CPP05  ex00 concept breakdown.md",
+    "3 - Main Notes/C++/cpp00.en.subject.pdf",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "General Rules for Operator Overloading in C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
@@ -375,7 +374,6 @@
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "all.base",
-    "3 - Main Notes/C++/Untitled",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
