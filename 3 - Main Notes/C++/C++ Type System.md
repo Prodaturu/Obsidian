@@ -23,28 +23,36 @@
     - [[Lvalue and Rvalue references in c++]]
     - [[CV-Qualifiers in C++]]
     - [[Templates in C++]]
+	- [[Generic Types in C++]]
     - [[Type conversion and Casting in C++]]
 
 # C++ Type System
-
 Map note for all *type-related* concepts in C++.
 
-## Built-in types
+## 1. What types exist
+### Built-in types
 - [[C++ Data Types]]
 
-
-## User-defined types
+### User-defined types
 - [[User-Defined Types in C++]]
 
-## Pointers and references
+## 2. How types are accessed / referred to
+### Pointers and references
 - [[Pointer and Reference Types in C++]]
 - [[Lvalue and Rvalue references in c++]]
 
-## CV-qualifiers
+## 3. How types are qualified
+### CV-qualifiers
 - [[CV-Qualifiers in C++]]  <!-- const / volatile hub -->
 
-## Templates and generic types
+## 4. How types are generated / abstracted
+### Templates and generic types
 - [[Templates in C++]]
 - [[Generic Types in C++]]
+
+## 5. How types are converted / viewed
+### Typecasting
+- [[Type conversion and Casting in C++]]
+
 
 # References

@@ -164,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/C++/C++ Type System.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of C++ Type System"
             }
           },
           {
@@ -294,6 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/C++ Type System.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -303,7 +305,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for C++ Type System"
             }
           },
           {
@@ -359,14 +361,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6941b72bc089b826",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Template Array Example in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/Template Array Example in C++.md",
     "Tags/C++ Language Features.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
-    "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Advanced Constructor Concepts in C++.md",
     "3 - Main Notes/C++/Capturing this in C++.md",

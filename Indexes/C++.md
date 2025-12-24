@@ -22,8 +22,8 @@ sticker: lucide//code
 **Links / Tags:** 
 - **Relevance Links:**
 	- Background and ecosystem:
-		- [[History of C++]]
 		- [[C vs C++]] - Main Differences and Commonality between C and C++
+		- [[History of C++]]
 		- [[C++ Language Features]]
 		- [[C++ Type System]]  
 		- [[C++ Libraries]] - Libraries and C++ ecosystem
