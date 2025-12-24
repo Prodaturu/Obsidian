@@ -23,6 +23,7 @@
     - [[Lvalue and Rvalue references in c++]]
     - [[CV-Qualifiers in C++]]
     - [[Templates in C++]]
+    - [[Type conversion and Casting in C++]]
 
 # C++ Type System
 

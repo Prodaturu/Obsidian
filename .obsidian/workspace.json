@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/C++ Type System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "C++ Type System"
             }
           }
         ]
@@ -361,7 +361,10 @@
   },
   "active": "6941b72bc089b826",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Template Array Example in C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
     "Indexes/C++.md",
+    "Tags/C++ Language Features.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Error Handling.md",
@@ -388,8 +391,6 @@
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
-    "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
