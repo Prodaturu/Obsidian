@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 40.688651794374394,
+        "dimension": 45.490892936472676,
         "children": [
           {
             "id": "279e4db1a12b6019",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Type System.md",
+                "file": "Type conversion and Casting in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Type System"
+              "title": "Type conversion and Casting in C++"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 59.311348205625606,
+        "dimension": 54.50910706352732,
         "children": [
           {
             "id": "d029584a61b2ecc7",
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Type System.md",
+                "file": "Type conversion and Casting in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Type System"
+              "title": "Outline of Type conversion and Casting in C++"
             }
           },
           {
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Type System.md",
+                "file": "Type conversion and Casting in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -318,7 +318,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Type System"
+              "title": "Backlinks for Type conversion and Casting in C++"
             }
           },
           {
@@ -376,9 +376,11 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Type System.md",
+    "Type conversion and Casting in C++.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Template Array Example in C++.md",
     "Tags/C++ Language Features.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
@@ -409,8 +411,6 @@
     "3 - Main Notes/C vs C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Switch Statements in C++.md",
-    "3 - Main Notes/C++/Constructors in C++.md",
-    "Tags/OOPS in C++.md",
     "_all.base",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
