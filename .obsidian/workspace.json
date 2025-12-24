@@ -67,10 +67,24 @@
             "id": "6941b72bc089b826",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Templates in C++"
             }
           }
         ],
@@ -164,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/C++/Templates in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Templates in C++"
             }
           },
           {
@@ -307,6 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/Templates in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -316,7 +332,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Templates in C++"
             }
           },
           {
@@ -374,6 +390,7 @@
   },
   "active": "6941b72bc089b826",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/Access Violation in C++.md",
     "Implicit Type Conversions in C++.md",
     "Type conversion and Casting in C++.md",
@@ -408,7 +425,6 @@
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
-    "3 - Main Notes/C vs C++.md",
     "_all.base",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
