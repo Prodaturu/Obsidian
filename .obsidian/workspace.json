@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Implicit Type Conversions in C++.md",
+                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Implicit Type Conversions in C++"
+              "title": "Type conversion and Casting in C++"
             }
           }
         ]
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -178,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Templates in C++"
+              "title": "Outline of Type conversion and Casting in C++"
             }
           },
           {
@@ -322,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -332,7 +331,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Templates in C++"
+              "title": "Backlinks for Type conversion and Casting in C++"
             }
           },
           {
@@ -388,12 +387,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6941b72bc089b826",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "Implicit Type Conversions in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/Access Violation in C++.md",
-    "Implicit Type Conversions in C++.md",
-    "Type conversion and Casting in C++.md",
+    "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Indexes/C++.md",
