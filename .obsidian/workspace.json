@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -387,7 +388,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
     "Implicit Type Conversions in C++.md",
     "3 - Main Notes/C++/Templates in C++.md",

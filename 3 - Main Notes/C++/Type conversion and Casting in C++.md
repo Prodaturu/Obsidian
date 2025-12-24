@@ -39,7 +39,7 @@
 	- numeric promotions
 	- pointer/reference adjustments
 	- conversions during expressions and function calls
-	  
+	
 ## 2. Explicit type casting
 - [[Explicit Type Casting in C++]]
 	- programmer-requested conversions
