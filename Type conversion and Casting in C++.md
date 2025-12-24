@@ -44,12 +44,12 @@
 - [[Explicit Type Casting in C++]]
 	- programmer-requested conversions
 	- safer and more expressive than C-style casts
-	  
-### C++ cast operators
-- `static_cast`
-- `const_cast`
-- `reinterpret_cast`
-- `dynamic_cast`
+	
+- ### C++ cast operators
+	- `static_cast`
+	- `const_cast`
+	- `reinterpret_cast`
+	- `dynamic_cast`
   
 ## 3. C-style casts
 - [[C-Style Casts in C++]]
@@ -64,8 +64,10 @@
 	- interaction with overload resolution
 
 
-## Choosing the right cast
-- [[Choosing the Right Cast in C++]]
+# What type of casting to choose
+
+## Choosing the appropriate cast
+- [[Choosing the appropriate Cast in C++]]
 	- decision rules
 	- safety vs intent
 	- compile-time vs runtime checks

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Type conversion and Casting in C++.md",
+                "file": "Implicit Type Conversions in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Type conversion and Casting in C++"
+              "title": "Implicit Type Conversions in C++"
             }
           }
         ]
@@ -164,13 +164,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Type conversion and Casting in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Type conversion and Casting in C++"
+              "title": "Outline"
             }
           },
           {
@@ -308,7 +307,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Type conversion and Casting in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -318,7 +316,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Type conversion and Casting in C++"
+              "title": "Backlinks"
             }
           },
           {
@@ -374,10 +372,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "6941b72bc089b826",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/Access Violation in C++.md",
+    "Implicit Type Conversions in C++.md",
     "Type conversion and Casting in C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
@@ -409,8 +409,6 @@
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
     "3 - Main Notes/C vs C++.md",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
-    "3 - Main Notes/C++/Switch Statements in C++.md",
     "_all.base",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
