@@ -63,24 +63,24 @@ Here are the main concepts you’ll touch in ex00, split into small units:
     
 7. **Custom exception classes**
     - Declaring nested exception classes like `Bureaucrat::GradeTooHighException` / `GradeTooLowException` (or similarly named).​
-    - Inheriting from `std::exception`.
-    - Overriding `what()` to provide an error message.
+    - Inheriting from `std::exception`
+    - Overriding `what()` to provide an error message
     
 8. **Throwing and catching exceptions**
-    - Using `throw` in the constructor and in grade modification functions.​
-    - Catching with `catch (std::exception &e)` and using `e.what()`.
-    - Understanding stack unwinding at a conceptual level (no need for deep detail yet).
+    - Using `throw` in the constructor and in grade modification functions
+    - Catching with `catch (std::exception &e)` and using `e.what()`
+    - Understanding stack unwinding at a conceptual level (no need for deep detail yet)
     
 9. **Incrementing/decrementing with non‑intuitive ordering**
     - Interpreting the problem’s grading logic:
-        - Lower numeric value = better grade.
-        - “Incrementing” a grade means moving toward 1 (e.g. 3 → 2).​
-    - Ensuring boundaries are respected (no <1, no >150).
+        - Lower numeric value = better grade
+        - “Incrementing” a grade means moving toward 1 (e.g. 3 → 2)
+    - Ensuring boundaries are respected (no <1, no >150)
       
 10. **Operator overloading: `operator<<`**
-    - How to declare a non-member `operator<< (std::ostream &, const Bureaucrat &)`.
-    - Returning the `std::ostream &` to allow chaining.
-    - Formatting output exactly as required: `"name, bureaucrat grade X"`.​
+    - How to declare a non-member `operator<< (std::ostream &, const Bureaucrat &)`
+    - Returning the `std::ostream &` to allow chaining
+    - Formatting output exactly as required: `"name, bureaucrat grade X"`
     
 11. **Separation of interface and implementation**
     - Declarations in `.hpp`, definitions in `.cpp`.​
@@ -88,9 +88,9 @@ Here are the main concepts you’ll touch in ex00, split into small units:
     - Avoiding definitions in headers (except for trivial inline or templates, which you don’t need here).
     
 12. **Makefile and compilation model**
-    - Compiling multiple translation units (`main.cpp`, `Bureaucrat.cpp`).​
+    - Compiling multiple translation units (`main.cpp`, `Bureaucrat.cpp`)
     - Linking them into a single executable via the Makefile.
-    - Ensuring compilation with flags like `-Wall -Wextra -Werror -std=c++98`.​
+    - Ensuring compilation with flags like `-Wall -Wextra -Werror -std=c++98`
     
 13. **Testing and main function design**
     - Writing `main.cpp` that:
