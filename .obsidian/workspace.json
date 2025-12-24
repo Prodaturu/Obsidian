@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 54.31591309453905,
+        "dimension": 40.688651794374394,
         "children": [
           {
             "id": "279e4db1a12b6019",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP05  ex00 concept breakdown.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPP05  ex00 concept breakdown"
+              "title": "C++"
             }
           }
         ]
@@ -37,7 +37,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 45.68408690546095,
+        "dimension": 59.311348205625606,
         "children": [
           {
             "id": "d029584a61b2ecc7",
@@ -62,9 +62,19 @@
               "icon": "lucide-file-text",
               "title": "C++.Primer.5th.Edition_2013"
             }
+          },
+          {
+            "id": "6941b72bc089b826",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,13 +164,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP05  ex00 concept breakdown.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CPP05  ex00 concept breakdown"
+              "title": "Outline"
             }
           },
           {
@@ -285,7 +294,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP05  ex00 concept breakdown.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -295,7 +303,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CPP05  ex00 concept breakdown"
+              "title": "Backlinks"
             }
           },
           {
@@ -351,18 +359,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "6941b72bc089b826",
   "lastOpenFiles": [
-    "CPP05.md",
-    "CPP05  ex00 concept breakdown.md",
+    "Indexes/C++.md",
+    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
+    "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/C++ Error Handling.md",
+    "3 - Main Notes/C++/Advanced Constructor Concepts in C++.md",
+    "3 - Main Notes/C++/Capturing this in C++.md",
+    "Vault.md",
+    "Initi.md",
+    "3 - Main Notes/C++/CPP05  ex00 concept breakdown.md",
+    "3 - Main Notes/C++/CPP05.md",
     "3 - Main Notes/C++/cpp00.en.subject.pdf",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "General Rules for Operator Overloading in C++.md",
-    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
+    "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "Indexes/C++.md",
-    "Initi.md",
-    "Capturing this in C++.md",
     "2 - Source Material/Books/professionalcpp.pdf",
     "3 - Main Notes/C++/Memory management in C++.md",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
@@ -372,7 +384,7 @@
     "2 - Source Material/Books/InfoTheoryLecturesAndExercises.pdf",
     "2 - Source Material/Books/InformationTheoryTUMBook.pdf",
     "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
-    "Lambda Capture Modes in C++.md",
+    "3 - Main Notes/C++/Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
     "3 - Main Notes/C++/Functions in C++.md",
@@ -383,11 +395,7 @@
     "3 - Main Notes/C++/Switch Statements in C++.md",
     "3 - Main Notes/C++/Constructors in C++.md",
     "Tags/OOPS in C++.md",
-    "3 - Main Notes/C++/Encapsulation in C++.md",
-    "3 - Main Notes/C++/Access Specifiers in C++.md",
-    "Tags/Classes in C++.md",
-    "3 - Main Notes/C++/User-Defined Types in C++.md",
-    "all.base",
+    "_all.base",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
