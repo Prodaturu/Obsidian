@@ -65,7 +65,7 @@
 	- decision rules
 	- safety vs intent
 	- compile-time vs runtime checks
-	  
+	
 # Internal References
 - CV-Qualifiers in C++
 - Constructors in C++
