@@ -25,10 +25,13 @@
 	
 ---
 
-# Type Conversion and Casting in C++
-> how C++ converts values from one type to another.
+> how C++ converts values from one type to another
+> **hub** for all type-conversion mechanisms in C++.
 
-**hub** for all type-conversion mechanisms in C++.
+# Type Conversion and Casting in C++
+
+- Type casting is the process of converting a value from one data type to another
+- In C++ there are 4 main methods of type casting:
 
 ## 1. Implicit type conversions
 - [[Implicit Type Conversions in C++]]
@@ -59,8 +62,9 @@
 	- conversion constructors
 	- conversion operators (`operator T()`)
 	- interaction with overload resolution
-	  
-## 5. Choosing the right cast
+
+
+## Choosing the right cast
 - [[Choosing the Right Cast in C++]]
 	- decision rules
 	- safety vs intent
