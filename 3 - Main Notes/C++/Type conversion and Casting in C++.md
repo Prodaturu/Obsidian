@@ -50,7 +50,7 @@
 	- `const_cast`
 	- `reinterpret_cast`
 	- `dynamic_cast`
-  
+	  
 ## 3. C-style casts
 - [[C-Style Casts in C++]]
 	- legacy syntax: `(type)expression`
