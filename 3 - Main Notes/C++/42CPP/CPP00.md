@@ -23,7 +23,10 @@
 - may not include everything
 - more like rough notes for concept understanding
 
-## 
+## New Concepts used in *cpp00 ex00*
+
+`std::cout << std::toupper(str[i])`
+
 
 # Internal References
 

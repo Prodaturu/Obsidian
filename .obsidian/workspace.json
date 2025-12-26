@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 45.490892936472676,
+        "dimension": 58.03571428571429,
         "children": [
           {
             "id": "279e4db1a12b6019",
@@ -37,7 +37,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 54.50910706352732,
+        "dimension": 41.964285714285715,
         "children": [
           {
             "id": "d029584a61b2ecc7",
@@ -187,13 +187,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CPP00"
+              "title": "Outline"
             }
           },
           {
@@ -384,7 +383,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -394,7 +392,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CPP00"
+              "title": "Backlinks"
             }
           },
           {
@@ -450,10 +448,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "795633db6c7ff277",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/C++/42CPP/CPP00.md",
+    "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
