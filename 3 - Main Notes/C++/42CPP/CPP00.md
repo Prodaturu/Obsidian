@@ -4,9 +4,11 @@
 
 **Hashtags:**
 - **Relevance Tags:**
-	- 
+	- #cpp 
+	- #42core
 - **Topic Tags:**
-	- 
+	- #cpp00
+	- #cppfundamentals
 
 **Links / Tags:** 
 - **Relevance Links:**

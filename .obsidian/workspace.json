@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
+                "file": "cpp00 ex00 - New Concepts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPP00"
+              "title": "cpp00 ex00 - New Concepts"
             }
           }
         ]
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
+                "file": "cpp00 ex00 - New Concepts.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CPP00"
+              "title": "Outline of cpp00 ex00 - New Concepts"
             }
           },
           {
@@ -385,7 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
+                "file": "cpp00 ex00 - New Concepts.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -395,7 +395,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CPP00"
+              "title": "Backlinks for cpp00 ex00 - New Concepts"
             }
           },
           {
@@ -453,8 +453,8 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "cpp00 ex00 - New Concepts.md",
     "3 - Main Notes/C++/42CPP/CPP00.md",
+    "cpp00 ex00 - New Concepts.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
