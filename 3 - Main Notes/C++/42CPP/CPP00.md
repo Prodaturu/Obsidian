@@ -26,7 +26,7 @@
 ## New Concepts used in *cpp00 ex00*
 ### Why we need casting with `std::toupper`
 
-####
+#### Why does *str::toupper* even cause issues
 ```cpp
 std::cout << std::toupper(str[i])
 ```
@@ -38,8 +38,14 @@ std::cout << std::toupper(str[i])
 ```cpp
 int  std::toupper(int c);
 ```
+- This means we need to give an `int` and not a `char` to `std::toupper`
 
-#### What 
+#### What happens to `char` when passed to `toupper`
+- `char` is promoted to an `int` 
+- If `char` is **signed** (common)
+- values above 127 can **negative**
+- But, std::toupper expects an `unsigned int`
+- 
 
 
 # Internal References

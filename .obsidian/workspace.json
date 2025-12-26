@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -187,12 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CPP00"
             }
           },
           {
@@ -383,6 +385,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -392,7 +395,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CPP00"
             }
           },
           {
@@ -448,7 +451,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "795633db6c7ff277",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
     "3 - Main Notes/C++/42CPP/CPP00.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
