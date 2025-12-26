@@ -44,8 +44,32 @@ int  std::toupper(int c);
 - `char` is promoted to an `int` 
 - If `char` is **signed** (common)
 - values above 127 can **negative**
-- But, std::toupper expects an `unsigned int`
-- 
+- But, std::toupper expects values representable as `unsigned char` 
+	- Which would be in the `int` range of `0` - `255`
+- when `char` is promoted to `int`
+	- `char` could get values out of the required range when its passed to `std::toupper`
+
+#### Why this breaks `std::toupper`
+- If a **negative** value is passed (**not eof**):
+	- behaviour is undefined
+	- function may
+		- crash
+		- read invalid memory
+		- return wrong result
+- This is dangerous because:
+	- The bug depends on input
+	- It may occur only on some systems
+	- very hard to debug this issue
+
+#### Why Casting fixes it
+```cpp
+static_cast<unsigned char>(ch)
+```
+- This forces:
+	- values into range `0` - `255`
+	- no negative numbers
+	- `toupper` behaves correctly
+
 
 
 # Internal References
