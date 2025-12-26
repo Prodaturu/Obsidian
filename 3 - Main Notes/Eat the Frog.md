@@ -10,7 +10,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- [[daily planner]]
 - **Topic Links:**
 	- 
 

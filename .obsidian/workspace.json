@@ -91,10 +91,24 @@
             "id": "795633db6c7ff277",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2025-12-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-26"
             }
           }
         ],
@@ -188,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
+                "file": "2025-12-26.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Type conversion and Casting in C++"
+              "title": "Outline of 2025-12-26"
             }
           },
           {
@@ -385,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
+                "file": "2025-12-26.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -395,7 +409,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Type conversion and Casting in C++"
+              "title": "Backlinks for 2025-12-26"
             }
           },
           {
@@ -451,10 +465,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "795633db6c7ff277",
   "lastOpenFiles": [
-    "cpp00 ex00 - New Concepts.md",
+    "2025-12-17.md",
+    "2025-12-26.md",
+    "6 - Full Notes/2025-12-12.md",
+    "6 - Full Notes/2025-12-11.md",
+    "6 - Full Notes/2025-12-10.md",
+    "3 - Main Notes/Eat the Frog.md",
+    "daily planner.md",
+    "3 - Main Notes/C++/Const keyword_in_cpp.md",
+    "3 - Main Notes/C++/Const in C++.md",
+    "3 - Main Notes/C++/Const Keyword in C++.md",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
+    "cpp00 ex00 - New Concepts.md",
     "3 - Main Notes/C++/42CPP/CPP00.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/C++/42CPP",
@@ -471,24 +495,14 @@
     "3 - Main Notes/C++/Template Array Example in C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/C++ Error Handling.md",
-    "3 - Main Notes/C++/Advanced Constructor Concepts in C++.md",
-    "3 - Main Notes/C++/Capturing this in C++.md",
-    "Vault.md",
-    "Initi.md",
-    "3 - Main Notes/C++/42CPP/CPP05  ex00 concept breakdown.md",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
     "2 - Source Material/Books/professionalcpp.pdf",
-    "3 - Main Notes/C++/Memory management in C++.md",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
-    "6 - Full Notes/2025-12-10.md",
     "2 - Source Material/Books/The Project Gutenberg eBook of Der Schimmelreiter, by Theodor Storm.pdf",
     "2 - Source Material/Books/InformationTheoryBook1.pdf",
     "2 - Source Material/Books/InfoTheoryLecturesAndExercises.pdf",
     "2 - Source Material/Books/InformationTheoryTUMBook.pdf",
     "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
-    "3 - Main Notes/C++/Lambda Capture Modes in C++.md",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
