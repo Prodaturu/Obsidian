@@ -26,6 +26,12 @@
 ## New Concepts used in *cpp00 ex00*
 
 `std::cout << std::toupper(str[i])`
+- This would throw an error this is because `std::toupper` doesn't return `char`
+	- It takes an `int`
+	- returns an `int`
+- but `str[i]` is a `char`
+	
+- 
 
 
 # Internal References
