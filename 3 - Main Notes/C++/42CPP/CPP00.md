@@ -24,14 +24,22 @@
 - more like rough notes for concept understanding
 
 ## New Concepts used in *cpp00 ex00*
+### Why we need casting with `std::toupper`
 
-`std::cout << std::toupper(str[i])`
-- This would throw an error this is because `std::toupper` doesn't return `char`
+####
+```cpp
+std::cout << std::toupper(str[i])
+```
+
+- This would throw an error, because `std::toupper` doesn't return `char`
 	- It takes an `int`
 	- returns an `int`
-- but `str[i]` is a `char`
-	
-- 
+- Signature of `std::toupper` is:
+```cpp
+int  std::toupper(int c);
+```
+
+#### What 
 
 
 # Internal References
