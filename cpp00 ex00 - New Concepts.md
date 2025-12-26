@@ -10,10 +10,13 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- Type conversion and Casting in C++
+	- CPP00
 - **Topic Links:**
-	- 
-
+	- [[static cast in C++]]
+	- [[signed vs unsigned types in C++]]
+	- [[undefined behavior in C++]]
+	- [[std::cctype functions]]
 ---
 
 # cpp00 ex00 - New Concepts

@@ -22,6 +22,7 @@
 	- [[C-Style Casts in C++]]
 	- [[User-Defined Conversions in C++]]
 	- [[Choosing the Right Cast in C++]]
+	- [[cpp00 ex00 - New Concepts]]
 	
 ---
 
