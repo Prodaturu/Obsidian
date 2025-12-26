@@ -93,6 +93,15 @@ std::cout << static_cast<char>(
 ```cpp
 std::toupper // Relies on implicit casting -> ❌
 ```
+- Problem:
+	- implicit promotion keeps the **signedness**
+	- negative values may still be passed
+	- undefined behavior is still possible
+	- intent is **not visible**
+- So implicit casts are:
+	- unsafe
+	- unclear
+	- easy to misuse
 
 
 
