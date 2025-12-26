@@ -4,7 +4,7 @@
 
 **Hashtags:**
 - **Relevance Tags:**
-[[Range Based For Loop in C++]]	- #cpp
+	- #cpp
 	- #typesystem
 	- #casting
 	- #map
@@ -21,7 +21,7 @@
 	- [[Explicit Type Casting in C++]]
 	- [[C-Style Casts in C++]]
 	- [[User-Defined Conversions in C++]]
-	- [[Choosing the Right Cast in C++]]
+	- [[Choosing the appropriate Cast in C++]]
 	- [[cpp00 ex00 - New Concepts]]
 	
 ---
