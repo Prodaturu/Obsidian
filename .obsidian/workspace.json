@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
+                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Type conversion and Casting in C++"
+              "title": "CPP00"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -84,11 +84,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operators in C++"
+              "title": "Ternary Operators in C++"
+            }
+          },
+          {
+            "id": "795633db6c7ff277",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"member function\"",
+                "query": "cpp05",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -178,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operators in C++"
+              "title": "Outline of CPP00"
             }
           },
           {
@@ -361,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Operators in C++.md",
+                "file": "3 - Main Notes/C++/42CPP/CPP00.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -371,7 +380,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operators in C++"
+              "title": "Backlinks for CPP00"
             }
           },
           {
@@ -427,12 +436,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6941b72bc089b826",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/42CPP/CPP05.md",
+    "3 - Main Notes/C++/42CPP/CPP00.md",
+    "3 - Main Notes/C++/42CPP",
+    "3 - Main Notes/C++/Type conversion and Casting in C++.md",
+    "3 - Main Notes/C++/Ternary Operators in C++.md",
+    "3 - Main Notes/C++/Operators in C++.md",
     "Tags/C++ Language Features.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
-    "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "Implicit Type Conversions in C++.md",
     "3 - Main Notes/C++/Access Violation in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
@@ -445,12 +459,10 @@
     "3 - Main Notes/C++/Capturing this in C++.md",
     "Vault.md",
     "Initi.md",
-    "3 - Main Notes/C++/CPP05  ex00 concept breakdown.md",
-    "3 - Main Notes/C++/CPP05.md",
-    "3 - Main Notes/C++/cpp00.en.subject.pdf",
+    "3 - Main Notes/C++/42CPP/CPP05  ex00 concept breakdown.md",
+    "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
     "2 - Source Material/Books/professionalcpp.pdf",
     "3 - Main Notes/C++/Memory management in C++.md",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
@@ -462,9 +474,6 @@
     "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
     "3 - Main Notes/C++/Lambda Capture Modes in C++.md",
     "3 - Main Notes/C++/Lambda Functions in C++.md",
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "3 - Main Notes/C++/Functions in C++.md",
-    "_all.base",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
