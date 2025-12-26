@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Templates in C++.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -84,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Templates in C++"
+              "title": "Operators in C++"
             }
           }
         ],
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Type conversion and Casting in C++"
+              "title": "Outline of Operators in C++"
             }
           },
           {
@@ -361,7 +361,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
+                "file": "3 - Main Notes/C++/Operators in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -371,7 +371,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Type conversion and Casting in C++"
+              "title": "Backlinks for Operators in C++"
             }
           },
           {
@@ -427,18 +427,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "6941b72bc089b826",
   "lastOpenFiles": [
-    "Implicit Type Conversions in C++.md",
+    "Tags/C++ Language Features.md",
+    "Indexes/C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
-    "3 - Main Notes/C++/Access Violation in C++.md",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
+    "Implicit Type Conversions in C++.md",
+    "3 - Main Notes/C++/Access Violation in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/Template Array Example in C++.md",
-    "Tags/C++ Language Features.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/Advanced Constructor Concepts in C++.md",

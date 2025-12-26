@@ -18,7 +18,15 @@
 ---
 
 # Operators in C++
-- Symbols that perform operations on operands.
+
+> Symbols that perform operations on operands.
+
+- Operators are a **core language feature** in C++
+- The define how values are:
+	- combined
+	- compared
+	- modified
+	- accessed
 
 ## Operator Categories
 ### 1. Arithmetic Operators
@@ -50,7 +58,7 @@
 3. `&`, `|`, `^`, `~`, `<<`, `>>`
 
 ---
-### 6. Unary Operators
+### 6. Unary and Compile-Time Operators
 1. Operate on a single operand
 2. Used for increment, decrement, negation, etc.
 3. `++`, `--`, `+`, `-`, `!`, `~`, `sizeof`
@@ -63,7 +71,7 @@
 ---
 ### 8. Pointer Operators
 1. Used to work with memory addresses and pointers
-2. `&` (address-of), `*` (dereference), `->`, `->*`
+2. `&` (address-of), `*` (dereference), `->`
 
 ---
 ### 9. Pointer-to-Member Operators
