@@ -91,7 +91,7 @@ std::cout << static_cast<char>(
 #### Why use `static_cast`
 ##### Why not Implicit Casting
 ```cpp
-std::toupper // Relies on implicit casting -> 
+std::toupper // Relies on implicit casting -> ❌
 ```
 # Internal References
 
