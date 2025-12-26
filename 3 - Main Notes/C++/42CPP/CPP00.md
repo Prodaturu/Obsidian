@@ -109,7 +109,7 @@ std::toupper(ch) // Relies on implicit casting -> ❌
 (char)std::toupper((unsigned char)ch); // ❌
 ```
 
-- Try multiple conversions silently
+- Tries multiple conversions silently
 - may perform:
 	- `static_cast`
 	- `const_cast`
@@ -159,6 +159,9 @@ const_cast<unsigned char>(ch) // Illegal ❌
 	- `unsigned char` → always 0–255 → safe
 	- `std::toupper` works on `int`, but expects unsigned-char values
 	- `static_cast` makes both intent and safety explicit
+
+> **Rule of thumb:**  
+> Always cast to `unsigned char` before calling character classification or conversion functions
 
 # Internal References
 
