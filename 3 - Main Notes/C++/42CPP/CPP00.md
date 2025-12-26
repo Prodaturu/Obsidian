@@ -74,11 +74,19 @@ static_cast<unsigned char>(ch)
 	- promoted to `int` safely
 	- meets `toupper`'s requirement
 
-#### Simple 
+#### Simple synopsis
 - `std::toupper` takes an `int`
-- but that ``
-
-
+- but that `int` must hold a value valid for `unsigned char`
+- `char` may be **signed** -> **unsafe** to use with `std::toupper`
+- casting to `unsigned char` fixes the value
+- `toupper` returns `int`
+- casting result back to `char` fixes printing
+- so we end up with
+```cpp
+std::cout << static_cast<char>(
+    std::toupper(static_cast<unsigned char>(ch))
+);
+```
 
 # Internal References
 
