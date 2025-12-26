@@ -69,6 +69,14 @@ static_cast<unsigned char>(ch)
 	- values into range `0` - `255`
 	- no negative numbers
 	- `toupper` behaves correctly
+- So casting guarantees:
+	- value is `0` - `255`
+	- promoted to `int` safely
+	- meets `toupper`'s requirement
+
+#### Simple 
+- `std::toupper` takes an `int`
+- but that ``
 
 
 
