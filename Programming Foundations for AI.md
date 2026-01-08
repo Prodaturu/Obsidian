@@ -1,8 +1,8 @@
-**Created:** *<span class ="color-green">08.01.26, 20:27</span>
+***Created:*** *<span class ="color-green">08.01.26, 20:27</span>
 
-**Note Type:** #map
+***Note Type:*** #map
 
-**Hashtags:**
+***Hashtags:***
 
 - **Relevance Tags:**
     
@@ -29,11 +29,11 @@
     - #debugging
         
 
-**Links / Tags:**
+***Links / Tags:***
 
 - **Relevance Links:**
     
-    - [[AI Engineer]]
+    - AI Engineer
         
     - [[Computer Science Foundations for AI]]
         
@@ -219,13 +219,33 @@ This is about **judgment**, not micro-optimizations.
 These notes show **how the above concepts manifest in specific tools**.
 
 - [[Python for AI Engineers]]
+    
 - [[C++ for AI Systems]]
+    
 - [[SQL for Data Work]]
+    
 - [[Shell Basics for ML Ops]]
+    
+
+---
+
+## Where this fits in the AI Engineer stack
+
+This note **supports and feeds into** the following higher-level areas:
+
+- [[Machine Learning Core]] — training loops, evaluation code, experiment logic
+    
+- [[Deep Learning Core]] — model code, backprop implementation, performance issues
+    
+- [[Data Engineering for AI]] — pipelines, batch/stream processing, data correctness
+    
+- [[MLOps]] — reliability, testing, reproducibility, deployment safety
+    
+
+These are **consumers** of the programming foundations defined here.
+
 ---
 
 # References
-- [[Machine Learning Core]]
-- [[Deep Learning Core]]
-- [[Data Engineering for AI]]
-- [[MLOps]]
+
+- _To be added:_ books, papers, blog posts, and official documentation relevant to programming foundations for AI.
