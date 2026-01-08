@@ -51,18 +51,6 @@
         "dimension": 41.964285714285715,
         "children": [
           {
-            "id": "d029584a61b2ecc7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Books/professionalcpp.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "professionalcpp"
-            }
-          },
-          {
             "id": "e196ee186f8e72ab",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Ternary Operators in C++.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,7 +83,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ternary Operators in C++"
+              "title": "C++"
             }
           },
           {
@@ -123,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -529,11 +517,16 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
+    "Interview Preparation for AI Engineers.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "Indexes/C++.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/C++/Operators in C++.md",
+    "3 - Main Notes/C++/Ternary Operators in C++.md",
+    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/Primitive Integral Types in C++.md",
     "3 - Main Notes/AI Engineer/.md",
     "3 - Main Notes/AI Engineer",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
@@ -551,13 +544,8 @@
     "3 - Main Notes/C++/42CPP/CPP00.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/C++/42CPP",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Implicit Type Conversions in C++.md",
-    "3 - Main Notes/C++/Access Violation in C++.md",
-    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
