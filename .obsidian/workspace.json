@@ -450,7 +450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Foundations for AI.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -460,7 +460,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programming Foundations for AI"
+              "title": "Backlinks for C++"
             }
           },
           {
@@ -516,10 +516,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5cac653489654f3",
+  "active": "6941b72bc089b826",
   "lastOpenFiles": [
-    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Programming Foundations for AI.md",
+    "Iteration and Data Pipelines.md",
+    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Interview Preparation for AI Engineers.md",
     "Indexes/C++.md",
     "Tags/C++ Language Features.md",
@@ -546,7 +547,6 @@
     "3 - Main Notes/C++/42CPP/CPP00.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/C++/42CPP",
-    "3 - Main Notes/C++/Templates in C++.md",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",

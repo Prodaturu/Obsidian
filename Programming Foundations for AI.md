@@ -3,64 +3,36 @@
 ***Note Type:*** #map
 
 ***Hashtags:***
-
 - **Relevance Tags:**
+    - #aiengineer    
     
-    - #aiengineer
-        
-    - #secondbrain
-        
-    - #overview
-        
 - **Topic Tags:**
-    
     - #programming
-        
     - #softwareengineering
-        
     - #systems
-        
     - #reliability
-        
     - #performance
-        
-    - #types
-        
+    - #types    
     - #debugging
-        
-
+    
 ***Links / Tags:***
-
 - **Relevance Links:**
-    
-    - AI Engineer
-        
+    - AI Engineer    
     - [[Computer Science Foundations for AI]]
-        
-- **Topic Links:**
     
+- **Topic Links:**
     - [[Data, State, and Mutability in AI Systems]]
-        
     - [[Functions, APIs, and Contracts for ML Codebases]]
-        
     - [[Types and Correctness for AI Engineers]]
-        
     - [[Iteration and Data Pipelines]]
-        
     - [[Performance Awareness for AI Engineers]]
-        
     - [[Debugging and Reliability for AI Engineers]]
-        
     - [[Testing and Reproducibility in ML]]
-        
     - [[Python for AI Engineers]]
-        
     - [[C++ for AI Systems]]
-        
     - [[SQL for Data Work]]
-        
     - [[Shell Basics for ML Ops]]
-        
+    
 
 ---
 
@@ -74,30 +46,19 @@
 ---
 
 ## 1. Programming Mental Models
-
 - thinking in data flow, not scripts
-    
 - abstraction and decomposition
-    
 - separating concerns and responsibilities
-    
 - reading and reasoning about existing code
-    
 
 ---
 
 ## 2. Data, State, and Mutability
-
 - value vs reference semantics
-    
 - mutability vs immutability
-    
 - copying vs sharing data
-    
 - hidden side effects in pipelines
-    
 - lifecycle of data in ML systems
-    
 
 > many real-world ML bugs come from unintended mutation
 
