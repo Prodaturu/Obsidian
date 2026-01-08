@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Foundations for AI.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programming Foundations for AI"
+              "title": "AI Engineer"
             }
           }
         ],
@@ -450,7 +450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -460,7 +460,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for AI Engineer"
             }
           },
           {
@@ -516,22 +516,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6941b72bc089b826",
+  "active": "d5cac653489654f3",
   "lastOpenFiles": [
     "Programming Foundations for AI.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/User-Defined Types in C++.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "Tags/C++ Language Features.md",
+    "Tags/OOPS in C++.md",
     "Iteration and Data Pipelines.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Interview Preparation for AI Engineers.md",
-    "Indexes/C++.md",
-    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/Primitive Integral Types in C++.md",
     "3 - Main Notes/AI Engineer/.md",
     "3 - Main Notes/AI Engineer",
-    "3 - Main Notes/C++/C++ Data Types.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "2025-12-26.md",
     "2025-12-17.md",
@@ -544,8 +546,6 @@
     "3 - Main Notes/C++/Const in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
     "3 - Main Notes/C++/42CPP/cpp00 ex00 - New Concepts.md",
-    "3 - Main Notes/C++/42CPP/CPP00.md",
-    "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",

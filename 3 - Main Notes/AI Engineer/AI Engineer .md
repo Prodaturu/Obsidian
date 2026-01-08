@@ -52,13 +52,20 @@
 > Main hub for AI Engineer notes  
 > Links to second-level maps: foundations, ML/DL core, data + systems, MLOps, cloud, and applied domains.
 
-AI engineering = building ML systems that work in the real world:
-
-- understand math enough to debug models
-- build data pipelines that don’t leak or break
-- train + evaluate models correctly
-- deploy reliably and monitor drift
-- iterate fast with clean engineering habits
+- **Definition:**
+	- process of designing and implementing AI systems
+		- using pre-trained models,
+		- existing AI tools to solve practical problems
+		  
+	- AI engineering = building ML systems that work in the real world:
+	  
+- For AI Engineering we need to:
+	- understand math enough to debug models
+	- build data pipelines that don’t leak or break
+	- train + evaluate models correctly
+	- deploy reliably and monitor drift
+	- iterate fast with clean engineering habits
+	
 ---
 
 ## 1. Foundations (must-have)
@@ -68,13 +75,13 @@ AI engineering = building ML systems that work in the real world:
     python, debugging, clean code, testing habits    
 - [[Computer Science Foundations for AI]]  
     DSA, complexity, OS + networking basics (enough for deployment work)
-
+    
 ## 2. ML / DL Core (must-have)
 - [[Machine Learning Core]]  
     supervised learning, features, regularization, trees, linear models
 - [[Deep Learning Core]]  
     training loop, back-prop intuition, CNN/RNN/transformers overview    
-
+    
 ## 3. Data + Systems (must-have)
 - [[Data Foundations for AI]]  
     data quality, labelling, leakage, train/val/test splits
@@ -82,13 +89,13 @@ AI engineering = building ML systems that work in the real world:
     ETL, Schemas, versioning datasets, batch vs streaming
 - [[Systems Design for AI]]  
     offline vs online inference, latency, scaling, reliability    
-
+    
 ## 4. MLOps + Cloud (must-have for “engineer”)
 - [[MLOps]]  
     packaging, CI/CD, model registry, monitoring, retraining loops
 - [[Cloud for AI]]  
     storage, compute, GPUs, deployments, IAM basics
-
+    
 ## 5. Applied Domains (pick based on goals)
 - [[Natural Language Processing]]
 - [[Computer Vision]]
