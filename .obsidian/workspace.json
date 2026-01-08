@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "file": "Programming Foundations for AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI Engineer"
+              "title": "Programming Foundations for AI"
             }
           }
         ],
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -449,7 +450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "file": "Programming Foundations for AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -459,7 +460,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Engineer"
+              "title": "Backlinks for Programming Foundations for AI"
             }
           },
           {
@@ -515,10 +516,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "Interview Preparation for AI Engineers.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "Programming Foundations for AI.md",
+    "Interview Preparation for AI Engineers.md",
     "Indexes/C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Operators in C++.md",
@@ -545,7 +547,6 @@
     "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/Templates in C++.md",
-    "Implicit Type Conversions in C++.md",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
