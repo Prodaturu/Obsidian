@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/MachineLearning.md",
+                "file": "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MachineLearning"
+              "title": "Basic Mathematics Pre-Machine Learning"
             }
           }
         ],
@@ -462,7 +462,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/MachineLearning.md",
+                "file": "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -472,7 +472,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MachineLearning"
+              "title": "Backlinks for Basic Mathematics Pre-Machine Learning"
             }
           },
           {
@@ -530,8 +530,8 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Tags/MachineLearning.md",
+    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Indexes/Mathematics.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Programming Foundations for AI.md",
