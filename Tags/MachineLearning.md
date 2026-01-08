@@ -1,3 +1,3 @@
-- [[Mathematics]]
+- [[Mathematics for ML]]
 	- [[Basic Mathematics Pre-Machine Learning]]
 	- 
