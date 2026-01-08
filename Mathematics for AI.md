@@ -17,7 +17,7 @@
 **Links:**
 - **Relevance Links:**
 	- Mathematics
-- **Topic Linsk:**
+- **Topic Links:**
 	- [[AI Engineer]]
 	
 ---
