@@ -23,7 +23,7 @@
 
 > Part of C++ data types.
 
-Primitive integral types represent whole numbers and simple boolean values.
+Primitive integral types represent **whole numbers** and **simple boolean** values.
 They differ mainly in **size** and whether they are **signed** or **unsigned**.
 
 ## List of primitive integral types
@@ -40,8 +40,10 @@ They differ mainly in **size** and whether they are **signed** or **unsigned**.
 ## Key ideas
 
 - **Signed vs unsigned**  
-	- Signed: can store negative and positive values.  
-	- Unsigned: only non-negative, but larger max value in same number of bits.
+	- *Signed*: can store negative and positive values
+		- `int`, `long` etc.,
+	- *Unsigned*: only non-negative, but larger max value in same number of bits.
+		- `unsigned int`, `unsigned long` etc.,
 	  
 - **Overflow**  
 	- Behaviour of signed overflow is undefined.  

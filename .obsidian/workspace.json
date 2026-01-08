@@ -12,24 +12,10 @@
             "id": "279e4db1a12b6019",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/Type conversion and Casting in C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Type conversion and Casting in C++"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -169,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpp05",
+                "query": "\"C++ Type System\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -451,7 +437,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-12-26.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -461,7 +446,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-12-26"
+              "title": "Backlinks"
             }
           },
           {
@@ -517,10 +502,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "795633db6c7ff277",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "2025-12-17.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/Primitive Integral Types in C++.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "2025-12-26.md",
+    "2025-12-17.md",
     "6 - Full Notes/2025-12-12.md",
     "6 - Full Notes/2025-12-11.md",
     "6 - Full Notes/2025-12-10.md",
@@ -529,7 +519,6 @@
     "3 - Main Notes/C++/Const keyword_in_cpp.md",
     "3 - Main Notes/C++/Const in C++.md",
     "3 - Main Notes/C++/Const Keyword in C++.md",
-    "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "cpp00 ex00 - New Concepts.md",
     "3 - Main Notes/C++/42CPP/CPP00.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
@@ -537,16 +526,12 @@
     "3 - Main Notes/C++/Ternary Operators in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "Tags/C++ Language Features.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/Templates in C++.md",
     "Implicit Type Conversions in C++.md",
     "3 - Main Notes/C++/Access Violation in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/Template Array Example in C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
-    "3 - Main Notes/C++/C++ Error Handling.md",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
