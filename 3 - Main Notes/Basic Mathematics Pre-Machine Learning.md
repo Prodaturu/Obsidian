@@ -1,134 +1,53 @@
+**Created:** *<span class ="color-green">08.01.26, 23:33</span>*
 
-Status:
+**Created:** _08.01.26, 23:33_  
+**Note Type:** #map
 
-Hashtags: #ML #mathematical-foundations 
+**Hashtags:**
+- **Relevance Tags:** #math, #machinelearning, #foundations, #context
+- **Topic Tags:** #statistics, #probability, #linearalgebra, #calculus, #optimization    
+**Links:**
+- **Relevance Links:**
+	- Mathematics
+	- Machine Learning
+    
+- **Topic Links:**
+    
+    - **Statistics & Probability:**
+	    - [[Descriptive Statistics]]
+	    - [[Probability Foundations]]
+	    - [[Probability Distributions]]
+	    - [[Inferential Statistics]]
+    - **Linear Algebra:**
+	    - [[Vectors]]
+	    - [[Matrices]]
+    - **Calculus & Optimization:** 
+	    - [[Differential Calculus]]
+	    - [[Optimization Basics]]
+    
+---
 
-Tags: [[Mathematics]] [[MachineLearning]] 
+# Basic Mathematics Pre-Machine Learning
 
+> Context map for **mathematical prerequisites** required before studying Machine Learning. This note organises concepts only. All detailed explanations live in atomic notes.
 
-------------------------------------------------------------------------
-# Basic Mathematics Pre Machine Learning
+## Statistics & Probability
+- [[Descriptive Statistics]]: mean, median, mode; variance, standard deviation; correlation, histograms
+- [[Probability Foundations]]: conditional probability, Bayes’ theorem
+- [[Probability Distributions]]: Bernoulli, Normal
+- [[Inferential Statistics]]: hypothesis testing, confidence intervals, p-values
 
-## **Major Concept 1: Statistics & Probability**
+## Linear Algebra
+- [[Vectors]]: vector operations, dot product, magnitude
+- [[Matrices]]: matrix multiplication, transpose, inverse
 
-- **Minor: Descriptive Statistics**
-    
-    - _Subconcepts:_ Mean, Median, Mode, Standard Deviation, Variance, Correlation, Histograms
-        
-- **Minor: Probability Foundations**
-    
-    - _Subconcepts:_ Conditional Probability, Bayes' Theorem, Probability Distributions (Normal, Bernoulli)
-        
-- **Minor: Inferential Statistics**
-    
-    - _Subconcepts:_ Hypothesis Testing, Confidence Intervals, p-values
-        
+## Calculus & Optimization
+- [[Differential Calculus]]: derivatives, gradients, chain rule
+- [[Optimization Basics]]: cost / loss functions, gradient descent
 
-## **Major Concept 2: Linear Algebra**
-
-- **Minor: Vectors**
-    
-    - _Subconcepts:_ Vector Operations, Dot Product, Magnitude
-        
-- **Minor: Matrices**
-    
-    - _Subconcepts:_ Matrix Multiplication, Transpose, Inverse
-        
-
-## **Major Concept 3: Calculus**
-
-- **Minor: Differential Calculus**
-    
-    - _Subconcepts:_ Derivatives, Gradients, Chain Rule
-        
-- **Minor: Optimization**
-    
-    - _Subconcepts:_ Cost/Loss Functions, Gradient Descent
-    
-
-
-------------------------------------------------------------------------
-
-## **Best Path for Beginners:-**
-
-### Note:-
-
-- ***Choosing path based on what  is best for you is more important than u realise*** 
-
-#### Path 1 
-
-##### Absolute Beginner, Repetition needed, Immediate application needed to learn
-
-- **Minor: Descriptive Statistics**
-    
-- Subconcepts: Mean, Median, Mode, Standard Deviation, Variance, Correlation, Histograms
-	  
-- **Minor: Vectors**
-    
-    - _Subconcepts:_ Vector Operations, Dot Product, Magnitude
-    
-- **Minor: Matrices**
-    
-    - _Subconcepts:_ Matrix Multiplication
-    
-- - **Minor: Probability Foundations**
-    
-    - _Subconcepts:_ Conditional Probability, Bayes' Theorem
-    
-- **Minor: Probability Foundations**
-    
-    - _Subconcepts:_  Probability Distributions (Normal, Bernoulli)
-    
-- **Minor: Inferential Statistics**
-    
-    - _Subconcepts:_ Hypothesis Testing, Confidence Intervals, p-values
-    
-- **Minor: Matrices**
-    
-    - _Subconcepts:_ Matrix Multiplication, Transpose, Inverse
-    
-- **Minor: Differential Calculus**
-    
-    - _Subconcepts:_ Derivatives, Gradients, Chain Rule
-        
-- **Minor: Optimization**
-    
-    - _Subconcepts:_ Cost/Loss Functions, Gradient Descent
-
-#### Path 2 (Pure Efficiency, Sequential mastery)
-
-- **Descriptive Statistics** (Mean, Median, Mode, Standard Deviation, Variance, Correlation, Histograms)
-	 
-- **Vectors** (Vector Operations, Dot Product, Magnitude)
-    
-- **Probability Foundations** (Conditional Probability, Bayes' Theorem)
-    
-- **Matrices** (Matrix Multiplication, Transpose)
-    
-- **Probability Distributions** (Normal, Bernoulli)
-    
-- **Inferential Statistics** (Hypothesis Testing, Confidence Intervals, p-values)
-    
-- **Differential Calculus** (Derivatives, Gradients, Chain Rule)
-    
-- **Optimization** (Cost/Loss Functions, Gradient Descent)
-    
-- **Matrices (Advanced)** (Inverse)
-  
-#### path 3 (According to conceptual categorisation)
-
-- Follow the initial concept breakdown flow
-
+## Closely Related Notes
+- Mathematics for ML 
+- Mathematics for AI Engineer
+- Machine Learning Core
 
 # References
-
-
-
------------------------------------------------------------------------
-# Closely Related Notes
-
-## Next:
-
-## Prev:
-
-## Closely Related Notes:
