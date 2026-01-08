@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
+                "file": "Mathematics for AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic Mathematics Pre-Machine Learning"
+              "title": "Mathematics for AI"
             }
           }
         ],
@@ -462,7 +462,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
+                "file": "Mathematics for AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -472,7 +472,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Basic Mathematics Pre-Machine Learning"
+              "title": "Backlinks for Mathematics for AI"
             }
           },
           {
@@ -530,12 +530,13 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "Tags/MachineLearning.md",
-    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "Indexes/Mathematics.md",
-    "3 - Main Notes/AI Engineer/AI Engineer .md",
-    "Programming Foundations for AI.md",
     "Indexes/C++.md",
+    "Mathematics for AI.md",
+    "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
+    "Tags/MachineLearning.md",
+    "Indexes/Mathematics.md",
+    "Programming Foundations for AI.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
@@ -557,7 +558,6 @@
     "6 - Full Notes/2025-12-10.md",
     "3 - Main Notes/Eat the Frog.md",
     "daily planner.md",
-    "3 - Main Notes/C++/Const keyword_in_cpp.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
