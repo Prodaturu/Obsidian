@@ -59,7 +59,7 @@ Tags: [[Mathematics]] [[MachineLearning]]
 
 ##### Absolute Beginner, Repetition needed, Immediate application needed to learn
 
-**Minor: Descriptive Statistics**
+- **Minor: Descriptive Statistics**
     
 - Subconcepts: Mean, Median, Mode, Standard Deviation, Variance, Correlation, Histograms
 	  
