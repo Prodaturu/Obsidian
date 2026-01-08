@@ -17,9 +17,28 @@
 **Links:**
 - **Relevance Links:**
 	- Mathematics
-- **Topic Links:**
-	- [[AI Engineer]]
+	- AI Engineer
 	
+- **Topic Links:**
+	- **Core Mathematics**
+		- [[Descriptive Statistics]]
+		- [[Probability Foundations]]
+		- [[Probability Distributions]]    
+		- [[Inferential Statistics]]
+		- [[Vectors]]
+		- [[Matrices]]
+		- [[Differential Calculus]]
+		- [[Optimization Basics]]
+	- **Mathematics via ML Context**
+		- [[Mathematics for ML]]
+	- **Engineering-Focused Mathematics**
+		- [[Numerical Stability]]
+		- [[High-Dimensional Linear Algebra]]
+		- [[Optimization in Practice]]
+	- **Systems & Scale Perspective**
+		- [[Approximation and Tradeoffs]]
+		- [[Error Propagation]]
+		- [[Statistical Assumptions in Production]]
 ---
 
 # Mathematics for AI Engineer
@@ -29,12 +48,10 @@
 > It **reuses existing mathematics notes** already used in ML and CS.
 
 AI engineering needs math to:
-
 - reason about data and uncertainty
 - understand and debug models
 - optimise training and inference
 - handle scale, stability, and constraints
-
 
 ---
 
