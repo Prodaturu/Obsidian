@@ -36,6 +36,7 @@
         - [[Optimization Basics]]
         
     - **ML-Specific Extensions**
+	    - [[Advanced Mathematics for Machine Learning]]
         - [[Loss Functions]]
         - [[Bias–Variance Tradeoff]]
         - [[Regularization]]
