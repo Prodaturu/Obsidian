@@ -22,7 +22,7 @@ sticker: lucide//code
 **Links / Tags:** 
 - **Relevance Links:**
 	- Background and ecosystem:
-		- [[C vs C++]] - Main Differences and Commonality between C and C++
+		- C vs C++ - Main Differences and Commonality between C and C++
 		- [[History of C++]]
 		- [[C++ Language Features]]
 		- [[C++ Type System]]  
@@ -61,7 +61,7 @@ sticker: lucide//code
 - [[History of C++]]  
     evolution of the language, major standards
     
-- [[C vs C++]]  
+- C vs C++  
     comparison, shared roots, differences
     
 - [[C++ Language Features]]  

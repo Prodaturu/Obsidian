@@ -17,8 +17,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "d5cac653489654f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AI Engineer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "95739fb80564007a",
@@ -170,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -437,6 +461,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -446,7 +471,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for AI Engineer"
             }
           },
           {
@@ -502,10 +527,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "Indexes/C++.md",
+    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "3 - Main Notes/C++/Primitive Integral Types in C++.md",
+    "3 - Main Notes/AI Engineer/.md",
+    "3 - Main Notes/AI Engineer",
+    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
@@ -529,8 +557,6 @@
     "3 - Main Notes/C++/Templates in C++.md",
     "Implicit Type Conversions in C++.md",
     "3 - Main Notes/C++/Access Violation in C++.md",
-    "3 - Main Notes/C++/C++ Libraries.md",
-    "3 - Main Notes/C++/Template Array Example in C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
@@ -539,7 +565,6 @@
     "2 - Source Material/Books/InformationTheoryBook1.pdf",
     "2 - Source Material/Books/InfoTheoryLecturesAndExercises.pdf",
     "2 - Source Material/Books/InformationTheoryTUMBook.pdf",
-    "1 - Rough Notes/MEGA-RECOVERYKEY.txt",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
