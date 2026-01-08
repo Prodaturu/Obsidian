@@ -66,47 +66,36 @@ AI engineering = building ML systems that work in the real world:
 - train + evaluate models correctly
 - deploy reliably and monitor drift
 - iterate fast with clean engineering habits
-
 ---
 
 ## 1. Foundations (must-have)
-
 - [[Mathematics for AI]]  
     linear algebra, calculus basics, probability, statistics
-    
 - [[Programming Foundations for AI]]  
-    python, debugging, clean code, testing habits
-    
+    python, debugging, clean code, testing habits    
 - [[Computer Science Foundations for AI]]  
     DS&A, complexity, OS + networking basics (enough for deployment work)
 
 ---
 
 ## 2. ML / DL Core (must-have)
-
 - [[Machine Learning Core]]  
     supervised learning, features, regularization, trees, linear models
-    
 - [[Deep Learning Core]]  
-    training loop, backprop intuition, CNN/RNN/transformers overview
-    
+    training loop, back-prop intuition, CNN/RNN/transformers overview    
 - [[Model Evaluation and Experimentation]]  
     metrics, baselines, ablation, cross-validation, experiment tracking
-    
 
 ---
 
 ## 3. Data + Systems (must-have)
 
 - [[Data Foundations for AI]]  
-    data quality, labeling, leakage, train/val/test splits
-    
+    data quality, labelling, leakage, train/val/test splits
 - [[Data Engineering for AI]]  
-    ETL, schemas, versioning datasets, batch vs streaming
-    
+    ETL, Schemas, versioning datasets, batch vs streaming
 - [[Systems Design for AI]]  
-    offline vs online inference, latency, scaling, reliability
-    
+    offline vs online inference, latency, scaling, reliability    
 
 ---
 
@@ -114,33 +103,21 @@ AI engineering = building ML systems that work in the real world:
 
 - [[MLOps]]  
     packaging, CI/CD, model registry, monitoring, retraining loops
-    
 - [[Cloud for AI]]  
     storage, compute, GPUs, deployments, IAM basics
-    
 
 ---
 
 ## 5. Applied Domains (pick based on goals)
-
 - [[Natural Language Processing]]
-    
 - [[Computer Vision]]
-    
 - [[Generative AI]]
-    
-- [[Reinforcement Learning]]
-    
+- [[Reinforcement Learning]] 
 
 ---
 
 ## 6. Practice + Career
-
 - [[AI Projects]]
-    
 - [[Interview Preparation for AI Engineers]]
-# Internal References
 
-
-
-# External References
+#  References
