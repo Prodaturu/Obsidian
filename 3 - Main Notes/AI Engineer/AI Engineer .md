@@ -5,11 +5,7 @@
 
 **Hashtags:**
 - **Relevance Tags**
-    - #ai_engineer
-    - #secondbrain
-    - #zettelkasten
-    - #map    
-    - #overview
+    - #aiengineer
     
 - **Topic Tags**
     - #ml
@@ -22,36 +18,33 @@
      
 **Links / Tags:**
 - **Relevance Links:**
-    
     - Foundations:
-        - [[Mathematics for AI]] - math needed for ML/DL (lin alg, calc, prob, stats)
-        - [[Programming Foundations for AI]] - python + core coding habits for AI work
-        - [[Computer Science Foundations for AI]] - DS&A, OS basics, networking basics
-        
-    - ML Core:
-        - [[Machine Learning Core]] - classical ML, training loop, evaluation, pipelines
-        - [[Deep Learning Core]] - NNs, backprop, architectures, regularization
-        - [[Model Evaluation and Experimentation]] - metrics, validation, experiment tracking
-        
-    - Data + Systems:
-        - [[Data Foundations for AI]] - data collection, cleaning, labeling, leakage
-        - [[Data Engineering for AI]] - ETL/ELT, warehouses, batch vs streaming
-        - [[Systems Design for AI]] - serving patterns, latency, reliability
-        
-    - Production / Deployment:
-        - [[MLOps]] - packaging, versioning, CI/CD, monitoring, retraining
-        - [[Cloud for AI]] - GPU, storage, IAM, deployment primitives
-        
-    - Applied Domains:
-        - [[Natural Language Processing]] - text, embeddings, transformers, LLM basics
-        - [[Computer Vision]] - image pipelines, CNNs, detection/segmentation
-        - [[Reinforcement Learning]] - agents, reward, MDPs (optional in minimum set)
-        - [[Generative AI]] - diffusion/LLMs, prompting, RAG, safety basics
-        
-    - Practice:
-        - [[AI Projects]] - portfolio projects, scoping, demos, writeups
-        - [[Interview Preparation for AI Engineers]] - questions, system design, ML sense
-    
+	    - [[Mathematics for AI]] — math needed for ML/DL (linear algebra, calculus, probability, statistics)
+	    - [[Programming Foundations for AI]] — programming mental models and engineering habits for AI work        
+	    - [[Computer Science Foundations for AI]] — DSA, OS basics, networking basics
+	    
+	- ML Core:
+	    - [[Machine Learning Core]] — classical ML, training loops, pipelines
+	    - [[Deep Learning Core]] — neural networks, backprop, architectures, regularization
+	    
+	- Data + Systems:
+	    - [[Data Foundations for AI]] — data collection, cleaning, labeling, leakage
+	    - [[Data Engineering for AI]] — ETL/ELT, warehouses, batch vs streaming    
+	    - [[Systems Design for AI]] — serving patterns, latency, reliability
+	    
+	- Production / Deployment:
+	    - [[MLOps]] — packaging, versioning, CI/CD, monitoring, retraining    
+	    - [[Cloud for AI]] — GPUs, storage, IAM, deployment primitives
+	    
+	- Applied Domains:
+	    - [[Natural Language Processing]] — text, embeddings, transformers, LLM basics
+	    - [[Computer Vision]] — image pipelines, CNNs, detection/segmentation
+	    - [[Generative AI]] — diffusion, LLMs, prompting, RAG, safety basics
+	    - [[Reinforcement Learning]] — agents, reward, MDPs (optional)
+	    
+	- Practice:
+	    - [[AI Projects]] — portfolio projects, scoping, demos, writeups
+	    - [[Interview Preparation for AI Engineers]] — questions, system design, ML intuition
 ---
 
 # AI Engineer
@@ -81,8 +74,6 @@ AI engineering = building ML systems that work in the real world:
     supervised learning, features, regularization, trees, linear models
 - [[Deep Learning Core]]  
     training loop, back-prop intuition, CNN/RNN/transformers overview    
-- [[Model Evaluation and Experimentation]]  
-    metrics, baselines, ablation, cross-validation, experiment tracking
 
 ## 3. Data + Systems (must-have)
 - [[Data Foundations for AI]]  

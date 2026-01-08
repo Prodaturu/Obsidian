@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Foundations for AI.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programming Foundations for AI"
+              "title": "AI Engineer"
             }
           }
         ],
@@ -450,7 +450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Foundations for AI.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -460,7 +460,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programming Foundations for AI"
+              "title": "Backlinks for AI Engineer"
             }
           },
           {
@@ -518,8 +518,8 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Programming Foundations for AI.md",
+    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Interview Preparation for AI Engineers.md",
     "Indexes/C++.md",
     "Tags/C++ Language Features.md",
