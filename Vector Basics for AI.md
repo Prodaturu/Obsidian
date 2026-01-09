@@ -45,6 +45,7 @@
 	- an abstract mathematical object
 	- a direction-only geometric arrow (that intuition comes later)
 
+ ***Visit***: [[Vector as Representation]]  → what it means for vectors to “represent” data in AI systems
 ---
 
 ## 2. Dimensionality
@@ -73,6 +74,10 @@ In AI:
   - image pixels
   - word embeddings
   - sensor readings
+- often have semantic meaning
+
+***Visit***: [[Feature Vectors]]  
+→ how features are encoded as vectors in AI
 
 ### Parameter vectors
 - represent learnable values
@@ -81,12 +86,15 @@ In AI:
   - biases
 - usually not interpreted semantically
 
+***Visit***: [[Parameter Vectors]]  
+→ vectors used to store model parameters
+
 ---
 
 ## 4. Single Vector vs Batch of Vectors
 
 - single vector → one sample
-- batch → matrix of vectors
+- batch → collection of vectors processed together
 
 In practice:
 - models almost always operate on batches
@@ -95,7 +103,8 @@ In practice:
   - numerical stability
   - gradient behavior
 
-(This connects later to matrices.)
+***Visit***: [[Batched Vector Representations]]  
+→ how batching changes computation and learning
 
 ---
 
@@ -103,18 +112,89 @@ In practice:
 
 - vector positions are meaningful
 - swapping entries changes meaning
-- unlike sets or bags, vectors encode structure
+- vectors are **not** sets or bags
 
-This matters for:
-- model correctness
+Ordering is critical for:
 - feature engineering
 - embedding alignment
+- model correctness
+
+***Visit***: [[Ordered Representations]]  
+→ why index position matters in vector-based models
 
 ---
 
 ## Explicitly Out of Scope
 - vector space axioms
-- basis definitions
+- basis theory
+- coordinate-free formulations
+- proofs
+
+---
+
+# Closely Related concepts
+- Vector Geometry & Similarity
+- Vector Representations in AI
+- Matrices for AI
+
+# External References
+## 3. Feature Vectors vs Parameter Vectors
+
+### Feature vectors
+- represent inputs or intermediate representations
+- examples:
+  - image pixels
+  - word embeddings
+  - sensor readings
+- often have semantic meaning
+
+***Visit***: [[Feature Vectors]]  → how features are encoded as vectors in AI
+
+### Parameter vectors
+- represent learnable values
+- examples:
+	- weights
+	- biases
+- usually not interpreted semantically
+
+***Visit***: [[Parameter Vectors]]  → vectors used to store model parameters
+
+---
+
+## 4. Single Vector vs Batch of Vectors
+
+- single vector → one sample
+- batch → collection of vectors processed together
+
+In practice:
+- models almost always operate on batches
+- batching affects:
+  - performance
+  - numerical stability
+  - gradient behavior
+
+***Visit***: [[Batched Vector Representations]]  → how batching changes computation and learning
+
+---
+
+## 5. Ordering Matters
+
+- vector positions are meaningful
+- swapping entries changes meaning
+- vectors are **not** sets or bags
+
+Ordering is critical for:
+- feature engineering
+- embedding alignment
+- model correctness
+
+***Visit***: [[Ordered Representations]]  → why index position matters in vector-based models
+
+---
+
+## Explicitly Out of Scope
+- vector space axioms
+- basis theory
 - coordinate-free formulations
 - proofs
 
