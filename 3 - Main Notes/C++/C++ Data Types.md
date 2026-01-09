@@ -74,7 +74,7 @@
     - binding to references
     - overload resolution
       
-→ See: [[Lvalue and Rvalue references in C++]]
+→ See: [[Value Categories in C++]]
 
 ## Data type families in C++
 
