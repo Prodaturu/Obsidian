@@ -25,19 +25,20 @@
 
 # Inference & Serving Systems
 
-> How trained AI models are **run, exposed, and operated** inside real-world systems.
+> Inference & serving are the part of an AI system where a trained model is **actually used**.
 
-- This axis explains what happens **after a model is trained**:
-	- how predictions are actually produced
-	- how models are made available to users or other systems
-	- how performance, cost, and reliability are managed at runtime
+- This is where:
+	- inputs are sent to a model
+	- predictions or generations are produced
+	- results are returned to users or other systems
 	  
-- If training is *learning*, this axis is *using what was learned*.
-- You should read this axis if you want to understand:
-	- how inference works in practice
-	- why latency and throughput matter
-	- how models become APIs and services
-	- what can go wrong when models run in production
+- Unlike training, this part of the system must:
+	- respond within time limits
+	- handle many requests reliably
+	- run continuously in production
+	- deal with failures, cost, and scale
+	  
+- Is about **running models safely and efficiently in the real world**.
 
 
 ## 1. Inference (runtime execution)
@@ -47,7 +48,6 @@
 - [[Inference in AI Systems]]
 
 Talks about:
-
 - runtime execution
 - latency vs throughput
 - state and context
