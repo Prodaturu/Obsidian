@@ -19,9 +19,12 @@
 	- Linear Algebra for AI
 	- Vectors for AI
 - **Topic Links:**
-	- [[Vector Geometry & Similarity]]
-	- [[Vector Representations in AI]]
+	- [[Vector as Representation]]
 	- [[Vector Dimensionality]]
+	- [[Feature Vectors]]
+	- [[Parameter Vectors]] 
+	- [[Batched Vector Representations]] 
+	- [[Ordered Representations]]
 ---
 
 # Vector Basics for AI

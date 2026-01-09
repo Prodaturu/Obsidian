@@ -128,10 +128,24 @@
             "id": "279e4db1a12b6019",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vector Basics for AI"
             }
           },
           {
@@ -272,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inference in AI Systems.md",
+                "file": "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inference in AI Systems"
+              "title": "Outline of Vector Basics for AI"
             }
           },
           {
@@ -351,7 +365,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inference in AI Systems.md",
+                "file": "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -361,7 +375,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inference in AI Systems"
+              "title": "Backlinks for Vector Basics for AI"
             }
           },
           {
@@ -417,10 +431,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "84924dfb8ceb42ae",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
-    "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
+    "3 - Main Notes/AI Engineer/Vectors for AI.md",
+    "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
+    "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
     "Inference in AI Systems.md",
+    "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
@@ -441,10 +458,7 @@
     "6 - Full Notes/daily planner.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
-    "3 - Main Notes/AI Engineer/Vectors for AI.md",
     "5 - Templates/Title.md",
-    "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
-    "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/AI Engineer/Programming Foundations for AI.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
