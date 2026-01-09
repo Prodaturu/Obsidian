@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vectors for AI.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vectors for AI"
+              "title": "AI Engineer"
             }
           }
         ],
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -200,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vectors for AI.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vectors for AI"
+              "title": "Outline of AI Engineer"
             }
           },
           {
@@ -247,6 +248,19 @@
             "id": "554cf51542e4b4b8",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c935635ee4077599",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -266,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vectors for AI.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -276,7 +290,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vectors for AI"
+              "title": "Backlinks for AI Engineer"
             }
           },
           {
@@ -332,13 +346,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "620fa379c273d379",
+  "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
+    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Vectors for AI.md",
+    "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
-    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "5 - Templates/Title.md",
     "3 - Main Notes/AI Engineer/Programming Foundations for AI.md",
     "Model Lifecycle for AI Systems.md",

@@ -13,7 +13,7 @@
     - #data  
     - #mlops    
     - #softwareengineering    
-    - #math    
+    - #math 
     - #cloud
      
 **Links / Tags:**
