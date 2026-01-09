@@ -6,25 +6,15 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 58.03571428571429,
+        "dimension": 65.48846342660775,
         "children": [
-          {
-            "id": "279e4db1a12b6019",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
           {
             "id": "d5cac653489654f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "file": "3 - Main Notes/AI Engineer/Mathematics for AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +29,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI Engineer"
+              "title": "Mathematics for AI"
+            }
+          },
+          {
+            "id": "84924dfb8ceb42ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vectors for AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vectors for AI"
             }
           }
         ],
@@ -48,7 +62,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 41.964285714285715,
+        "dimension": 34.51153657339224,
         "children": [
           {
             "id": "e196ee186f8e72ab",
@@ -60,6 +74,16 @@
               },
               "icon": "lucide-file-text",
               "title": "C++.Primer.5th.Edition_2013"
+            }
+          },
+          {
+            "id": "279e4db1a12b6019",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -201,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "file": "Vectors for AI.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Engineer"
+              "title": "Outline of Vectors for AI"
             }
           },
           {
@@ -280,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "file": "Vectors for AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -290,7 +314,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Engineer"
+              "title": "Backlinks for Vectors for AI"
             }
           },
           {
@@ -346,13 +370,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5cac653489654f3",
+  "active": "84924dfb8ceb42ae",
   "lastOpenFiles": [
-    "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "Vector Basics for AI.md",
     "Vectors for AI.md",
     "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
-    "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
+    "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "3 - Main Notes/C++/42CPP/CPP05.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/AI Engineer/Programming Foundations for AI.md",
     "Model Lifecycle for AI Systems.md",
@@ -375,7 +400,6 @@
     "3 - Main Notes/AI Engineer/.md",
     "3 - Main Notes/AI Engineer",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
-    "2025-12-26.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
