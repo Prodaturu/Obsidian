@@ -14,14 +14,15 @@
 - **Relevance Links:**
     - Operators in C++               <!-- grand parent, plain text on purpose -->
     - Classes and Objects in C++     <!-- also related, plain text -->
-    - Operator Overloading in C++      <!-- parent, plain text on purpose -->
+    - Operator Overloading in C++      <!-- parent -->
     
 - **Topic Links:**
-	- 
+	- [[Member vs Non Member Operator Overloads in C++]]
 
 ---
 
 # General Rules for Operator Overloading
+> Fundamental constraints that **cannot break**
 
 - We can not define new operators
 	- such as `..`
