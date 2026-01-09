@@ -47,7 +47,7 @@ sticker: lucide//code
 		- [[C++ Error Handling]]
 		- [[Structuring a C++ codebase|C++ code structuring]]
 		- [[C++ Libraries]]
-		
+	
 
 ---
 

@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -96,7 +96,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "C++ Language Features"
             }
           },
           {
@@ -263,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of C++ Language Features"
             }
           },
           {
@@ -355,7 +355,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for C++ Language Features"
             }
           }
         ]
@@ -381,12 +381,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "Tags/C++ Language Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++"
+              "title": "Outgoing links from C++ Language Features"
             }
           }
         ]
@@ -431,6 +431,7 @@
   },
   "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "Tags/Classes in C++.md",
@@ -438,7 +439,6 @@
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
-    "Indexes/C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
