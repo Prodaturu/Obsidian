@@ -263,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of General Rules for Operator Overloading in C++"
+              "title": "Outline of Orthodox Canonical Form in C++"
             }
           },
           {
@@ -356,7 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
+                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -366,7 +366,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General Rules for Operator Overloading in C++"
+              "title": "Backlinks for Orthodox Canonical Form in C++"
             }
           },
           {
@@ -422,8 +422,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "216c4210310359b2",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
@@ -449,7 +450,6 @@
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",

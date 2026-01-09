@@ -24,8 +24,9 @@ aliases:
     - Classes and Objects in C++
 	    - Constructors in C++
 - **Topic Links:**
+	- [[Rule of Three]]
     - [[Default constructor]]
-    - [[Copy constructor]]
+	- [[Copy Constructor in C++| Copy Constructor]]
     - [[Copy Assignment Operator in C++ |Copy Assignment Operator]]
     - [[Destructors in C++ |Destructor]]
 
@@ -33,14 +34,31 @@ aliases:
 
 # Orthodox Canonical Form in C++
 
-- Orthodox Canonical Form (OCF) is a **classic C++98 idiom**
-- Used to make a class’s lifetime behaviour **explicit, predictable, and safe**
-- A class explicitly declares:
-    - [[Default constructor]]
-    - [[Copy constructor]]
-    - [[Copy Assignment Operator in C++ |Copy Assignment Operator]]
-    - [[Destructors in C++|Destructor]]
-      
+> Classic C++98 idiom for making object lifetime behaviour explicit and safe
+
+## What is Orthodox Canonical Form (OCF)
+
+- Orthodox Canonical Form is a **traditional C++98 design idiom**
+- It formalises how a class manages:
+    - creation
+    - copying
+    - assignment    
+    - destruction
+    
+- A class following OCF **explicitly declares** the core special member functions
+- This makes ownership, copying, and cleanup rules **visible and intentional**
+- OCF is closely related to the **Rule of Three**.
+
+
+## The four functions in Orthodox Canonical Form
+
+- A class following OCF explicitly defines:
+	- [[Default Constructor]]
+	- [[Copy Constructor]]
+	- [[Copy Assignment Operator in C++|Copy Assignment Operator]]
+	- [[Destructor]]
+
+Together, these four fully define the object’s **basic lifetime semantics**.
 - so its **lifetime behaviour is fully defined and visible**
 - In C++11 and later, a “modern” canonical form may also add:
     - [[Move constructor]]
