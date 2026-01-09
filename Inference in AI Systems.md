@@ -33,9 +33,6 @@
 	- without needing examples of the exact result
 	  
 - In essence, inference is the AI model actively functioning
-- For example:
-	- a self-driving car recognising a stop sign on a road it has never encountered before demonstrates inference
-	- The model identifies the stop sign in a new setting, using its learned knowledge to make a decision in real-time
 	  
 - Inference is the **runtime phase of an AI system** where a trained model:
 	- receives new, unseen input data
@@ -43,6 +40,17 @@
 	- produces outputs such as predictions, classifications, or generated content
 	  
 - This is the phase where the model is **actually used**.
+
+
+### Example
+- A self-driving car recognising a stop sign on a road it has never encountered before demonstrates inference
+- The model identifies the stop sign in a new setting, using its learned knowledge to make a decision in real-time
+- Here:-
+	- input is captured and pre-processed
+	- inference runs under strict latency limits
+	- output must be reliable and explainable
+	- failure or delay has real-world consequences
+- This entire process is inference.
 
 ---
 
@@ -58,15 +66,12 @@
 - does not learn
 - forward computation only
 - constrained by latency, cost, and reliability
-
 ---
 
 ## Core Questions Inference Introduces
 
-When running a model in the real world, you must answer:
-
 ### How is inference executed?
-Real systems don’t always run inference the same way.
+Real systems don’t always run inference the same way
 
 ***Visit***: [[Online vs Offline Inference]]  
 → choosing between real-time, batch, or delayed execution
@@ -105,15 +110,6 @@ Modern models depend heavily on context and preprocessing.
 
 ---
 
-## Example
-
-A self-driving car recognizing a stop sign:
-- input is captured and preprocessed
-- inference runs under strict latency limits
-- output must be reliable and explainable
-- failure or delay has real-world consequences
-
-This entire process is inference.
 
 ---
 
