@@ -26,6 +26,7 @@ sticker: lucide//code
 	- [[OOPS in C++]]
 	- [[Memory management in C++]]
 	- [[Tooling, Build, and Errors in C++]]
+	- [[Background and History of C++]]
 	 
    --- 
 	- Background and ecosystem:
