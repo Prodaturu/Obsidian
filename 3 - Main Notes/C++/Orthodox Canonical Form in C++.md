@@ -25,8 +25,8 @@ aliases:
 	    - Constructors in C++
 - **Topic Links:**
 	- [[Rule of Three]]
-    - [[Default constructor]]
-	- [[Copy Constructor in C++| Copy Constructor]]
+    - [[Default Constructor in C++|Default Constructor]]
+	- [[Copy Constructor in C++|Copy Constructor]]
     - [[Copy Assignment Operator in C++ |Copy Assignment Operator]]
     - [[Destructors in C++ |Destructor]]
 
@@ -54,7 +54,7 @@ aliases:
 
 - A class following OCF explicitly defines:
 	- [[Default Constructor]]
-	- [[Copy Constructor]]
+	- [[Copy Constructor in C++|Copy Constructor]]
 	- [[Copy Assignment Operator in C++|Copy Assignment Operator]]
 	- [[Destructor]]
 
