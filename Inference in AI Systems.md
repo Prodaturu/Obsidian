@@ -1,19 +1,26 @@
 **Created:** *<span class ="color-green">09.01.26, 04:42</span>*
 
-**Note Type:**
+**Note Type:** #concept
 
 **Hashtags:**
 - **Relevance Tags:**
-	- 
+	- #aiengineer
+	- #inference
 - **Topic Tags:**
-	- 
+	- #runtime
+	- #prediction
+	- #serving
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- AI Engineer
+	- Inference & Serving Systems
 - **Topic Links:**
-	- 
-
+	- [[Online vs Offline Inference]]
+	- [[Batching and Throughput]]
+	- [[Latency Constraints in AI Systems]]
+	- [[Determinism and Randomness]]
+	- [[Tokenization and Context Handling]]
 ---
 
 # Inference in AI Systems
