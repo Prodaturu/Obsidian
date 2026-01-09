@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI Engineer"
+              "title": "Inference & Serving Systems"
             }
           },
           {
@@ -286,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI Engineer"
+              "title": "Outline of Inference & Serving Systems"
             }
           },
           {
@@ -379,7 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
+                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -389,7 +389,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI Engineer"
+              "title": "Backlinks for Inference & Serving Systems"
             }
           },
           {
@@ -445,10 +445,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "84924dfb8ceb42ae",
   "lastOpenFiles": [
-    "Reinforcement Learning Systems.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "Reinforcement Learning Systems.md",
     "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
     "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/AI Engineer/Vector Basics for AI.md",

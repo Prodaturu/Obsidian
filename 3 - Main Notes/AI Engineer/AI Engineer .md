@@ -83,12 +83,12 @@
 > Core mental model: how models move from training to real usage.
 
 - [[Model Lifecycle for AI Systems]]  
-  training → validation → deployment → monitoring
-
+	- training → validation → deployment → monitoring
+	  
 - [[Inference & Serving Systems]]  
-  online/offline inference, batching, latency, runtime constraints
-
-This is where learning-based components meet real systems.
+	- online/offline inference, batching, latency, runtime constraints
+	  
+- This is where learning-based components meet real systems.
 
 ---
 
@@ -138,11 +138,18 @@ This is where learning-based components meet real systems.
 
 > AI Engineers interact with domains through **systems**, not raw theory.
 
-- [[NLP Systems]]
-- [[Vision Systems]]
+- [[NLP Systems]]  
+	- text processing, embeddings, LLM inference, retrieval, and language pipelines
+	  
+- [[Vision Systems]]  
+	- image/video ingestion, model inference, post-processing, and latency-aware pipelines
+	  
 - [[Generative AI Systems]]
+	- prompt handling, context management, generation control, safety, and cost constraints
+	  
 - [[Reinforcement Learning Systems]]
-
+	- agents interacting with environments, reward loops, and long-running decision systems
+	  
 ---
 
 # References
