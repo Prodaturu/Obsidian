@@ -20,8 +20,8 @@
 
 - 
 
-# Internal References
+# Related Noted
+> Things you might want to think about alongside this note, but not because of it
 
 
-
-# External References
+# References
