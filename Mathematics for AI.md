@@ -13,108 +13,82 @@
     - #statistics
     - #optimization    
     - #numericalmethods
-    
+
 **Links:**
 - **Relevance Links:**
-	- Mathematics
-	- AI Engineer
-	
+    - Mathematics
+    - AI Engineer
+
 - **Topic Links:**
-	- **Core Mathematics**
-		- [[Descriptive Statistics]]
-		- [[Probability Foundations]]
-		- [[Probability Distributions]]    
-		- [[Inferential Statistics]]
-		- [[Vectors]]
-		- [[Matrices]]
-		- [[Differential Calculus]]
-		- [[Optimization Basics]]
-	- **Mathematics via ML Context**
-		- [[Mathematics for ML]]
-	- **Engineering-Focused Mathematics**
-		- [[Numerical Stability]]
-		- [[High-Dimensional Linear Algebra]]
-		- [[Optimization in Practice]]
-	- **Systems & Scale Perspective**
-		- [[Approximation and Tradeoffs]]
-		- [[Error Propagation]]
-		- [[Statistical Assumptions in Production]]
+    - **Foundational Mathematics for AI**
+        - [[Linear Algebra for AI]]
+        - [[Probability & Statistics for AI]]
+        - [[Optimization for AI]]
+    - **Numerical & Stability Mathematics**
+        - [[Numerical Stability]]
+        - [[Error Propagation]]
+        - [[Approximation and Tradeoffs]]
+    - **High-Dimensional & Representation Math**
+        - [[High-Dimensional Linear Algebra]]
+    - **Systems & Production Assumptions**
+        - [[Statistical Assumptions in Production]]
 ---
 
 # Mathematics for AI Engineer
 
 > Context map for mathematical knowledge required by an **AI Engineer**.  
 > This note does **not create new atomic math concepts**.  
-> It **reuses existing mathematics notes** already used in ML and CS.
+> It **routes to AI-relevant subsets** of shared mathematics.
 
-AI engineering needs math to:
-- reason about data and uncertainty
-- understand and debug models
-- optimise training and inference
-- handle scale, stability, and constraints
-
----
-
-## 1. Core Mathematics (shared with ML)
-
-> These concepts are **identical** to ML math.  
-> Same atomic notes. Different usage context.
-
-- [[Descriptive Statistics]]
-- [[Probability Foundations]]
-- [[Probability Distributions]]    
-- [[Inferential Statistics]]
-- [[Vectors]]
-- [[Matrices]]
-- [[Differential Calculus]]
-- [[Optimization Basics]]
+AI engineering needs mathematics to:
+- reason about uncertainty and data behavior
+- understand model behavior and failure modes
+- debug numerical and optimization issues
+- reason about scale, approximation, and constraints in systems
 
 ---
 
-## 2. Mathematics via ML Context
+## 1. Foundational Mathematics for AI
 
-> When the goal is _model learning_ and _evaluation_.
+> Large mathematical fields, filtered to **what AI Engineers actually use**.
 
-- [[Mathematics for ML]]
-- AI engineers **inherit this entire layer**.
+- [[Linear Algebra for AI]]
+- [[Probability & Statistics for AI]]
+- [[Optimization for AI]]
+
+(Each of these maps links to shared atomic math notes where relevant.)
 
 ---
 
-## 3. Engineering-Focused Mathematics
+## 2. Numerical & Stability Mathematics
 
-> Where AI Engineer math goes beyond “pure ML”.
+> Mathematics that becomes critical at scale and in production.
 
 - [[Numerical Stability]]
-    - floating point errors
-    - exploding / vanishing values
-    
-- [[High-Dimensional Linear Algebra]]
-    - curse of dimensionality
-    - embeddings, norms, distances
-    
-- [[Optimization in Practice]]
-    - convex vs non-convex behavior
-    - saddle points
-    - learning rate dynamics
-    
+- [[Error Propagation]]
+- [[Approximation and Tradeoffs]]
 
-(these may already exist or be added later as atoms)
+---
+
+## 3. High-Dimensional & Representation Mathematics
+
+> Geometry and behavior unique to modern AI representations.
+
+- [[High-Dimensional Linear Algebra]]
 
 ---
 
 ## 4. Systems & Scale Perspective
 
-> Math as it appears in real systems.
+> Implicit mathematical assumptions made by real AI systems.
 
-- [[Approximation and Tradeoffs]]
-- [[Error Propagation]]
 - [[Statistical Assumptions in Production]]
+
 ---
 
 ## Closely Related Notes
-- [[Machine Learning Core]]
-- [[Deep Learning Core]]
-- [[Systems Design for AI]]
-- [[MLOps]]
+- Systems Design for AI
+- MLOps
+- Data Engineering for AI
 
-#  References
+# References
