@@ -21,7 +21,7 @@ sticker: lucide//code
 	
 **Links / Tags:** 
 - **Relevance Links:**
-	- [[C++ Language Features]]
+	- [[C++ Language Features|How C++ works]] / [[C++ Language Features]]
 	- [[C++ Data Types]]
 	- [[OOPS in C++]]
 	- [[Memory management in C++]]
