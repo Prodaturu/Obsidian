@@ -7,18 +7,19 @@
 - #datatypes
 - #atomic
 - #memory
+**Topic Tags:**
+- #pointers
+- #references
+- #nullptr
+- #rvaluereferences
 
 **Links / Tags:** 
 - **Relevance Links:**
-  - [[User-Defined Types in C++]]
-  - [[Special Types in C++]]
-  - [[Lvalue and Rvalue references in c++]]
-
-- **Topic Tags:**
-  - #pointers
-  - #references
-  - #nullptr
-  - #rvaluereferences
+	- [[User-Defined Types in C++]]
+	- [[Special Types in C++]]
+	- [[Lvalue and Rvalue references in c++]]
+	  
+---
 
 # Pointer and Reference Types in C++
 
@@ -45,6 +46,8 @@ Key points:
 
 - References must be bound on initialization and can’t be reseated.  
 - Rvalue references typically appear in templates and move constructors.
+
+---
 
 # References
 

@@ -25,6 +25,9 @@
     - [[Templates in C++]]
 	- [[Generic Types in C++]]
     - [[Type conversion and Casting in C++]]
+    - [[Copying in C++]]
+	- [[Move Semantics in C++]]
+	- [[Value vs Reference Semantics]]
 
 # C++ Type System
 Map note for all *type-related* concepts in C++.
@@ -54,5 +57,9 @@ Map note for all *type-related* concepts in C++.
 ### Typecasting
 - [[Type conversion and Casting in C++]]
 
+## 6. How objects behave when transferred
+- [[Copying in C++]]
+- [[Move Semantics in C++]]
+- [[Value vs Reference Semantics]]
 
 # References

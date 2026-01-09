@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "C++ Data Types"
             }
           },
           {
@@ -256,7 +256,7 @@
       {
         "id": "1fe2ea7f18082816",
         "type": "tabs",
-        "dimension": 47.58522727272727,
+        "dimension": 28.67281760113556,
         "children": [
           {
             "id": "620fa379c273d379",
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of C++ Data Types"
             }
           },
           {
@@ -348,7 +348,7 @@
       {
         "id": "353b5826e8f5adba",
         "type": "tabs",
-        "dimension": 25.49715909090909,
+        "dimension": 35.27324343506032,
         "children": [
           {
             "id": "2294c04759ebe7ec",
@@ -356,8 +356,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
-                "collapseAll": false,
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -366,21 +366,28 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for C++ Data Types"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a7c9005ff83fbcf1",
+        "type": "tabs",
+        "dimension": 14.194464158977999,
+        "children": [
           {
             "id": "dffa69b0e2fb67a7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/C++ Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++"
+              "title": "Outgoing links from C++ Data Types"
             }
           }
         ]
@@ -388,7 +395,7 @@
       {
         "id": "eb7695eb625860bc",
         "type": "tabs",
-        "dimension": 26.917613636363637,
+        "dimension": 21.859474804826117,
         "children": [
           {
             "id": "0e4eb3b86fb1a121",
@@ -404,7 +411,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -423,11 +430,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2294c04759ebe7ec",
+  "active": "6941b72bc089b826",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
+    "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/C vs C++.md",
+    "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
@@ -448,9 +458,6 @@
     "3 - Main Notes/C++/Inheritance in C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
-    "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/User-Defined Types in C++.md",
-    "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
