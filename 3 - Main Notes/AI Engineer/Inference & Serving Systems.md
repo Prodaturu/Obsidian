@@ -20,7 +20,11 @@
 - **Topic Links:**
     - [[Inference in AI Systems]]
     - [[Serving Systems for AI Models]]
-    
+	- [[Model Interfaces and APIs]]
+    - [[Resource Management for Inference]]
+	- [[Cost Models for Inference]]
+	- [[Failure Modes in Inference Systems]]
+	  
 ---
 
 # Inference & Serving Systems
