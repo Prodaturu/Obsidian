@@ -5,13 +5,13 @@
 **Hashtags:**
 - **Relevance Tags**
     - #math
-    - #aiengineer 
+    - #aiengineer
     - #context
 - **Topic Tags**
     - #linearalgebra
     - #probability
     - #statistics
-    - #optimization    
+    - #optimization
     - #numericalmethods
 
 **Links:**
@@ -28,8 +28,6 @@
         - [[Numerical Stability]]
         - [[Error Propagation]]
         - [[Approximation and Tradeoffs]]
-    - **High-Dimensional & Representation Math**
-        - [[High-Dimensional Linear Algebra]]
     - **Systems & Production Assumptions**
         - [[Statistical Assumptions in Production]]
 ---
@@ -38,7 +36,7 @@
 
 > Context map for mathematical knowledge required by an **AI Engineer**.  
 > This note does **not create new atomic math concepts**.  
-> It **routes to AI-relevant subsets** of shared mathematics.
+> It **routes to AI-relevant lenses** over shared mathematics.
 
 AI engineering needs mathematics to:
 - reason about uncertainty and data behavior
@@ -50,19 +48,19 @@ AI engineering needs mathematics to:
 
 ## 1. Foundational Mathematics for AI
 
-> Large mathematical fields, filtered to **what AI Engineers actually use**.
+> Core mathematical fields, filtered to **AI-relevant regimes**.
 
 - [[Linear Algebra for AI]]
 - [[Probability & Statistics for AI]]
 - [[Optimization for AI]]
 
-(Each of these maps links to shared atomic math notes where relevant.)
+(Each map links to shared atomic math notes and explicitly marks regime shifts where relevant.)
 
 ---
 
 ## 2. Numerical & Stability Mathematics
 
-> Mathematics that becomes critical at scale and in production.
+> Mathematics that becomes critical at scale and in real systems.
 
 - [[Numerical Stability]]
 - [[Error Propagation]]
@@ -70,17 +68,9 @@ AI engineering needs mathematics to:
 
 ---
 
-## 3. High-Dimensional & Representation Mathematics
+## 3. Systems & Scale Perspective
 
-> Geometry and behavior unique to modern AI representations.
-
-- [[High-Dimensional Linear Algebra]]
-
----
-
-## 4. Systems & Scale Perspective
-
-> Implicit mathematical assumptions made by real AI systems.
+> Implicit mathematical assumptions made in production AI systems.
 
 - [[Statistical Assumptions in Production]]
 

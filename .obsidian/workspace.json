@@ -24,31 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI Engineer"
-            }
-          },
-          {
-            "id": "8224c72a7b7e7a6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics for AI.md",
+                "file": "3 - Main Notes/AI Engineer/Mathematics for AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,7 +43,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "95739fb80564007a",
@@ -486,7 +462,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for AI.md",
+                "file": "3 - Main Notes/AI Engineer/Mathematics for AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -552,23 +528,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8224c72a7b7e7a6d",
+  "active": "d5cac653489654f3",
   "lastOpenFiles": [
     "3 - Main Notes/AI Engineer/AI Engineer .md",
-    "Mathematics for AI.md",
+    "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
+    "3 - Main Notes/AI Engineer/Programming Foundations for AI.md",
     "Model Lifecycle for AI Systems.md",
+    "Iteration and Data Pipelines.md",
+    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
-    "Mathematics for ML.md",
+    "3 - Main Notes/AI Engineer/Mathematics for ML.md",
     "Indexes/C++.md",
     "Tags/MachineLearning.md",
     "Indexes/Mathematics.md",
-    "Programming Foundations for AI.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "Tags/OOPS in C++.md",
-    "Iteration and Data Pipelines.md",
     "Interview Preparation for AI Engineers.md",
     "3 - Main Notes/C++/Operators in C++.md",
     "3 - Main Notes/C++/Ternary Operators in C++.md",
@@ -581,7 +558,6 @@
     "2025-12-17.md",
     "6 - Full Notes/2025-12-12.md",
     "6 - Full Notes/2025-12-11.md",
-    "6 - Full Notes/2025-12-10.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
