@@ -21,6 +21,13 @@ sticker: lucide//code
 	
 **Links / Tags:** 
 - **Relevance Links:**
+	- [[C++ Language Features]]
+	- [[C++ Data Types]]
+	- [[OOPS in C++]]
+	- [[Memory management in C++]]
+	- [[Tooling, Build, and Errors in C++]]
+	 
+   --- 
 	- Background and ecosystem:
 		- C vs C++ - Main Differences and Commonality between C and C++
 		- [[History of C++]]
@@ -38,6 +45,7 @@ sticker: lucide//code
 		- [[Memory management in C++]]
 		- [[C++ Error Handling]]
 		- [[Structuring a C++ codebase|C++ code structuring]]
+		- [[C++ Libraries]]
 		
 
 ---
