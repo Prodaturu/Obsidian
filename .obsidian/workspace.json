@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"copying in C++\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -263,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
+                "file": "Indexes/C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Orthodox Canonical Form in C++"
+              "title": "Outline of C++"
             }
           },
           {
@@ -342,8 +343,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "353b5826e8f5adba",
@@ -356,17 +356,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Indexes/C++.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orthodox Canonical Form in C++"
+              "title": "Backlinks for C++"
             }
           },
           {
@@ -375,11 +375,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Indexes/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from C++"
             }
           }
         ]
@@ -422,9 +423,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd5c487bb62f504a",
+  "active": "2294c04759ebe7ec",
   "lastOpenFiles": [
     "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
@@ -443,11 +446,9 @@
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
-    "Indexes/C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/Control Flow in C++.md",
     "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/CV-Qualifiers in C++.md",
     "6 - Full Notes/Jan 2026",

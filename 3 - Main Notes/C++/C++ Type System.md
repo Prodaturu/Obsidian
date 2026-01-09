@@ -52,7 +52,7 @@ Map note for all *type-related* concepts in C++.
 
 ## 5. How types are converted / viewed
 ### Typecasting
-				- [[Type conversion and Casting in C++]]
+- [[Type conversion and Casting in C++]]
 
 
 # References
