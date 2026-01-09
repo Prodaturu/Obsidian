@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inference in AI Systems.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inference in AI Systems"
+              "title": "AI Engineer"
             }
           },
           {
@@ -286,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vector Basics for AI"
+              "title": "Outline of AI Engineer"
             }
           },
           {
@@ -379,7 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -389,7 +389,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vector Basics for AI"
+              "title": "Backlinks for AI Engineer"
             }
           },
           {
@@ -445,15 +445,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "Reinforcement Learning Systems.md",
+    "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
+    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
+    "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
     "3 - Main Notes/AI Engineer/Vectors for AI.md",
     "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
-    "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
-    "Inference in AI Systems.md",
-    "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
-    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "Tags/OOPS in C++.md",
     "3 - Main Notes/C++/Inheritance in C++.md",
@@ -474,7 +475,6 @@
     "6 - Full Notes/Dec 2025",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
-    "3 - Main Notes/AI Engineer/Programming Foundations for AI.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/AI Engineer",
     "3 - Main Notes/C++/42CPP",

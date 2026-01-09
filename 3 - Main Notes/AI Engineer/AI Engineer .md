@@ -22,7 +22,7 @@
 	    - [[Mathematics for AI]] — math needed for ML/DL (linear algebra, calculus, probability, statistics)
 	    - [[Programming Foundations for AI]] — programming mental models and engineering habits for AI work        
 	    - [[Computer Science Foundations for AI]] — DSA, OS basics, networking basics
-
+	      
 	- Data + Systems:
 	    - [[Data Foundations for AI]] — data collection, cleaning, labeling, leakage
 	    - [[Data Engineering for AI]] — ETL/ELT, warehouses, batch vs streaming    
@@ -33,14 +33,11 @@
 	    - [[Cloud for AI]] — GPUs, storage, IAM, deployment primitives
 	    
 	- Applied Domains:
-	    - [[Natural Language Processing]] — text, embeddings, transformers, LLM basics
-	    - [[Computer Vision]] — image pipelines, CNNs, detection/segmentation
-	    - [[Generative AI]] — diffusion, LLMs, prompting, RAG, safety basics
-	    - [[Reinforcement Learning]] — agents, reward, MDPs (optional)
-	    
-	- Practice:
-	    - [[AI Projects]] — portfolio projects, scoping, demos, writeups
-	    - [[Interview Preparation for AI Engineers]] — questions, system design, ML intuition
+		- [[NLP Systems]] — text, embeddings, transformers, LLM basics
+		- [[Vision Systems]] — image pipelines, CNNs, detection/segmentation
+		- [[Generative AI Systems]] — diffusion, LLMs, prompting, RAG, safety basics
+		- [[Reinforcement Learning Systems]] — agents, reward, MDPs (optional)
+	
 ---
 
 # AI Engineer
@@ -70,33 +67,76 @@
 	
 ---
 
-## 1. Foundations (must-have)
+## 1. What AI Engineers Build
+
+- AI Engineers build **real-world systems** that:
+	- run trained models in production environments
+	- integrate data pipelines and inference services
+	- operate under latency, cost, and reliability constraints
+	- are monitored, updated, and scaled over time
+	  
+- The focus is not just models, but **end-to-end AI systems**.
+---
+
+## 2. Model Lifecycle & Runtime Systems
+
+> Core mental model: how models move from training to real usage.
+
+- [[Model Lifecycle for AI Systems]]  
+  training → validation → deployment → monitoring
+
+- [[Inference & Serving Systems]]  
+  online/offline inference, batching, latency, runtime constraints
+
+This is where learning-based components meet real systems.
+
+---
+
+## 3. Data & Systems Engineering
+
+> Everything that makes models usable and reliable.
+
+- [[Data Foundations for AI]]  
+  data quality, leakage, splits
+
+- [[Data Engineering for AI]]  
+  ETL, schemas, versioning, batch vs streaming
+
+- [[Systems Design for AI]]  
+  latency, scaling, reliability
+
+---
+
+## 4. Foundations (must-have)
+
+> Core knowledge required to reason about AI systems.
+
 - [[Mathematics for AI]]  
-    linear algebra, calculus basics, probability, statistics
+  linear algebra, probability, statistics, optimization
+
 - [[Programming Foundations for AI]]  
-    python, debugging, clean code, testing habits    
+  Python, debugging, clean code, testing habits
+
 - [[Computer Science Foundations for AI]]  
-    DSA, complexity, OS + networking basics (enough for deployment work)
+  DSA, complexity, OS and networking basics
 
-## 2. Data & Systems Engineering
-- [[Data Foundations for AI]] – data quality, leakage, splits
-- [[Data Engineering for AI]] – ETL, schemas, versioning, streaming
-- [[Systems Design for AI]] – latency, scaling, reliability
+---
 
-## 3. Model Lifecycle & Learning-Based Components
-> Interaction point with Machine Learning and Deep Learning.
+## 5. Production & Operations
 
-- [[Model Lifecycle for AI Systems]] – training → validation → deployment → monitoring
-- [[Inference & Serving Systems]] – online/offline inference, batching, constraints
+> Making AI systems stable, observable, and maintainable.
 
-(ML/DL concepts are referenced inside these notes, not at the hub level.)
+- [[MLOps]]  
+  CI/CD, model registry, monitoring, retraining
 
-## 4. Production & Operations
-- [[MLOps]] – CI/CD, model registry, monitoring, retraining
-- [[Cloud for AI]] – compute, GPUs, storage, IAM, deployment
+- [[Cloud for AI]]  
+  compute, GPUs, storage, IAM, deployment primitives
 
-## 5. Domain Interaction Points
-> AI Engineers interact with AI domains only through concrete systems and applications.
+---
+
+## 6. Domain Interaction Points
+
+> AI Engineers interact with domains through **systems**, not raw theory.
 
 - [[NLP Systems]]
 - [[Vision Systems]]
@@ -104,4 +144,5 @@
 - [[Reinforcement Learning Systems]]
 
 ---
-#  References
+
+# References
