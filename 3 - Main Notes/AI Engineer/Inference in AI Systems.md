@@ -15,6 +15,7 @@
 - **Relevance Links:**
 	- AI Engineer
 	- Inference & Serving Systems
+	- [[Training vs Inference in AI Systems]]
 - **Topic Links:**
 	- [[Online vs Offline Inference]]
 	- [[Batching and Throughput]]
@@ -75,6 +76,10 @@
 - does not learn
 - forward computation only
 - constrained by latency, cost, and reliability
+
+***Visit***: [[Training vs Inference in AI Systems]]
+-> Deep comparison between Training and Inference in AI Systems
+
 ---
 
 ## Core Questions Inference Introduces
