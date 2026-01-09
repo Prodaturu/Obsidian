@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Type System.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Type System"
+              "title": "C++"
             }
           },
           {
@@ -263,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Type System.md",
+                "file": "Indexes/C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Type System"
+              "title": "Outline of C++"
             }
           },
           {
@@ -355,7 +355,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Type System.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +365,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Type System"
+              "title": "Backlinks for C++"
             }
           }
         ]
@@ -381,12 +381,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Type System.md",
+                "file": "Indexes/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Type System"
+              "title": "Outgoing links from C++"
             }
           }
         ]
@@ -431,12 +431,12 @@
   },
   "active": "4c4417bbc7bed543",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Data Types.md",
-    "3 - Main Notes/C++/C++ Type System.md",
+    "3 - Main Notes/C++/C++ Data Type System.md",
     "Indexes/C++.md",
+    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
+    "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "Tags/C++ Language Features.md",
-    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Pointer and Reference Types in C++.md",

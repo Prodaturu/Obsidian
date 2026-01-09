@@ -25,7 +25,7 @@ sticker: lucide//code
 		- C vs C++ - Main Differences and Commonality between C and C++
 		- [[History of C++]]
 		- [[C++ Language Features]]
-		- [[C++ Type System]]  
+		- [[C++ Data Type System]]  
 		- [[C++ Libraries]] - Libraries and C++ ecosystem
 		
 	- OOPS:
@@ -67,7 +67,7 @@ sticker: lucide//code
 - [[C++ Language Features]]  
     operators, functions, templates, control flow, files
     
-- [[C++ Type System]]  
+- [[C++ Data Type System]]  
     built-in types, user-defined types, references, pointers, CV-qualifiers, type deduction
     
 ---
