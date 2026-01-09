@@ -47,7 +47,8 @@ aliases:
     
 - A class following OCF **explicitly declares** the core special member functions
 - This makes ownership, copying, and cleanup rules **visible and intentional**
-- OCF is closely related to the **Rule of Three**.
+
+- OCF is closely related to the **[[Rule of Three]]**.
 
 
 ## The four functions in Orthodox Canonical Form
@@ -57,16 +58,39 @@ aliases:
 	- [[Copy Constructor in C++|Copy Constructor]]
 	- [[Copy Assignment Operator in C++|Copy Assignment Operator]]
 	- [[Destructor]]
-
-Together, these four fully define the object’s **basic lifetime semantics**.
-- so its **lifetime behaviour is fully defined and visible**
+	  
+- Together, these four fully define the object’s **basic lifetime semantics**.
+	- so its **lifetime behaviour is fully defined and visible**
+	  
 - In C++11 and later, a “modern” canonical form may also add:
-    - [[Move constructor]]
-    - [[Move assignment operator]]
-- but the core idea stays the same:
-- **the class clearly controls how it is created, copied, moved, and destroyed.**
-
+    - Move constructor
+    - Move assignment operator
+      
+- But the core idea stays the same:
+	- the class clearly controls how it is **created, copied, moved, and destroyed.**
+	
 ---
+
+## Why Orthodox Canonical Form exists
+
+- ***Without OCF***:
+	- the compiler may implicitly generate copy and assignment operations
+	- those defaults perform **shallow copies**
+	- shallow copies are often wrong for:
+	    - raw pointers
+	    - ownership of memory
+	    - file handles
+	    - mutexes
+	    - other resources
+	
+- ***With OCF***:
+	- copying is intentional
+	- assignment is intentional
+	- destruction is explicit
+	- ownership rules are obvious to the reader
+	  
+
+> OCF makes object lifetime **predictable and auditable**
 
 ## Classic canonical form (C++98 style)
 

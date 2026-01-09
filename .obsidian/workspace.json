@@ -230,7 +230,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"C++ Type System\"",
+                "query": "\"copying in C++\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,12 +241,12 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -422,7 +422,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "dd5c487bb62f504a",
   "lastOpenFiles": [
     "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
