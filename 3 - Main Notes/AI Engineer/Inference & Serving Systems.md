@@ -1,93 +1,87 @@
-**Created:** *<span class ="color-green">09.01.26, 03:49</span>*
+**Created:**  *<span class ="color-green">09.01.26, 03:49</span>*
 
 **Note Type:** #map
 
 **Hashtags:**
 - **Relevance Tags:**
-	- #aiengineer
-	- #map
+    - #aiengineer
+    - #map
 - **Topic Tags:**
-	- #inference
-	- #serving
-	- #systems
-	- #latency
-	- #deployment
-
-**Links / Tags:** 
+    - #inference
+    - #serving
+    - #systems
+    - #latency
+    - #deployment
+      
+**Links / Tags:**
 - **Relevance Links:**
-	- AI Engineer
+    - AI Engineer
+    
 - **Topic Links:**
-	- [[Online vs Offline Inference]]
-	- [[Batching and Throughput]]
-	- [[Latency Constraints in AI Systems]]
-	- [[Tokenization and Context Handling]]
-	- [[Determinism and Randomness]]
-	- [[Model Interfaces and APIs]]
-	- [[Resource Management for Inference]]
-	- [[Failure Modes in Inference Systems]]
-	- [[Cost Models for Inference]]
-	  
+    - [[Inference in AI Systems]]
+    - [[Serving Systems for AI Models]]
+    
 ---
 
 # Inference & Serving Systems
 
->Map note for **running trained models inside real systems**.
+> Axis map for **running trained models inside real systems**.
 
-This axis covers how models are:
-- invoked
-- served
-- scaled
-- constrained
-- observed
+This axis defines **runtime ownership boundaries**.  
+It does **not** flatten inference concepts just because they are deep.
 
 ---
 
-## 1. Inference Modes
-- [[Online vs Offline Inference]]
-	- synchronous vs asynchronous
-	- real-time vs batch execution
+## 1. Inference (runtime execution)
+
+> What happens when a trained model is executed.
+
+- [[Inference in AI Systems]]
+
+Talks about:
+
+- runtime execution
+- latency vs throughput
+- state and context
+- output behaviour
+- failure visibility
 ---
-## 2. Execution Characteristics
-- [[Batching and Throughput]]
-- [[Latency Constraints in AI Systems]]
-- [[Tokenization and Context Handling]]
+
+## 2. Serving (system exposure)
+> How inference is exposed, scaled, and operated.
+
+- [[Serving Systems for AI Models]]
+
+Talks about:
+- request handling
+- deployment topology
+- scaling strategies 
+- availability guarantees
 ---
-## 3. Output Behaviour
-- [[Determinism and Randomness]]
-	- stochastic vs repeatable outputs
-	- sampling, temperature, seeds
----
-## 4. Interfaces and Integration
+
+## 3. Interfaces and Integration
+> Boundary between inference systems and external callers.
+
 - [[Model Interfaces and APIs]]
-	- request/response shape
-	- stateless vs stateful calls
 ---
-## 5. Resource and Cost Constraints
+
+## 4. Resource, Cost, and Reliability
+
+> Cross-cutting runtime constraints.
+
 - [[Resource Management for Inference]]
-	- CPU/GPU/accelerators
-	- memory pressure
-	- concurrency limits
-	  
 - [[Cost Models for Inference]]
-	- per-token vs per-request
-	- caching tradeoffs
----
-## 6. Reliability and Failure
 - [[Failure Modes in Inference Systems]]
-	- timeouts
-	- partial outputs
-	- degraded responses
-	  
 ---
 
 # Related Notes
-> Things you may encounter alongside this axis, but which are not owned by it
 
-- Data Foundations for AI
+> Contextually adjacent, not owned here
+
+- Data Foundations for AI    
 - Systems Design for AI
 - MLOps
 - Model Lifecycle for AI Systems
-
 ---
 
 # References
