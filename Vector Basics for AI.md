@@ -32,17 +32,17 @@
 
 ## 1. What a Vector Means in AI
 
-In AI, a vector is:
-- an ordered list of numbers
-- representing **something concrete**:
-  - a data point
-  - a feature set
-  - an embedding
-  - a model output
-
-A vector is **not**:
-- an abstract mathematical object
-- a direction-only geometric arrow (that intuition comes later)
+- In AI, a vector is:
+	- an ordered list of numbers
+	- representing **something concrete**:
+		- a data point
+		- a feature set
+		- a model output
+		- an embedding
+	
+- A vector is **not**:
+	- an abstract mathematical object
+	- a direction-only geometric arrow (that intuition comes later)
 
 ---
 
