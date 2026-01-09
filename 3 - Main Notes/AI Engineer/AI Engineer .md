@@ -56,7 +56,13 @@
 	- process of designing and implementing AI systems
 		- using pre-trained models,
 		- existing AI tools to solve practical problems
-		  
+	- AI Engineering focuses on designing, building, and operating intelligent systems in the real world.
+	
+- **Core responsibilities:**
+	- integrating learning-based components into systems
+	- building reliable data and inference pipelines
+	- handling scale, latency, and failure modes
+	- deploying, monitoring, and iterating safely
 	- AI engineering = building ML systems that work in the real world:
 	  
 - For AI Engineering we need to:
@@ -75,37 +81,33 @@
     python, debugging, clean code, testing habits    
 - [[Computer Science Foundations for AI]]  
     DSA, complexity, OS + networking basics (enough for deployment work)
-    
-## 2. ML / DL Core (must-have)
-- [[Machine Learning Core]]  
-    supervised learning, features, regularization, trees, linear models
-- [[Deep Learning Core]]  
-    training loop, back-prop intuition, CNN/RNN/transformers overview    
-    
-## 3. Data + Systems (must-have)
-- [[Data Foundations for AI]]  
-    data quality, labelling, leakage, train/val/test splits
-- [[Data Engineering for AI]]  
-    ETL, Schemas, versioning datasets, batch vs streaming
-- [[Systems Design for AI]]  
-    offline vs online inference, latency, scaling, reliability    
-    
-## 4. MLOps + Cloud (must-have for “engineer”)
-- [[MLOps]]  
-    packaging, CI/CD, model registry, monitoring, retraining loops
-- [[Cloud for AI]]  
-    storage, compute, GPUs, deployments, IAM basics
-    
-## 5. Applied Domains (pick based on goals)
+
+## 2. Data & Systems Engineering
+- [[Data Foundations for AI]] – data quality, leakage, splits
+- [[Data Engineering for AI]] – ETL, schemas, versioning, streaming
+- [[Systems Design for AI]] – latency, scaling, reliability
+
+## 3. Model Lifecycle & Learning-Based Components
+> Interaction point with Machine Learning and Deep Learning.
+
+- [[Model Lifecycle for AI Systems]] – training → validation → deployment → monitoring
+- [[Inference & Serving Systems]] – online/offline inference, batching, constraints
+
+(ML/DL concepts are referenced inside these notes, not at the hub level.)
+
+## 4. Production & Operations
+- [[MLOps]] – CI/CD, model registry, monitoring, retraining
+- [[Cloud for AI]] – compute, GPUs, storage, IAM, deployment
+
+## 5. Applied AI Domains
 - [[Natural Language Processing]]
 - [[Computer Vision]]
 - [[Generative AI]]
-- [[Reinforcement Learning]] 
+- [[Reinforcement Learning]]
 
-## 6. Practice + Career
+## 6. Practice & Career
 - [[AI Projects]]
 - [[Interview Preparation for AI Engineers]]
 
 ---
-
 #  References

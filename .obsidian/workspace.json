@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics for ML.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mathematics for ML"
+              "title": "AI Engineer"
             }
           }
         ],
@@ -462,7 +462,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics for ML.md",
+                "file": "3 - Main Notes/AI Engineer/AI Engineer .md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -472,7 +472,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mathematics for ML"
+              "title": "Backlinks for AI Engineer"
             }
           },
           {
@@ -530,11 +530,12 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
+    "Mathematics for AI.md",
+    "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "Model Lifecycle for AI Systems.md",
     "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
     "Mathematics for ML.md",
     "Indexes/C++.md",
-    "Mathematics for AI.md",
-    "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Tags/MachineLearning.md",
     "Indexes/Mathematics.md",
     "Programming Foundations for AI.md",
@@ -557,7 +558,6 @@
     "6 - Full Notes/2025-12-12.md",
     "6 - Full Notes/2025-12-11.md",
     "6 - Full Notes/2025-12-10.md",
-    "3 - Main Notes/Eat the Frog.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
