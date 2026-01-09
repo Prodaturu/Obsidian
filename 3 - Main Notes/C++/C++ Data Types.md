@@ -32,17 +32,60 @@
 
 # C++ Data Types
 
-> The
+> Data types define **what kind of data a variable can hold**
+> how much **memory it occupies**, and **what operations are allowed** on it
 
-- Data type families in C++:
-	- Primitive numeric types → [[Primitive Integral Types in C++]], [[Floating-Point Types in C++]]
-	- Characters & strings → [[Character and String Types in C++]]
-	- Fixed-width & size-related → [[Fixed-Width Integer Types in C++]]
-	- Pointers & references → [[Pointer and Reference Types in C++]]
-	- User-defined types → [[User-Defined Types in C++]]
-	- Template-based instantiated types → [[Generic Types in C++]]
-	- Special / meta types → [[Special Types in C++]]
-	- Time & date-specific types → [[C++ Time & Date Datatypes, Timestamps]]
+- Every object in C++ has a **type**
+- The type determines:
+    - memory layout
+    - valid operations
+    - copying and conversion rules
+    - lifetime behavior
+    
+- C++ provides:
+	- a rich set of **built-in data types**, and
+	- powerful mechanisms to **define your own data types**
+	  
+
+## Built-in vs User-defined types
+
+- **Built-in types** are provided by the language itself  
+    (e.g. integers, floating-point numbers, pointers)
+    
+- **User-defined types** are created by programmers to:
+    - model real-world entities
+    - group related data
+    - express abstractions
+    - control ownership and behavior
+    
+→ See: **[[User-Defined Types in C++]]**
+
+## Data type families in C++
+
+- Primitive numeric types  
+	- [[Primitive Integral Types in C++]]
+	- [[Floating-Point Types in C++]]
+    
+- Characters & strings 
+	- [[Character and String Types in C++]]
+    
+- Fixed-width & size-related types  
+	- [[Fixed-Width Integer Types in C++]]
+    
+- Pointers & references 
+	- [[Pointer and Reference Types in C++]]
+    
+- User-defined types
+	- [[User-Defined Types in C++]]
+    
+- Template-based instantiated types
+	- [[Generic Types in C++]]
+    
+- Special / meta types
+	- [[Special Types in C++]]
+    
+- Time & date-specific types  
+	- [[C++ Time & Date Datatypes, Timestamps]]
 	  
 ---
 
