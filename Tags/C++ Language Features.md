@@ -50,58 +50,63 @@
 
 ## 1. Syntax and Structure
 
-→ [[C++ Syntax and Structure]]
+> How C++ code is written and organised at the surface level
 
-Covers:
-
-- declarations vs definitions
-- scopes and namespaces
-- statements vs expressions
-- headers vs source files
-- basic grammar of C++
-
-This is the **surface layer** of the language.
+- It answers what does valid C++ code look like?
+	
+- This Covers:
+	- declarations vs definitions
+	- scopes and namespaces
+	- statements vs expressions
+	- headers vs source files
+	- basic grammar of C++
+	
+-  **Surface layer** of the language - before behaviour or meaning
+	
+- ***For more details:*** → [[C++ Syntax and Structure]]
 
 ---
 
 ## 2. Expressions and Operators
 
-→ [[Expressions and Operators in C++]]
+> How C++ computes valuables and combines operations
 
-- operator categories (`+`, `*`, `==`, `->`, etc.)    
-- operator precedence and associativity
-- expression evaluation rules
-- built-in operator behavior
+- This covers:
+	- operator categories (`+`, `*`, `==`, `->`, etc.)    
+	- operator precedence and associativity
+	- expression evaluation rules
+	- built-in operator behavior
+	  
+- ***For more details:*** → [[Expressions and Operators in C++]]
 
 ---
 
 ## 3. Functions and Callables
 
-→ [[Functions and Callables in C++]]
+> How do we package and call logic?
 
-Covers:
-
-- function declarations and definitions
-- parameters and return values
-- overloading
-- lambdas
-- callable objects (function objects)
-
-
-This is about **invoking behavior**, not object modeling.
+- This Covers:
+	- function declarations and definitions
+	- parameters and return values
+	- overloading
+	- lambdas
+	- callable objects (function objects)
+	
+- ***For more details:*** → [[Functions and Callables in C++]]
 
 ---
 
 ## 4. Control Flow
 
-→ [[Control Flow in C++]]
+> How Execution moves through a program
 
-Covers:
-
-- `if`, `switch`
-- loops (`for`, `while`, range-based for)
-- `break`, `continue`, `return`
-- structured flow of execution
+- This Covers:
+	- `if`, `switch`
+	- loops (`for`, `while`, range-based for)
+	- `break`, `continue`, `return`
+	- structured flow of execution
+	
+- ***For more details:*** → [[Control Flow in C++]]
 
 This is about **how execution moves**, not data or memory.
 

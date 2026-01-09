@@ -132,30 +132,6 @@
               "icon": "lucide-file",
               "title": "C++ Data Type System"
             }
-          },
-          {
-            "id": "795633db6c7ff277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-12-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-26"
-            }
           }
         ],
         "currentTab": 1
@@ -247,12 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Tags/C++ Language Features.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of C++ Language Features"
             }
           },
           {
@@ -338,6 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tags/C++ Language Features.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +325,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for C++ Language Features"
             }
           }
         ]
@@ -363,11 +341,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tags/C++ Language Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from C++ Language Features"
             }
           }
         ]
@@ -410,11 +389,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5cac653489654f3",
+  "active": "279e4db1a12b6019",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Data Type System.md",
+    "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
-    "Tags/C++ Language Features.md",
     "5 - Templates/Title.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
@@ -423,7 +403,6 @@
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-    "3 - Main Notes/C++/C++ Data Type System.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
