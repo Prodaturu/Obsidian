@@ -28,8 +28,6 @@
 # Linear Algebra for AI
 
 > Context map for **linear algebra concepts used in AI systems**.  
-> This note groups linear algebra into **AI-relevant conceptual blocks**.  
-> Detailed concepts live inside the grouped subnotes.
 
 Linear algebra in AI is used to:
 - represent data, parameters, and embeddings
