@@ -25,12 +25,20 @@
 
 # Inference & Serving Systems
 
-> Axis map for **running trained models inside real systems**.
+> How trained AI models are **run, exposed, and operated** inside real-world systems.
 
-This axis defines **runtime ownership boundaries**.  
-It does **not** flatten inference concepts just because they are deep.
+- This axis explains what happens **after a model is trained**:
+	- how predictions are actually produced
+	- how models are made available to users or other systems
+	- how performance, cost, and reliability are managed at runtime
+	  
+- If training is *learning*, this axis is *using what was learned*.
+- You should read this axis if you want to understand:
+	- how inference works in practice
+	- why latency and throughput matter
+	- how models become APIs and services
+	- what can go wrong when models run in production
 
----
 
 ## 1. Inference (runtime execution)
 
