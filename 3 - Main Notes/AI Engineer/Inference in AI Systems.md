@@ -21,12 +21,19 @@
 	- [[Latency Constraints in AI Systems]]
 	- [[Determinism and Randomness]]
 	- [[Tokenization and Context Handling]]
+	- [[Resource Management for Inference]]
+	- [[Cost Models for Inference]]
+	- [[Failure Modes in Inference Systems]]
+	  
 ---
 
 # Inference in AI Systems
-- ***Definition:***
-	- In AI, Inference refers to the process where a trained ML model
-	- makes predictions or draws conclusions from new, unseen data
+
+## ***Definition:***
+- Inference is the **runtime phase of an AI system** where a trained model:
+	- receives new, unseen input data
+	- applies learned parameters
+	- produces predictions, classifications, or generated outputs
 	  
 - Unlike training
 	- Inference involves the model applying what it has learned to make decisions
@@ -43,14 +50,16 @@
 
 
 ### Example
-- A self-driving car recognising a stop sign on a road it has never encountered before demonstrates inference
-- The model identifies the stop sign in a new setting, using its learned knowledge to make a decision in real-time
+- A self-driving car recognising a stop sign on a road it has never encountered before
+	- The model identifies the stop sign in a new setting, using its learned knowledge to make a decision in real-time
+	  
 - Here:-
-	- input is captured and pre-processed
+	- Sensor input is captured and pre-processed
 	- inference runs under strict latency limits
-	- output must be reliable and explainable
-	- failure or delay has real-world consequences
-- This entire process is inference.
+	- output is reliable and timely
+	- failure or delay would have had real-world consequences
+	  
+- This entire process is *Inference*.
 
 ---
 
