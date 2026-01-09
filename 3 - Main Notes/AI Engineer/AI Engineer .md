@@ -95,15 +95,13 @@
 - [[MLOps]] – CI/CD, model registry, monitoring, retraining
 - [[Cloud for AI]] – compute, GPUs, storage, IAM, deployment
 
-## 5. Applied AI Domains
-- [[Natural Language Processing]]
-- [[Computer Vision]]
-- [[Generative AI]]
-- [[Reinforcement Learning]]
+## 5. Domain Interaction Points
+> AI Engineers interact with AI domains only through concrete systems and applications.
 
-## 6. Practice & Career
-- [[AI Projects]]
-- [[Interview Preparation for AI Engineers]]
+- [[NLP Systems]]
+- [[Vision Systems]]
+- [[Generative AI Systems]]
+- [[Reinforcement Learning Systems]]
 
 ---
 #  References
