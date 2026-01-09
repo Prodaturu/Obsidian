@@ -1,3 +1,3 @@
----
-sticker: lucide//book-template
----
+# {{title}}
+
+- [ ] 

@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector Basics for AI.md",
+                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vector Basics for AI"
+              "title": "Inference & Serving Systems"
+            }
+          },
+          {
+            "id": "de3771cc8c6ae844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Full Notes/Jan 2026/2026-01-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-09"
             }
           }
         ],
@@ -207,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -225,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector Basics for AI.md",
+                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vector Basics for AI"
+              "title": "Outline of Inference & Serving Systems"
             }
           },
           {
@@ -304,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Basics for AI.md",
+                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -314,7 +337,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vector Basics for AI"
+              "title": "Backlinks for Inference & Serving Systems"
             }
           },
           {
@@ -372,17 +395,24 @@
   },
   "active": "84924dfb8ceb42ae",
   "lastOpenFiles": [
-    "Vectors for AI.md",
-    "Vector Basics for AI.md",
-    "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
+    "6 - Full Notes/Jan 2026/2026-01-09.md",
+    "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
+    "6 - Full Notes/Dec 2025/2025-12-26.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
+    "5 - Templates/5 - Templates.md",
+    "6 - Full Notes/daily planner.md",
+    "6 - Full Notes/Jan 2026",
+    "6 - Full Notes/Dec 2025",
+    "3 - Main Notes/AI Engineer/Vectors for AI.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
-    "3 - Main Notes/C++/42CPP/CPP05.md",
     "5 - Templates/Title.md",
+    "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
+    "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
+    "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/AI Engineer/Programming Foundations for AI.md",
     "Model Lifecycle for AI Systems.md",
     "Iteration and Data Pipelines.md",
-    "3 - Main Notes/Basic Mathematics Pre-Machine Learning.md",
+    "3 - Main Notes/AI Engineer/Basic Mathematics Pre-Machine Learning.md",
     "3 - Main Notes/AI Engineer/Mathematics for ML.md",
     "Indexes/C++.md",
     "Tags/MachineLearning.md",
@@ -393,21 +423,14 @@
     "Tags/C++ Language Features.md",
     "Tags/OOPS in C++.md",
     "Interview Preparation for AI Engineers.md",
-    "3 - Main Notes/C++/Operators in C++.md",
-    "3 - Main Notes/C++/Ternary Operators in C++.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
-    "3 - Main Notes/C++/Primitive Integral Types in C++.md",
-    "3 - Main Notes/AI Engineer/.md",
     "3 - Main Notes/AI Engineer",
-    "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
     "2 - Source Material/Books/The Project Gutenberg eBook of Der Schimmelreiter, by Theodor Storm.pdf",
     "2 - Source Material/Books/InformationTheoryBook1.pdf",
-    "2 - Source Material/Books/InfoTheoryLecturesAndExercises.pdf",
-    "2 - Source Material/Books/InformationTheoryTUMBook.pdf",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
