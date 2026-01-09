@@ -41,6 +41,7 @@
     - valid operations
     - copying and conversion rules
     - lifetime behavior
+    - Storage duration
     
 - C++ provides:
 	- a rich set of **built-in data types**, and
@@ -59,6 +60,21 @@
     - control ownership and behavior
     
 → See: **[[User-Defined Types in C++]]**
+
+## Types vs value categories
+
+- In C++, behavior is not determined by **type alone**
+- It also depends on the **value category**:
+    - lvalue
+    - rvalue
+    - prvalue / xvalue (modern C++)
+      
+- Value categories affect:
+    - copying vs moving
+    - binding to references
+    - overload resolution
+      
+→ See: [[Lvalue and Rvalue references in C++]]
 
 ## Data type families in C++
 
