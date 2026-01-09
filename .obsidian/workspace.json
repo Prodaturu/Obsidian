@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
+                "file": "Vectors for AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra for AI"
+              "title": "Vectors for AI"
             }
           }
         ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-12-26.md",
+                "file": "Vectors for AI.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-12-26"
+              "title": "Outline of Vectors for AI"
             }
           },
           {
@@ -244,201 +244,6 @@
             }
           },
           {
-            "id": "fb3e27f7ed296cbf",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "b2a06c9692ba51b1",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "711e23dcada6452d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "64422feb93498cf3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "12c89bc156a0cb44",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "a70159b70cd5148a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "0bee787863c6c065",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "95dfa734616eaa20",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "f65507bffdd441c9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "e39b15c508b62091",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "a29be2af44d6381d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "848288e0e54d0d2b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "dadb89c17a379fb1",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "1d0365d4f186004a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5dbf2fec2d2095f2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "554cf51542e4b4b8",
             "type": "leaf",
             "state": {
@@ -448,8 +253,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       },
       {
         "id": "353b5826e8f5adba",
@@ -462,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
+                "file": "Vectors for AI.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -472,7 +276,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linear Algebra for AI"
+              "title": "Backlinks for Vectors for AI"
             }
           },
           {
@@ -528,12 +332,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5cac653489654f3",
+  "active": "620fa379c273d379",
   "lastOpenFiles": [
-    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
-    "5 - Templates/Title.md",
+    "Vectors for AI.md",
+    "3 - Main Notes/C++/42CPP/CPP05.md",
+    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
+    "5 - Templates/Title.md",
     "3 - Main Notes/AI Engineer/Programming Foundations for AI.md",
     "Model Lifecycle for AI Systems.md",
     "Iteration and Data Pipelines.md",
@@ -556,8 +362,6 @@
     "3 - Main Notes/AI Engineer",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "2025-12-26.md",
-    "2025-12-17.md",
-    "6 - Full Notes/2025-12-12.md",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
