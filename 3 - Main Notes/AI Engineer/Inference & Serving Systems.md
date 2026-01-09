@@ -83,10 +83,10 @@ This axis covers how models are:
 # Related Notes
 > Things you may encounter alongside this axis, but which are not owned by it
 
-- [[Data Foundations for AI]]
-- [[Systems Design for AI]]
-- [[MLOps]]
-- [[Model Lifecycle for AI Systems]]
+- Data Foundations for AI
+- Systems Design for AI
+- MLOps
+- Model Lifecycle for AI Systems
 
 ---
 
