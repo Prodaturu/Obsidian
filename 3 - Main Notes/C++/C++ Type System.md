@@ -33,11 +33,7 @@
 Map note for all *type-related* concepts in C++.
 
 ## 1. What types exist
-### Built-in types
 - [[C++ Data Types]]
-
-### User-defined types
-- [[User-Defined Types in C++]]
 
 ## 2. How types are accessed / referred to
 ### Pointers and references
