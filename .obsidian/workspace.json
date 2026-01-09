@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
+                "file": "Inference in AI Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inference & Serving Systems"
+              "title": "Inference in AI Systems"
             }
           },
           {
@@ -272,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
+                "file": "Inference in AI Systems.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Inference & Serving Systems"
+              "title": "Outline of Inference in AI Systems"
             }
           },
           {
@@ -351,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
+                "file": "Inference in AI Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -361,7 +361,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inference & Serving Systems"
+              "title": "Backlinks for Inference in AI Systems"
             }
           },
           {
@@ -419,8 +419,9 @@
   },
   "active": "84924dfb8ceb42ae",
   "lastOpenFiles": [
-    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/AI Engineer/Inference & Serving Systems.md",
+    "Inference in AI Systems.md",
+    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/AI Engineer/AI Engineer .md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
     "Tags/OOPS in C++.md",
@@ -446,7 +447,6 @@
     "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
     "3 - Main Notes/C++/42CPP/CPP05.md",
     "3 - Main Notes/AI Engineer/Programming Foundations for AI.md",
-    "Model Lifecycle for AI Systems.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/AI Engineer",
     "3 - Main Notes/C++/42CPP",
