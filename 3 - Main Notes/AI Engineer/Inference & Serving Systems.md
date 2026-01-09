@@ -21,9 +21,6 @@
     - [[Inference in AI Systems]]
     - [[Serving Systems for AI Models]]
 	- [[Model Interfaces and APIs]]
-    - [[Resource Management for Inference]]
-	- [[Cost Models for Inference]]
-	- [[Failure Modes in Inference Systems]]
 	  
 ---
 
@@ -37,7 +34,7 @@
 	- results are returned to users or other systems
 	  
 - Unlike training, this part of the system must:
-	- respond within time limits
+	- respond within time / latency limits
 	- handle many requests reliably
 	- run continuously in production
 	- deal with failures, cost, and scale
@@ -47,7 +44,7 @@
 
 ## 1. Inference (runtime execution)
 
-> What happens when a trained model is executed.
+> What happens when a trained model is executed
 
 - [[Inference in AI Systems]]
 
@@ -75,15 +72,6 @@ Talks about:
 > Boundary between inference systems and external callers.
 
 - [[Model Interfaces and APIs]]
----
-
-## 4. Resource, Cost, and Reliability
-
-> Cross-cutting runtime constraints.
-
-- [[Resource Management for Inference]]
-- [[Cost Models for Inference]]
-- [[Failure Modes in Inference Systems]]
 ---
 
 # Related Notes
