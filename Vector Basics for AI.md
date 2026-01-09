@@ -21,6 +21,7 @@
 - **Topic Links:**
 	- [[Vector Geometry & Similarity]]
 	- [[Vector Representations in AI]]
+	- [[Vector Dimensionality]]
 ---
 
 # Vector Basics for AI
@@ -60,7 +61,7 @@ In AI:
   - generalization
   - efficiency
 
-(High-dimensional effects are handled elsewhere.)
+***Visit***:  [[Vector Dimensionality]] -> in - depth notes on vector dimensionality
 
 ---
 
