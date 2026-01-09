@@ -25,7 +25,7 @@
 	- [[Resource Management for Inference]]
 	- [[Cost Models for Inference]]
 	- [[Failure Modes in Inference Systems]]
-	  
+	
 ---
 
 # Inference in AI Systems
@@ -121,9 +121,6 @@ Modern models depend heavily on context and preprocessing.
 
 ***Visit***: [[Tokenization and Context Handling]]  
 → turning raw input into model-ready representations
-
----
-
 
 ---
 

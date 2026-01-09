@@ -56,8 +56,7 @@
               "title": "Inference in AI Systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "95739fb80564007a",
@@ -409,9 +408,12 @@
   "active": "6941b72bc089b826",
   "lastOpenFiles": [
     "Indexes/C++.md",
+    "Tags/C++ Language Features.md",
+    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
+    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
+    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/C++ Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
-    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
@@ -419,7 +421,6 @@
     "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
     "6 - Full Notes/Dec 2025/2025-12-11.md",
     "3 - Main Notes/C++/C vs C++.md",
-    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
@@ -432,8 +433,6 @@
     "3 - Main Notes/AI Engineer/AI Engineer .md",
     "Reinforcement Learning Systems.md",
     "3 - Main Notes/AI Engineer/Vectors for AI.md",
-    "3 - Main Notes/AI Engineer/Linear Algebra for AI.md",
-    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
