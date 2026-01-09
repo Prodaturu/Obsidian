@@ -22,11 +22,7 @@
 	    - [[Mathematics for AI]] — math needed for ML/DL (linear algebra, calculus, probability, statistics)
 	    - [[Programming Foundations for AI]] — programming mental models and engineering habits for AI work        
 	    - [[Computer Science Foundations for AI]] — DSA, OS basics, networking basics
-	    
-	- ML Core:
-	    - [[Machine Learning Core]] — classical ML, training loops, pipelines
-	    - [[Deep Learning Core]] — neural networks, backprop, architectures, regularization
-	    
+
 	- Data + Systems:
 	    - [[Data Foundations for AI]] — data collection, cleaning, labeling, leakage
 	    - [[Data Engineering for AI]] — ETL/ELT, warehouses, batch vs streaming    
