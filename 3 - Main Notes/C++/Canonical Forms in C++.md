@@ -50,10 +50,3 @@
   Guidelines that tell you when you must define special member functions.
 
 # References
-
-- 
-# Internal References
-
-
-
-# External References

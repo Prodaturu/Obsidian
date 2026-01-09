@@ -20,13 +20,14 @@ aliases:
 **Links / Tags:**
 
 - **Relevance Links:**
-    - [[Canonical Forms in C++]]
-    - [[Classes and Objects in C++]]
+    - Canonical Forms in C++
+    - Classes and Objects in C++
+	    - Constructors in C++
 - **Topic Links:**
     - [[Default constructor]]
     - [[Copy constructor]]
-    - [[Copy Assignment Operator in C++ | Copy Assignment Operator]]
-    - [[Destructors in C++ | Destructor]]
+    - [[Copy Assignment Operator in C++ |Copy Assignment Operator]]
+    - [[Destructors in C++ |Destructor]]
 
 ---
 
@@ -37,12 +38,13 @@ aliases:
 - A class explicitly declares:
     - [[Default constructor]]
     - [[Copy constructor]]
-    - [[Copy Assignment Operator in C++ | Copy Assignment Operator]]
+    - [[Copy Assignment Operator in C++ |Copy Assignment Operator]]
     - [[Destructors in C++|Destructor]]
+      
 - so its **lifetime behaviour is fully defined and visible**
 - In C++11 and later, a “modern” canonical form may also add:
-    - move constructor
-    - move assignment operator
+    - [[Move constructor]]
+    - [[Move assignment operator]]
 - but the core idea stays the same:
 - **the class clearly controls how it is created, copied, moved, and destroyed.**
 
