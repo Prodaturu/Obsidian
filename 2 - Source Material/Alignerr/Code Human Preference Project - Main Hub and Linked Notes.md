@@ -32,6 +32,18 @@ If something feels unclear, cross‑check with:
 * **Project Instructions (official)** ← your authoritative source
 
 ---
+## Official Project Instructions (Authoritative)
+
+🔗 [[Official Project Instructions – CLI Edition]]
+
+Use this link when:
+- You need the exact wording of project rules
+- You are unsure about scope, ratings, or submission steps
+- You want to verify whether something is allowed
+- You are checking rubric definitions or edge cases
+
+If anything in these notes conflicts with that document,  
+**the official instructions always win**.
 
 ## Step-by-Step Instructions
 
