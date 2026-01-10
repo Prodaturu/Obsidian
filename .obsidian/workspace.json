@@ -47,7 +47,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 59.741657696447795,
+        "dimension": 59.74165769644779,
         "children": [
           {
             "id": "e196ee186f8e72ab",
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -215,7 +216,7 @@
       {
         "id": "1fe2ea7f18082816",
         "type": "tabs",
-        "dimension": 28.67281760113556,
+        "dimension": 28.672817601135556,
         "children": [
           {
             "id": "620fa379c273d379",
@@ -296,13 +297,27 @@
             "id": "5ca769bd5ed36c9c",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87773e609ec4bfd3",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "353b5826e8f5adba",

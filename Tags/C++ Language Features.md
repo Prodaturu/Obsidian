@@ -5,7 +5,6 @@
 **Hashtags:**
 
 - **Relevance Tags:**
-    
     - #cpp
     - #languagefeatures
     - #map
