@@ -58,7 +58,7 @@ sticker: lucide//code
 C++ can be understood by dividing the language and its ecosystem into the
 following major conceptual areas:
 
-- [[C++ Language and Semantics|Language core]]
+- [[C++ Language and Semantics|Language core and Semantics]]
 - [[OOPS in C++|Object-oriented programming]]
 - [[Memory management in C++|Memory and lifetime]]
 - [[C++ Algorithms and Libraries|Algorithms and libraries]]

@@ -7,7 +7,6 @@
 	- #cpp
 	- #language
 	- #semantics
-	- #map
 	- #overview
 - **Topic Tags:**
 	- #syntax

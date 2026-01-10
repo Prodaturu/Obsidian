@@ -6,31 +6,32 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 40.25834230355221,
+        "dimension": 18.61244019138756,
         "children": [
           {
-            "id": "d5cac653489654f3",
+            "id": "84924dfb8ceb42ae",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
+            },
+            "group": "d52578b201afb42c"
           },
           {
-            "id": "84924dfb8ceb42ae",
+            "id": "69bd4e2f1eefbdac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": true,
+                  "collapseAll": false,
+                  "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
@@ -39,15 +40,60 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inference in AI Systems"
+              "title": "C++"
             }
+          }
+        ]
+      },
+      {
+        "id": "8f6322a4bb50e6c7",
+        "type": "tabs",
+        "dimension": 32.77511961722488,
+        "children": [
+          {
+            "id": "26e34c3d1a3d71c5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Indexes/C++.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of C++"
+            },
+            "group": "d52578b201afb42c"
           }
         ]
       },
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 59.74165769644779,
+        "dimension": 48.61244019138756,
         "children": [
           {
             "id": "e196ee186f8e72ab",
@@ -216,7 +262,7 @@
       {
         "id": "1fe2ea7f18082816",
         "type": "tabs",
-        "dimension": 28.672817601135556,
+        "dimension": 28.67281760113556,
         "children": [
           {
             "id": "620fa379c273d379",
@@ -322,7 +368,7 @@
       {
         "id": "353b5826e8f5adba",
         "type": "tabs",
-        "dimension": 35.27324343506032,
+        "dimension": 22.356281050390347,
         "children": [
           {
             "id": "2294c04759ebe7ec",
@@ -348,7 +394,7 @@
       {
         "id": "a7c9005ff83fbcf1",
         "type": "tabs",
-        "dimension": 14.194464158977999,
+        "dimension": 27.111426543647976,
         "children": [
           {
             "id": "dffa69b0e2fb67a7",
@@ -408,6 +454,7 @@
   "lastOpenFiles": [
     "Indexes/C++.md",
     "C++ Language and Semantics.md",
+    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
     "cppreference.com.md",
     "3 - Main Notes/C++/Memory management in C++.md",
@@ -424,7 +471,6 @@
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
-    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
