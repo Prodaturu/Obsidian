@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d3a79ecc4ae098f9",
+        "id": "80ad950b108fd98f",
         "type": "tabs",
         "children": [
           {
-            "id": "d93b8d593a555f63",
+            "id": "1ee569d6cebe63e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -212,7 +226,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +235,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Code Human Preference ToDo"
+              "title": "Backlinks"
             }
           }
         ]
@@ -238,12 +251,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code Human Preference ToDo"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -288,6 +300,7 @@
   },
   "active": "5ca769bd5ed36c9c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "2 - Source Material/Alignerr/.md",
@@ -315,7 +328,6 @@
     "().md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
