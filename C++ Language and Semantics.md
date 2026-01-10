@@ -64,7 +64,7 @@ The language core defines the fundamental rules that govern:
 	- [[Control Flow in C++]]
 	- [[Generic Programming in C++]]
 	- [[Compilation Model and Translation Units]]
-
+	  
 ---
 
 # Related Notes
