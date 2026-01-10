@@ -68,4 +68,4 @@ The object-oriented model in C++ is defined by the following fundamental ideas:
 
 # References
 - ISO/IEC C++ Standard
-- [cppreference](https://cppreference.com/)
+- [cppreference-Objects](https://en.cppreference.com/w/cpp/language/objects.html)
