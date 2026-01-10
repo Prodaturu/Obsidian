@@ -17,5 +17,10 @@ Icecream should Show control characters and invisibles explicitly instead of let
     For instance, \b (backspace) removes characters → abc\bX prints as abX (information lost).
 2. Invisible Unicode characters disappear silently.  
     For instance, Zero-width space (\u200B), left/right marks (\u200E, \u200F) are not shown → the user cannot tell they exist.
+3. Bytes / bytearray with control characters.  
+	For instance, bytes with \n or \x00 are printed raw, producing real line breaks or invisible content
 
+
+
+## interface password
 cc_agentic_coding
