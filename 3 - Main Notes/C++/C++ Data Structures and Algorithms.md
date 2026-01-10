@@ -14,7 +14,8 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- C++
+	- C++ Algorithms, Data Structures and Libraries
+	- Data Structures and Algorithms
 - **Topic Links:**
 	- [[C++ Data Structures]]
 	- [[C++ Algorithms]]
@@ -25,30 +26,35 @@
 
 > Data structures and algorithms as used and implemented in C++.
 
-This note serves as a **Map of Content (MoC)** for all topics related to
-**organizing data** and **operating on data efficiently** in C++.
+Data structures and algorithms together describe **how data is represented**
+and **how computation is performed on that data**.
 
-It represents the **DSA grouping** commonly used in learning, interviews,
-problem solving, and performance-oriented programming, independent of
-library organization.
+In C++, this includes:
+- choosing appropriate data representations
+- understanding the trade-offs between different structures
+- applying algorithms that operate efficiently on those structures
+- reasoning about time and space complexity in the context of C++ programs
+
+The interaction between data structures and algorithms is central to writing
+efficient, scalable, and correct C++ code.
 
 ---
 
 ## Conceptual Components
 
 - **[[C++ Data Structures]]**  
-  Data organization techniques in C++, including:
-	- STL containers
-	- custom data structures
-	- memory/layout considerations
-	- relationships between structure and performance
+  Ways of organizing and storing data in C++, including:
+	- basic and advanced data structures
+	- STL containers as concrete implementations
+	- custom data structures built using structs and classes
+	- memory layout and performance implications
 
 - **[[C++ Algorithms]]**  
-  Algorithmic techniques and patterns in C++, including:
+  Techniques for operating on data in C++, including:
 	- standard library algorithms
-	- algorithmic paradigms (greedy, divide-and-conquer, DP, etc.)
-	- complexity analysis
-	- data-structure–algorithm interplay
+	- classical algorithmic paradigms
+	- problem-solving patterns
+	- complexity analysis and optimization
 
 ---
 
@@ -58,7 +64,6 @@ library organization.
 - Competitive programming
 - Performance engineering
 - Computational complexity
-- Problem-solving strategies
 
 # References
 - ISO/IEC C++ Standard
