@@ -17,7 +17,6 @@
 	- C++
 - **Topic Links:**
 	- [[C++ Standard Library]]
-	- [[C++ STL]]
 	- [[Third-party Libraries in C++]]
 
 ---
@@ -27,7 +26,7 @@
 > All library facilities used in C++ programs.
 
 - This note groups **everything that is considered a library in C++**.
-- It includes both 
+- It includes both:
 	- **standardized libraries** provided by the language
 	- **external libraries** used in real-world C++ development.
 
@@ -37,24 +36,23 @@
 
 - **[[C++ Standard Library]]**  
 	- All libraries specified by the C++ standard
-	- This includes the
+	- This includes:
 		- STL (containers, iterators, algorithms)
 		- IO
 		- concurrency
-		- File system
-		- Numerics
+		- filesystem
+		- numerics
 		- utilities
-		- other standardized facilities.
-	
+		- other standardized facilities
+
 - **[[Third-party Libraries in C++]]**  
 	- Libraries not part of the C++ standard, such as:
 		- Boost
 		- fmt
 		- Eigen
 		- ecosystem tooling
-		- regex
-		- other third party libraries
-	
+		- other third-party libraries
+
 ---
 
 # Related Notes
