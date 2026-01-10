@@ -37,7 +37,6 @@ At this level, C++ library usage can be divided into the following major areas:
 
 - [[C++ Libraries]]
 - [[C++ Algorithms]]
-- [[C++ Concurrency Library]]
 
 ---
 
@@ -45,16 +44,12 @@ At this level, C++ library usage can be divided into the following major areas:
 
 - **C++ Libraries**  
   Covers the full C++ standard library ecosystem, including headers,
-  utilities, and foundational facilities.  
-  This note **contains** the STL as a sub-area.
+  utilities, and foundational facilities. 
 
 - **C++ Algorithms**  
   Generic algorithms operating on iterator ranges and library-provided
   abstractions.
 
-- **C++ Concurrency Library**  
-  Threading, atomics, synchronization primitives, futures, and parallel
-  execution facilities.
 
 ---
 
