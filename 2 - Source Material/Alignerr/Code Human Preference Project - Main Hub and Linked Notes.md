@@ -4,7 +4,7 @@
 
 ---
 
-# Emre - ToDo for today
+# [[Code Human Preference ToDo|Emre - ToDo for today]]
 
 - Claude Hfi setup
 - Pick a Repo to work with
