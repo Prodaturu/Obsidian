@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
+                "file": "3 - Main Notes/C++/C++ Data Structures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Data Structures and Algorithms"
+              "title": "C++ Data Structures"
             }
           },
           {
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
+                "file": "3 - Main Notes/C++/C++ Data Structures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Data Structures and Algorithms"
+              "title": "Backlinks for C++ Data Structures"
             }
           }
         ]
@@ -275,12 +275,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
+                "file": "3 - Main Notes/C++/C++ Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Data Structures and Algorithms"
+              "title": "Outgoing links from C++ Data Structures"
             }
           }
         ]
@@ -325,6 +325,7 @@
   },
   "active": "000d1037f357cab3",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "3 - Main Notes/C++/C++ Algorithms.md",
     "Indexes/C++.md",
@@ -352,7 +353,6 @@
     "3 - Main Notes/C++/C++ Data Types.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "().md",
-    "Tags/C++ Language Features.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
