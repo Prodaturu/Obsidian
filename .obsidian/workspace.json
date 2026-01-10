@@ -79,7 +79,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6666666666666666,
+                  "scale": 1,
                   "close": false
                 }
               },
@@ -437,10 +437,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c82a906f2e6d9236",
+  "active": "26e34c3d1a3d71c5",
   "lastOpenFiles": [
     "Indexes/C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
+    "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
     "1 - Rough Notes/I let you pass.md",
     "5 - Templates/Title.md",
@@ -465,7 +466,6 @@
     "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
     "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
-    "6 - Full Notes/Dec 2025/2025-12-11.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",

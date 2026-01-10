@@ -1,25 +1,29 @@
 **Created:** 07.12.25, 01:18
 
 **Status:** #map 
-
 **Hashtags:**
-- #cpp
-- #language_features
-- #memory_management
-- #overview
+- **Relevance Tags:**
+	- #cpp
+	- #memory
+	- #lifetime
+	- #overview
+- **Topic Tags:**
+	- #stack
+	- #heap
+	- #storage_duration
+	- #raii
+	- #ownership
 
-**Links / Tags:**
-- **Parent Map:**
-  - C++ Language Features
-
-- **Related Notes:**
-  - [[Stack vs Heap (C++)]]
-  - [[Dynamic Memory Allocation in C++ (new / delete)]]
-  - [[Copy semantics in C++]]
-  - [[RAII and Smart Pointers in C++]]
-  - [[C++ Error Handling]]
-  - [[C++ Data Types]]
-  - [[Runtime Errors]]
+**Links / Tags:** 
+- **Relevance Links:**
+	- C++
+- **Topic Links:**
+	- [[Stack vs Heap in C++]]
+	- [[Storage Duration in C++]]
+	- [[Object Lifetime in C++]]
+	- [[Dynamic Memory Allocation in C++]]
+	- [[RAII in C++]]
+	- [[Ownership and Value Semantics in C++]]
 
 
 # Memory Management in C++
