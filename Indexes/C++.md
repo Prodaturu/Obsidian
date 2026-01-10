@@ -28,13 +28,13 @@ sticker: lucide//code
 	- [[Tooling, Build, and Errors in C++]]
 	- [[Background and History of C++]]
 	 
-   --- 
+%%    --- 
 	- Background and ecosystem:
 		- C vs C++ - Main Differences and Commonality between C and C++
-		- [[History of C++]]
-		- [[C++ Language Features]]
-		- [[C++ Data Type System]]  
-		- [[C++ Libraries]] - Libraries and C++ ecosystem
+			- [[History of C++]]
+			- [[C++ Language Features]]
+			- [[C++ Data Type System]]  
+			- [[C++ Libraries]] - Libraries and C++ ecosystem
 		
 	- OOPS:
 		- [[OOPS in C++]] - Object Oriented Programming in C++
@@ -48,7 +48,7 @@ sticker: lucide//code
 		- [[Structuring a C++ codebase|C++ code structuring]]
 		- [[C++ Libraries]]
 	
-
+ %%
 ---
 
 # C++
