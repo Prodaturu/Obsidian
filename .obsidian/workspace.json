@@ -6,7 +6,7 @@
       {
         "id": "6ce80f5e600122f2",
         "type": "tabs",
-        "dimension": 18.61244019138756,
+        "dimension": 32.25643614336194,
         "children": [
           {
             "id": "84924dfb8ceb42ae",
@@ -48,7 +48,7 @@
       {
         "id": "8f6322a4bb50e6c7",
         "type": "tabs",
-        "dimension": 32.77511961722488,
+        "dimension": 19.131751640585563,
         "children": [
           {
             "id": "26e34c3d1a3d71c5",
@@ -93,7 +93,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 48.61244019138756,
+        "dimension": 48.6118122160525,
         "children": [
           {
             "id": "6941b72bc089b826",
@@ -117,6 +117,30 @@
               },
               "icon": "lucide-file",
               "title": "C++"
+            }
+          },
+          {
+            "id": "1a1d89629ef69cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ Algorithms and Libraries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Algorithms and Libraries"
             }
           },
           {
@@ -167,7 +191,8 @@
               "title": "C++ Data Type System"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -256,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ Algorithms and Libraries.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of C++ Algorithms and Libraries"
             }
           },
           {
@@ -362,7 +388,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ Algorithms and Libraries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -372,7 +398,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for C++ Algorithms and Libraries"
             }
           }
         ]
@@ -388,12 +414,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ Algorithms and Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++"
+              "title": "Outgoing links from C++ Algorithms and Libraries"
             }
           }
         ]
@@ -436,10 +462,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6941b72bc089b826",
+  "active": "26e34c3d1a3d71c5",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/Memory management in C++.md",
     "Indexes/C++.md",
+    "C++ Algorithms and Libraries.md",
+    "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
     "1 - Rough Notes/I let you pass.md",
@@ -464,7 +491,6 @@
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
     "3 - Main Notes/C++/User-Defined Types in C++.md",
-    "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
