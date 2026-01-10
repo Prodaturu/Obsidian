@@ -1,62 +1,70 @@
-**Created:** *26.11.25, 23:31*
+**Created:** *<span class ="color-green">26.11.25, 23:31</span>*
 
-**Note Type:**
+**Note Type:** #map
 
 **Hashtags:**
 - **Relevance Tags:**
-	- #CPP 
-	- #OOPS 
-	  
+	- #cpp
+	- #oops
+	- #objectoriented
+	- #overview
 - **Topic Tags:**
-	- #encapsulation 
-	- #classes 
-	- #inheritance 
-	- #polymorphism 
+	- #classes
+	- #encapsulation
+	- #inheritance
+	- #polymorphism
 
 **Links / Tags:** 
 - **Relevance Links:**
 	- C++
-	
 - **Topic Links:**
-	- [[Classes in C++]]
+	- [[Classes and Objects in C++]]
 	- [[Encapsulation in C++]]
 	- [[Inheritance in C++]]
-	- [[Polymorphism in C++]
+	- [[Polymorphism in C++]]
+	  
 ---
+
 # OOPS in C++
 
-> object-oriented programming concepts as implemented in C++.
+> Object-oriented programming concepts as implemented in C++.
 
-- **hub** for core OOP ideas.  
-- each linked note focuses on **one concept only**.
-
-## Core OOP concepts
-
-- [[Classes in C++]]  
-  how data and behaviour are grouped together.
-
-- [[Encapsulation in C++]]  
-  controlling access to data using public / private / protected.
-
-- [[Inheritance in C++]]  
-  creating new classes based on existing ones.
-
-- [[Polymorphism in C++]]  
-  treating related objects uniformly using base-class interfaces.
-
-## Navigation
-
-- parent: C++  
-- children: the four core OOP concepts above  
-- deeper details (constructors, virtual functions, abstract classes, etc.) live under those child notes.
+- Object-oriented programming in C++ provides language-level mechanisms to
+	- model data and behavior together
+	- define interfaces
+	- enable reuse
+	- substitution through type relationships.
+	
+- In C++, object-oriented programming coexists with procedural and generic programming
+- Integrated with the language’s type system
 
 ---
 
+## Object-oriented core
+
+The object-oriented model in C++ is defined by the following fundamental ideas:
+- grouping state and behavior into types
+- controlling visibility and invariants
+- extending and specializing behavior
+- enabling substitution via polymorphism
+
+## Conceptual Components
+
+- [[Classes and Objects in C++]]
+- [[Encapsulation in C++]]
+- [[Inheritance in C++]]
+- [[Polymorphism in C++]]
+
+---
+
+# Related Notes
+> Things you might want to think about alongside this note, but not because of it
+
+- Generic programming
+- Type systems
+- Memory management
+- Design patterns
+
 # References
-
-## Closely Related Notes
-
-### Next:
-
-### Prev:
-
+- ISO/IEC C++ Standard
+- [cppreference-Objects](https://en.cppreference.com/w/cpp/language/objects.html)

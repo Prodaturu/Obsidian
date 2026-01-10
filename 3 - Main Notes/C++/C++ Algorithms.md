@@ -1,170 +1,136 @@
 **Created:** *<span class ="color-green">09.12.25, 15:29</span>*
 
-**Note Type:**
+**Note Type:** #map
 
 **Hashtags:**
 - **Relevance Tags:**
-	- 
+	- #cpp
+	- #algorithms
+	- #dsa
+	- #overview
 - **Topic Tags:**
-	- 
+	- #sorting
+	- #searching
+	- #graphs
+	- #dp
+	- #math
 
 **Links / Tags:** 
 - **Relevance Links:**
-	- 
+	- C++ Data Structures and Algorithms
+	- Algorithms
 - **Topic Links:**
-	- 
-
+	- Algorithmic Categories
+		- [[C++ Sorting Algorithms]]
+		- [[C++ Searching Algorithms]]
+		- [[C++ Graph Algorithms]]
+		- [[C++ String Algorithms]]
+		- [[C++ Dynamic Programming]]
+		- [[C++ Mathematical Algorithms]]
+		- [[C++ Optimization Techniques]]
+	- [[Algorithmic Complexity]]
+	  
 ---
 
 # C++ Algorithms
 
-- Table of Algorithmic Concepts through C++
+> Algorithmic techniques and problem-solving patterns in C++.
 
-| **DSA Name**                   | **C++ Notes File Name** |
-| ------------------------------ | ----------------------- |
-| Array                          | C++ Arrays              |
-| Linked List                    | Linked-List             |
-| Doubly Linked List             | Doubly-Linked-List      |
-| Circular Linked List           | Circular-Linked-List    |
-| Stack                          | Stack                   |
-| Queue                          | Queue                   |
-| Circular Queue                 | Circular-Queue          |
-| Priority Queue                 | Priority-Queue          |
-| Deque                          | Deque                   |
-| Hash Table                     | Hash-Table              |
-| Hash Map                       | HashMap                 |
-| Hash Set                       | HashSet                 |
-| Heap                           | Heap                    |
-| Min Heap                       | Min-Heap                |
-| Max Heap                       | Max-Heap                |
-| Graph                          | Graph                   |
-| Tree                           | Tree                    |
-| Binary Tree                    | Binary-Tree             |
-| Binary Search Tree             | Binary-Search-Tree      |
-| Trie                           | Trie                    |
-| **Advanced Data Structures**   |                         |
-| AVL Tree                       | AVL-Tree                |
-| Red-Black Tree                 | Red-Black-Tree          |
-| B-Tree                         | B-Tree                  |
-| B+ Tree                        | BPlus-Tree              |
-| Segment Tree                   | Segment-Tree            |
-| Segment Tree (Lazy)            | Segment-Tree-Lazy       |
-| Fenwick Tree (BIT)             | Fenwick-Tree            |
-| Disjoint Set (Union-Find)      | Disjoint-Set            |
-| Bloom Filter                   | Bloom-Filter            |
-| Skip List                      | Skip-List               |
-| Sparse Table                   | Sparse-Table            |
-| Treap                          | Treap                   |
-| Splay Tree                     | Splay-Tree              |
-| **Sorting Algorithms**         |                         |
-| Bubble Sort                    | Bubble-Sort             |
-| Selection Sort                 | Selection-Sort          |
-| Insertion Sort                 | Insertion-Sort          |
-| Merge Sort                     | Merge-Sort              |
-| Quick Sort                     | Quick-Sort              |
-| Heap Sort                      | Heap-Sort               |
-| Counting Sort                  | Counting-Sort           |
-| Radix Sort                     | Radix-Sort              |
-| Bucket Sort                    | Bucket-Sort             |
-| Shell Sort                     | Shell-Sort              |
-| Tim Sort                       | Tim-Sort                |
-| **Searching Algorithms**       |                         |
-| Linear Search                  | Linear-Search           |
-| Binary Search                  | Binary-Search           |
-| Depth-First Search             | DFS                     |
-| Breadth-First Search           | BFS                     |
-| Ternary Search                 | Ternary-Search          |
-| Exponential Search             | Exponential-Search      |
-| Jump Search                    | Jump-Search             |
-| Interpolation Search           | Interpolation-Search    |
-| A* Search                      | A-Star-Search           |
-| IDDFS                          | IDDFS                   |
-| **Graph Algorithms**           |                         |
-| Dijkstra                       | Dijkstra                |
-| Bellman-Ford                   | Bellman-Ford            |
-| Floyd-Warshall                 | Floyd-Warshall          |
-| Prim                           | Prim                    |
-| Kruskal                        | Kruskal                 |
-| Topological Sort               | Topological-Sort        |
-| Kosaraju                       | Kosaraju                |
-| Tarjan                         | Tarjan                  |
-| Ford-Fulkerson                 | Ford-Fulkerson          |
-| Edmonds-Karp                   | Edmonds-Karp            |
-| Kahn’s Algorithm               | Kahns-Algorithm         |
-| **String Algorithms**          |                         |
-| KMP                            | KMP                     |
-| Rabin-Karp                     | Rabin-Karp              |
-| Boyer-Moore                    | Boyer-Moore             |
-| Z Algorithm                    | Z-Algorithm             |
-| Trie Operations                | Trie-Operations         |
-| Suffix Array                   | Suffix-Array            |
-| Suffix Tree                    | Suffix-Tree             |
-| Aho-Corasick                   | Aho-Corasick            |
-| Manacher                       | Manacher                |
-| LCS                            | LCS                     |
-| Edit Distance                  | Edit-Distance           |
-| **Dynamic Programming**        |                         |
-| 0/1 Knapsack                   | 01-Knapsack             |
-| Fibonacci DP                   | Fibonacci-DP            |
-| Longest Increasing Subsequence | LIS                     |
-| Matrix Chain Multiplication    | Matrix-Chain-Mult       |
-| Coin Change                    | Coin-Change             |
-| LCS (DP)                       | LCS-DP                  |
-| Edit Distance (DP)             | Edit-Distance-DP        |
-| Maximum Subarray               | Max-Subarray            |
-| Rod Cutting                    | Rod-Cutting             |
-| Subset Sum                     | Subset-Sum              |
-| DP on Trees                    | DP-Trees                |
-| DP on Bitmask                  | Bitmask-DP              |
-| **Mathematical Algorithms**    |                         |
-| Euclidean Algorithm            | Euclidean-Algorithm     |
-| Sieve of Eratosthenes          | Sieve                   |
-| Segmented Sieve                | Segmented-Sieve         |
-| Fast Exponentiation            | Fast-Exponentiation     |
-| Modular Inverse                | Modular-Inverse         |
-| Catalan Numbers                | Catalan-Numbers         |
-| Fibonacci Numbers              | Fibonacci               |
-| Prime Factorization            | Prime-Factorization     |
-| GCD/LCM                        | GCD-LCM                 |
-| Binomial Coefficient           | Binomial-Coefficient    |
-| Modular Arithmetic             | Modular-Arithmetic      |
-| Matrix Exponentiation          | Matrix-Exponentiation   |
-| **System Design Concepts**     |                         |
-| LRU Cache                      | LRU-Cache               |
-| LFU Cache                      | LFU-Cache               |
-| Round Robin                    | Round-Robin             |
-| Producer-Consumer              | Producer-Consumer       |
-| Reader-Writer                  | Reader-Writer           |
-| Rate Limiter                   | Rate-Limiter            |
-| Consistent Hashing             | Consistent-Hashing      |
-| Load Balancer                  | Load-Balancer           |
-| Message Queue                  | Message-Queue           |
-| Circuit Breaker                | Circuit-Breaker         |
-| Distributed Lock               | Distributed-Lock        |
-| **Optimization Techniques**    |                         |
-| Memoization                    | Memoization             |
-| Tabulation                     | Tabulation              |
-| Sliding Window                 | Sliding-Window          |
-| Two Pointers                   | Two-Pointers            |
-| Greedy Algorithms              | Greedy-Algorithms       |
-| Backtracking                   | Backtracking            |
-| Divide and Conquer             | Divide-and-Conquer      |
-| Bit Manipulation               | Bit-Manipulation        |
-| Meet in the Middle             | Meet-in-the-Middle      |
-| **Competitive Programming**    |                         |
-| Moore's Voting                 | Moores-Voting           |
-| Kadane                         | Kadane                  |
-| Floyd Cycle Detection          | Floyd-Cycle             |
-| Manacher                       | Manacher                |
-| CRT                            | CRT                     |
-| BIT (Fenwick)                  | Binary-Indexed-Tree     |
-| Mo’s Algorithm                 | Mos-Algorithm           |
-| Binary Lifting                 | Binary-Lifting          |
-| Heavy-Light Decomposition      | HLD                     |
+Algorithms define **procedures for solving problems and transforming data**
+in a finite sequence of steps.
 
+In C++, algorithms are influenced by:
+- the underlying data structures
+- iterator- and range-based abstractions
+- value, reference, and move semantics
+- time and space complexity constraints
 
-# Internal References
+They range from **generic algorithms provided by the standard library** to
+**custom, problem-specific implementations**.
 
+---
 
+## i. Algorithm Categories
 
-# External References
+Algorithms in C++ can be organized into the following major conceptual groups.
+
+### 1. [[C++ Sorting Algorithms|Sorting Algorithms]]
+- Sorting algorithms reorder data according to a defined ordering relation
+- Fundamental to many other algorithms
+- serve as building blocks for more complex solutions.
+
+### 2. [[C++ Searching Algorithms|Searching Algorithms]]
+
+- Searching algorithms locate elements or patterns within data structures
+- They vary based on
+	- data organization
+	- ordering
+	- performance requirements.
+
+### 3. [[C++ Graph Algorithms|Graph Algorithms]]
+
+Graph algorithms operate on graph-structured data to solve problems involving
+connectivity, paths, cycles, and flows.
+
+### 4. [[C++ String Algorithms|String Algorithms]]
+
+String algorithms process sequences of characters and are used for pattern
+matching, text processing, and parsing.
+
+### 5. [[C++ Dynamic Programming|Dynamic Programming]]
+
+Dynamic programming algorithms solve problems by breaking them into
+overlapping sub-problems and storing intermediate results.
+
+### 6. [[C++ Mathematical Algorithms|Mathematical Algorithms]]
+
+Mathematical algorithms perform numerical and number-theoretic computations,
+often forming the foundation for cryptography and optimization.
+
+### 7. [[C++ Optimization Techniques|Optimization Techniques]]
+
+Optimization techniques improve algorithm efficiency by reducing redundant
+work or exploiting problem structure.
+
+---
+
+## ii. [[Algorithm Complexity|Complexity of Algorithms]]
+
+- Algorithmic complexity describes
+	- **how the cost of an algorithm grows** with input size
+	  
+- In the context of C++ algorithms, complexity analysis is used to:
+	- compare different algorithmic approaches
+	- understand scalability limits
+	- reason about performance trade-offs
+	- choose appropriate data structures and algorithms together
+	  
+- Complexity is usually expressed in terms of:
+	- **time complexity** — how execution time grows
+	- **space complexity** — how memory usage grows
+	  
+- These costs are analyzed independently of hardware
+	- focusing on **growth rates**
+	- rather than absolute runtime.
+	  
+- Key ideas associated with algorithm complexity include:
+	- asymptotic analysis
+	- best, average, and worst-case behavior
+	- amortized complexity
+	- trade-offs between time and space
+	  
+- 🖇️***Detailed discussion***:- [[Algorithmic Complexity]]
+---
+
+# Related Notes
+> Things you might want to think about alongside this note, but not because of it
+
+- Computational complexity
+- Problem-solving strategies
+- Performance engineering
+
+---
+# References
+- Algorithm textbooks
+- [cp-algorithms](https://cp-algorithms.com/)
+- [cppreference – algorithms](https://en.cppreference.com/w/cpp/algorithm)

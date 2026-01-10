@@ -4,70 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce80f5e600122f2",
+        "id": "9595362cbc21259c",
         "type": "tabs",
-        "dimension": 40.25834230355221,
         "children": [
           {
-            "id": "d5cac653489654f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "84924dfb8ceb42ae",
+            "id": "000d1037f357cab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": true,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inference in AI Systems"
-            }
-          }
-        ]
-      },
-      {
-        "id": "95739fb80564007a",
-        "type": "tabs",
-        "dimension": 59.74165769644779,
-        "children": [
-          {
-            "id": "e196ee186f8e72ab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "C++.Primer.5th.Edition_2013"
-            }
-          },
-          {
-            "id": "279e4db1a12b6019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language Features"
+              "title": "C++ Algorithms"
             }
           },
           {
-            "id": "6941b72bc089b826",
+            "id": "f560ff5aa1d475d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Data Types.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Data Types"
-            }
-          },
-          {
-            "id": "4c4417bbc7bed543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/C++ Data Type System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++ Data Type System"
+              "title": "Code Human Preference ToDo"
             }
           }
         ],
@@ -206,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -223,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ STL.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Language Features"
+              "title": "Outline of C++ STL"
             }
           },
           {
@@ -267,32 +190,6 @@
             }
           },
           {
-            "id": "554cf51542e4b4b8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "c935635ee4077599",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "5ca769bd5ed36c9c",
             "type": "leaf",
             "state": {
@@ -306,7 +203,7 @@
             }
           },
           {
-            "id": "6910070ac5438d88",
+            "id": "87773e609ec4bfd3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -319,7 +216,33 @@
             }
           },
           {
-            "id": "7cf1fd1851bee783",
+            "id": "f1e929604adedf59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "243dff822740286d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87a0175c50f5b5cb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -334,7 +257,7 @@
       {
         "id": "353b5826e8f5adba",
         "type": "tabs",
-        "dimension": 35.27324343506032,
+        "dimension": 22.356281050390347,
         "children": [
           {
             "id": "2294c04759ebe7ec",
@@ -342,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +275,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Language Features"
+              "title": "Backlinks for Code Human Preference ToDo"
             }
           }
         ]
@@ -360,7 +283,7 @@
       {
         "id": "a7c9005ff83fbcf1",
         "type": "tabs",
-        "dimension": 14.194464158977999,
+        "dimension": 27.111426543647976,
         "children": [
           {
             "id": "dffa69b0e2fb67a7",
@@ -368,12 +291,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Language Features"
+              "title": "Outgoing links from Code Human Preference ToDo"
             }
           }
         ]
@@ -416,44 +339,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "279e4db1a12b6019",
+  "active": "f560ff5aa1d475d9",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Data Type System.md",
-    "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/C++ Files.md",
-    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
-    "5 - Templates/Title.md",
-    "Indexes/C++.md",
-    "3 - Main Notes/C++/C++ Data Types.md",
+    "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
+    "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
+    "3 - Main Notes/C++/Structuring a C++ codebase.md",
+    "Tags/user-defined.md",
+    "3 - Main Notes/C++/C++ Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
-    "Tags/Classes in C++.md",
-    "3 - Main Notes/C++/Canonical Forms in C++.md",
-    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-    "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
-    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
-    "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
-    "3 - Main Notes/C++/User-Defined Types in C++.md",
-    "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
-    "6 - Full Notes/Dec 2025/2025-12-11.md",
-    "3 - Main Notes/C++/C vs C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "3 - Main Notes/C++/Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
+    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/C++ Standard Library.md",
+    "3 - Main Notes/C++/C++ STL.md",
+    "conflict-files-obsidian-git.md",
+    "2 - Source Material/Alignerr/.md",
+    "3 - Main Notes/C++/C++ Files.md",
+    "2 - Source Material/Alignerr",
+    "3 - Main Notes/C++/Memory management in C++.md",
+    "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
+    "3 - Main Notes/C++/C++ Data Type System.md",
+    "1 - Rough Notes/I let you pass.md",
+    "5 - Templates/Title.md",
+    "Tags/OOPS in C++.md",
+    "Special Member Functions in C++.md",
     "3 - Main Notes/C++/Polymorphism in C++.md",
-    "3 - Main Notes/C++/Copy Assignment Operator in C++.md",
-    "6 - Full Notes/Jan 2026/2026-01-09.md",
-    "3 - Main Notes/AI Engineer/Vector Basics for AI.md",
+    "3 - Main Notes/C++/C++ Language and Semantics.md",
+    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
+    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
-    "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/AI Engineer",
     "3 - Main Notes/C++/42CPP",
     "3 - Main Notes/C++/42CPP/cpp00.en.subject.pdf",
     "2 - Source Material/Books/professionalcpp.pdf",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
     "2 - Source Material/Books/The Project Gutenberg eBook of Der Schimmelreiter, by Theodor Storm.pdf",
-    "2 - Source Material/Books/InformationTheoryBook1.pdf",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
