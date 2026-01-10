@@ -79,7 +79,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6666666666666666,
+                  "scale": 1,
                   "close": false
                 }
               },
@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Language and Semantics.md",
+                "file": "Tags/OOPS in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -152,7 +152,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language and Semantics"
+              "title": "OOPS in C++"
             }
           },
           {
@@ -252,8 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -270,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Language and Semantics.md",
+                "file": "Tags/OOPS in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Language and Semantics"
+              "title": "Outline of OOPS in C++"
             }
           },
           {
@@ -376,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Language and Semantics.md",
+                "file": "Tags/OOPS in C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -386,7 +385,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Language and Semantics"
+              "title": "Backlinks for OOPS in C++"
             }
           }
         ]
@@ -402,12 +401,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Language and Semantics.md",
+                "file": "Tags/OOPS in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Language and Semantics"
+              "title": "Outgoing links from OOPS in C++"
             }
           }
         ]
@@ -452,8 +451,11 @@
   },
   "active": "6941b72bc089b826",
   "lastOpenFiles": [
+    "Special Member Functions in C++.md",
+    "Tags/OOPS in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
     "Indexes/C++.md",
-    "C++ Language and Semantics.md",
+    "3 - Main Notes/C++/C++ Language and Semantics.md",
     "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
     "cppreference.com.md",
@@ -476,9 +478,6 @@
     "3 - Main Notes/C++/General Rules for Operator Overloading in C++.md",
     "6 - Full Notes/Dec 2025/2025-12-11.md",
     "3 - Main Notes/C++/C vs C++.md",
-    "3 - Main Notes/C++/Operator Overloading in C++.md",
-    "3 - Main Notes/C++/Abstract Classes in C++.md",
-    "3 - Main Notes/C++/Virtual Functions in C++.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",

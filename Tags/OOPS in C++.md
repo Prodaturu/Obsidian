@@ -1,27 +1,31 @@
 **Created:** *26.11.25, 23:31*
 
-**Note Type:**
+**Note Type:** #map
 
 **Hashtags:**
 - **Relevance Tags:**
 	- #CPP 
 	- #OOPS 
+	- #objectoriented
 	  
 - **Topic Tags:**
-	- #encapsulation 
 	- #classes 
+	- #objects 
+	- #encapsulation 
 	- #inheritance 
 	- #polymorphism 
-
+	- #lifetime 
+	  
 **Links / Tags:** 
 - **Relevance Links:**
 	- C++
 	
 - **Topic Links:**
-	- [[Classes in C++]]
+	- [[Classes and objects in C++]]
 	- [[Encapsulation in C++]]
 	- [[Inheritance in C++]]
-	- [[Polymorphism in C++]
+	- [[Polymorphism in C++]]
+	  
 ---
 # OOPS in C++
 
