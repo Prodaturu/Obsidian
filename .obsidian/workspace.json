@@ -12,10 +12,24 @@
             "id": "84924dfb8ceb42ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Libraries"
             },
             "group": "d52578b201afb42c"
           },
@@ -48,7 +62,7 @@
       {
         "id": "8f6322a4bb50e6c7",
         "type": "tabs",
-        "dimension": 19.131751640585563,
+        "dimension": 29.8334174659263,
         "children": [
           {
             "id": "26e34c3d1a3d71c5",
@@ -56,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,16 +98,65 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of C++"
+              "title": "Graph of C++ Libraries"
             },
             "group": "d52578b201afb42c"
+          },
+          {
+            "id": "1d815d6c89018d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Libraries"
+            }
+          },
+          {
+            "id": "994c0e72ac4338bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/C++ STL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ STL"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 48.6118122160525,
+        "dimension": 37.910146390711766,
         "children": [
           {
             "id": "6941b72bc089b826",
@@ -462,10 +525,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26e34c3d1a3d71c5",
+  "active": "1a1d89629ef69cfd",
   "lastOpenFiles": [
-    "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ STL.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
     "C++ Algorithms and Libraries.md",
+    "Indexes/C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
@@ -489,8 +554,6 @@
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
-    "3 - Main Notes/C++/Pointer and Reference Types in C++.md",
-    "3 - Main Notes/C++/User-Defined Types in C++.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
