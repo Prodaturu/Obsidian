@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md",
+                "file": "3 - Main Notes/C++/C++ STL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of C++ Files"
+              "title": "Graph of C++ STL"
             }
           },
           {
@@ -280,7 +280,7 @@
       {
         "id": "1fe2ea7f18082816",
         "type": "tabs",
-        "dimension": 28.67281760113556,
+        "dimension": 28.672817601135556,
         "children": [
           {
             "id": "620fa379c273d379",
@@ -288,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md",
+                "file": "3 - Main Notes/C++/C++ STL.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Files"
+              "title": "Outline of C++ STL"
             }
           },
           {
@@ -374,6 +374,19 @@
             "id": "87773e609ec4bfd3",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1e929604adedf59",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -394,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md",
+                "file": "3 - Main Notes/C++/C++ STL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +417,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Files"
+              "title": "Backlinks for C++ STL"
             }
           }
         ]
@@ -420,12 +433,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md",
+                "file": "3 - Main Notes/C++/C++ STL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Files"
+              "title": "Outgoing links from C++ STL"
             }
           }
         ]
@@ -468,8 +481,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "36379c4b6b2ac128",
+  "active": "906a5a073471d742",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ STL.md",
     "C++ Standard Library.md",
@@ -490,7 +504,6 @@
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "().md",
     "Tags/C++ Language Features.md",
-    "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
