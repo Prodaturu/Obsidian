@@ -167,8 +167,7 @@
               "title": "C++ Data Type System"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "Indexes/C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Memory management in C++"
+              "title": "Outline of C++"
             }
           },
           {
@@ -363,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -373,7 +372,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Memory management in C++"
+              "title": "Backlinks for C++"
             }
           }
         ]
@@ -389,12 +388,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "file": "Indexes/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Memory management in C++"
+              "title": "Outgoing links from C++"
             }
           }
         ]
@@ -437,10 +436,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26e34c3d1a3d71c5",
+  "active": "6941b72bc089b826",
   "lastOpenFiles": [
-    "Indexes/C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
+    "Indexes/C++.md",
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
     "1 - Rough Notes/I let you pass.md",
