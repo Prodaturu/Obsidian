@@ -150,6 +150,30 @@
             }
           },
           {
+            "id": "4084c7cf3674d2dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Alignerr/Loom Video Alignerr Code Human Preference Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Loom Video Alignerr Code Human Preference Project"
+            }
+          },
+          {
             "id": "c82a906f2e6d9236",
             "type": "leaf",
             "state": {
@@ -198,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,8 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -407,7 +430,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ STL.md",
+                "file": "2 - Source Material/Alignerr/Loom Video Alignerr Code Human Preference Project.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,7 +440,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ STL"
+              "title": "Backlinks for Loom Video Alignerr Code Human Preference Project"
             }
           }
         ]
@@ -433,12 +456,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ STL.md",
+                "file": "2 - Source Material/Alignerr/Loom Video Alignerr Code Human Preference Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ STL"
+              "title": "Outgoing links from Loom Video Alignerr Code Human Preference Project"
             }
           }
         ]
@@ -481,11 +504,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "906a5a073471d742",
+  "active": "4084c7cf3674d2dd",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ STL.md",
+    "2 - Source Material/Alignerr/Loom Video Alignerr Code Human Preference Project.md",
+    "2 - Source Material/Alignerr",
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/C++/C++ Libraries.md",
-    "3 - Main Notes/C++/C++ STL.md",
     "C++ Standard Library.md",
     "Indexes/C++.md",
     "C++ Algorithms and Libraries.md",
@@ -509,7 +534,6 @@
     "3 - Main Notes/C++/C++ Data Structures.md",
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
-    "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
@@ -518,7 +542,6 @@
     "2 - Source Material/Books/professionalcpp.pdf",
     "2 - Source Material/Books/Basic Mathematics Pre-Machine Learning.pdf",
     "2 - Source Material/Books/The Project Gutenberg eBook of Der Schimmelreiter, by Theodor Storm.pdf",
-    "2 - Source Material/Books/InformationTheoryBook1.pdf",
     "Untitled.canvas",
     "6 - Full Notes/Pasted image 20251125054541.png",
     "6 - Full Notes/Pasted image 20251119045008.png",
