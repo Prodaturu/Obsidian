@@ -14,3 +14,6 @@ to users how to use it effectively beyond basic cases.Documentation and examples
 options, and some usage patterns produce output that is surprising or unclear  
 to first-time users.Improve how the project communicates its intended usage and behavior through  
 clearer documentation and examples, without changing functionality or scope
+
+
+cc_agentic_coding
