@@ -1,72 +1,67 @@
-**Created:** 02.12.25, 04:12
+**Created:** *<span class ="color-green">10.01.26, 07:40</span>*
 
-**Status:** #map
+**Note Type:** #map
 
 **Hashtags:**
-
-- #cpp    
-- #libraries
-- #stl
-- #standardlibrary
-- #map
-  
-**Links / Tags:**
-
-- **Relevance Links:**
-    
-    - C++ Standard Library Headers by Version <!-- parent, plain text on purpose -->
-        
-    - [[C++ STL]]
-    - [[iostream header in C++]]
-    - [[fstream header in C++]]
-    - [[string header in C++]]
-    - [[cmath header in C++]]
-    - [[chrono library in C++]]
-    - [[filesystem library in C++]]
-    - [[regex library in C++]]
-    - [[thread library in C++]]
-    - [[atomic library in C++]]
-    - [[async and future in C++]]
-    - [[random library in C++]]
-    - [[limits header in C++]]
-    
+- **Relevance Tags:**
+	- #cpp
+	- #libraries
+	- #overview
 - **Topic Tags:**
-    
-    - #stdheaders
-    - #cpplibraries
-    - #cpp98
-    - #moderncpp
+	- #standardlibrary
+	- #thirdpartylibraries
+	- #linking
 
-# Most Commonly Used C++ Standard Library Components
-
-- This note is a **map** of standard library components you will see often:
-
-	- some are **C++98**
-	- some are **C++11 and later**
-
-Each “library” below usually comes from **one or more headers**.
+**Links / Tags:** 
+- **Relevance Links:**
+	- C++
+- **Topic Links:**
+	- [[C++ Standard Library]]
+	- [[Third-party Libraries in C++]]
 
 ---
-## Table of common components
 
-| Component / Topic          | Header(s)               | Note file                     | Standard |
-| -------------------------- | ----------------------- | ----------------------------- | -------- |
-| STL overview               | `<vector>`, `<map>`, …  | [[C++ STL]]                   | C++98+   |
-| iostream                   | `<iostream>`            | [[iostream header in C++]]    | C++98    |
-| fstream (file I/O)         | `<fstream>`             | [[fstream header in C++]]     | C++98    |
-| string                     | `<string>`              | [[string header in C++]]      | C++98    |
-| math functions             | `<cmath>`               | [[cmath header in C++]]       | C++98    |
-| limits                     | `<limits>`              | [[limits header in C++]]      | C++98    |
-| random (classic)           | `<cstdlib>` + `<ctime>` | Random Numbers in C++98       | C++98    |
-| chrono (time, duration)    | `<chrono>`              | [[chrono library in C++]]     | C++11    |
-| filesystem                 | `<filesystem>`          | [[filesystem library in C++]] | C++17    |
-| regex                      | `<regex>`               | [[regex library in C++]]      | C++11    |
-| thread                     | `<thread>`              | [[thread library in C++]]     | C++11    |
-| atomic                     | `<atomic>`              | [[atomic library in C++]]     | C++11    |
-| futures & async            | `<future>`              | [[async and future in C++]]   | C++11    |
-| random (modern generators) | `<random>`              | [[random library in C++]]     | C++11    |
+# C++ Libraries
 
+> All library facilities used in C++ programs.
 
+This note groups **everything that is considered a library in C++**.
+It includes both **standardized libraries** provided by the language and
+**external libraries** used in real-world C++ development.
 
+---
+
+## Conceptual Components
+
+- **[[C++ Standard Library]]**  
+	- All libraries specified by the C++ standard
+	- This includes the
+		- STL (containers, iterators, algorithms)
+		- IO
+		- concurrency
+		- File system
+		- Numerics
+		- utilities
+		- other standardized facilities.
+	
+- **[[Third-party Libraries in C++]]**  
+	- Libraries not part of the C++ standard, such as:
+		- Boost
+		- fmt
+		- Eigen
+		- ecosystem tooling
+		- other third party libraries
+	
+---
+
+# Related Notes
+> Things you might want to think about alongside this note, but not because of it
+
+- Build systems and linkage
+- Package managers
+- ABI and binary compatibility
+- Performance engineering
 
 # References
+- ISO/IEC C++ Standard (Library clauses)
+- [cppreference – C++ standard library](https://en.cppreference.com/w/cpp/standard_library)
