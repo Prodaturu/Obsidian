@@ -6,29 +6,26 @@
 
 ## Big Picture
 
-You are participating in a **Code Human Preference (HFI)** evaluation project.
-
-Your role is to **evaluate AI-generated code changes**, not just write code.
-
-You will:
-
-* Prompt two AI models
-* Compare their outputs (Model A vs Model B)
-* Explain *why* one is better
-* Submit structured feedback and artifacts
-
+- You are participating in a **Code Human Preference (HFI)** evaluation project
+- Your role is to **evaluate AI-generated code changes**, not just write code.
+- You will
+	* Prompt two AI models
+	* Compare their outputs (Model A vs Model B)
+	* Explain *why* one is better
+	* Submit structured feedback and artifacts
+	  
 ---
 
 ## How to Use These Notes
 
-Use this page as your **entry point**.
+- Use this page as your **entry point**
+- Jump to the section that matches what you are doing *right now*:
 
-Jump to the section that matches what you are doing *right now*:
-
-* 🔧 **Environment / Setup** → Sections 1–5
-* 🧠 **Turn 1 Prompting** → Section 6 + linked Prompting Notes
-* 🔍 **Model Evaluation & Rationale** → Sections 7–9 + Rationale Notes
-* 📦 **Uploads & Submission** → Sections 10–12 + Submission Notes
+- ***SECTIONS***
+	* 🔧 **Environment / Setup** → Sections 1–5
+	* 🧠 **Turn 1 Prompting** → Section 6 + linked Prompting Notes
+	* 🔍 **Model Evaluation & Rationale** → Sections 7–9 + Rationale Notes
+	* 📦 **Uploads & Submission** → Sections 10–12 + Submission Notes
 
 If something feels unclear, cross‑check with:
 

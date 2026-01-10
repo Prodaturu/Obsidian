@@ -6,43 +6,40 @@
       {
         "id": "8f6322a4bb50e6c7",
         "type": "tabs",
-        "dimension": 44.03874813710879,
+        "dimension": 60.851287440882814,
         "children": [
           {
-            "id": "26e34c3d1a3d71c5",
+            "id": "4084c7cf3674d2dd",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7217a05f68ac98cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ STL.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.08779149519890259,
-                  "close": false
+                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of C++ STL"
+              "icon": "lucide-file",
+              "title": "Code Human Preference Project - Main Hub and Linked Notes"
             }
           },
           {
@@ -99,7 +96,7 @@
       {
         "id": "95739fb80564007a",
         "type": "tabs",
-        "dimension": 55.96125186289121,
+        "dimension": 39.148712559117186,
         "children": [
           {
             "id": "69bd4e2f1eefbdac",
@@ -147,30 +144,6 @@
               },
               "icon": "lucide-file",
               "title": "C++ STL"
-            }
-          },
-          {
-            "id": "4084c7cf3674d2dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Code Human Preference Project - Main Hub and Linked Notes"
             }
           },
           {
@@ -294,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -504,13 +478,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4084c7cf3674d2dd",
+  "active": "7217a05f68ac98cc",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ STL.md",
-    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
-    "2 - Source Material/Alignerr",
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/C++/C++ Libraries.md",
+    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
+    "3 - Main Notes/C++/C++ STL.md",
+    "2 - Source Material/Alignerr",
     "C++ Standard Library.md",
     "Indexes/C++.md",
     "C++ Algorithms and Libraries.md",
