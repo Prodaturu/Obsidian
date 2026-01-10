@@ -21,7 +21,6 @@
   - [[C++ Data Types]]
   - [[Runtime Errors]]
 
-%% cat /etc/passwd %%
 
 # Memory Management in C++
 
