@@ -37,10 +37,6 @@ C++ language semantics describe how valid C++ programs are formed and how
 meaning is assigned to source code, independent of libraries, tooling, or
 resource ownership concerns.
 
-At the language level, C++ can be divided into the following core area:
-
-- [[C++ Language and Semantics|Language core]]
-
 ---
 
 ## Language core
@@ -56,6 +52,13 @@ The language core defines the fundamental rules that govern:
 
 ## Conceptual Components
 
+- At this level
+	- C++ can be understood by separating the language into a small set of fundamental conceptual areas
+	- that together define how programs are
+		- written
+		- evaluated
+		- translated.
+	
 - Language consists of the following conceptual components:
 	- [[C++ Syntax and Structure]]
 	- [[Expressions and Operators in C++]]
