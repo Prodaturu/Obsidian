@@ -41,7 +41,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +250,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Algorithms"
+              "title": "Backlinks"
             }
           }
         ]
@@ -275,12 +275,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Algorithms"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -323,10 +322,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "000d1037f357cab3",
+  "active": "f560ff5aa1d475d9",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Algorithms.md",
+    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "Indexes/C++.md",

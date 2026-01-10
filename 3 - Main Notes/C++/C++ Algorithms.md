@@ -20,14 +20,16 @@
 	- C++ Data Structures and Algorithms
 	- Algorithms
 - **Topic Links:**
-	- [[C++ Sorting Algorithms]]
-	- [[C++ Searching Algorithms]]
-	- [[C++ Graph Algorithms]]
-	- [[C++ String Algorithms]]
-	- [[C++ Dynamic Programming]]
-	- [[C++ Mathematical Algorithms]]
-	- [[C++ Optimization Techniques]]
-
+	- Algorithmic Categories
+		- [[C++ Sorting Algorithms]]
+		- [[C++ Searching Algorithms]]
+		- [[C++ Graph Algorithms]]
+		- [[C++ String Algorithms]]
+		- [[C++ Dynamic Programming]]
+		- [[C++ Mathematical Algorithms]]
+		- [[C++ Optimization Techniques]]
+	- [[Algorithmic Complexity]]
+	  
 ---
 
 # C++ Algorithms
@@ -48,7 +50,7 @@ They range from **generic algorithms provided by the standard library** to
 
 ---
 
-## Algorithm Categories
+## i. Algorithm Categories
 
 Algorithms in C++ can be organized into the following major conceptual groups.
 
@@ -90,6 +92,34 @@ often forming the foundation for cryptography and optimization.
 Optimization techniques improve algorithm efficiency by reducing redundant
 work or exploiting problem structure.
 
+---
+
+## ii. [[Algorithm Complexity|Complexity of Algorithms]]
+
+- Algorithmic complexity describes
+	- **how the cost of an algorithm grows** with input size
+	  
+- In the context of C++ algorithms, complexity analysis is used to:
+	- compare different algorithmic approaches
+	- understand scalability limits
+	- reason about performance trade-offs
+	- choose appropriate data structures and algorithms together
+	  
+- Complexity is usually expressed in terms of:
+	- **time complexity** — how execution time grows
+	- **space complexity** — how memory usage grows
+	  
+- These costs are analyzed independently of hardware
+	- focusing on **growth rates**
+	- rather than absolute runtime.
+	  
+- Key ideas associated with algorithm complexity include:
+	- asymptotic analysis
+	- best, average, and worst-case behavior
+	- amortized complexity
+	- trade-offs between time and space
+	  
+- 🖇️***Detailed discussion***:- [[Algorithmic Complexity]]
 ---
 
 # Related Notes
