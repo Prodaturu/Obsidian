@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Libraries"
+              "title": "C++ Algorithms, Data Structures and Libraries"
             }
           },
           {
@@ -41,8 +41,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,6 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for C++ Algorithms, Data Structures and Libraries"
             }
           }
         ]
@@ -275,11 +275,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from C++ Algorithms, Data Structures and Libraries"
             }
           }
         ]
@@ -322,13 +323,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f560ff5aa1d475d9",
+  "active": "000d1037f357cab3",
   "lastOpenFiles": [
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
     "3 - Main Notes/C++/C++ STL.md",
-    "3 - Main Notes/C++/C++ Algorithms and Libraries.md",
-    "Indexes/C++.md",
     "conflict-files-obsidian-git.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",

@@ -28,7 +28,7 @@ sticker: lucide//code
 	- [[C++ Language and Semantics]]
 	- [[OOPS in C++]]
 	- [[Memory management in C++]]
-	- [[C++ Algorithms and Libraries]]
+	- [[C++ Algorithms, Data Structures and Libraries]]
 	- [[C++ Tooling and Project Structure]]
 	- [[Background and History of C++]]
 	  
@@ -61,7 +61,7 @@ following major conceptual areas:
 - [[C++ Language and Semantics|Language core and Semantics]]
 - [[OOPS in C++|Object-oriented programming]]
 - [[Memory management in C++|Memory and lifetime]]
-- [[C++ Algorithms and Libraries|Algorithms and libraries]]
+- [[C++ Algorithms, Data Structures and Libraries|Algorithms and libraries]]
 - [[C++ Tooling and Project Structure|Tooling and project structure]]
 - [[Background and History of C++|Background and evolution]]
 
