@@ -54,9 +54,33 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "1a1d89629ef69cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Libraries"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "95739fb80564007a",
@@ -88,12 +112,12 @@
             }
           },
           {
-            "id": "1a1d89629ef69cfd",
+            "id": "906a5a073471d742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/C++ STL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,7 +132,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Libraries"
+              "title": "C++ STL"
             }
           },
           {
@@ -432,10 +456,10 @@
   },
   "active": "1a1d89629ef69cfd",
   "lastOpenFiles": [
-    "Indexes/C++.md",
-    "3 - Main Notes/C++/C++ Libraries.md",
-    "C++ Algorithms and Libraries.md",
     "3 - Main Notes/C++/C++ STL.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
+    "Indexes/C++.md",
+    "C++ Algorithms and Libraries.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
