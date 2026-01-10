@@ -23,7 +23,7 @@ sticker: lucide//code
 - **Relevance Links:**
 	- Programming Languages
 	- Systems Programming
-
+	  
 - **Topic Links:**
 	- [[C++ Language and Semantics]]
 	- [[OOPS in C++]]
@@ -62,7 +62,7 @@ second-level maps below.
 ---
 
 ## Language Core
-- [[C++ Language and Semantics]]
+- [[C++ Language and Semantics|Language core]]
 
 ## Object-Oriented Programming
 - [[OOPS in C++]]
