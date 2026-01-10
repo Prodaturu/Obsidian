@@ -53,15 +53,17 @@ They range from **generic algorithms provided by the standard library** to
 Algorithms in C++ can be organized into the following major conceptual groups.
 
 ### 1. [[C++ Sorting Algorithms|Sorting Algorithms]]
-
-Sorting algorithms reorder data according to a defined ordering relation.
-They are fundamental to many other algorithms and often serve as building
-blocks for more complex solutions.
+- Sorting algorithms reorder data according to a defined ordering relation
+- Fundamental to many other algorithms
+- serve as building blocks for more complex solutions.
 
 ### 2. [[C++ Searching Algorithms|Searching Algorithms]]
 
-Searching algorithms locate elements or patterns within data structures.
-They vary based on data organization, ordering, and performance requirements.
+- Searching algorithms locate elements or patterns within data structures
+- They vary based on
+	- data organization
+	- ordering
+	- performance requirements.
 
 ### 3. [[C++ Graph Algorithms|Graph Algorithms]]
 
@@ -76,7 +78,7 @@ matching, text processing, and parsing.
 ### 5. [[C++ Dynamic Programming|Dynamic Programming]]
 
 Dynamic programming algorithms solve problems by breaking them into
-overlapping subproblems and storing intermediate results.
+overlapping sub-problems and storing intermediate results.
 
 ### 6. [[C++ Mathematical Algorithms|Mathematical Algorithms]]
 
