@@ -43,7 +43,6 @@
 ## Object-oriented core
 
 The object-oriented model in C++ is defined by the following fundamental ideas:
-
 - grouping state and behavior into types
 - controlling visibility and invariants
 - extending and specializing behavior

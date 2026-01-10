@@ -79,7 +79,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.6666666666666666,
                   "close": false
                 }
               },
@@ -96,48 +96,12 @@
         "dimension": 48.61244019138756,
         "children": [
           {
-            "id": "e196ee186f8e72ab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "C++.Primer.5th.Edition_2013"
-            }
-          },
-          {
-            "id": "396f105a66352116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Templates/Title.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Title"
-            }
-          },
-          {
             "id": "6941b72bc089b826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/OOPS in C++.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -152,7 +116,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OOPS in C++"
+              "title": "C++"
+            }
+          },
+          {
+            "id": "c82a906f2e6d9236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Memory management in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memory management in C++"
             }
           },
           {
@@ -180,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/OOPS in C++.md",
+                "file": "3 - Main Notes/C++/Memory management in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOPS in C++"
+              "title": "Outline of Memory management in C++"
             }
           },
           {
@@ -375,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/OOPS in C++.md",
+                "file": "3 - Main Notes/C++/Memory management in C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +373,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OOPS in C++"
+              "title": "Backlinks for Memory management in C++"
             }
           }
         ]
@@ -401,12 +389,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/OOPS in C++.md",
+                "file": "3 - Main Notes/C++/Memory management in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from OOPS in C++"
+              "title": "Outgoing links from Memory management in C++"
             }
           }
         ]
@@ -449,12 +437,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6941b72bc089b826",
+  "active": "c82a906f2e6d9236",
   "lastOpenFiles": [
-    "Special Member Functions in C++.md",
-    "Tags/OOPS in C++.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
     "Indexes/C++.md",
+    "5 - Templates/Title.md",
+    "Tags/OOPS in C++.md",
+    "Special Member Functions in C++.md",
+    "3 - Main Notes/C++/Polymorphism in C++.md",
     "3 - Main Notes/C++/C++ Language and Semantics.md",
     "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
@@ -462,7 +451,6 @@
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
-    "5 - Templates/Title.md",
     "().md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Files.md",
