@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2e37448273208669",
+        "id": "15aa31b21a0f9d23",
         "type": "tabs",
         "children": [
           {
-            "id": "ded3577c767eaea5",
+            "id": "2ddb371d8eac4c71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -192,6 +206,19 @@
             "id": "243dff822740286d",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87a0175c50f5b5cb",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -199,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "353b5826e8f5adba",
@@ -212,6 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +249,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           }
         ]
@@ -237,11 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           }
         ]
@@ -284,7 +313,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ded3577c767eaea5",
+  "active": "2ddb371d8eac4c71",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
