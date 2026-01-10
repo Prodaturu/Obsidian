@@ -26,9 +26,10 @@
 
 > All library facilities used in C++ programs.
 
-This note groups **everything that is considered a library in C++**.
-It includes both **standardized libraries** provided by the language and
-**external libraries** used in real-world C++ development.
+- This note groups **everything that is considered a library in C++**.
+- It includes both 
+	- **standardized libraries** provided by the language
+	- **external libraries** used in real-world C++ development.
 
 ---
 
@@ -51,6 +52,7 @@ It includes both **standardized libraries** provided by the language and
 		- fmt
 		- Eigen
 		- ecosystem tooling
+		- regex
 		- other third party libraries
 	
 ---

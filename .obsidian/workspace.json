@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Files.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -42,17 +42,31 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of C++ Libraries"
+              "title": "Graph of C++ Files"
             }
           },
           {
             "id": "36379c4b6b2ac128",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/C++ Files.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Files"
             }
           },
           {
@@ -80,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "95739fb80564007a",
@@ -274,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Files.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Libraries"
+              "title": "Outline of C++ Files"
             }
           },
           {
@@ -380,7 +394,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Files.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,7 +404,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Libraries"
+              "title": "Backlinks for C++ Files"
             }
           }
         ]
@@ -406,12 +420,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Libraries"
+              "title": "Outgoing links from C++ Files"
             }
           }
         ]
@@ -454,10 +468,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1a1d89629ef69cfd",
+  "active": "36379c4b6b2ac128",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ STL.md",
     "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/C++ STL.md",
+    "C++ Standard Library.md",
     "Indexes/C++.md",
     "C++ Algorithms and Libraries.md",
     "3 - Main Notes/C++/Memory management in C++.md",
@@ -482,7 +497,6 @@
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
     "3 - Main Notes/C++/Orthodox Canonical Form in C++.md",
-    "3 - Main Notes/C++/Lvalue and Rvalue references in c++.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
