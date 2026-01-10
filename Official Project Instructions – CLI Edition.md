@@ -19,7 +19,8 @@ You must:
 * Be competent in your assigned programming language
 * Have the **Claude Code CLI** installed and working locally
 
-
+🔗 **[CLI Install Instructions](https://docs.google.com/document/d/1CQzW4R542zI9bJsato8aAWNM4kKKsOV-C4S_CZcw_lc/edit?usp=sharing)**
+📝 **[[CLI Install Instructions]]**
 
 ---
 
