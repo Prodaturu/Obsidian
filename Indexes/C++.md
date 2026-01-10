@@ -55,29 +55,15 @@ sticker: lucide//code
 - C++ emphasizes performance, deterministic behavior, and explicit control
   over resources and object lifetimes
 
-This note exists purely as a **top-level Map of Content**.
-It provides orientation and delegates all detailed discussion to the linked
-second-level maps below.
+C++ can be understood by dividing the language and its ecosystem into the
+following major conceptual areas:
 
----
-
-## Language Core
 - [[C++ Language and Semantics|Language core]]
-
-## Object-Oriented Programming
-- [[OOPS in C++]]
-
-## Memory and Lifetime
-- [[Memory management in C++]]
-
-## Algorithms and Libraries
-- [[C++ Algorithms and Libraries]]
-
-## Tooling and Project Structure
-- [[C++ Tooling and Project Structure]]
-
-## Background and Evolution
-- [[Background and History of C++]]
+- [[OOPS in C++|Object-oriented programming]]
+- [[Memory management in C++|Memory and lifetime]]
+- [[C++ Algorithms and Libraries|Algorithms and libraries]]
+- [[C++ Tooling and Project Structure|Tooling and project structure]]
+- [[Background and History of C++|Background and evolution]]
 
 ---
 

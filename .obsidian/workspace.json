@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ Language and Semantics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "C++ Language and Semantics"
             }
           },
           {
@@ -223,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ Language and Semantics.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++"
+              "title": "Outline of C++ Language and Semantics"
             }
           },
           {
@@ -329,7 +329,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ Language and Semantics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++"
+              "title": "Backlinks for C++ Language and Semantics"
             }
           }
         ]
@@ -355,12 +355,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ Language and Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++"
+              "title": "Outgoing links from C++ Language and Semantics"
             }
           }
         ]
@@ -405,8 +405,9 @@
   },
   "active": "6941b72bc089b826",
   "lastOpenFiles": [
-    "cppreference.com.md",
     "Indexes/C++.md",
+    "C++ Language and Semantics.md",
+    "cppreference.com.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
@@ -431,7 +432,6 @@
     "3 - Main Notes/C++/Operator Overloading in C++.md",
     "3 - Main Notes/C++/Abstract Classes in C++.md",
     "3 - Main Notes/C++/Virtual Functions in C++.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
