@@ -4,6 +4,15 @@
 
 ---
 
+# Emre - ToDo for today
+
+- Claude Hfi setup
+- Pick a Repo to work with
+	- (personally prefer to have the easiest)
+- Create 1 turn-1 prompt
+
+# Project Main hub
+
 ## Big Picture
 
 - You are participating in a **Code Human Preference (HFI)** evaluation project
