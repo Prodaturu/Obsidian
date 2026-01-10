@@ -9,16 +9,8 @@
 
 # Create 1 turn-1 prompt
 
-"The icecream library provides a very lightweight debugging utility; but as a user it is not
-very always clear about how to use it effectively beyond the simplest cases like ic(fn_name) etc., or other such simple commands.
-
-Some examples and documentation assume prior familiarity with the tool’s output,
-configuration options, and limitations.
-
-In Addition to that,
-certain usage patterns or edge cases can produce output that is surprising and unclear to users using the library for the first time.
-
-               -----
-
-todos:
-Improve how this project communicates its intended usage and behavior to end users, focusing on clearer documentation, examples, and user-facing guidance without changing the core functionality or expanding the scope of the library"
+This library is useful for simple debugging, it becomes unclear  
+to users how to use it effectively beyond basic cases.Documentation and examples assume prior familiarity with the tool’s output and  
+options, and some usage patterns produce output that is surprising or unclear  
+to first-time users.Improve how the project communicates its intended usage and behavior through  
+clearer documentation and examples, without changing functionality or scope

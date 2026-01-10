@@ -35,10 +35,24 @@
             "id": "f560ff5aa1d475d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Code Human Preference ToDo"
             }
           }
         ],
@@ -250,6 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +274,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Code Human Preference ToDo"
             }
           }
         ]
@@ -275,11 +290,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Code Human Preference ToDo"
             }
           }
         ]
@@ -324,6 +340,7 @@
   },
   "active": "f560ff5aa1d475d9",
   "lastOpenFiles": [
+    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "Tags/user-defined.md",
     "3 - Main Notes/C++/C++ Algorithms.md",
@@ -335,7 +352,6 @@
     "3 - Main Notes/C++/C++ Standard Library.md",
     "3 - Main Notes/C++/C++ STL.md",
     "conflict-files-obsidian-git.md",
-    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "2 - Source Material/Alignerr/.md",
     "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
