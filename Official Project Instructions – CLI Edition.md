@@ -3,6 +3,26 @@
 > **Role of this document**: This is the **authoritative reference** for the Code Human Preferences (CLI Edition) project. When in doubt, **this document overrides personal notes, summaries, or habits**.
 
 ---
+## Quick Links & Supporting References
+
+These links are **supporting materials**
+Use them **when relevant**.
+
+- **Claude Code CLI Binary Download**  
+  → Use during first-time setup or version updates
+
+- **CLI Install Instructions**  
+  → Reference if the CLI fails to launch or PATH issues occur
+
+- **Submission Form**  
+  → Used only at submission time
+
+- **Additional Tips**  
+  → Optional guidance; non-authoritative
+
+- **Rationale Writing Guide**  
+  → Consult if you struggle to articulate tradeoffs or preferences
+---
 
 ## 1. Before You Begin
 
