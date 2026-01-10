@@ -5,15 +5,12 @@
 **Hashtags:**
 - **Relevance Tags:**
 	- #cpp
-	- #algorithms
 	- #libraries
+	- #algorithms
 	- #overview
 - **Topic Tags:**
 	- #standardlibrary
-	- #stl
-	- #containers
-	- #algorithms
-	- #utilities
+	- #genericprogramming
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -21,35 +18,31 @@
 - **Topic Links:**
 	- [[C++ Libraries]]
 	- [[C++ Algorithms]]
-	- [[C++ Concurrency Library]]
 
 ---
 
 # C++ Algorithms and Libraries
 
-> Algorithms and reusable library facilities provided by C++.
+> Library facilities and generic algorithms provided by C++.
 
-This note groups all **library-level abstractions** in C++.
-It covers facilities that are not part of the core language, but are essential
-for building real-world programs.
+This note groups all **non-core, reusable facilities** provided by C++.
+Anything that is not part of the language semantics or memory and lifetime
+rules, but is used to store data, operate on data, or build reusable behavior,
+belongs under this area.
 
-At this level, C++ library usage can be divided into the following major areas:
-
-- [[C++ Libraries]]
-- [[C++ Algorithms]]
+At the highest level, this space is divided into two maximal conceptual groups.
 
 ---
 
 ## Conceptual Components
 
-- **C++ Libraries**  
+- **[[C++ Libraries]]**  
   Covers the full C++ standard library ecosystem, including headers,
-  utilities, and foundational facilities. 
+  utilities, concurrency, IO, filesystem, numerics, and foundational facilities.
 
-- **C++ Algorithms**  
-  Generic algorithms operating on iterator ranges and library-provided
-  abstractions.
-
+- **[[C++ Algorithms]]**  
+  Generic algorithms provided by the standard library, operating on iterator
+  ranges and library-defined abstractions.
 
 ---
 
@@ -63,4 +56,5 @@ At this level, C++ library usage can be divided into the following major areas:
 
 # References
 - ISO/IEC C++ Standard (Library clauses)
-- [cppreference – standard library](https://en.cppreference.com/w/cpp/standard_library)
+- [cppreference – C++ libraries](https://en.cppreference.com/w/cpp/standard_library)
+- [cppreference – algorithms](https://en.cppreference.com/w/cpp/algorithm)

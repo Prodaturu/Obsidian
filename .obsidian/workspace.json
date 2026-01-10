@@ -125,33 +125,9 @@
               "icon": "lucide-file",
               "title": "C++ Libraries"
             }
-          },
-          {
-            "id": "994c0e72ac4338bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Main Notes/C++/C++ STL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++ STL"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "95739fb80564007a",
@@ -188,7 +164,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Algorithms and Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -203,7 +179,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Algorithms and Libraries"
+              "title": "C++ Libraries"
             }
           },
           {
@@ -345,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Algorithms and Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Algorithms and Libraries"
+              "title": "Outline of C++ Libraries"
             }
           },
           {
@@ -451,7 +427,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Algorithms and Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -461,7 +437,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Algorithms and Libraries"
+              "title": "Backlinks for C++ Libraries"
             }
           }
         ]
@@ -477,12 +453,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Algorithms and Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Algorithms and Libraries"
+              "title": "Outgoing links from C++ Libraries"
             }
           }
         ]
@@ -527,9 +503,9 @@
   },
   "active": "1a1d89629ef69cfd",
   "lastOpenFiles": [
+    "C++ Algorithms and Libraries.md",
     "3 - Main Notes/C++/C++ STL.md",
     "3 - Main Notes/C++/C++ Libraries.md",
-    "C++ Algorithms and Libraries.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
