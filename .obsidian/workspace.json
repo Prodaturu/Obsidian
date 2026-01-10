@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Alignerr/Loom Video Alignerr Code Human Preference Project.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -170,7 +170,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Loom Video Alignerr Code Human Preference Project"
+              "title": "Code Human Preference Project - Main Hub and Linked Notes"
             }
           },
           {
@@ -430,7 +430,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/Loom Video Alignerr Code Human Preference Project.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -440,7 +440,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Loom Video Alignerr Code Human Preference Project"
+              "title": "Backlinks for Code Human Preference Project - Main Hub and Linked Notes"
             }
           }
         ]
@@ -456,12 +456,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/Loom Video Alignerr Code Human Preference Project.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Loom Video Alignerr Code Human Preference Project"
+              "title": "Outgoing links from Code Human Preference Project - Main Hub and Linked Notes"
             }
           }
         ]
@@ -507,7 +507,7 @@
   "active": "4084c7cf3674d2dd",
   "lastOpenFiles": [
     "3 - Main Notes/C++/C++ STL.md",
-    "2 - Source Material/Alignerr/Loom Video Alignerr Code Human Preference Project.md",
+    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "2 - Source Material/Alignerr",
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/C++/C++ Libraries.md",
