@@ -36,10 +36,24 @@
             "id": "e71c5d25734d3c10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/C++ Files.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++ Files"
             }
           }
         ],
@@ -56,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indexes/C++.md",
+                "file": "C++ IO Libraries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++"
+              "title": "C++ IO Libraries"
             }
           }
         ]
@@ -164,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "C++ IO Libraries.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of C++ IO Libraries"
             }
           },
           {
@@ -191,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "C++ IO Libraries.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -230,6 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++ IO Libraries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +257,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for C++ IO Libraries"
             }
           }
         ]
@@ -255,11 +273,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++ IO Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from C++ IO Libraries"
             }
           }
         ]
@@ -303,13 +322,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e71c5d25734d3c10",
+  "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/History of C++.md",
-    "Indexes/C++.md",
-    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
-    "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
+    "C++ IO Libraries.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
+    "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Files.md",
+    "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/C++ Date and Time Libraries.md",
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
     "3 - Main Notes/C++/regex library in C++.md",
@@ -330,8 +351,6 @@
     "3 - Main Notes/C++/Class Templates in C++.md",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "3 - Main Notes/C++/Character and String Types in C++.md",
-    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
-    "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
     "2 - Source Material/Alignerr",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
