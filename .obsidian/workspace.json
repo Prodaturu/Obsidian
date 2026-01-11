@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "regex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md",
+                "file": "3 - Main Notes/C++/Date and Time using ctime in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Date and Time Libraries"
+              "title": "Outline of Date and Time using ctime in C++"
             }
           },
           {
@@ -181,7 +182,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md"
+                "file": "3 - Main Notes/C++/Date and Time using ctime in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -221,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md",
+                "file": "3 - Main Notes/C++/Date and Time using ctime in C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Date and Time Libraries"
+              "title": "Backlinks for Date and Time using ctime in C++"
             }
           }
         ]
@@ -247,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md",
+                "file": "3 - Main Notes/C++/Date and Time using ctime in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Date and Time Libraries"
+              "title": "Outgoing links from Date and Time using ctime in C++"
             }
           }
         ]
@@ -296,10 +297,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "4212e839befb84fd",
   "lastOpenFiles": [
-    "Vault.md",
     "3 - Main Notes/C++/C++ Date and Time Libraries.md",
+    "3 - Main Notes/C++/regex library in C++.md",
+    "Vault.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
@@ -324,7 +326,6 @@
     "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
-    "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "2 - Source Material/Alignerr",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
