@@ -8,29 +8,44 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-
+	- C++ Standard Library
+	- C++ Date and Time Libraries
+	  
 - **Topic Tags:**
-
+	- 
+	  
+---
 # Date and Time using in C++
 
-- The `ctime` library allows us to work with dates and times
-- To use it,
-	- You must import `<ctime>` header file:
+> Working with dates and times using the C-style `<ctime>` library in C++.
+
+- The `<ctime>` header provides access to **legacy C-style time facilities**
+- Allows programs to obtain the
+	- current time represent timestamps
+	- convert them into human-readable forms.
+	  
+- These facilities are inherited from C and remain available in C++
+	- primarily for compatibility and interoperability with older code
+	  
+
+## Including the `ctime` library
 
 ```cpp
 // Import the data/time library
 #include <ctime>
 ```
 
-## Display Current Date and Time
+## Getting Current Date and Time
 
-- `time()` - Gets current timestamp
-- `ctime()` - Converts timestamp to readable string
+- `time()` - Calendar time as timestamp
+- `ctime()` - Converts timestamp into a readable string
 
 ## ⚡ Two ways to use "time()" function
 
 - The time function both `returns` and `stores`  time
-- So we can both read the time from its `return` value or can read it into a `time_t` variable
+- So we can both
+	- read the time from its `return` value
+	- store and read it from `time_t` variable
 
 ### 1. Using Parameter (Traditional):
 
