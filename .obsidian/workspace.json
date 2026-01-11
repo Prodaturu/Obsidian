@@ -156,12 +156,12 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ IO Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Files.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ IO Libraries"
+              "title": "Outline of C++ Files"
             }
           },
           {
@@ -207,7 +207,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "C++ IO Libraries.md"
+                "file": "3 - Main Notes/C++/C++ Files.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ IO Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Files.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ IO Libraries"
+              "title": "Backlinks for C++ Files"
             }
           }
         ]
@@ -273,12 +273,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ IO Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ IO Libraries"
+              "title": "Outgoing links from C++ Files"
             }
           }
         ]
@@ -322,14 +322,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5cac653489654f3",
+  "active": "e71c5d25734d3c10",
   "lastOpenFiles": [
-    "3 - Main Notes/C++/C++ Standard Library.md",
     "C++ IO Libraries.md",
+    "3 - Main Notes/C++/C++ Files.md",
+    "3 - Main Notes/C++/C++ Standard Library.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "Indexes/C++.md",
-    "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/C++ Date and Time Libraries.md",
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
