@@ -9,27 +9,13 @@
         "dimension": 42.39290989660266,
         "children": [
           {
-            "id": "d5cac653489654f3",
+            "id": "4212e839befb84fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indexes/C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -100,6 +86,30 @@
             }
           },
           {
+            "id": "d5cac653489654f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indexes/C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++"
+            }
+          },
+          {
             "id": "4c4417bbc7bed543",
             "type": "leaf",
             "state": {
@@ -124,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -422,6 +432,8 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Language and Semantics.md",
+    "Indexes/C++.md",
     "Tags/C++ Language Features.md",
     "3 - Main Notes/C++/C++ Data Type System.md",
     "3 - Main Notes/C++/C++ Data Types.md",
@@ -435,7 +447,6 @@
     "3 - Main Notes/C++/Character and String Types in C++.md",
     "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
-    "3 - Main Notes/C++/C++ Language and Semantics.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
@@ -444,7 +455,6 @@
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "5 - Templates/Title.md",
-    "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "3 - Main Notes/C++/Canonical Forms in C++.md",
