@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ Date and Time Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"user-defined\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +144,7 @@
       {
         "id": "1fe2ea7f18082816",
         "type": "tabs",
-        "dimension": 28.672817601135556,
+        "dimension": 33.427963094393185,
         "children": [
           {
             "id": "620fa379c273d379",
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/C++ Language Features.md",
+                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Language Features"
+              "title": "Outline of C++ Date and Time Libraries"
             }
           },
           {
@@ -180,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -196,84 +198,6 @@
             }
           },
           {
-            "id": "554cf51542e4b4b8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "c935635ee4077599",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5ca769bd5ed36c9c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "6910070ac5438d88",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "7cf1fd1851bee783",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "b618a11c5d2328f5",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "b640efd644f7a3c2",
             "type": "leaf",
             "state": {
@@ -284,12 +208,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       },
       {
         "id": "353b5826e8f5adba",
         "type": "tabs",
-        "dimension": 35.27324343506032,
+        "dimension": 30.518097941802697,
         "children": [
           {
             "id": "2294c04759ebe7ec",
@@ -297,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Date and Time Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Date and Time Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Date and Time Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -368,13 +292,15 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5cac653489654f3",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "Vault.md",
+    "3 - Main Notes/C++/C++ Date and Time Libraries.md",
     "5 - Templates/Title.md",
-    "C++ Date and Time Libraries.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
@@ -400,7 +326,6 @@
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "2 - Source Material/Alignerr",
-    "3 - Main Notes/C++/C++ Files.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
