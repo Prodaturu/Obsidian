@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
+                "file": "Expressions and Operators in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -84,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language and Semantics"
+              "title": "Expressions and Operators in C++"
             }
           },
           {
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
+                "file": "Expressions and Operators in C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Language and Semantics"
+              "title": "Outline of Expressions and Operators in C++"
             }
           },
           {
@@ -229,7 +229,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Language and Semantics.md"
+                "file": "Expressions and Operators in C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
+                "file": "Expressions and Operators in C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +279,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Language and Semantics"
+              "title": "Backlinks for Expressions and Operators in C++"
             }
           }
         ]
@@ -295,12 +295,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
+                "file": "Expressions and Operators in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Language and Semantics"
+              "title": "Outgoing links from Expressions and Operators in C++"
             }
           }
         ]
@@ -346,8 +346,8 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "Expressions and Operators in C++.md",
     "3 - Main Notes/C++/C++ Language and Semantics.md",
+    "Expressions and Operators in C++.md",
     "C++ Syntax and Structure.md",
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
     "3 - Main Notes/C++/C++ Files.md",
