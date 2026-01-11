@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Standard Library.md",
+                "file": "C++ Date and Time Libraries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Standard Library"
+              "title": "C++ Date and Time Libraries"
             }
           }
         ]
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -298,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Standard Library.md",
+                "file": "C++ Date and Time Libraries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +307,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Standard Library"
+              "title": "Backlinks for C++ Date and Time Libraries"
             }
           }
         ]
@@ -324,12 +323,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Standard Library.md",
+                "file": "C++ Date and Time Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Standard Library"
+              "title": "Outgoing links from C++ Date and Time Libraries"
             }
           }
         ]
@@ -374,6 +373,7 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
+    "5 - Templates/Title.md",
     "C++ Date and Time Libraries.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
@@ -401,7 +401,6 @@
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "2 - Source Material/Alignerr",
     "3 - Main Notes/C++/C++ Files.md",
-    "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
