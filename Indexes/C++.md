@@ -10,8 +10,7 @@ sticker: lucide//code
 - **Relevance Tags**
 	- #cpp
 	- #programminglanguage 
-	- #map
-	- #overview
+	
 - **Topic Tags:**
 	- #OOPS 
 	- #genericprogramming

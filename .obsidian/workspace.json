@@ -56,8 +56,7 @@
               "title": "C++ Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "95739fb80564007a",
@@ -70,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ IO Libraries.md",
+                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +84,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ IO Libraries"
+              "title": "C++ Language and Semantics"
+            }
+          },
+          {
+            "id": "20316c668b222a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Templates/Title.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Title"
             }
           }
         ]
@@ -160,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -178,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md",
+                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Files"
+              "title": "Outline of C++ Language and Semantics"
             }
           },
           {
@@ -207,7 +229,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md"
+                "file": "3 - Main Notes/C++/C++ Language and Semantics.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -247,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md",
+                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +279,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Files"
+              "title": "Backlinks for C++ Language and Semantics"
             }
           }
         ]
@@ -273,12 +295,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Files.md",
+                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Files"
+              "title": "Outgoing links from C++ Language and Semantics"
             }
           }
         ]
@@ -322,21 +344,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e71c5d25734d3c10",
+  "active": "d5cac653489654f3",
   "lastOpenFiles": [
-    "C++ IO Libraries.md",
+    "C++ Syntax and Structure.md",
+    "3 - Main Notes/C++/C++ Language and Semantics.md",
+    "3 - Main Notes/C++/Date and Time using ctime in C++.md",
     "3 - Main Notes/C++/C++ Files.md",
-    "3 - Main Notes/C++/C++ Standard Library.md",
-    "3 - Main Notes/C++/C++ Libraries.md",
-    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "Indexes/C++.md",
+    "5 - Templates/Title.md",
+    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/C++ Standard Library.md",
+    "C++ IO Libraries.md",
     "3 - Main Notes/C++/History of C++.md",
     "3 - Main Notes/C++/C++ Date and Time Libraries.md",
-    "3 - Main Notes/C++/Date and Time using ctime in C++.md",
     "3 - Main Notes/C++/regex library in C++.md",
     "Vault.md",
-    "5 - Templates/Title.md",
-    "3 - Main Notes/C++/C++ Language and Semantics.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
@@ -350,7 +373,6 @@
     "Tags/Classes in C++.md",
     "3 - Main Notes/C++/Class Templates in C++.md",
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
-    "3 - Main Notes/C++/Character and String Types in C++.md",
     "2 - Source Material/Alignerr",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",

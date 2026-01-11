@@ -7,7 +7,7 @@
 	- #cpp
 	- #language
 	- #semantics
-	- #overview
+	
 - **Topic Tags:**
 	- #syntax
 	- #expressions
@@ -15,7 +15,7 @@
 	- #controlflow
 	- #templates
 	- #compilationmodel
-
+	  
 **Links / Tags:** 
 - **Relevance Links:**
 	- C++
