@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Date and Time in C++.md",
+                "file": "3 - Main Notes/C++/Date and Time using ctime in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Date and Time in C++"
+              "title": "Date and Time using ctime in C++"
             }
           }
         ]
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/Date and Time in C++.md",
+                "file": "3 - Main Notes/C++/C++ Standard Library.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Date and Time in C++"
+              "title": "C++ Standard Library"
             }
           }
         ]
@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/Date and Time in C++.md",
+                "file": "3 - Main Notes/C++/C++ Standard Library.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Date and Time in C++"
+              "title": "Backlinks for C++ Standard Library"
             }
           }
         ]
@@ -324,12 +324,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/Date and Time in C++.md",
+                "file": "3 - Main Notes/C++/C++ Standard Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Date and Time in C++"
+              "title": "Outgoing links from C++ Standard Library"
             }
           }
         ]
@@ -374,9 +374,9 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
+    "C++ Date and Time Libraries.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
-    "3 - Main Notes/C++/Date and Time in C++.md",
-    "C++ Time and Date Libraries.md",
+    "3 - Main Notes/C++/Date and Time using ctime in C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "Indexes/C++.md",

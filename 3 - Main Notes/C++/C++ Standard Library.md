@@ -25,7 +25,7 @@
 	- [[C++ Filesystem Libraries]]
 	- [[C++ Numeric and Math Libraries]]
 	- [[C++ Utility Libraries]]
-	- [[C++ Time and Date Libraries]]
+	- [[C++ Date and Time Libraries]]
 
 ---
 
@@ -109,7 +109,7 @@ concurrency, numerics, and general-purpose utilities.
 
 ---
 
-### **[[Date and Time in C++]]**
+### **[[C++ Date and Time Libraries]]**
 - Time measurement and date handling facilities
 - Includes:
 	- `<ctime>` (C-style)
@@ -120,7 +120,7 @@ concurrency, numerics, and general-purpose utilities.
 
 ## Design Philosophy
 
-The C++ Standard Library emphasizes:
+The C++ Standard Library emphasises:
 - zero-cost abstractions
 - strong type safety
 - deterministic resource management
