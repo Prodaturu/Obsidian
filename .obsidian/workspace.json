@@ -12,10 +12,24 @@
             "id": "4212e839befb84fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - Main Notes/C++/Date and Time in C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Date and Time in C++"
             }
           }
         ]
@@ -31,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Language and Semantics"
+              "title": "C++ Libraries"
             }
           }
         ]
@@ -284,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +308,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Language and Semantics"
+              "title": "Backlinks for C++ Libraries"
             }
           }
         ]
@@ -310,12 +324,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Language and Semantics.md",
+                "file": "3 - Main Notes/C++/C++ Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Language and Semantics"
+              "title": "Outgoing links from C++ Libraries"
             }
           }
         ]
@@ -360,15 +374,18 @@
   },
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
+    "3 - Main Notes/C++/C++ Standard Library.md",
+    "3 - Main Notes/C++/C++ Libraries.md",
+    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "Indexes/C++.md",
+    "3 - Main Notes/C++/C++ Language and Semantics.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "3 - Main Notes/C++/C++ Data Type System.md",
     "3 - Main Notes/C++/Memory management in C++.md",
-    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "Tags/OOPS in C++.md",
-    "3 - Main Notes/C++/C++ Language and Semantics.md",
     "3 - Main Notes/C++/Generic Types in C++.md",
     "conflict-files-obsidian-git.md",
     "3 - Main Notes/C++/std array in C++.md",
@@ -378,7 +395,6 @@
     "3 - Main Notes/C++/Type conversion and Casting in C++.md",
     "3 - Main Notes/C++/Character and String Types in C++.md",
     "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
-    "3 - Main Notes/C++/C++ Standard Library.md",
     "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
@@ -386,7 +402,6 @@
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
     "5 - Templates/Title.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
