@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/Date and Time in C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Libraries"
+              "title": "Date and Time in C++"
             }
           }
         ]
@@ -298,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/Date and Time in C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +308,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C++ Libraries"
+              "title": "Backlinks for Date and Time in C++"
             }
           }
         ]
@@ -324,12 +324,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Libraries.md",
+                "file": "3 - Main Notes/C++/Date and Time in C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from C++ Libraries"
+              "title": "Outgoing links from Date and Time in C++"
             }
           }
         ]
@@ -375,11 +375,12 @@
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
     "3 - Main Notes/C++/C++ Standard Library.md",
+    "3 - Main Notes/C++/Date and Time in C++.md",
+    "C++ Time and Date Libraries.md",
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Language and Semantics.md",
-    "3 - Main Notes/C++/Date and Time in C++.md",
     "3 - Main Notes/C++/C++ Data Types.md",
     "Tags/C++ Language Features.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
@@ -401,7 +402,6 @@
     "2 - Source Material/Alignerr",
     "3 - Main Notes/C++/C++ Files.md",
     "3 - Main Notes/AI Engineer/Mathematics for AI.md",
-    "5 - Templates/Title.md",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
     "3 - Main Notes/AI Engineer",
