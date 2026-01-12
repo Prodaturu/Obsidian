@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expressions and Operators in C++.md",
+                "file": "Indexes/C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -84,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Expressions and Operators in C++"
+              "title": "C++"
             }
           },
           {
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expressions and Operators in C++.md",
+                "file": "Indexes/C++.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expressions and Operators in C++"
+              "title": "Outline of C++"
             }
           },
           {
@@ -229,7 +229,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Expressions and Operators in C++.md"
+                "file": "Indexes/C++.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -249,6 +249,19 @@
             "id": "b640efd644f7a3c2",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f9fd4c02eaa5ff6c",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -256,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "353b5826e8f5adba",
@@ -269,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expressions and Operators in C++.md",
+                "file": "Indexes/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +292,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Expressions and Operators in C++"
+              "title": "Backlinks for C++"
             }
           }
         ]
@@ -295,12 +308,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expressions and Operators in C++.md",
+                "file": "Indexes/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Expressions and Operators in C++"
+              "title": "Outgoing links from C++"
             }
           }
         ]
@@ -347,11 +360,11 @@
   "active": "d5cac653489654f3",
   "lastOpenFiles": [
     "3 - Main Notes/C++/C++ Language and Semantics.md",
-    "Expressions and Operators in C++.md",
-    "C++ Syntax and Structure.md",
-    "3 - Main Notes/C++/Date and Time using ctime in C++.md",
-    "3 - Main Notes/C++/C++ Files.md",
     "Indexes/C++.md",
+    "Expressions and Operators in C++.md",
+    "3 - Main Notes/C++/Date and Time using ctime in C++.md",
+    "C++ Syntax and Structure.md",
+    "3 - Main Notes/C++/C++ Files.md",
     "5 - Templates/Title.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "3 - Main Notes/C++/C++ Libraries.md",
