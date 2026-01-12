@@ -4,5 +4,7 @@
   "make-md",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-wakatime"
+  "obsidian-wakatime",
+  "table-editor-obsidian",
+  "obsidian-dictionary-plugin"
 ]
