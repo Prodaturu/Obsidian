@@ -15,7 +15,7 @@
 
 **Links / Tags:** 
 - **Relevance Links:**
-    - C++                      <!-- parent -->
+	- 
 - **Topic Links:**
     - [[C++ Data Types]]
     - [[User-Defined Types in C++]]

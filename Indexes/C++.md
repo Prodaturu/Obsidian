@@ -10,8 +10,7 @@ sticker: lucide//code
 - **Relevance Tags**
 	- #cpp
 	- #programminglanguage 
-	- #map
-	- #overview
+	
 - **Topic Tags:**
 	- #OOPS 
 	- #genericprogramming
@@ -31,7 +30,7 @@ sticker: lucide//code
 	- [[C++ Algorithms, Data Structures and Libraries]]
 	- [[C++ Tooling and Project Structure]]
 	- [[Background and History of C++]]
-	  
+	
 ---
 
 # C++
@@ -52,7 +51,7 @@ sticker: lucide//code
 	- object-oriented programming  
 	- generic programming  
 	- low-level and systems programming
-- C++ emphasizes performance, deterministic behavior, and explicit control
+- C++ emphasises performance, deterministic behavior, and explicit control
   over resources and object lifetimes
 
 C++ can be understood by dividing the language and its ecosystem into the

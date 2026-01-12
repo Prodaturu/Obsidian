@@ -101,6 +101,7 @@ MyReadFile.close();
 
 ## Exercises
 
+#### Ex 1
 - Which C++ library allows us to work with files?
 	- `filestreams`
 	- `fstream`
@@ -109,6 +110,7 @@ MyReadFile.close();
 - **Answer:** 
 	- `fstream`
 
+#### Ex 2
 - Which class from `fstream` library is used to create and write to files?
 	- `ifstream`
 	- `ofstream`
@@ -116,7 +118,8 @@ MyReadFile.close();
 	- `filemanager`
 - **Answer:** 
 	- `ofstream`
-  
+
+#### Ex 3
 ```cpp
 #include <iostream>
 #include <fstream>
@@ -139,6 +142,7 @@ int main()
   - **Answer:**
 	  - Creates a file named `filename.txt` and writes "Writing to a file." into it
 
+#### Ex 4
 - What is the purpose of closing a file after writing or reading in C++?
 	- To ensure changes are saved and free up memory
 	- To delete the file
@@ -147,6 +151,7 @@ int main()
 - **Answer:**
 	- To ensure changes are saved and free up memory
   
+#### Ex 5
 - Which class would you use to read from a file in C++?
 	- `ofstream`
 	- `fstream`
@@ -155,6 +160,7 @@ int main()
 - **Answer:**
 	- `ifstream`
   
+#### Ex 6
 ```cpp
 #include <fstream>  
 using namespace std;  
@@ -180,9 +186,3 @@ int main()
 	- Reads the content of `filename.txt` and prints it line by line
 
 # References
-
-## Closely Related Notes
-
-### Next:
-
-### Prev:

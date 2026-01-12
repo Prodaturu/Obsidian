@@ -20,7 +20,7 @@
 
 **Links / Tags:**
 - **Relevance Links:**
-    - C++ <!-- parent -->
+    - no parent for now
     
 - **Topic Links:**
     - [[C++ Syntax and Structure]]

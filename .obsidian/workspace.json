@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "000d1037f357cab3",
+            "id": "aabcd4f9ac99a60f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Main Notes/C++/C++ Algorithms.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,46 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++ Algorithms"
+              "title": "Code Human Preference Project - Main Hub and Linked Notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "12eb0e5f949b9a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e018565957665074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Official Project Instructions – CLI Edition"
             }
           },
           {
-            "id": "f560ff5aa1d475d9",
+            "id": "1679acff8647b967",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+                "file": "task 1t1 chp saves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +82,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Code Human Preference ToDo"
+              "title": "task 1t1 chp saves"
+            }
+          },
+          {
+            "id": "7b3295492a003cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -113,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"user-defined\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156,
-    "collapsed": true
+    "width": 335.51625061035156
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -180,81 +233,6 @@
             }
           },
           {
-            "id": "f90a992b88e4685c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5ca769bd5ed36c9c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "87773e609ec4bfd3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "f1e929604adedf59",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "243dff822740286d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "87a0175c50f5b5cb",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "0e0b04243f063a9e",
             "type": "leaf",
             "state": {
@@ -265,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       },
       {
         "id": "353b5826e8f5adba",
@@ -278,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+                "file": "task 1t1 chp saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +266,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Code Human Preference ToDo"
+              "title": "Backlinks for task 1t1 chp saves"
             }
           }
         ]
@@ -304,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+                "file": "task 1t1 chp saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code Human Preference ToDo"
+              "title": "Outgoing links from task 1t1 chp saves"
             }
           }
         ]
@@ -352,14 +330,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f560ff5aa1d475d9",
+  "active": "1679acff8647b967",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+    "conflict-files-obsidian-git.md",
+    "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
+    "loom video.md",
+    "3 - Main Notes/C++/C++ Algorithms.md",
+    "task 1t1 chp saves.md",
+    "Vault.md",
+    "Expressions and Operators in C++.md",
+    "C++ Syntax and Structure.md",
+    "C++ IO Libraries.md",
+    "3 - Main Notes/C++/Date and Time using ctime in C++.md",
+    "3 - Main Notes/C++/C++ Date and Time Libraries.md",
     "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "Tags/user-defined.md",
-    "3 - Main Notes/C++/C++ Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
@@ -367,20 +354,11 @@
     "3 - Main Notes/C++/C++ Libraries.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
     "3 - Main Notes/C++/C++ STL.md",
-    "conflict-files-obsidian-git.md",
     "2 - Source Material/Alignerr/.md",
     "3 - Main Notes/C++/C++ Files.md",
     "2 - Source Material/Alignerr",
     "3 - Main Notes/C++/Memory management in C++.md",
     "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
-    "3 - Main Notes/C++/C++ Data Type System.md",
-    "1 - Rough Notes/I let you pass.md",
-    "5 - Templates/Title.md",
-    "Tags/OOPS in C++.md",
-    "Special Member Functions in C++.md",
-    "3 - Main Notes/C++/Polymorphism in C++.md",
-    "3 - Main Notes/C++/C++ Language and Semantics.md",
-    "3 - Main Notes/AI Engineer/Inference in AI Systems.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",

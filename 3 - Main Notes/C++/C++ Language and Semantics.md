@@ -7,7 +7,7 @@
 	- #cpp
 	- #language
 	- #semantics
-	- #overview
+	
 - **Topic Tags:**
 	- #syntax
 	- #expressions
@@ -15,7 +15,7 @@
 	- #controlflow
 	- #templates
 	- #compilationmodel
-
+	  
 **Links / Tags:** 
 - **Relevance Links:**
 	- C++
@@ -60,13 +60,17 @@ The language core defines the fundamental rules that govern:
 		- translated.
 	
 - Language consists of the following conceptual components:
-	- [[C++ Syntax and Structure]]
-	- [[Expressions and Operators in C++]]
-	- [[Functions and Callables in C++]]
-	- [[Control Flow in C++]]
-	- [[Generic Programming in C++]]
-	- [[Compilation Model and Translation Units]]
-	  
+	- ### Surface language structure
+		- [[C++ Syntax and Structure]]
+		- [[Expressions and Operators in C++]]
+		- [[Functions and Callables in C++]]
+		- [[Control Flow in C++]]
+		- [[Compilation Model and Translation Units]]
+	- ### Abstraction mechanisms
+		- [[Generic Programming in C++]]
+	- ### Semantic foundations
+		- [[C++ Type System]]
+	
 ---
 
 # Related Notes

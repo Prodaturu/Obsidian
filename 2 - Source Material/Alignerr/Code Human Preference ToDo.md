@@ -7,9 +7,14 @@
 ***Repo Name*** icecream
 🔗***URL*** https://github.com/gruns/icecream
 
+# Connecting A and B
+`tmux attach -t <uuid> <-a or -b>`
+
 # Create 1 turn-1 prompt
 ### 1.t1
 Currently tabs corrupt terminal layout and hide information, null bytes truncate output silently, invisible Unicode characters prevent debugging, and ANSI escape codes execute unintentionally, making it impossible to debug special characters or parse logs. Make IceCream output strings in a way that it preserves all information by default. Icecream should Show control characters and invisibles explicitly instead of letting them affect terminal layout. Decide carefully whether newlines should render literally or as escaped symbols. ambiguous white spaces like /t should not expand into spaces
+
+[[task 1t1 chp saves]]
 
 ### 2.t1
 

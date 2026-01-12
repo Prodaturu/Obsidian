@@ -21,9 +21,7 @@
 	- [[Explicit Type Casting in C++]]
 	- [[C-Style Casts in C++]]
 	- [[User-Defined Conversions in C++]]
-	- [[Choosing the appropriate Cast in C++]]
-	- [[cpp00 ex00 - New Concepts]]
-	
+	- [[Choosing the appropriate Cast in C++]]	
 ---
 
 > how C++ converts values from one type to another
