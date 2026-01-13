@@ -264,6 +264,19 @@
             "id": "ef147aed18448613",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f098d79be527f9b5",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -271,7 +284,7 @@
             }
           },
           {
-            "id": "53ce81e42e7bfe83",
+            "id": "b7def4798142f46d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -281,7 +294,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "353b5826e8f5adba",
