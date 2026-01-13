@@ -190,6 +190,4 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 
 ## Overall Preference Justification
 
-> I prefer **Model A** because it fully satisfies the prompt while preserving IceCream’s simplicity, predictability, and backward compatibility. It enables powerful per-call customization without introducing new abstractions, global configuration changes, or fragile assumptions about formatter signatures.
-> 
-> Model B demonstrates strong technical clarity, but it overexposes internal mechanics and assumes a higher level of discipline from users and formatter authors. Given IceCream’s role as a lightweight debugging utility, Model A represents the better trade-off and is more appropriate for merge
+> I personnaly prefer Model A because, while preserving IceCream’s simplicity, predictability, and backward compatibility it also tries to solve the problem at hand. It enables powerful per-call customization without introducing new abstractions, global configuration changes, or fragile assumptions about formatter signatures. Model B overexposes internal mechanics and assumes a higher level of understanding from users and formatters. Given IceCream’s role as a lightweight debugging utility, Model b fails to live up to those standards. Model A however  is a better trade-off and is more appropriate for merge than Model B. Model A therefore did a better job than B in satisfying the prompt in nearly every aspect, though both the models failed in adding proper documentation on the new usage.
