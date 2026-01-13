@@ -22,16 +22,16 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 
 
 ## Summary Table (Quick Copy)
-| Question                    | Answer                |
-| --------------------------- | --------------------- |
-| Better answer               | **A better**          |
-| Logic & correctness         | **A slightly better** |
-| Naming & clarity            | **A slightly better** |
-| Organization & modularity   | **NA / equal**        |
-| Interface design            | **A better**          |
-| Error handling & robustness | **A slightly better** |
-| Comments & documentation    | **NA / equal**        |
-| Ready for merge             | **A better**          |
+| Question                    | Answer                | Answer after further argument |
+| --------------------------- | --------------------- | ----------------------------- |
+| Better answer               | **A better**          | **A better**                  |
+| Logic & correctness         | **A slightly better** | **A slightly better**         |
+| Naming & clarity            | **A slightly better** | **A slightly better**         |
+| Organization & modularity   | **NA / equal**        | **A barely better**           |
+| Interface design            | **A better**          | **A much better**             |
+| Error handling & robustness | **A slightly better** | **A slightly better**         |
+| Comments & documentation    | **NA / equal**        | **NA / equal**                |
+| Ready for merge             | **A better**          | **A better**                  |
 
 ---
 
