@@ -3,12 +3,11 @@
 > **Purpose of this page**: This is your **main hub**. Use it to navigate to more detailed notes depending on the *type of task* you’re doing (Turn 1 prompting, follow‑up steering, rationale writing, submission, etc.).
 
 ---
+# [[Code Human Preference ToDo]]
 
-# [[Code Human Preference ToDo|Emre - ToDo for today]]
-
-- Claude Hfi setup
+- `claude-hfi --vscode` for hfi setup
 - Pick a Repo to work with
-	- (personally prefer to have the easiest)
+	- (prefer based on prompt readiness)
 - Create 1 turn-1 prompt
 
 # Project Main hub
