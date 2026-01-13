@@ -158,16 +158,17 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 
 ### 9. Model A – Pros
 
-- Fully satisfies the prompt
-- Per-call customization without global state
-- Backward compatible
-- Defensive fallback behavior
-- Matches IceCream’s lightweight philosophy
+- Model a satisfies the prompt to a decent margin
+- A handles per-call customisation without global state
+- Backwards compatible code
+- Defensive fallback behavior for safety on failure
+- better matching to IceCream’s lightweight philosophy
 
 ### 10. Model A – Cons
 
 - Missing documentation updates
 - Silent fallback could hide user mistakes
+- 
 
 ---
 
