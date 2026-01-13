@@ -17,6 +17,7 @@ Currently tabs corrupt terminal layout and hide information, null bytes truncate
 [[task 1t1 chp saves]]
 
 ### 2.t1
+[[task 2 saves]]
 
 Currently control characters alter output instead of being visible, backspace removes characters and information is lost, `abc\bX` prints as `abX`, invisible Unicode characters like zero-width space `\u200B`, left/right marks `\u200E`, `\u200F` disappear silently preventing debugging, and bytes or bytearrays with characters like `\n` or `\x00` are printed raw producing real line breaks or invisible truncated content, making it impossible to inspect the actual byte sequences or distinguish between printable and non-printable data. output bytes and byte sequences should preserve all info. IceCream should show control characters and invisible Unicode explicitly without letting them alter layout or disappear. Escape sequences should be clearly visible and unambiguous. Destructive characters like backspace should not modify the output representation. All bytes should be represented in a readable hex or escape notation so their actual values are always clear
 

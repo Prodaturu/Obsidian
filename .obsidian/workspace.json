@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 1t1 chp saves.md",
+                "file": "task 2 saves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task 1t1 chp saves"
+              "title": "task 2 saves"
             }
           },
           {
@@ -307,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
+                "file": "task 2 saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +317,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Code Human Preference Project - Main Hub and Linked Notes"
+              "title": "Backlinks for task 2 saves"
             }
           }
         ]
@@ -333,12 +333,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
+                "file": "task 2 saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code Human Preference Project - Main Hub and Linked Notes"
+              "title": "Outgoing links from task 2 saves"
             }
           }
         ]
@@ -382,11 +382,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ecb3102c58d47517",
+  "active": "1679acff8647b967",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
-    "2 - Source Material/Alignerr/task 1t1 chp saves.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+    "task 2 saves.md",
+    "2 - Source Material/Alignerr/task 1t1 chp saves.md",
+    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "conflict-files-obsidian-git.md",
     "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
     "loom video.md",
@@ -410,7 +411,6 @@
     "3 - Main Notes/C++/C++ Files.md",
     "2 - Source Material/Alignerr",
     "3 - Main Notes/C++/Memory management in C++.md",
-    "3 - Main Notes/GeneralCodingConcepts/Runtime Errors.md",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "6 - Full Notes/Jan 2026",
     "6 - Full Notes/Dec 2025",
