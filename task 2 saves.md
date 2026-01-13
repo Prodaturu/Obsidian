@@ -5,4 +5,7 @@
 
 # Prompt
 
-currently `ic()` only accepts positional arguments. It does not provide a way to pass additional keyword arguments that could be used by a custom `argumentToString` function. It should be able to define a custom `argumentToString` for special types and pass options to it directly from the `ic()` call
+Currently, ic() only accepts positional arguments, and there is no way to pass
+call-specific options to custom argumentToString handlers. This makes it difficult
+to use flexible formatting for complex types like NumPy arrays without reconfiguring
+IceCream globally. I want to be able to define custom argumentToString handlers that can accept optional keyword arguments, and to pass those options directly from an ic() call when needed. For example, it should be possible for a custom formatter to support both concise and verbose output on a per-call basis, without changing global configuration. Design and implement a solution that enables this kind of per-call flexibility, while keeping IceCream lightweight, predictable, and consistent with its existing API. Avoid introducing unnecessary abstractions or global state changes.
