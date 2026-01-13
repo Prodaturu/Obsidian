@@ -6,7 +6,7 @@
       {
         "id": "9595362cbc21259c",
         "type": "tabs",
-        "dimension": 78.25086306098964,
+        "dimension": 37.90446841294298,
         "children": [
           {
             "id": "ecb3102c58d47517",
@@ -67,6 +67,16 @@
               "icon": "lucide-file",
               "title": "task 2 saves"
             }
+          },
+          {
+            "id": "33e3ed55432d5124",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
         "currentTab": 2
@@ -74,7 +84,7 @@
       {
         "id": "12eb0e5f949b9a73",
         "type": "tabs",
-        "dimension": 21.74913693901036,
+        "dimension": 62.09553158705701,
         "children": [
           {
             "id": "e018565957665074",
@@ -172,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.51625061035156
+    "width": 335.51625061035156,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -238,30 +249,7 @@
             }
           },
           {
-            "id": "ef147aed18448613",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "f098d79be527f9b5",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "b7def4798142f46d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -271,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "353b5826e8f5adba",
@@ -339,7 +327,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,10 +350,12 @@
   },
   "active": "9d462b19ffd1a30b",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
-    "task 2 saves.md",
-    "2 - Source Material/Alignerr/task 1t1 chp saves.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
+    "3 - Main Notes/C++/C++ Standard Library.md",
+    "3 - Main Notes/C++/C++ Date and Time Libraries.md",
+    "task 2 saves.md",
+    "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+    "2 - Source Material/Alignerr/task 1t1 chp saves.md",
     "conflict-files-obsidian-git.md",
     "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
     "loom video.md",
@@ -374,7 +365,6 @@
     "C++ Syntax and Structure.md",
     "C++ IO Libraries.md",
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
-    "3 - Main Notes/C++/C++ Date and Time Libraries.md",
     "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "Tags/user-defined.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
@@ -382,7 +372,6 @@
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "Indexes/C++.md",
     "3 - Main Notes/C++/C++ Libraries.md",
-    "3 - Main Notes/C++/C++ Standard Library.md",
     "3 - Main Notes/C++/C++ STL.md",
     "2 - Source Material/Alignerr/.md",
     "3 - Main Notes/C++/C++ Files.md",
