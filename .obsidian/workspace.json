@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task 1t1 chp saves.md",
+                "file": "2 - Source Material/Alignerr/task 1t1 chp saves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -227,13 +227,25 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           },
           {
-            "id": "0e0b04243f063a9e",
+            "id": "5dbe920cf665fe1f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
+            "id": "ecf1deba7aebd742",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -243,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "353b5826e8f5adba",
@@ -256,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task 1t1 chp saves.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +278,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 1t1 chp saves"
+              "title": "Backlinks for Code Human Preference Project - Main Hub and Linked Notes"
             }
           }
         ]
@@ -282,12 +294,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task 1t1 chp saves.md",
+                "file": "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 1t1 chp saves"
+              "title": "Outgoing links from Code Human Preference Project - Main Hub and Linked Notes"
             }
           }
         ]
@@ -322,23 +334,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-random-note:Open Random Note from Search": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
+      "smart-random-note:Open Random Note from Search": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1679acff8647b967",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
+    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
+    "2 - Source Material/Alignerr/task 1t1 chp saves.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "conflict-files-obsidian-git.md",
     "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
-    "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "loom video.md",
     "3 - Main Notes/C++/C++ Algorithms.md",
-    "task 1t1 chp saves.md",
     "Vault.md",
     "Expressions and Operators in C++.md",
     "C++ Syntax and Structure.md",
