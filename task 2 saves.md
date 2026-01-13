@@ -20,98 +20,140 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 **Model A is better than Model B**  
 (“A slightly better than B” is the most defensible rating)
 
+
+## Summary Table (Quick Copy)
+| Question                    | Answer                |
+| --------------------------- | --------------------- |
+| Better answer               | **A better**          |
+| Logic & correctness         | **A slightly better** |
+| Naming & clarity            | **A slightly better** |
+| Organization & modularity   | **NA / equal**        |
+| Interface design            | **A better**          |
+| Error handling & robustness | **A slightly better** |
+| Comments & documentation    | **NA / equal**        |
+| Ready for merge             | **A better**          |
+
 ---
 
-### 1. Which code has better logic and correctness?
+### 1) Choose the better answer
 
-**A slightly better than B**
+**→ A better**
 
 **Why**
 
-- Model A implements **safe kwargs propagation with a fallback**, preserving backward compatibility even if custom formatters don’t accept kwargs.
-- Model B forwards kwargs blindly, which is logically simpler but **less defensive**.
-- From a user perspective, Model A fails _gracefully_; Model B can fail noisily if kwargs collide.
-
----
-
-### 2. Which code has better naming and clarity?
-
-**A slightly better than B**
-
-**Why**
-
-- Model A’s changes are easier to reason about at the call boundary (“try with kwargs, fallback if not”).
-- Model B’s changes require understanding that _every_ formatter now receives **kwargs**, even if it ignores them.
-- Neither adds documentation, but A’s behavior is clearer when reading code.
-
----
-
-### 3. Which code has better organization and modularity?
-
-**Roughly equal (NA or A barely better than B)**
-
-**Why**
-
-- Both propagate kwargs through the same internal pipeline.
-- Neither introduces new modules or abstractions.
-- A adds a small conditional decision point; B keeps everything linear.
-
----
-
-### 4. Which code has better interface design?
-
-**A slightly better than B**
-
-**Why (user-centric)**
-
-- Model A preserves IceCream’s “just works” feel even when users experiment with kwargs.
-- Model B exposes users more directly to Python’s kwargs mechanics without guardrails.
-- A aligns better with IceCream’s philosophy: _debugging should never surprise you_.
-
----
-
-### 5. Which code has better error handling and robustness?
-
-**A slightly better than B**
-
-**Why**
-
-- A avoids hard failures when formatters don’t support kwargs.
-- B assumes formatters will always tolerate kwargs, which is riskier long-term.
-- Both are reasonably robust; A is more defensive.
-
----
-
-### 6. Which code has better comments and documentation?
-
-**Neither (NA)**
-
-**Why**
-
-- Both implementations lack docstring updates and user-facing documentation.
-- This is a shared weakness and should not affect preference.
-
----
-
-### 7. Which code is more ready for review / merge?
-
-**A better than B**
-
-**Why**
-
-- Model A:
-    - Solves the prompt fully
-    - Preserves backward compatibility
-    - Minimizes risk to existing users
+- A fully satisfies the prompt
     
-- Model B:
-    - Is technically sound
-    - But more aggressive and less defensive
-    - Slightly increases cognitive load for maintainers
+- B also works, but introduces more risk and cognitive overhead
+    
+- The difference is clear, but not extreme enough for “much better”
     
 
 ---
 
+### 2) Which code has better logic and correctness?
+
+**→ A slightly better**
+
+**Why**
+
+- Both are logically correct
+    
+- A is more defensive (fallback behavior)
+    
+- B is simpler but less robust
+    
+- Marginal but real advantage to A
+    
+
+---
+
+### 3) Which code has better naming and clarity?
+
+**→ A slightly better**
+
+**Why**
+
+- A’s intent is clearer when reading the flow
+    
+- B requires understanding that _all_ formatters now accept kwargs
+    
+- Difference exists but is not large
+    
+
+---
+
+### 4) Which code has better organization and modularity?
+
+**→ NA / equal**
+
+**Why**
+
+- Both touch the same call chain
+    
+- No new modules or abstractions in either
+    
+- Structurally equivalent
+    
+
+---
+
+### 5) Which code has better interface design?
+
+**→ A better**
+
+**Why (user-perspective)**
+
+- A preserves IceCream’s “safe by default” feel
+    
+- B exposes more internal mechanics to users
+    
+- This matters at the interface level, not just internally
+    
+
+---
+
+### 6) Which code has better error handling and robustness?
+
+**→ A slightly better**
+
+**Why**
+
+- A degrades gracefully if kwargs aren’t supported
+    
+- B assumes formatter compliance
+    
+- Both are robust, but A is safer
+    
+
+---
+
+### 7) Which code has better comments and documentation?
+
+**→ NA / equal**
+
+**Why**
+
+- Neither adds documentation
+    
+- Shared weakness
+    
+
+---
+
+### 8) Which code is more ready for review / merge?
+
+**→ A better**
+
+**Why**
+
+- Lower risk
+    
+- Better backward compatibility
+    
+- Closer alignment with IceCream’s philosophy
+    
+
+---
 ## Pros and Cons
 
 ### 9. Model A – Pros

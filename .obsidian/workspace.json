@@ -6,7 +6,6 @@
       {
         "id": "9595362cbc21259c",
         "type": "tabs",
-        "dimension": 37.90446841294298,
         "children": [
           {
             "id": "ecb3102c58d47517",
@@ -80,37 +79,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "12eb0e5f949b9a73",
-        "type": "tabs",
-        "dimension": 62.09553158705701,
-        "children": [
-          {
-            "id": "e018565957665074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Alignerr/Official Project Instructions – CLI Edition.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Official Project Instructions – CLI Edition"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
