@@ -177,7 +177,7 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 - Clean, minimal implementation
 - Leverages Python’s native kwargs idiom
 - Good test coverage
-- Simple mental model for formatter authors
+- Simple mental model for formatter 
 
 ### 12. Model B – Cons
 
