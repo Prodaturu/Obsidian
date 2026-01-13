@@ -166,9 +166,9 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 
 ### 10. Model A – Cons
 
-- Missing documentation updates
-- Silent fallback could hide user mistakes
-- 
+- Nearly No documentation made for the changes
+- Does not inform user how to use the new feature
+- Silent fallback on failure while using kwargs could hide user mistakes
 
 ---
 
