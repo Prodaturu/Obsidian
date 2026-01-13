@@ -181,10 +181,10 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 
 ### 12. Model B – Cons
 
-- Blind kwargs forwarding can cause collisions
-- Less defensive for legacy formatters
-- Higher risk if IceCream later adds its own kwargs
-- Slightly heavier conceptual surface for users
+- Blind use of kwargs forwarding can cause collisions and failures
+- Less defensive when using legacy code formatters 
+- Higher risk if IceCream later adds its own kwargs through an update
+- Slightly heavier conceptually for users not so familiar to advance python
 
 ---
 
