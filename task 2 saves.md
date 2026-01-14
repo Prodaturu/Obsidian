@@ -308,4 +308,5 @@ Maintenance: Model B's code is easier to understand and maintain for future deve
 - Has clear example outputs in Doc-string
 
 #### Model B Cons:
-None significant
+- Has a very minor bug that could lead to poor user experience
+- When a user passes `verbose=True` to multiple args in one call, sees warning for first arg, might assume it applies to all, but actually it's trying kwargs on ALL of them during the try phase, then giving up
