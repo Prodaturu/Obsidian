@@ -10,6 +10,9 @@
 # Connecting A and B
 `tmux attach -t <uuid> <-a or -b>`
 
+# [[Questions to evaluate the models on]]
+
+
 # Create 1 turn-1 prompt
 ### 1.t1
 
