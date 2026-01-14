@@ -2,9 +2,13 @@
 
 **UUID:**
 
-
+**git rev-parse HEAD**
 
 **Turn 1 Prompt:**
+
+**Turn 1 Eval Table:**
+
+![![5 - Templates/#*Table]]
 
 ---
 # {{Title}}
