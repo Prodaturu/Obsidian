@@ -107,33 +107,8 @@
               "icon": "lucide-file",
               "title": "task 3 saves"
             }
-          },
-          {
-            "id": "acb7ea8ad96ad231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Templates/Task n saves.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Task n saves"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,6 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 - Source Material/Alignerr/task 1 saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +292,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for task 1 saves"
             }
           }
         ]
@@ -332,11 +308,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 - Source Material/Alignerr/task 1 saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from task 1 saves"
             }
           }
         ]
@@ -380,10 +357,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "633208d77f3e71e3",
+  "active": "012aaaae5b4e3f7f",
   "lastOpenFiles": [
-    "5 - Templates/Task n saves.md",
     "task 3 saves.md",
+    "5 - Templates/Task n saves.md",
     "2 - Source Material/Alignerr/task 1 saves.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "5 - Templates/Title.md",

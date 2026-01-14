@@ -4,19 +4,58 @@
 
 **git rev-parse HEAD**
 
+
+---
+# {{Title}} and eval-logs 
+
 **Turn 1 Prompt:**
 
 **Turn 1 Eval Table:**
 
-![![5 - Templates/#*Table]]
+| Question of which is / has           | Answer Given | Justoification Why? |
+| ------------------------------------ | ------------ | ------------------- |
+| Overall Better Solution              |              |                     |
+| Better logic and correctness         |              |                     |
+| Better Naming and Clarity            |              |                     |
+| Better Organization and Clarity      |              |                     |
+| Better Interface Design              |              |                     |
+| Better error handling and robustness |              |                     |
+| Better comments and documentation    |              |                     |
+| Ready for review / merge             |              |                     |
 
 ---
-# {{Title}}
+**Turn 2 Prompt:**
+
+**Turn 2 Eval Table:**
+
+| Question of which is / has           | Answer Given | Justoification Why? |
+| ------------------------------------ | ------------ | ------------------- |
+| Overall Better Solution              |              |                     |
+| Better logic and correctness         |              |                     |
+| Better Naming and Clarity            |              |                     |
+| Better Organization and Clarity      |              |                     |
+| Better Interface Design              |              |                     |
+| Better error handling and robustness |              |                     |
+| Better comments and documentation    |              |                     |
+| Ready for review / merge             |              |                     |
+
+---
+**Turn 3 Prompt:**
+
+**Turn 3 Eval Table:**
+
+| Question of which is / has           | Answer Given | Justoification Why? |
+| ------------------------------------ | ------------ | ------------------- |
+| Overall Better Solution              |              |                     |
+| Better logic and correctness         |              |                     |
+| Better Naming and Clarity            |              |                     |
+| Better Organization and Clarity      |              |                     |
+| Better Interface Design              |              |                     |
+| Better error handling and robustness |              |                     |
+| Better comments and documentation    |              |                     |
+| Ready for review / merge             |              |                     |
+
+
 
 - 
 
-# Related Notes
-> Things you might want to think about alongside this note, but not because of it
-
----
-# References
