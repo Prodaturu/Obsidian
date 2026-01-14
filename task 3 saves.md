@@ -11,6 +11,8 @@
 
 **Turn 1 Prompt:**
 
+When using icecream on very large iterables, the output can become overwhelming and difficult to reason about at a glance. Add support for summarizing large iterable values in a way that preserves the usefulness of icecream for quick debugging, while still making it clear when output has been abbreviated
+
 **Turn 1 Eval Table:**
 
 | Question of which is / has           | Answer Given | Justoification Why? |
