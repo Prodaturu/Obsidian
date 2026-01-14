@@ -207,3 +207,15 @@ Error Handling	Works, unclear stacklevel	Cleaner flag approach	B
 Documentation	Incomplete (missing warning docs)	Complete (explicit warning)	B
 Merge Readiness	Good, some code smells	Excellent	B
 Prompt Alignment	Partial (missing fallback docs)	Full	B
+### **Summary Comparison Table**
+
+| **Criterion**           | **Model A**                         | **Model B**                             | **Winner** |     |
+| ----------------------- | ----------------------------------- | --------------------------------------- | ---------- | --- |
+| **Logic & Correctness** | Works, but awkward                  | Clean and efficient                     | **B**      |     |
+| **Naming & Clarity**    | Good parameters, confusing lists    | Self-documenting code                   | **B**      |     |
+| **Organization**        | Mutable state outside core logic    | Closure-based, well-scoped              | **B**      |     |
+| **Interface Design**    | Good                                | Better documented                       | **B**      |     |
+| **Error Handling**      | Works, unclear stacklevel behavior  | Cleaner flag-based approach             | **B**      |     |
+| **Documentation**       | Incomplete (missing warning docs)   | Complete (explicit warning behavior)    | **B**      |     |
+| **Merge Readiness**     | Good, some code smells              | Excellent                               | **B**      |     |
+| **Prompt Alignment**    | Partial (fallback behavior unclear) | Full alignment with prompt requirements | **B**      |     |
