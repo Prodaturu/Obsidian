@@ -191,3 +191,12 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 ## Overall Preference Justification
 
 > I personally prefer Model A because, while preserving IceCream’s simplicity, predictability, and backward compatibility it also tries to solve the problem at hand. It enables powerful per-call customization without introducing new abstractions, global configuration changes, or fragile assumptions about formatter signatures. Model B overexposes internal mechanics and assumes a higher level of understanding from users and formatters. Given IceCream’s role as a lightweight debugging utility, Model b fails to live up to those standards. Model A however  is a better trade-off and is more appropriate for merge than Model B. Model A therefore did a better job than B in satisfying the prompt in nearly every aspect, though both the models failed in adding proper documentation on the new usage.
+
+# Turn 2
+
+## Prompt
+We made progress toward enabling per-call keyword arguments for custom `argumentToString` handlers, and the core functionality is largely correct.
+
+However, I noticed that the new behavior is undocumented, making it unclear to users how or when per-call kwargs should be used. Additionally, when a formatter does not accept keyword arguments, the fallback behavior is completely silent, which can hide user mistakes and make debugging confusing.
+
+Please address these issues by adding concise documentation and minimal user-visible feedback around unsupported kwargs, without introducing new configuration modes, abstractions, or expanding the original scope
