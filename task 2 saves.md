@@ -197,25 +197,115 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 ## Prompt
 The current implementation made progress toward enabling per-call keyword arguments for custom `argumentToString` handlers. However, small documentation making it clear to users how or when per-call kwargs could be good. Also, when a formatter does not accept keyword arguments, the fallback behavior is completely silent, which can hide user mistakes and make debugging confusing. Please address these issues by adding concise documentation and minimal user-visible feedback around unsupported kwargs, without introducing new configuration modes, abstractions, or expanding the original scope
 
-SUMMARY TABLE
-Criterion	Model A	Model B	Winner
-Logic & Correctness	Works, awkward	Clean, efficient	B
-Naming & Clarity	Good params, confusing list	Self-documenting code	B
-Organization	Mutable state outside	Closure-based	B
-Interface Design	Good	Better documented	B
-Error Handling	Works, unclear stacklevel	Cleaner flag approach	B
-Documentation	Incomplete (missing warning docs)	Complete (explicit warning)	B
-Merge Readiness	Good, some code smells	Excellent	B
-Prompt Alignment	Partial (missing fallback docs)	Full	B
-### **Summary Comparison Table**
+### ***SUMMARY TABLE***
 
-| **Criterion**           | **Model A**                         | **Model B**                             | **Winner** |     |
-| ----------------------- | ----------------------------------- | --------------------------------------- | ---------- | --- |
-| **Logic & Correctness** | Works, but awkward                  | Clean and efficient                     | **B**      |     |
-| **Naming & Clarity**    | Good parameters, confusing lists    | Self-documenting code                   | **B**      |     |
-| **Organization**        | Mutable state outside core logic    | Closure-based, well-scoped              | **B**      |     |
-| **Interface Design**    | Good                                | Better documented                       | **B**      |     |
-| **Error Handling**      | Works, unclear stacklevel behavior  | Cleaner flag-based approach             | **B**      |     |
-| **Documentation**       | Incomplete (missing warning docs)   | Complete (explicit warning behavior)    | **B**      |     |
-| **Merge Readiness**     | Good, some code smells              | Excellent                               | **B**      |     |
-| **Prompt Alignment**    | Partial (fallback behavior unclear) | Full alignment with prompt requirements | **B**      |     |
+|**Criterion**|**Model A**|**Model B**|**Answer**|
+|---|---|---|---|
+|**Logic & Correctness**|Works, but awkward|Clean and efficient|B slightly better|
+|**Naming & Clarity**|Good parameters, confusing lists|Self-documenting code|B slightly better|
+|**Organization**|Mutable state outside core logic|Closure-based, well-scoped|B better|
+|**Interface Design**|Good|Better documented|B slightly better|
+|**Error Handling**|Works, unclear stacklevel behavior|Cleaner flag-based approach|B slightly better|
+|**Documentation**|Incomplete (missing warning docs)|Complete (explicit warning behavior)|B much better|
+|**Merge Readiness**|Good, some code smells|Excellent|B better|
+|**Prompt Alignment**|Partial (fallback behavior unclear)|Full alignment with prompt requirements|B better|
+
+### Prompt to Code Evaluation - turn 2 prompt
+
+1. Which code has better logic and correctness?
+Answer: B slightly better
+
+Model B uses nonlocal kwargsSupported to elegantly track whether kwargs are supported, avoiding repeated exception catching. Model A uses a mutable list warnedAboutKwargs as a state carrier, which is an anti-pattern. Both work correctly, but B is more efficient and cleaner.
+
+2. Which code has better naming and clarity?
+Answer: B slightly better
+
+Model B's variable name kwargsSupported is self-documenting. Model A's warnedAboutKwargs: list parameter is confusing—using a list as a boolean flag is an anti-pattern. B's nonlocal keyword is explicit about closure intent.
+
+3. Which code has better organization and modularity?
+Answer: B better
+
+Model B encapsulates state management within the closure scope using nonlocal. Model A passes mutable state as a parameter, mixing concerns and reducing testability. B's approach is more idiomatic Python and self-contained.
+
+4. Which code has better interface design?
+Answer: B slightly better
+
+Both have identical public interfaces. However, Model B's docstring explicitly documents the warning fallback behavior, making the API contract clearer to users. Model A's docstring omits this critical information.
+
+5. Which code has better error handling and robustness?
+Answer: B slightly better
+
+Model B's flag-based approach prevents repeated exception catching after the first failure. Model A must check the state list repeatedly. B also has slightly better error messages with proper punctuation. Both warn users appropriately.
+
+6. Which code has better comments and documentation?
+Answer: B much better
+
+Critical difference: Model B's docstring explicitly states "If argToStringFunction doesn't accept **kwargs, a warning is issued and the kwargs are ignored." Model A's docstring completely omits warning behavior documentation. Model B also includes actual output examples (e.g., ic| x: 42), making it much clearer. This directly addresses the prompt's requirement for "concise documentation."
+
+7. Which code is more ready for review/merge?
+Answer: B better
+
+Model B has:
+✅ Complete documentation of fallback behavior
+✅ Cleaner code patterns (no anti-patterns)
+✅ Better message punctuation
+✅ More explicit about requirements
+Model A has code smell from the list-as-state pattern that reviewers will question.
+
+
+### PROMPT ALIGNMENT CHECK 🎯
+Prompt asked for:
+
+✅ "concise documentation making it clear to users how or when per-call kwargs could be good"
+
+Model A: ⚠️ Partial (shows example, doesn't explain when to use)
+Model B: ✅ Full (explains use case, shows output examples)
+✅ "minimal user-visible feedback around unsupported kwargs"
+
+Model A: ✅ Provides warning with clear message
+Model B: ✅ Provides warning with clear message (slightly better punctuation)
+✅ "not introducing new configuration modes, abstractions, or expanding scope"
+
+Model A: ✅ Clean scope adherence
+Model B: ✅ Clean scope adherence
+❌ "without...silent fallback behavior" (original problem)
+
+Model A: ✅ Warns users
+Model B: ✅ Warns users
+
+FINAL VERDICT 🏆
+Model B is SIGNIFICANTLY BETTER (B much better)
+Key reasons:
+
+Prompt Compliance: Model B directly addresses the core requirement of "concise documentation" by explicitly documenting the warning fallback behavior in the docstring. Model A omits this critical documentation.
+
+Code Quality: Model B uses idiomatic Python (nonlocal, closure), while Model A uses an anti-pattern (mutable list as state carrier).
+
+Efficiency: Model B avoids repeated exception catching after the first unsupported kwargs discovery.
+
+Documentation Quality: Model B's docstring includes actual output examples and explicitly states the warning behavior - exactly what the prompt asked for.
+
+Maintenance: Model B's code is easier to understand and maintain for future developers.
+
+### PROS & CONS
+#### Model A Pros:
+✅ Works correctly
+✅ Includes comprehensive tests
+✅ Minimal scope adherence
+
+#### Model A Cons:
+❌ Uses anti-pattern (mutable list for state)
+❌ Docstring doesn't document warning fallback (prompt violation)
+❌ Less efficient (repeated checks per value)
+❌ Harder to maintain (unclear intent of warnedAboutKwargs parameter)
+
+#### Model B Pros:
+✅ Explicitly documents warning fallback in docstring (addresses prompt)
+✅ Clean, idiomatic Python code (nonlocal closure)
+✅ More efficient (flag-based single exception handling)
+✅ Self-documenting variable names
+✅ Better punctuation in warning messages
+✅ Clearer example output in docstring
+
+#### Model B Cons:
+None significant
