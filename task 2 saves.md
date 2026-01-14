@@ -289,23 +289,23 @@ Maintenance: Model B's code is easier to understand and maintain for future deve
 
 ### PROS & CONS
 #### Model A Pros:
-✅ Works correctly
-✅ Includes comprehensive tests
-✅ Minimal scope adherence
+- Works correctly
+- Includes comprehensive tests
+- Minimal scope adherence
 
 #### Model A Cons:
-❌ Uses anti-pattern (mutable list for state)
-❌ Docstring doesn't document warning fallback (prompt violation)
-❌ Less efficient (repeated checks per value)
-❌ Harder to maintain (unclear intent of warnedAboutKwargs parameter)
+- Uses anti-pattern, seen in mutable list for state changes
+- Doc-string doesn't document warning fallback which violates prompt direction
+-  Less efficient, has higher per value to checks count
+- Harder to maintain
+- has unclear usage of `warnedAboutKwargs` parameter
 
 #### Model B Pros:
-✅ Explicitly documents warning fallback in docstring (addresses prompt)
-✅ Clean, idiomatic Python code (nonlocal closure)
-✅ More efficient (flag-based single exception handling)
-✅ Self-documenting variable names
-✅ Better punctuation in warning messages
-✅ Clearer example output in docstring
+- Good documentation, fallback warnings in Doc-string
+- Clean, idiomatic, easy Python code non-local closure
+-  More efficient as it follows flag-based and single exception / error handling
+-  Self-documented its variable names and better punctuated warning messages
+- Has clear example outputs in Doc-string
 
 #### Model B Cons:
 None significant
