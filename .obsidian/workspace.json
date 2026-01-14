@@ -90,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task 3 saves.md",
+                "file": "task 3 checklist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -105,7 +105,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task 3 saves"
+              "title": "task 3 checklist"
             }
           }
         ]
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 1 saves.md",
+                "file": "task 3 checklist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +292,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 1 saves"
+              "title": "Backlinks for task 3 checklist"
             }
           }
         ]
@@ -308,12 +308,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 1 saves.md",
+                "file": "task 3 checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 1 saves"
+              "title": "Outgoing links from task 3 checklist"
             }
           }
         ]
@@ -357,13 +357,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "012aaaae5b4e3f7f",
+  "active": "9d462b19ffd1a30b",
   "lastOpenFiles": [
     "task 3 saves.md",
+    "task 3 checklist.md",
+    "task 4.md",
     "5 - Templates/Task n saves.md",
+    "5 - Templates/Title.md",
     "2 - Source Material/Alignerr/task 1 saves.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
-    "5 - Templates/Title.md",
     "task 2 saves.md",
     "Questions to evaluate the models on.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
@@ -383,8 +385,6 @@
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
     "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
-    "Indexes/C++.md",
-    "3 - Main Notes/C++/C++ Libraries.md",
     "2 - Source Material/Alignerr",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "6 - Full Notes/Jan 2026",

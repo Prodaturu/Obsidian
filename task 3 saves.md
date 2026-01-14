@@ -4,6 +4,7 @@
 
 **git rev-parse HEAD**
 
+[[task 3 checklist]]
 
 ---
 # task 3 saves and Eval Logs 

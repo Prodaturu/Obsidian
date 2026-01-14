@@ -1,13 +1,13 @@
-**Created:** *<span class ="color-green">{{date}}, {{time}}</span>*
+**Created:** *<span class ="color-green">14.01.26, 23:37</span>*
 
 **UUID:**
 
 **git rev-parse HEAD**
 
-[[{{title}} checklist]]
+[[task 4 checklist]]
 
 ---
-# {{Title}} and eval-logs 
+# task 4 and eval-logs 
 
 **Turn 1 Prompt:**
 
