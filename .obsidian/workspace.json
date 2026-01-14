@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "59c6591e0ae96450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task 3 saves.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "task 3 saves"
+            }
+          },
+          {
             "id": "012aaaae5b4e3f7f",
             "type": "leaf",
             "state": {
@@ -282,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task 3 checklist.md",
+                "file": "task 3 saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +316,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 3 checklist"
+              "title": "Backlinks for task 3 saves"
             }
           }
         ]
@@ -308,12 +332,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task 3 checklist.md",
+                "file": "task 3 saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 3 checklist"
+              "title": "Outgoing links from task 3 saves"
             }
           }
         ]
@@ -357,10 +381,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9d462b19ffd1a30b",
+  "active": "59c6591e0ae96450",
   "lastOpenFiles": [
-    "task 3 saves.md",
     "task 3 checklist.md",
+    "task 3 saves.md",
+    "5 - Templates/Alignerr checklist.md",
     "task 4.md",
     "5 - Templates/Task n saves.md",
     "5 - Templates/Title.md",
@@ -384,7 +409,6 @@
     "Tags/user-defined.md",
     "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "3 - Main Notes/C++/C++ Data Structures.md",
-    "3 - Main Notes/C++/C++ Algorithms, Data Structures and Libraries.md",
     "2 - Source Material/Alignerr",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "6 - Full Notes/Jan 2026",
