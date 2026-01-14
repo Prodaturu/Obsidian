@@ -166,7 +166,7 @@ Currently, ic() accepts positional arguments only. There is no way to pass call-
 
 ### 10. Model A – Cons
 
-- Nearly No documentation made for the changes
+- Doesnt have preferably minimal but enough documentation made for the changes
 - Does not inform user how to use the new feature
 - Silent fallback on failure while using kwargs could hide user mistakes
 
