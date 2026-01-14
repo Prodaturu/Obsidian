@@ -2,9 +2,13 @@
 
 **UUID:**
 
-**git rev-parse HEAD**
+**git rev-parse HEAD:**
 
-[[{{title}} checklist]]
+**interface code:**
+**cc_agentic_coding**
+
+**Checklist:**
+- [[{{title}} checklist|checklist for {{title}}]]
 
 ---
 # {{Title}} and eval-logs 
