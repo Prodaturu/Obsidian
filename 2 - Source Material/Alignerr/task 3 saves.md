@@ -56,11 +56,11 @@ Cons:
 ##### Model B: 
 summarize_collection() Object-Based Approach
 Pros:
-- Returns actual Python objects (list, tuple, dict, set, frozenset) preserving type information
-- Works seamlessly with pprint infrastructure, producing standard Python representations
-- Clean separation between summarization and string formatting - follows single responsibility principle
-- Composable and reusable as a standalone function
-- Can be unit tested without mocking or checking output strings
+- Returns actual Python objects (list, tuple, dict, set, frozenset) and preserves type information
+- Works well with pprint, producing standard Python representations
+- Clean separation between summarization and string formatting
+- Reusable as a standalone function
+- Easy to uni test
 - Transforms objects early in the pipeline before formatting
 - Sensible default behavior - returns original object when max_length < 2
 - Can be exported as public API function"maxCollectionLength" naming is precise and accurate
