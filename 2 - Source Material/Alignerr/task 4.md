@@ -116,19 +116,33 @@ The placeholder and fallback direction are good, but a few issues need fixing. T
 The current implementation still fails to improve call location detection when source info is missing. Changes mainly affect formatting and placeholders, but the reported filename and line number are not demonstrably more accurate in no-source scenarios. Please address this by either improving the fallback calls site detection or by making its limitations explicit, verifiable through tests. The placeholder handling should be made clear, string-based heuristics are a cheap trick and can wrongly classify legal user values such as the literal string `<arg1>`, this needs replacement. The warning emitted when source info is missing should be changed to be more usefull. Add a test that verifies fallback context includes a filename and line number and that
 
 ### Turn 3 Eval Table:
+|Question of which is / has|Answer Given|Justoification Why?|
+|---|---|---|
+|Overall Better Solution|A better than B|A is closer to the prompt goal (structured output + context when source is missing), even though it still needs fixes from prompts 2/3.|
+|Better logic and correctness|A slightly better than B|A’s placeholder + forced context behavior aligns with intended use; B drops structure and arg names, which conflicts with the prompt.|
+|Better Naming and Clarity|A slightly better than B|A adds a clear placeholder constant; B improves warning wording but doesn’t add naming to support the new behavior.|
+|Better Organization and Clarity|A barely better than B|Both are localized edits; A adds a helper but uses brittle string heuristics.|
+|Better Interface Design|A better than B|A preserves a consistent arg: value interface even without source; B’s values‑only output is ambiguous.|
+|Better error handling and robustness|A slightly better than B|A forces context display and labels args; B warns well but loses structure.|
+|Better comments and documentation|A slightly better than B|A explains why placeholders are kept; B has clearer warning text but no doc/test coverage of output change.|
+|Ready for review / merge|A slightly better than B|A adds more relevant tests, but still misses items from prompts 2/3 (placeholder sentinel, warning text, context accuracy tests).|
 
-| Question of which is / has           | Answer Given | Justoification Why? |
-| ------------------------------------ | ------------ | ------------------- |
-| Overall Better Solution              |              |                     |
-| Better logic and correctness         |              |                     |
-| Better Naming and Clarity            |              |                     |
-| Better Organization and Clarity      |              |                     |
-| Better Interface Design              |              |                     |
-| Better error handling and robustness |              |                     |
-| Better comments and documentation    |              |                     |
-| Ready for review / merge             |              |                     |
+### Pros and cons
 
+#### Model A
 
+- Pros: Preserves structured output with placeholders; forces context when source is missing; adds tests specific to the no‑source formatting; aligns better with the prompt’s “don’t lose structure” requirement; keeps changes localized.
+- Cons: Placeholder detection is string‑based and can misclassify user input; warning text is less actionable; does not improve callsite detection accuracy (only formatting); missing tests for filename/line validity and context duplication.
 
-- 
+#### Model B
+
+##### Pros:
+- Clearer warning message with a doc link; simpler logic (less moving parts); avoids the placeholder misclassification bug by not using placeholders at all.
+##### Cons:
+- Values‑only output loses structure and is misleading; weaker alignment with the prompt’s requirement; fewer tests around no‑source behavior; still doesn’t improve detection accuracy; harder to reason about which value corresponds to which argument.
+
+### Justification:
+
+- A is closer to the required behavior and shows initiative by adding tests. It still needs coaching on edge cases and robustness (prompts 2/3), but the core direction is correct. B is simpler but misses the main objective, so it would require a larger redesign to meet the prompt.
+
 
