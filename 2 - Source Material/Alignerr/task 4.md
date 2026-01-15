@@ -131,8 +131,18 @@ The current implementation still fails to improve call location detection when s
 
 #### Model A
 
-- Pros: Preserves structured output with placeholders; forces context when source is missing; adds tests specific to the no‑source formatting; aligns better with the prompt’s “don’t lose structure” requirement; keeps changes localized.
-- Cons: Placeholder detection is string‑based and can misclassify user input; warning text is less actionable; does not improve callsite detection accuracy (only formatting); missing tests for filename/line validity and context duplication.
+##### Pros: 
+- Has structured output even while working with placeholders
+- forces context when source is missing
+- adds tests specific to missing source formatting
+- keeps changes localized.
+
+##### Cons: 
+- Placeholder detection is still string based 
+- can wrongly classify user input
+- warning texts are less reliable
+- does not improve callsite detection accuracy
+- missing tests for filename, linenum validity and context duplications
 
 #### Model B
 
