@@ -61,8 +61,8 @@ Pros:
 - Clean separation between summarization and string formatting - follows single responsibility principle
 - Composable and reusable as a standalone function
 - Can be unit tested without mocking or checking output strings
-• Transforms objects early in the pipeline before formatting
-• Sensible default behavior - returns original object when max_length < 2
+- Transforms objects early in the pipeline before formatting
+- Sensible default behavior - returns original object when max_length < 2
 • Can be exported as public API function
 • "maxCollectionLength" naming is precise and accurate
 • No manual string building, lower risk of edge case failures
