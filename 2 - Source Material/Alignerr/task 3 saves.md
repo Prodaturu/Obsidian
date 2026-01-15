@@ -130,6 +130,8 @@ Cons:
 - Complex implementation than Model A
 - Does not address recursive summarization or performance for extremely large collections but was not specified in prompt
 
+Model B is the clear winner for this task because it implements the requested changes. implementation is modular and testable, and is compatible with `pprint`. Model As only advantage is direct control of final rendering but even that is actually a disadvantage here because it is against tje given requirements to keep summaries as objects and interferes and specification to keep standard formatting
+
 ---
 ### Turn 3:
 
