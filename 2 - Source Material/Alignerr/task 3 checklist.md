@@ -91,11 +91,11 @@
 
 - [x] Inspect file diffs in VS Code (both trajectories)
     
-- [ ]  Review control flow, correctness, and structure
+- [x]  Review control flow, correctness, and structure
     
-- [ ]  Submit required feedback in control terminal
+- [x]  Submit required feedback in control terminal
     
-- [ ] Winner’s changes synced to main repo automatically
+- [x] Winner’s changes synced to main repo automatically
     
 
 ---
