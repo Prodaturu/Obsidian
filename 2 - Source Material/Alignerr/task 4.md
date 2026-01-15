@@ -16,10 +16,10 @@ cc_agentic_coding
 
 ## Turn 1
 
-### **Turn 1 Prompt:**
+### Turn 1 Prompt:
 In some environments, icecream cannot reliably show the file name, line number, or source snippet for an `ic()` call. Improve how icecream detects and reports information about where `ic()` is called in these cases. so the output remains usefull and doesn't lose its structure into an confusing or misleading one when context information is lost
 
-### **Turn 1 Eval Table:**
+### Turn 1 Eval Table:
 A is the better solution for the prompt’s goal (keep output useful/structured when source context is missing).
 
 |Question of which is / has|Answer Given|Justoification Why?|
@@ -61,9 +61,13 @@ A is the better solution for the prompt’s goal (keep output useful/structured 
 - A is the better solution for the prompt’s goal (keep output useful/structured when source context is missing).
 - The prompt explicitly calls for output that “remains useful and doesn’t lose its structure into a confusing or misleading one when context information is lost.” A addresses this directly by labeling arguments with placeholders and still showing context (icecream.py (lines 326-388)), while B still collapses to unlabeled values (icecream.py (lines 322-368)).
 ---
-**Turn 2 Prompt:**
+### Turn 2
 
-**Turn 2 Eval Table:**
+""
+
+#### Turn 2 Prompt:
+
+#### Turn 2 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |
@@ -77,9 +81,11 @@ A is the better solution for the prompt’s goal (keep output useful/structured 
 | Ready for review / merge             |              |                     |
 
 ---
-**Turn 3 Prompt:**
+### Turn 3
 
-**Turn 3 Eval Table:**
+#### Turn 3 Prompt:
+
+#### Turn 3 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |

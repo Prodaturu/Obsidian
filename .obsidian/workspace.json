@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 4.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 4 checklist"
+              "title": "Outline of task 4"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 4 checklist"
+              "title": "Backlinks for task 4"
             }
           }
         ]
@@ -248,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 4 checklist"
+              "title": "Outgoing links from task 4"
             }
           }
         ]
@@ -297,10 +297,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "92a6f88c9a249186",
+  "active": "c5595e3f475aea83",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/task 4.md",
     "2 - Source Material/Alignerr/task 4 checklist.md",
+    "2 - Source Material/Alignerr/task 4.md",
     "2 - Source Material/Alignerr/task 3 saves.md",
     "2 - Source Material/Alignerr/Turn 1 Prompt.md",
     "5 - Templates/Task n saves.md",
