@@ -147,12 +147,20 @@ The current implementation still fails to improve call location detection when s
 #### Model B
 
 ##### Pros:
-- Clearer warning message with a doc link; simpler logic (less moving parts); avoids the placeholder misclassification bug by not using placeholders at all.
+- Clear warning messages with link
+- simple logic
+- few moving parts
+- avoids placeholder mis-classification errors by not using placeholders at all
+
 ##### Cons:
-- Values‑only output loses structure and is misleading; weaker alignment with the prompt’s requirement; fewer tests around no‑source behavior; still doesn’t improve detection accuracy; harder to reason about which value corresponds to which argument.
+- Values‑only output loses structure and is misleading
+- fewer tests for testing behavior when source is missing
+- still doesn’t improve detection accuracy
+- harder to understand which value id of which argument.
 
 ### Justification:
 
 - A is closer to the required behavior and shows initiative by adding tests. It still needs coaching on edge cases and robustness (prompts 2/3), but the core direction is correct. B is simpler but misses the main objective, so it would require a larger redesign to meet the prompt.
 
 
+- I prefer Model A to be much better than B as, A is closer to the required behavior and for its tests forr the same d. It still needs coaching on edge cases and robustness (prompts 2/3), but the core direction is correct. B is simpler but misses the main objective, so it would require a larger redesign to meet the prompt
