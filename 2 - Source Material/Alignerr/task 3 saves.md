@@ -36,14 +36,15 @@ When using icecream on very large iterables, the output can become overwhelming 
 ##### Model A:
 - summarize_iterable() String-Based Approach
 Pros:
--  String transparency - the summarization function returns a string, making output explicit
-- Direct control over string representation format
-- Bypasses pprint complexity, providing predictable output
-- The "...N more items..." message is directly visible in the string
-- Can handle any object type uniformly
+- The summarization function returns a string, making output explicit and trasparent
+- User has control over string representation format
+- Bypasses pprint complexity and gives a predictable output
+- The "...N more items..." message is directly seen in the string
+- Users can handle diffetent object types in a similar way
 
 Cons:
-- CRITICAL BUG: The summarized string is built but then completely ignored in constructArgumentOutput() - the feature doesn't actually work
+- Has a critical bug 
+- The summarized string is built but then completely ignored in constructArgumentOutput() - the feature doesn't actually work
 - Converts collections to strings, losing type information that pprint needs
 - Creates malformed strings like "set({1, 2, ...})" that aren't valid Python
 - String output can't be further processed or validated
