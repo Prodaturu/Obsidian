@@ -22,7 +22,9 @@
 ## Jan 15 2026
 - [[task 3 saves]]
 
+- [[task 4]]
 
+- [[task 5]]
 
 ## interface password
 cc_agentic_coding
