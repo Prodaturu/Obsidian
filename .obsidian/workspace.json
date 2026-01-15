@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task 4"
+              "title": "task 3 saves"
             }
           }
         ]
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -153,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 4"
+              "title": "Outline of task 3 saves"
             }
           },
           {
@@ -224,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +233,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 4"
+              "title": "Backlinks for task 3 saves"
             }
           }
         ]
@@ -250,12 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 4"
+              "title": "Outgoing links from task 3 saves"
             }
           }
         ]
@@ -301,8 +300,8 @@
   },
   "active": "c5595e3f475aea83",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/task 4 checklist.md",
     "2 - Source Material/Alignerr/task 4.md",
+    "2 - Source Material/Alignerr/task 4 checklist.md",
     "2 - Source Material/Alignerr/task 3 saves.md",
     "2 - Source Material/Alignerr/Turn 1 Prompt.md",
     "5 - Templates/Task n saves.md",

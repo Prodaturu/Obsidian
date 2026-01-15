@@ -11,6 +11,7 @@ cc_agentic_coding
 
 [[task 4 checklist]]
 
+projected failure
 ---
 # task 4 and eval-logs 
 
