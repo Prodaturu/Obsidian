@@ -61,57 +61,46 @@ A is the better solution for the prompt’s goal (keep output useful/structured 
 - A is the better solution for the prompt’s goal (keep output useful/structured when source context is missing).
 - The prompt explicitly calls for output that “remains useful and doesn’t lose its structure into a confusing or misleading one when context information is lost.” A addresses this directly by labeling arguments with placeholders and still showing context (icecream.py (lines 326-388)), while B still collapses to unlabeled values (icecream.py (lines 322-368)).
 ---
-### Turn 2
+## Turn 2
 
-#### Turn 2 Prompt:
+### Turn 2 Prompt:
 The placeholder and fallback direction are good, but a few issues need fixing. The placeholder handling is currently brittle as its using string based shortcut methods to achieve it and is mis-classifying data that can look like placeholders as placeholders in some cases. The placeholder identification needs to be improved so real user values are never confused as placeholders. Warning when source is missing could be of better use. Add tests that check for if the said fallback context has info about filename, linenumber. The context should not be duplicated when  `includeContext` is on. The changes need to be local and avoid any additional formatting changes more than needed.
 
-#### Turn 2 Eval Table:
+### Turn 2 Eval Table:
 
-| Question of which is / has           | Answer Given | Justoification Why? |
-| ------------------------------------ | ------------ | ------------------- |
-| Overall Better Solution              |              |                     |
-| Better logic and correctness         |              |                     |
-| Better Naming and Clarity            |              |                     |
-| Better Organization and Clarity      |              |                     |
-| Better Interface Design              |              |                     |
-| Better error handling and robustness |              |                     |
-| Better comments and documentation    |              |                     |
-| Ready for review / merge             |              |                     |
+| Question of which is / has           | Answer Given             | Justoification Why?                                                                                                                                                                                                               |
+| ------------------------------------ | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Overall Better Solution              | A better than B          | A directly addresses the prompt by preserving structured output with placeholders and forcing context display; B still collapses to values-only when source is missing, which is exactly what prompt 1 and prompt 2 push against. |
+| Better logic and correctness         | A slightly better than B | A’s placeholder + forced-context logic matches the intended behavior, though it has the brittle placeholder‑string heuristic noted in prompt 2; B avoids that specific issue but fails the core requirement to keep structure.    |
+| Better Naming and Clarity            | A slightly better than B | A introduces ARG_SOURCE_UNAVAILABLE_PLACEHOLDER with clear intent; B improves the warning text but doesn’t add naming to support structured output.                                                                               |
+| Better Organization and Clarity      | A barely better than B   | Both keep changes localized; A adds a helper for placeholder detection but embeds brittle string logic, while B is simpler but less aligned to requirements.                                                                      |
+| Better Interface Design              | A better than B          | A maintains a predictable arg: value interface even without source; B changes the output contract to value-only, which is harder to interpret and more error-prone for consumers.                                                 |
+| Better error handling and robustness | A slightly better than B | A surfaces context and placeholders in no‑source cases (more robust for debugging), though its placeholder detection is brittle; B improves warning text but loses structure.                                                     |
+| Better comments and documentation    | A slightly better than B | A documents placeholder behavior and why it exists; B improves the warning wording but doesn’t document the new no‑source output implications.                                                                                    |
+| Ready for review / merge             | A slightly better than B | A adds tests around no‑source structure and placeholders; still needs follow‑ups per prompt 2 (robust placeholder ID, warning message, context duplication test).                                                                 |
 
-|Question of which is / has|Answer Given|Justoification Why?|
-|---|---|---|
-|Overall Better Solution|A better than B|A directly addresses the prompt by preserving structured output with placeholders and forcing context display; B still collapses to values-only when source is missing, which is exactly what prompt 1 and prompt 2 push against.|
-|Better logic and correctness|A slightly better than B|A’s placeholder + forced-context logic matches the intended behavior, though it has the brittle placeholder‑string heuristic noted in prompt 2; B avoids that specific issue but fails the core requirement to keep structure.|
-|Better Naming and Clarity|A slightly better than B|A introduces ARG_SOURCE_UNAVAILABLE_PLACEHOLDER with clear intent; B improves the warning text but doesn’t add naming to support structured output.|
-|Better Organization and Clarity|A barely better than B|Both keep changes localized; A adds a helper for placeholder detection but embeds brittle string logic, while B is simpler but less aligned to requirements.|
-|Better Interface Design|A better than B|A maintains a predictable arg: value interface even without source; B changes the output contract to value-only, which is harder to interpret and more error-prone for consumers.|
-|Better error handling and robustness|A slightly better than B|A surfaces context and placeholders in no‑source cases (more robust for debugging), though its placeholder detection is brittle; B improves warning text but loses structure.|
-|Better comments and documentation|A slightly better than B|A documents placeholder behavior and why it exists; B improves the warning wording but doesn’t document the new no‑source output implications.|
-|Ready for review / merge|A slightly better than B|A adds tests around no‑source structure and placeholders; still needs follow‑ups per prompt 2 (robust placeholder ID, warning message, context duplication test).|
+### Pros and cons
 
-Pros and cons
-
-Model A
+#### Model A
 
 - Pros: Keeps output structure with placeholders; forces context so location info remains; adds explicit tests for no‑source formatting.
 - Cons: Placeholder identification is string‑based and can misclassify user data; warning text is less actionable; missing tests for context duplication and filename/line presence per prompt 2.
 
-Model B
+#### Model B
 
 - Pros: Clearer, more actionable warning message; simpler logic; avoids brittle placeholder heuristics.
 - Cons: Loses structured output in no‑source cases; value‑only output can be misleading; fewer tests to enforce the improved behavior required by prompt 2.
 
-Why Model A overall
+#### Why Model A overall
 
 - Prompt 1 and prompt 2 both emphasize keeping structure and making fallback output useful. A meets that objective with placeholders + context, while B’s value‑only output undermines it. A does have shortcomings per prompt 2, but they’re fixable without changing the core approach; B would need a larger behavioral change to meet the requirement.
 
 ---
-### Turn 3
+## Turn 3
 
-#### Turn 3 Prompt:
+### Turn 3 Prompt:
 
-#### Turn 3 Eval Table:
+### Turn 3 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |
