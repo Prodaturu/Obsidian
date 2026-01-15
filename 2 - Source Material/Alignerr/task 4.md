@@ -83,8 +83,15 @@ The placeholder and fallback direction are good, but a few issues need fixing. T
 
 #### Model A
 
-- Pros: Keeps output structure with placeholders; forces context so location info remains; adds explicit tests for no‑source formatting.
-- Cons: Placeholder identification is string‑based and can misclassify user data; warning text is less actionable; missing tests for context duplication and filename/line presence per prompt 2.
+- Pros: 
+	- Keeps output structure similar by using placeholders
+	- forces context so location info is not lost
+	- adds tests  for formatting when having a missing source
+	
+- Cons:
+	- Placeholder identification is string‑based and can wrongly classify user data
+	- warning text is less actionable
+	- missing tests for context duplication and filename/line checks.
 
 #### Model B
 
