@@ -97,6 +97,39 @@ The current implementation gets the core idea right, but a few issues exist. The
 | **Better comments and documentation**    | B slightly better than A | Both implementations include reasonable docstrings, but Model B’s documentation and tests more clearly describe behavior and edge cases. In Model A, the mismatch between documented intent and string-based implementation reduces the usefulness of the documentation.                                                                                                    |
 | **Ready for review / merge**             | B much better than A     | Model B is close to merge-ready: it implements the requested object-based summarization, keeps concerns separated, and includes targeted tests. Model A fails the core refactor requirement by returning preformatted strings, making it unsuitable without further changes.                                                                                                |
 
+##### Model A
+
+Pros:
+
+- Provides direct control over the final rendered output which can make the visual result predictable.
+- The implementation is straightforward and easy to follow,
+- minimal differences between summarization logic and the final printed representation.
+- Requires fewer changes to the existing output workflow, which may reduce short-term effort.
+
+Cons:
+- Returns preformatted strings instead of shortened collection objects
+- summarization logic has presentation concerns, coupling data transformation to rendering and reducing modularity.
+- string-based markers can collide with user data and make it harder to reason about what is correct.
+- downstream code cannot treat the summarized result as a normal collection which makes it not reusable
+- edge-cases like having a very small max_length and unusual elements are handled improperly.
+
+##### Model B
+Pros:
+
+- Returns actual shortened collection objects rather than strings
+- allowsthe existing pprint to handle formatting as requested.
+- Preserves collection types where possible, limits implementation to general collection types as asked for.
+- Separates summarization and formatting
+- easy to test and maintain
+- Handles edge conditions very well.
+- Includes tests that show the expected behavior and stops regressions.
+- Produces output that is easier to look at and also easier for downstream tool usage.
+
+Cons:
+
+- Complex implementation than Model A
+- Does not address recursive summarization or performance for extremely large collections but was not specified in prompt
+
 ---
 ### Turn 3:
 
