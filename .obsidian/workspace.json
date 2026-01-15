@@ -42,33 +42,9 @@
               "icon": "lucide-file",
               "title": "task 3 saves"
             }
-          },
-          {
-            "id": "9429c92cfe46137d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Alignerr/task 1 saves.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "task 1 saves"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f2380d254d04dda3",
@@ -189,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 3 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 3 checklist"
+              "title": "Outline of task 3 saves"
             }
           },
           {
@@ -247,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 3 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +233,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 3 checklist"
+              "title": "Backlinks for task 3 saves"
             }
           }
         ]
@@ -273,12 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 3 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 3 checklist"
+              "title": "Outgoing links from task 3 saves"
             }
           }
         ]
@@ -322,12 +298,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9d462b19ffd1a30b",
+  "active": "24187d16088d8f23",
   "lastOpenFiles": [
+    "2 - Source Material/Alignerr/task 3 checklist.md",
+    "2 - Source Material/Alignerr/task 3 saves.md",
     "2 - Source Material/Alignerr/task 1 saves.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
-    "2 - Source Material/Alignerr/task 3 saves.md",
-    "2 - Source Material/Alignerr/task 3 checklist.md",
     "2 - Source Material/Alignerr/Turn 1 Prompt.md",
     "Indexes/C++.md",
     "2 - Source Material/Alignerr/task 4.md",

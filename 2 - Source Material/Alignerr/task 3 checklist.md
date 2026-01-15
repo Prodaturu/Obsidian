@@ -102,27 +102,27 @@
 
 ## 6. Upload Codebase Snapshot (Once Only)
 
-- [ ] Copy codebase after first-turn feedback
+- [x] Copy codebase after first-turn feedback
     
     `cp -r . /tmp/<codebase-name>`
     
-- [ ] Navigate to copied codebase
+- [x] Navigate to copied codebase
     
     `cd /tmp/<codebase-name>`
     
-- [ ] Remove unnecessary directories
+- [x] Remove unnecessary directories
     
-    - [ ] node_modules
+    - [x] node_modules
         
-    - [ ] venv
+    - [x] venv
         
-	 - [ ] build artifacts
+	 - [x] build artifacts
         
-- [ ] Create tar archive
+- [x] Create tar archive
     
     `tar -cf <codebase-name>.tar ./<codebase-path>`
     
-- [ ] Upload tar file via submission form
+- [x] Upload tar file via submission form
     
 
 ---
