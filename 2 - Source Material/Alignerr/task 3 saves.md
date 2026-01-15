@@ -80,10 +80,9 @@ Model B is substantially superior because it actually works where as Model A has
 ---
 ### Turn 2:
 
-**Turn 2 Prompt:**
+#### Turn 2 Prompt:
 
-
-**Turn 2 Eval Table:**
+#### Turn 2 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |

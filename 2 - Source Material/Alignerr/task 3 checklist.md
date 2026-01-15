@@ -134,19 +134,14 @@
 - [ ] No scope creep introduced
     
 - [ ] Feedback addresses:
-    
     - [ ] Edge cases
-        
     - [ ] Naming and clarity
-        
     - [ ]  Organization and modularity
-        
 	- [ ] Error handling
-        
+	      
 - [ ] Treat model as junior engineer, not expert
 - [ ] Complete **at least 2 user turns total**
 - [ ]  Continue until code is **PR-approvable**
-    
 
 ---
 
