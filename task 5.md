@@ -40,21 +40,16 @@ Icecream imports `ic` as a callable instance rather than a normal function, whic
 ### Model A
 #### Pros
 
-- Keeps behavior more reliably by delegating to `IceCreamDebugger.__call__`, including the `_callFrame` path.
-    
-- Automatically forwards all configuration and attributes using `__getattr__` / `__setattr__`, which lowers compatibility risk.
-    
-- Uses minimal code and avoids duplicated logic, reducing the chance of future behavior differences.
-    
+- Keeps behavior more reliable by using `IceCreamDebugger.__call__`, including the `_callFrame` path.
+- Automatically forwards all configuration and attributes using `__getattr__` / `__setattr__`, which reduces compatibility related issues.
+- Changes in code are minimal and avoids duplicating logic
+- reduced chance of future behavioral differences.
 
 #### Cons
 
-- Fails the main requirement: `ic` is still a callable object (`_IcFunction(...)`), not a real function, so the IDE/function recognition issue still exists.
-    
-- The wrapper’s docstring says “regular function-like wrapper,” but the exported symbol is still not actually a function.
-    
-- Does not provide a true `def ic(...): ...` entry point or real function signature.
-    
+- Fails the main requirement itself, `ic` is still a callable object (`_IcFunction(...)`), not a real function, so the IDE/function recognition issue is still un-addressed
+- The wrapper says “regular function-like wrapper,” but the exported symbol is still not actually even a function    
+- Does not provide a true `def ic(...): ...` entry point or even a real function signature.
 
 ### Model B
 
