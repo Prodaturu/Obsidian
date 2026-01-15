@@ -37,42 +37,52 @@ Icecream imports `ic` as a callable instance rather than a normal function, whic
 
 ### Pros and Cons:
 
-#### Model A  
-##### Pros:
+### Model A
 
-- Preserves the existing formatting workflow by delegating to the underlying debugger rather than reimplementing `ic()` call behavior
-- Ensures correct call-site reporting by capturing the wrapper’s caller frame and passing it into the debugger via a minimal internal hook
-- Delegates all attributes through `__getattr__`/`__setattr__`, so configuration and any existing/future debugger attributes keep working without additional wrapper maintenance
-- Avoids duplicated logic, reducing drift risk between wrapper and debugger behavior
-- Smaller change footprint and lower long-term regression risk
+**Pros:**
+
+- Keeps the current formatting and formatting work-flow by using the pre-existing debugger instead of rewriting how `ic()` works.
+- Reports the correct line of code by grabbing the caller info and giving it to the debugger, with the help of a small internal hook.
+- Passes through all settings and attributes automatically, so current and future debugger options keep working without extra wrapper code.
+- Does not repeat debugger logic. which in turn, lowers the risk of the wrapper and debugger behaving differently over time.
+- Changes less code overall, which decreases the risk of bugs.
+
+
+**Cons:**
+
+- `ic` is still in reality,  an object that can be called, not a real top-level function, so some IDEs may not fully treat it like a function or function call
+- Does not set function-style details like `__name__` or `__qualname__`, so some tools may not see or display it as nicely as Model B
+- The wrapper is intentionally minimal, so users rely on delegated behavior instead of clearly listed wrapper methods
+---
+
+### Model B
+
+**Pros:**
+
+- Has clearer wrapper methods and more detailed documentation
+- Much easier to understand and explore through
+- Sets function-style metadata, which can help some tools display `ic` more like a normal function
   
-##### Cons:
 
-- `ic` is still a callable object rather than a true top-level `def ic(...):` function, so some IDEs may still treat it as an instance rather than a function for highlighting/autocomplete
-- Does not set function-like metadata (`__name__`, `__qualname__`, etc.), which may reduce the “function-like” feel in some tooling compared to B
-- Wrapper API surface is intentionally thin; discoverability relies on delegation rather than explicit wrapper members
+**Cons:**
 
-#### Model B  
-##### Pros
-
-- More explicit wrapper surface (methods/properties) and more detailed docstrings can improve readability and discoverability.
+- Repeats a lot of the debugger’s internal call logic in the wrapper, which increases the risk that the two drift apart over time.
     
-- Sets function-like metadata (`__name__`, `__qualname__`, `__module__`), which may improve how some tools present `ic`.
-
-##### Cons
-
-- Duplicates significant portions of the debugger call flow in the wrapper, increasing the chance of behavioral drift and subtle inconsistencies over time.
+- Needs manual upkeep to forward attributes; anything not explicitly handled may not work correctly through `ic`.
     
-- Requires ongoing manual delegation maintenance; attributes not explicitly delegated may behave differently or be inaccessible through `ic`.
+- More code and more paths mean higher maintenance effort and a greater chance of future bugs compared to Model A.
     
-- Higher surface area and more code paths increase maintenance cost and regression risk relative to A.
 
-### Justification  
+---
+
+### Justification
+
+- Model A solves the problem with the least risk. It lets `ic(...)` act like a function while keeping all formatting and output logic in `IceCreamDebugger`. It also keeps full configuration support by cleanly passing everything through.  
+    Model B improves discoverability and tool support, but it does so by copying logic and only partially forwarding behavior, which makes it more fragile and harder to maintain in the long run.
 - A meets the prompt with minimal, compatible changes: it makes ic callable like a function while keeping existing behavior and attribute access intact. B improves documentation but introduces API changes, duplicate logic, and subtle behavior shifts that are risky for a junior-level implementation.
 	
 	-                                                       (or)
-	
-- A meets the prompt with the lowest compatibility and maintenance risk: it makes `ic(...)` behave function-like in usage while keeping the core formatting/output logic centralized in `IceCreamDebugger` and preserving full configurability through transparent delegation. B improves discoverability and tooling hints, but does so with duplicated call logic and partial delegation that increases divergence and long-term brittleness.
+
 
 ---
 ## Turn 2 
