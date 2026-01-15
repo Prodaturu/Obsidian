@@ -15,10 +15,42 @@ cc_agentic_coding
 ---
 # task 5 saves and eval-logs 
 
-**Turn 1 Prompt:**
+## Turn 1
+
+### Turn 1 Prompt:
 Icecream imports `ic` as a callable instance rather than a normal function, which makes it less recognizable in IDEs. It is also less convenient to use with features like syntax highlighting and autocomplete. Improve the API so users can import and call a regular function for the common `ic(...)` use case, while keeping existing usage working and preserving the current behavior.
 
-**Turn 1 Eval Table:**
+### Turn 1 Eval Table:
+
+| Question of which is / has           | Answer Given | Justoification Why? |
+| ------------------------------------ | ------------ | ------------------- |
+| Overall Better Solution              |              |                     |
+| Better logic and correctness         |              |                     |
+| Better Naming and Clarity            |              |                     |
+| Better Organization and Clarity      |              |                     |
+| Better Interface Design              |              |                     |
+| Better error handling and robustness |              |                     |
+| Better comments and documentation    |              |                     |
+| Ready for review / merge             |              |                     |
+
+### Pros and Cons
+
+#### Model A
+##### Pros
+
+##### Cons
+
+#### Model B
+##### Pros
+
+##### Cons
+
+---
+## Turn 2 
+
+### Turn 2 Prompt:
+
+### Turn 2 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |
@@ -32,25 +64,23 @@ Icecream imports `ic` as a callable instance rather than a normal function, whic
 | Ready for review / merge             |              |                     |
 
 ---
-**Turn 2 Prompt:**
+### Pros and Cons
 
-**Turn 2 Eval Table:**
+#### Model A
+##### Pros
 
-| Question of which is / has           | Answer Given | Justoification Why? |
-| ------------------------------------ | ------------ | ------------------- |
-| Overall Better Solution              |              |                     |
-| Better logic and correctness         |              |                     |
-| Better Naming and Clarity            |              |                     |
-| Better Organization and Clarity      |              |                     |
-| Better Interface Design              |              |                     |
-| Better error handling and robustness |              |                     |
-| Better comments and documentation    |              |                     |
-| Ready for review / merge             |              |                     |
+##### Cons
+
+#### Model B
+##### Pros
+
+##### Cons
 
 ---
-**Turn 3 Prompt:**
+## Turn 3 
+### Turn 3 Prompt:
 
-**Turn 3 Eval Table:**
+### Turn 3 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |
@@ -63,7 +93,14 @@ Icecream imports `ic` as a callable instance rather than a normal function, whic
 | Better comments and documentation    |              |                     |
 | Ready for review / merge             |              |                     |
 
+### Pros and Cons
 
+#### Model A
+##### Pros
 
-- 
+##### Cons
 
+#### Model B
+##### Pros
+
+##### Cons
