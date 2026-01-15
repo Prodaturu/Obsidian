@@ -4,74 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9595362cbc21259c",
+        "id": "57ae64eb3aa30ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "ecb3102c58d47517",
+            "id": "64255bef3043f618",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
-            "id": "24187d16088d8f23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Alignerr/task 3 saves.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "task 3 saves"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f2380d254d04dda3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d462b19ffd1a30b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Alignerr/task 3 checklist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "task 3 checklist"
+              "title": "New tab"
             }
           }
         ]
@@ -165,13 +108,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 3 saves"
+              "title": "Outline"
             }
           },
           {
@@ -204,6 +146,19 @@
             "id": "50f38f2973428524",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "821724f41a024fcf",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -223,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +187,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 3 saves"
+              "title": "Backlinks"
             }
           }
         ]
@@ -249,12 +203,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 3 saves"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -298,10 +251,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24187d16088d8f23",
+  "active": "64255bef3043f618",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/task 3 checklist.md",
     "2 - Source Material/Alignerr/task 3 saves.md",
+    "2 - Source Material/Alignerr/task 3 checklist.md",
     "2 - Source Material/Alignerr/task 1 saves.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "2 - Source Material/Alignerr/Turn 1 Prompt.md",
