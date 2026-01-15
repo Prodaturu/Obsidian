@@ -171,53 +171,29 @@ The current implementation still fails to improve call location detection when s
 
 There are still issues with code. fix them without changing the output format. The placeholder detection must be more clear. stringbased heuristics are brittle and can misclassify legitimate user values like the literal string `<arg1>`, so replace this with a proper, non-string mechanism like enums or something similar while keeping the rendered placeholder text exactly the same `<arg?>, <arg1>, ...`. The warning when source info is missing should be updated to have a clear wording. Additionally, add tests that verify the no-source fallback context. Make sure it includes a filename and line number, and that context is not duplicated when `includeContext=True` is active. Finally, either meaningfully improve call-site detection when missing source, or make the limitation explicit and verifiable through tests. Keep changes local and explain any non-obvious tradeoffs.
 
-### Turn 4 Eval Table:
 |Question of which is / has|Answer Given|Justoification Why?|
 |---|---|---|
-|Overall Better Solution|A better than B|A is closer to the prompt goal (structured output + context when source is missing), even though it still needs fixes from prompts 2/3.|
-|Better logic and correctness|A slightly better than B|A’s placeholder + forced context behavior aligns with intended use; B drops structure and arg names, which conflicts with the prompt.|
-|Better Naming and Clarity|A slightly better than B|A adds a clear placeholder constant; B improves warning wording but doesn’t add naming to support the new behavior.|
-|Better Organization and Clarity|A barely better than B|Both are localized edits; A adds a helper but uses brittle string heuristics.|
-|Better Interface Design|A better than B|A preserves a consistent arg: value interface even without source; B’s values‑only output is ambiguous.|
-|Better error handling and robustness|A slightly better than B|A forces context display and labels args; B warns well but loses structure.|
-|Better comments and documentation|A slightly better than B|A explains why placeholders are kept; B has clearer warning text but no doc/test coverage of output change.|
-|Ready for review / merge|A slightly better than B|A adds more relevant tests, but still misses items from prompts 2/3 (placeholder sentinel, warning text, context accuracy tests).|
+|Overall Better Solution|A better than B|A preserves structure with explicit placeholders and forces context, keeping output readable and unambiguous when source is missing (icecream.py (lines 326-388)).|
+|Better logic and correctness|A slightly better than B|A handles no-source by labeling args (<arg?>, <arg1>) and ensures context is shown, matching the prompt’s intent; B drops arg names entirely which can be misleading (icecream.py (lines 326-388) vs icecream.py (lines 322-368)).|
+|Better Naming and Clarity|A slightly better than B|ARG_SOURCE_UNAVAILABLE_PLACEHOLDER clearly documents its purpose and behavior (icecream.py (lines 178-181)); B only documents the warning string.|
+|Better Organization and Clarity|A barely better than B|A keeps the behavior isolated in _formatArgs and _constructArgumentOutput with placeholder logic and helper isPlaceholder (icecream.py (lines 359-388)).|
+|Better Interface Design|A better than B|Output format remains consistent with arg: value pairs even when source is lost; B changes interface to value-only output which is harder to interpret (icecream.py (lines 381-388)).|
+|Better error handling and robustness|A better than B|A provides explicit placeholder labels and enforces context display, reducing ambiguity and aiding debugging (icecream.py (lines 351-355)).|
+|Better comments and documentation|A slightly better than B|A adds comments that explain why placeholders are kept and what they mean, plus tests codify the expected structure (icecream.py (lines 381-384), test_icecream.py (lines 518-759)).|
+|Ready for review / merge|A slightly better than B|A adds explicit tests for no-source placeholder structure and context forcing, which aligns with the prompt’s intent (test_icecream.py (lines 518-759)).|
 
-### Pros and cons
+Pros and cons
 
-#### Model A
+A
 
-##### Pros: 
-- Has structured output even while working with placeholders
-- forces context when source is missing
-- adds tests specific to missing source formatting
-- keeps changes localized.
+- Pros: Maintains arg: value structure even without source by using placeholders; forces context display so call location is still visible; adds targeted tests for no-source behavior.
+- Cons: Changes output format in no-source cases (may be a behavior change for consumers who expect value-only output).
 
-##### Cons: 
-- Placeholder detection is still string based 
-- can wrongly classify user input
-- warning texts are less reliable
-- does not improve callsite detection accuracy
-- missing tests for filename, linenum validity and context duplications
+B
 
-#### Model B
+- Pros: Simpler change set; adds a clearer warning message with a link; avoids duplicated context when includeContext=True.
+- Cons: Value-only output when source is missing loses structure and can be confusing, which directly conflicts with the prompt’s goal; tests don’t enforce clearer no-source formatting.
 
-##### Pros:
-- Clear warning messages with link
-- simple logic
-- few moving parts
-- avoids placeholder mis-classification errors by not using placeholders at all
+Justification for best overall
 
-##### Cons:
-- Values‑only output loses structure and is misleading
-- fewer tests for testing behavior when source is missing
-- still doesn’t improve detection accuracy
-- harder to understand which value id of which argument.
-
-### Justification:
-
-- A is closer to the required behavior and shows initiative by adding tests. It still needs coaching on edge cases and robustness (prompts 2/3), but the core direction is correct. B is simpler but misses the main objective, so it would require a larger redesign to meet the prompt.
-
-
-- I prefer Model A to be much better than B because, A is closer to the required behavior and  its tests for the same d. It still needs fixing the edge cases and robustness, but the core direction is correct. B is simpler but misses the main objective, so it would require a larger redesign to achieve the same level
-
+- The prompt explicitly calls for output that “remains useful and doesn’t lose its structure into a confusing and misleading one when context information is lost.” A addresses this directly by labeling arguments with placeholders and still showing context like (icecream.py (lines 326-388)), while B still collapses to unlabeled values like (icecream.py (lines 322-368)).
