@@ -164,3 +164,60 @@ The current implementation still fails to improve call location detection when s
 
 
 - I prefer Model A to be much better than B because, A is closer to the required behavior and  its tests for the same d. It still needs fixing the edge cases and robustness, but the core direction is correct. B is simpler but misses the main objective, so it would require a larger redesign to achieve the same level
+
+## Turn 4
+
+### Turn 4 Prompt:
+
+There are still issues with code. fix them without changing the output format. The placeholder detection must be more clear. stringbased heuristics are brittle and can misclassify legitimate user values like the literal string `<arg1>`, so replace this with a proper, non-string mechanism like enums or something similar while keeping the rendered placeholder text exactly the same `<arg?>, <arg1>, ...`. The warning when source info is missing should be updated to have a clear wording. Additionally, add tests that verify the no-source fallback context. Make sure it includes a filename and line number, and that context is not duplicated when `includeContext=True` is active. Finally, either meaningfully improve call-site detection when missing source, or make the limitation explicit and verifiable through tests. Keep changes local and explain any non-obvious tradeoffs.
+
+### Turn 4 Eval Table:
+|Question of which is / has|Answer Given|Justoification Why?|
+|---|---|---|
+|Overall Better Solution|A better than B|A is closer to the prompt goal (structured output + context when source is missing), even though it still needs fixes from prompts 2/3.|
+|Better logic and correctness|A slightly better than B|A’s placeholder + forced context behavior aligns with intended use; B drops structure and arg names, which conflicts with the prompt.|
+|Better Naming and Clarity|A slightly better than B|A adds a clear placeholder constant; B improves warning wording but doesn’t add naming to support the new behavior.|
+|Better Organization and Clarity|A barely better than B|Both are localized edits; A adds a helper but uses brittle string heuristics.|
+|Better Interface Design|A better than B|A preserves a consistent arg: value interface even without source; B’s values‑only output is ambiguous.|
+|Better error handling and robustness|A slightly better than B|A forces context display and labels args; B warns well but loses structure.|
+|Better comments and documentation|A slightly better than B|A explains why placeholders are kept; B has clearer warning text but no doc/test coverage of output change.|
+|Ready for review / merge|A slightly better than B|A adds more relevant tests, but still misses items from prompts 2/3 (placeholder sentinel, warning text, context accuracy tests).|
+
+### Pros and cons
+
+#### Model A
+
+##### Pros: 
+- Has structured output even while working with placeholders
+- forces context when source is missing
+- adds tests specific to missing source formatting
+- keeps changes localized.
+
+##### Cons: 
+- Placeholder detection is still string based 
+- can wrongly classify user input
+- warning texts are less reliable
+- does not improve callsite detection accuracy
+- missing tests for filename, linenum validity and context duplications
+
+#### Model B
+
+##### Pros:
+- Clear warning messages with link
+- simple logic
+- few moving parts
+- avoids placeholder mis-classification errors by not using placeholders at all
+
+##### Cons:
+- Values‑only output loses structure and is misleading
+- fewer tests for testing behavior when source is missing
+- still doesn’t improve detection accuracy
+- harder to understand which value id of which argument.
+
+### Justification:
+
+- A is closer to the required behavior and shows initiative by adding tests. It still needs coaching on edge cases and robustness (prompts 2/3), but the core direction is correct. B is simpler but misses the main objective, so it would require a larger redesign to meet the prompt.
+
+
+- I prefer Model A to be much better than B because, A is closer to the required behavior and  its tests for the same d. It still needs fixing the edge cases and robustness, but the core direction is correct. B is simpler but misses the main objective, so it would require a larger redesign to achieve the same level
+
