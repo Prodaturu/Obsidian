@@ -89,7 +89,7 @@
 
 ## 5. First-Turn Review & Feedback
 
-- [ ] Inspect file diffs in VS Code (both trajectories)
+- [x] Inspect file diffs in VS Code (both trajectories)
     
 - [ ]  Review control flow, correctness, and structure
     
