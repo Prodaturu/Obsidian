@@ -10,65 +10,55 @@
 
 ## 1. Git & Environment Prerequisites (Before CLI)
 
-- [ ] Navigate to repository root
+- [x] Navigate to repository root
     
     `cd $(git rev-parse --show-toplevel)`
     
-- [ ] Confirm current directory is git root
+- [x] Confirm current directory is git root
     
     `git rev-parse --show-toplevel`
     
-- [ ] Record starting commit hash
+- [x] Record starting commit hash
     
     `git rev-parse HEAD`
     
-- [ ] Save commit hash for final diff generation
-    
-- [ ] Confirm `tmux` is installed
-    
-    `tmux -V`
-    
-- [ ] Install `tmux` if missing
-    
-- [ ] Confirm `claude-hfi` is installed
-    
-    `claude-hfi --help`
-    
+- [x] Save commit hash for final diff generation
+
 
 ---
 
 ## 2. CLI Launch
 
-- [ ] Decide CLI mode
+- [x] Decide CLI mode
     
-    - [ ] VS Code mode (`--vscode`) **(recommended)**
+    - [x] VS Code mode (`--vscode`) **(recommended)**
         
     - [ ] All-in-one tmux mode (`--tmux`)
         
-- [ ]  Start Claude HFI
+- [x]  Start Claude HFI
     
     `claude-hfi --vscode`
     
-- [ ]  Complete Auth0 authentication
+- [x]  Complete Auth0 authentication
     
-- [ ]  Return to control prompt
+- [x]  Return to control prompt
     
 
 ---
 
 ## 3. First Turn (Initial Prompt)
 
-- [ ]  Prompt is **well-scoped and atomic**
+- [x]  Prompt is **well-scoped and atomic**
     
-- [ ]   Prompt defines **WHAT** and **WHY**, not **HOW**
+- [x]   Prompt defines **WHAT** and **WHY**, not **HOW**
     
-- [ ] No explicit instruction to “make code production-ready”
+- [x] No explicit instruction to “make code production-ready”
     
-- [ ] No prescriptive implementation details
+- [x] No prescriptive implementation details
     
-- [ ] Submit first-turn prompt
+- [x] Submit first-turn prompt
     
-- [ ] Wait for Model A and Model B responses
+- [x] Wait for Model A and Model B responses
     
 
 ---
@@ -77,19 +67,19 @@
 
 - [ ] Note tmux session IDs printed in control terminal
     
-- [ ] Open integrated terminal in **Trajectory A VS Code window**
+- [x] Open integrated terminal in **Trajectory A VS Code window**
     
-- [ ] Attach to session A
+- [x] Attach to session A
     
     `tmux attach -t <session-id>-A`
     
-- [ ] Open integrated terminal in **Trajectory B VS Code window**
+- [x] Open integrated terminal in **Trajectory B VS Code window**
     
-- [ ] Attach to session B
+- [x] Attach to session B
     
     `tmux attach -t <session-id>-B`
     
-- [ ] Watch for:
+- [x] Watch for:
     
     - [ ] Permission prompts
         
@@ -97,7 +87,7 @@
         
     - [ ] Errors or blocking states
         
-- [ ] Exit trajectory shells after completion
+- [x] Exit trajectory shells after completion
     
 
 ---
