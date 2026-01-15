@@ -2,9 +2,9 @@
 
 ## 0. Task Preparation
 
-- [ ] Select a **single, atomic task** (bug or enhancement)
-- [ ] Verify scope fits a **single PR** 
-- [ ] Ensure task is defined from **user perspective**, not implementation details
+- [x] Select a **single, atomic task** (bug or enhancement)
+- [x] Verify scope fits a **single PR** 
+- [x] Ensure task is defined from **user perspective**, not implementation details
 
 ---
 
