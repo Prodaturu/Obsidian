@@ -48,7 +48,10 @@ A is the better solution for the prompt’s goal (keep output useful/structured 
 #### Model B:
 
 - Pros:
-	- Simpler change set; adds a clearer warning message with a link; avoids duplicated context when `includeContext=True`.
+	- Very simple change set
+	- adds a clear warning message with a link
+	- avoids duplicated context when `includeContext=True` is enabled
+	
 - Cons:
 	- Value-only output when source is missing loses structure and can be confusing, which directly conflicts with the prompt’s goal; tests don’t enforce clearer no-source formatting.
 
