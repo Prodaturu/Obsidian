@@ -53,7 +53,9 @@ A is the better solution for the prompt’s goal (keep output useful/structured 
 	- avoids duplicated context when `includeContext=True` is enabled
 	
 - Cons:
-	- Value-only output when source is missing loses structure and can be confusing, which directly conflicts with the prompt’s goal; tests don’t enforce clearer no-source formatting.
+	- gives value only output when source is missing
+	- loses output structure on some cases and makes it confusing to debug
+	- tests don’t enforce clear for formatting when there is no source
 
 #### Justification for best overall
 - A is the better solution for the prompt’s goal (keep output useful/structured when source context is missing).
