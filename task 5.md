@@ -24,16 +24,16 @@ Icecream imports `ic` as a callable instance rather than a normal function, whic
 
 - A is the stronger overall solution. It keeps behavior and compatibility intact while still achieving the function-like call pattern with minimal surface-area changes.
 
-|Question of which is / has|Answer Given|Justoification Why?|
-|---|---|---|
-|Overall Better Solution|A better than B|A adds a lightweight wrapper that preserves existing behavior and delegation without breaking IceCreamDebugger.__call__’s internal _callFrame path, while B removes that and duplicates logic in the wrapper (icecream.py, icecream.py).|
-|Better logic and correctness|A better than B|A keeps the _callFrame hook so call-site formatting stays correct and no internal API change; B changes the debugger signature and reimplements call flow, increasing divergence risk.|
-|Better Naming and Clarity|B slightly better than A|B’s wrapper methods and docstrings make intent clearer and more discoverable; A is terse but less descriptive.|
-|Better Organization and Clarity|A slightly better than B|A avoids duplicating debugger logic and uses __getattr__/__setattr__ for delegation; B hard-codes many delegates and repeats call behavior.|
-|Better Interface Design|A better than B|A preserves full attribute passthrough (any existing or future debugger attribute works); B exposes only a curated subset and changes behavior when setting unknown attrs.|
-|Better error handling and robustness|A slightly better than B|A’s minimal change surface reduces new failure modes; B’s removal of _callFrame and manual delegation are more brittle under evolution.|
-|Better comments and documentation|B better than A|B includes detailed docstrings and usage notes; A has minimal documentation changes.|
-|Ready for review / merge|A better than B|A is lower risk with fewer regressions; B’s API change and behavior divergence would need extra testing.|
+| Question of which is / has           | Answer Given             | Justoification Why?                                                                                                                                                                                                                      |
+| ------------------------------------ | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Overall Better Solution              | A better than B          | A adds a lightweight wrapper that preserves existing behavior and delegation without breaking IceCreamDebugger.__call__’s internal _callFrame path, while B removes that and duplicates logic in the wrapper (icecream.py, icecream.py). |
+| Better logic and correctness         | A better than B          | A keeps the _callFrame hook so call-site formatting stays correct and no internal API change; B changes the debugger signature and reimplements call flow, increasing divergence risk.                                                   |
+| Better Naming and Clarity            | B slightly better than A | B’s wrapper methods and docstrings make intent clearer and more discoverable; A is terse but less descriptive.<br>“B’s wrapper is more explicit; A relies more on delegation.                                                            |
+| Better Organization and Clarity      | A slightly better than B | A avoids duplicating debugger logic and uses __getattr__/__setattr__ for delegation; B hard-codes many delegates and repeats call behavior.                                                                                              |
+| Better Interface Design              | A better than B          | A preserves full attribute passthrough (any existing or future debugger attribute works); B exposes only a curated subset and changes behavior when setting unknown attrs.                                                               |
+| Better error handling and robustness | A slightly better than B | A’s minimal change surface reduces new failure modes; B’s removal of _callFrame and manual delegation are more brittle under evolution.                                                                                                  |
+| Better comments and documentation    | B better than A          | B includes detailed docstrings and usage notes; A has minimal documentation changes.                                                                                                                                                     |
+| Ready for review / merge             | A better than B          | A is lower risk with fewer regressions; B’s API change and behavior divergence would need extra testing.                                                                                                                                 |
 
 ### Pros and Cons:
 

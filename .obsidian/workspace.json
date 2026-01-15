@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task 5 checklist.md",
+                "file": "task 5.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 5 checklist"
+              "title": "Outline of task 5"
             }
           },
           {
@@ -237,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task 5 checklist.md",
+                "file": "task 5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 5 checklist"
+              "title": "Backlinks for task 5"
             }
           }
         ]
@@ -263,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task 5 checklist.md",
+                "file": "task 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 5 checklist"
+              "title": "Outgoing links from task 5"
             }
           }
         ]
@@ -312,12 +312,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a8aed04bbf426bdf",
+  "active": "c5595e3f475aea83",
   "lastOpenFiles": [
+    "task 5 checklist.md",
     "task 5.md",
     "2 - Source Material/Alignerr/task 4 checklist.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
-    "task 5 checklist.md",
     "5 - Templates/Task n saves.md",
     "2 - Source Material/Alignerr/task 4.md",
     "2 - Source Material/Alignerr/task 3 saves.md",
