@@ -67,17 +67,15 @@ Pros:
 - Gives output in a format users would prefer or expect to see in
 
 Cons:
-- Inserts a string marker "... (N more items) ..." into the collection, which is valid but unusual
-- The returned collection contains a string marker, not pure data (slight semantic oddity)
-- Output format depends on pprint's behavior, less predictable than explicit strings
-- Adds a string key to dicts that looks unusual: '... (N more items) ...': '...'
-- Sets/frozensets containing a string marker are semantically odd, though technically valid
-- Not immediately obvious how output will look without understanding pprint
-- The returned collection is structurally different (has marker), not a pure view
+- The returned collection contains a string marker, not pure data
+- Output format depends on pprint's behavior, which is way less predictable than explicit strings
+- Adds a string key to dictionaries making it look a bit unusual
+- It is not obvious how output will look like, without understanding pprint making it unfriendly to use
+- The returned collection is of different structure and is not a pure view
 
-Bottom Line / Justification:
+##### Bottom Line / Justification:
 
-Model B is substantially superior because it actually works (Model A has a critical bug that prevents the feature from functioning), follows better software engineering practices, produces correct output, and is more maintainable and testable. Model A's only potential advantage—direct string control—is completely negated by the bug and architectural problems. The marker object in Model B is a minor semantic oddity that's vastly preferable to having a feature that doesn't work at all.
+Model B is substantially superior because it actually works where as Model A has a critical bug that prevents the feature from functioning itself. Model A produces correct output, more maintainable and easy to test. Model A only has a potential advantage when it comes to direct string control but this is completely negated by the bug and architectural problems. Making the marker object in Model B a minor semantic issue, which is much much preferable compared to having a feature that doesn't work at all.
 
 ---
 ### Turn 2:
