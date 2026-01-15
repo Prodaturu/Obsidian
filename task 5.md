@@ -55,19 +55,18 @@ Icecream imports `ic` as a callable instance rather than a normal function, whic
 
 #### Pros
 
-- Has a more explicit wrapper API and more detailed documentation.
-    
-- Adds function-style metadata (`__name__`, `__qualname__`), which may slightly improve how some tools display it.
+- Has a more explicit wrapper API 
+- Very detailed documentation
+- Adds function-style metadata (`__name__`, `__qualname__`), which may slightly improve how some tools display it
     
 
 #### Cons
 
-- Fails the main requirement: `ic` is still a callable object, not a real function.
-    
-- Copies core call logic into the wrapper instead of delegating to `IceCreamDebugger.__call__`, increasing the risk of subtle behavior differences over time.
-    
-- Requires manual forwarding and has a larger wrapper surface, which increases maintenance effort and the chance that some attributes or methods behave inconsistently.
-    
+- Fails the main requirement itself,  `ic` is still a callable object and not a real function.
+- Copies core call logic into the wrapper, instead of giving it to `IceCreamDebugger.__call__`, which could increase risk for differences in behaviour over time.
+- Requires manual forwarding and has a large wrapper surface
+- Heavy maintenance effort increasing the chance of some attributes or methods behaving in a inconsistent manner
+
 
 ---
 
