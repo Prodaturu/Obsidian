@@ -95,7 +95,10 @@ The placeholder and fallback direction are good, but a few issues need fixing. T
 
 #### Model B
 
-- Pros: Clearer, more actionable warning message; simpler logic; avoids brittle placeholder heuristics.
+- Pros: 
+	- Clearer, more actionable warning message
+	- simpler logic
+	  
 - Cons: Loses structured output in no‑source cases; value‑only output can be misleading; fewer tests to enforce the improved behavior required by prompt 2.
 
 #### Why Model A overall
