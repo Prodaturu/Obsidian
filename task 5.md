@@ -78,7 +78,7 @@ I think A is barely or Slightly better than Model B even-though both Model A and
 ## Turn 2 
 
 ### Turn 2 Prompt:
-`ic` is still exported as a callable object, so the main requirement isn’t met yet. Please refactor so `ic` is a real function, while preserving existing behavior. Use the existing `IceCreamDebugger` implementation rather than re-implementing call or formatting logic, and keep backward-compatible configuration access (`configureOutput`, `enable/disable`, etc.). Add a focused test asserting `ic` is a function and that call-site context still points to the user frame. Keep the change minimal and consistent with the current code style
+`ic` is still being exported as something you can call and not as a function as we require it to be. so the main requirement itself is still not met. Please change it so `ic` is a real function while keeping the same behavior as before. Use the existing `IceCreamDebugger` to handle calls and formatting, instead of redoing the logic, and make sure existing configuration methods like `configureOutput` and `enable`/`disable` continue to work. Add a small, focused test that checks `ic` is a function and that the reported call location still points to the user’s code. Keep the change small and keep the current code style as is 
 
 ### Turn 2 Eval Table:
 
