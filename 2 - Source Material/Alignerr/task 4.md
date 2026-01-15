@@ -113,9 +113,7 @@ The placeholder and fallback direction are good, but a few issues need fixing. T
 
 ### Turn 3 Prompt:
 
-
 The current implementation still fails to improve call location detection when source info is missing. Changes mainly affect formatting and placeholders, but the reported filename and line number are not demonstrably more accurate in no-source scenarios. Please address this by either improving the fallback calls site detection or by making its limitations explicit, verifiable through tests. The placeholder handling should be made clear, string-based heuristics are a cheap trick and can wrongly classify legal user values such as the literal string `<arg1>`, this needs replacement. The warning emitted when source info is missing should be changed to be more usefull. Add a test that verifies fallback context includes a filename and line number and that
-
 
 ### Turn 3 Eval Table:
 
