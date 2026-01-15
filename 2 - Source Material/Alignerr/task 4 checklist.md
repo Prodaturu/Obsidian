@@ -135,65 +135,47 @@
 ## 7. Successive Turns (PR Reviewer Mode)
 
 - [ ]  Provide **specific, prescriptive feedback**
-    
 - [ ] No scope creep introduced
-    
 - [ ] Feedback addresses:
-    
     - [ ] Edge cases
-        
     - [ ] Naming and clarity
-        
     - [ ]  Organization and modularity
-        
 	- [ ] Error handling
-        
+    
 - [ ] Treat model as junior engineer, not expert
 - [ ] Complete **at least 2 user turns total**
 - [ ]  Continue until code is **PR-approvable**
-    
 
 ---
 
 ## 8. Definition of Done Check
 
 - [ ]  Code is production-ready by your judgment
-    
 - [ ]  No debug prints or commented-out code
-    
 - [ ] Follows codebase style and conventions
-    
 - [ ] Tests pass and coverage is adequate
-    
 - [ ] No further feedback would be required in a real PR
-    
+
 
 ---
 
 ## 9. Final Diff Generation (After CLI)
 
 - [ ] Stage all changes
-    
     `git add -A`
     
 - [ ] Generate final diff using **original commit hash**
-    
     `git diff <original-commit-hash> > ~/uuid_final.diff`
     
 - [ ] Confirm diff applies cleanly at original commit
 - [ ] Submit final diff
-    
 
 ---
 
 ## 10. Evaluation & Write-Up
 
 - [ ] Fill all evaluation axes independently
-    
 - [ ] Provide evidence-based justifications
-    
 - [ ] Write **3–5+ sentences** for overall preference
-    
 - [ ] Avoid mentioning AI, prompts, or models
-    
 - [ ] Submit evaluation
