@@ -43,17 +43,15 @@ Pros:
 - Users can handle diffetent object types in a similar way
 
 Cons:
-- Has a critical bug 
-- The summarized string is built but then completely ignored in constructArgumentOutput() - the feature doesn't actually work
-- Converts collections to strings, losing type information that pprint needs
-- Creates malformed strings like "set({1, 2, ...})" that aren't valid Python
-- String output can't be further processed or validated
-- Risk of double-encoding if objects contain special characters
-- Mixes formatting logic (string building) with summarization logic, violating separation of concerns
+- Has a critical bug where the summarized string is built; But, then it is completely ignored in constructArgumentOutput() which also is a feature that doesn't actually work
+- Converts collections to strings, this causes loss of type information which pprint needs
+- Creates strings like "set({1, 2, ...})" that aren't even valid python code
+- String output can not be further processed or validated
+- Has a risk of double-encoding objects when they contain special characters
+- Mixes formatting logic (string building) with summarization logic
 - Applied only at the final string formatting stage, too late in the pipeline
-- Manual formatting differs from pprint's standard output format
-- "maxIterableLength" naming includes generators and other iterables that shouldn't be summarized
-- Hard to unit test the summarization function independently
+- Manual formatting differs a lot from that of pprint's standard output format
+- Hard to unit test the summarization function alone
 
 ##### Model B: 
 summarize_collection() Object-Based Approach
