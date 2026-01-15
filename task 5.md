@@ -15,6 +15,7 @@ cc_agentic_coding
 # task 5 saves and eval-logs 
 
 **Turn 1 Prompt:**
+Icecream imports `ic` as a callable instance rather than a normal function, which makes it less visually recognizable in IDEs and less convenient to use with features like syntax highlighting and autocomplete. Improve the API so users can import and call a regular function for the common `ic(...)` use case, while keeping existing usage working and preserving the current behavior.
 
 **Turn 1 Eval Table:**
 
