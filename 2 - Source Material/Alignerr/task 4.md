@@ -63,7 +63,15 @@ A is the better solution for the prompt’s goal (keep output useful/structured 
 ---
 ### Turn 2
 
-""
+```
+   Keep the changes local and avoid introducing additional output format changes beyond what is necessary to fix these issues, and explain any non-obvious decisions.
+```
+
+- The placeholder and fallback-context direction is good, but a few issues need to be fixed. The placeholder handling is currently brittle because it relies on string heuristics and can misclassify user data that happens to look like a placeholder `<arg1>`.
+-  Please make the placeholder identification unambiguous so real user values are never treated as placeholders.
+- The warning that is emitted when source is unavailable should also be made more actionable, and there should be a regression test that asserts the warning text so it does not drift.
+- Also, add a targeted test validating the reported fallback context actually includes a filename and line number in a no-source scenario and that context is not duplicated when includeContext is enabled.
+-    Keep the changes local and avoid introducing additional output format changes more than what is necessary to fix these issues.
 
 #### Turn 2 Prompt:
 
