@@ -95,46 +95,35 @@
 ## 5. First-Turn Review & Feedback
 
 - [x] Inspect file diffs in VS Code (both trajectories)
-    
 - [x]  Review control flow, correctness, and structure
-    
 - [x]  Submit required feedback in control terminal
-    
 - [x] Winner’s changes synced to main repo automatically
-    
 
 ---
 
 ## 6. Upload Codebase Snapshot (Once Only)
 
 - [x] Copy codebase after first-turn feedback
-    
     `cp -r . /tmp/<codebase-name>`
     
 - [x] Navigate to copied codebase
-    
     `cd /tmp/<codebase-name>`
     
 - [x] Remove unnecessary directories
-    
-    - [ ] node_modules
-        
+    - [ ] node_modules        
     - [ ] venv
-        
-	 - [ ] build artifacts
-        
-- [x] Create tar archive
+    - [ ] build artifacts
     
+- [x] Create tar archive
     `tar -cf <codebase-name>.tar ./<codebase-path>`
     
 - [x] Upload tar file via submission form
-    
 
 ---
 
 ## 7. Successive Turns (PR Reviewer Mode)
 
-- [ ]  Provide **specific, prescriptive feedback**
+- [ ] Provide **specific, prescriptive feedback**
 - [ ] No scope creep introduced
 - [ ] Feedback addresses:
     - [ ] Edge cases
