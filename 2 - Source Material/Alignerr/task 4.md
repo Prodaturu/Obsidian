@@ -64,7 +64,7 @@ A is the better solution for the prompt’s goal (keep output useful/structured 
 ### Turn 2
 
 #### Turn 2 Prompt:
-The placeholder and fallback-context direction is good, but a few issues need to be fixed. The placeholder handling is currently brittle because it relies on string based shortcuts and can wrongly classify user data which can look like a placeholder. Make placeholder identification better, so real user values are never treated as placeholders. The warning that is emitted when source is unavailable should also be of better value, and a regression test that shows the warning text is required. Finally, add tests that check the reported fallback context actually has a filename, line number when missing source. also make sure context is not duplicated when includeContext is enabled. Keep the changes local and avoid introducing additional format changes more than whats necessary to fix these issues
+The placeholder and fallback direction are good, but a few issues need fixing. The placeholder handling is currently brittle as its using string based shortcut methods to achieve it and is mis-classifying data that can look like placeholders as placeholders in some cases. The placeholder identification needs to be improved so real user values are never confused as placeholders. Warning when source is missing could be of better use. Add tests that check for if the said fallback context has info about filename, linenumber. The context should not be duplicated when  `includeContext` is on. The changes need to be local and avoid any additional formatting changes more than needed.
 
 #### Turn 2 Eval Table:
 
