@@ -38,7 +38,10 @@ A is the better solution for the prompt’s goal (keep output useful/structured 
 #### Model A:
 
 - Pros:
-	- Maintains (arg: value) structure even without source by using placeholders; forces context display so call location is still visible; adds targeted tests for no-source behavior.
+	- Maintains the (arg: value) structure
+	- even while loss of source information by using placeholders
+	- forces context display, so call location is still visible
+	- adds targeted tests for no-source behavior
 - Cons:
 	- Changes output format in no-source cases may be a behavior change for users who expect value-only output.
 
