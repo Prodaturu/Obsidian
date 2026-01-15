@@ -139,32 +139,32 @@
 
 ## 8. Definition of Done Check
 
-- [ ]  Code is production-ready by your judgment
-- [ ]  No debug prints or commented-out code
-- [ ] Follows codebase style and conventions
-- [ ] Tests pass and coverage is adequate
-- [ ] No further feedback would be required in a real PR
+- [x]  Code is production-ready by your judgment
+- [x]  No debug prints or commented-out code
+- [x] Follows codebase style and conventions
+- [x] Tests pass and coverage is adequate
+- [x] No further feedback would be required in a real PR
 
 
 ---
 
 ## 9. Final Diff Generation (After CLI)
 
-- [ ] Stage all changes
+- [x] Stage all changes
     `git add -A`
     
-- [ ] Generate final diff using **original commit hash**
+- [x] Generate final diff using **original commit hash**
     `git diff <original-commit-hash> > ~/uuid_final.diff`
     
-- [ ] Confirm diff applies cleanly at original commit
-- [ ] Submit final diff
+- [x] Confirm diff applies cleanly at original commit
+- [x] Submit final diff
 
 ---
 
 ## 10. Evaluation & Write-Up
 
-- [ ] Fill all evaluation axes independently
-- [ ] Provide evidence-based justifications
-- [ ] Write **3–5+ sentences** for overall preference
-- [ ] Avoid mentioning AI, prompts, or models
-- [ ] Submit evaluation
+- [x] Fill all evaluation axes independently
+- [x] Provide evidence-based justifications
+- [x] Write **3–5+ sentences** for overall preference
+- [x] Avoid mentioning AI, prompts, or models
+- [x] Submit evaluation
