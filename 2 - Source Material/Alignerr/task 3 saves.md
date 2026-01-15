@@ -59,15 +59,12 @@ Pros:
 - Returns actual Python objects (list, tuple, dict, set, frozenset) and preserves type information
 - Works well with pprint, producing standard Python representations
 - Clean separation between summarization and string formatting
-- Reusable as a standalone function
-- Easy to uni test
-- Transforms objects early in the pipeline before formatting
-- Sensible default behavior - returns original object when max_length < 2
-- Can be exported as public API function"maxCollectionLength" naming is precise and accurate
-- "maxCollectionLength" naming is precise and accurate
-- No manual string building, lower risk of edge case failures
-- Produces standard Python repr() output users expect
-- Works well with any future formatting changes
+- Reusable as a standalone function and is very easy to uni test
+- Transforms objects before formatting
+- Has a decent default behavior which returns original object when `max_length < 2`
+- Naming is precise and accurate
+- No manual string building which means their is a lower risk of edge case failures
+- Gives output in a format users would prefer or expect to see in
 
 Cons:
 - Inserts a string marker "... (N more items) ..." into the collection, which is valid but unusual
