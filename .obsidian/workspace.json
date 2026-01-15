@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 3 saves.md",
+                "file": "2 - Source Material/Alignerr/task 3 checklist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 3 saves"
+              "title": "Backlinks for task 3 checklist"
             }
           }
         ]
@@ -276,12 +276,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 3 saves.md",
+                "file": "2 - Source Material/Alignerr/task 3 checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 3 saves"
+              "title": "Outgoing links from task 3 checklist"
             }
           }
         ]
@@ -325,7 +325,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "24187d16088d8f23",
+  "active": "9d462b19ffd1a30b",
   "lastOpenFiles": [
     "2 - Source Material/Alignerr/task 3 saves.md",
     "2 - Source Material/Alignerr/Turn 1 Prompt.md",
