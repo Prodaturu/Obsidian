@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Code Human Preference ToDo"
+              "title": "task 3 saves"
             }
           }
         ],
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Code Human Preference ToDo"
+              "title": "Backlinks for task 3 saves"
             }
           }
         ]
@@ -276,12 +276,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+                "file": "2 - Source Material/Alignerr/task 3 saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code Human Preference ToDo"
+              "title": "Outgoing links from task 3 saves"
             }
           }
         ]
@@ -327,8 +327,9 @@
   },
   "active": "24187d16088d8f23",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/task 3 saves.md",
+    "2 - Source Material/Alignerr/Turn 1 Prompt.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+    "2 - Source Material/Alignerr/task 3 saves.md",
     "Indexes/C++.md",
     "2 - Source Material/Alignerr/task 4.md",
     "2 - Source Material/Alignerr/task 1 saves.md",
@@ -352,7 +353,6 @@
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
     "3 - Main Notes/C++/Structuring a C++ codebase.md",
     "Tags/user-defined.md",
-    "3 - Main Notes/C++/C++ Data Structures and Algorithms.md",
     "2 - Source Material/Alignerr",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "6 - Full Notes/Jan 2026",
