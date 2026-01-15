@@ -123,17 +123,17 @@
 
 ## 7. Successive Turns (PR Reviewer Mode)
 
-- [ ] Provide **specific, prescriptive feedback**
-- [ ] No scope creep introduced
-- [ ] Feedback addresses:
-    - [ ] Edge cases
-    - [ ] Naming and clarity
-    - [ ]  Organization and modularity
-	- [ ] Error handling
+- [x] Provide **specific, prescriptive feedback**
+- [x] No scope creep introduced
+- [x] Feedback addresses:
+    - [x] Edge cases
+    - [x] Naming and clarity
+    - [x]  Organization and modularity
+	- [x] Error handling
     
-- [ ] Treat model as junior engineer, not expert
-- [ ] Complete **at least 2 user turns total**
-- [ ]  Continue until code is **PR-approvable**
+- [x] Treat model as junior engineer, not expert
+- [x] Complete **at least 2 user turns total**
+- [x]  Continue until code is **PR-approvable**
 
 ---
 
