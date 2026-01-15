@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -226,6 +227,19 @@
           },
           {
             "id": "821724f41a024fcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9f1015a77aefd7db",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
