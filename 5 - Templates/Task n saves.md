@@ -5,7 +5,7 @@
 **git rev-parse HEAD:**
 
 **interface code:**
-**cc_agentic_coding**
+cc_agentic_coding
 
 **Checklist:**
 - [[{{title}} checklist|checklist for {{title}}]]

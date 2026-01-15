@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "57ae64eb3aa30ec5",
+        "id": "555f681768af2223",
         "type": "tabs",
         "children": [
           {
-            "id": "64255bef3043f618",
+            "id": "c5595e3f475aea83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 2 saves.md",
+                "file": "2 - Source Material/Alignerr/task 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task 2 saves"
+              "title": "task 4"
+            }
+          }
+        ]
+      },
+      {
+        "id": "027d2808a3e56a21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92a6f88c9a249186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Source Material/Alignerr/task 4 checklist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "task 4 checklist"
             }
           }
         ]
@@ -103,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -121,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 2 saves.md",
+                "file": "2 - Source Material/Alignerr/task 4.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 2 saves"
+              "title": "Outline of task 4"
             }
           },
           {
@@ -192,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 2 saves.md",
+                "file": "2 - Source Material/Alignerr/task 4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +231,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 2 saves"
+              "title": "Backlinks for task 4"
             }
           }
         ]
@@ -218,12 +247,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 2 saves.md",
+                "file": "2 - Source Material/Alignerr/task 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 2 saves"
+              "title": "Outgoing links from task 4"
             }
           }
         ]
@@ -247,7 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 662.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,19 +296,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64255bef3043f618",
+  "active": "c5595e3f475aea83",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/task 3 checklist.md",
-    "2 - Source Material/Alignerr/task 3 saves.md",
-    "2 - Source Material/Alignerr/task 1 saves.md",
-    "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "2 - Source Material/Alignerr/Turn 1 Prompt.md",
-    "Indexes/C++.md",
     "2 - Source Material/Alignerr/task 4.md",
     "5 - Templates/Task n saves.md",
+    "2 - Source Material/Alignerr/task 3 saves.md",
+    "2 - Source Material/Alignerr/task 3 checklist.md",
+    "2 - Source Material/Alignerr/task 4 checklist.md",
+    "2 - Source Material/Alignerr/task 2 saves.md",
+    "2 - Source Material/Alignerr/task 1 saves.md",
+    "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+    "Indexes/C++.md",
     "5 - Templates/Alignerr checklist.md",
     "5 - Templates/Title.md",
-    "2 - Source Material/Alignerr/task 2 saves.md",
     "2 - Source Material/Alignerr/Questions to evaluate the models on.md",
     "2 - Source Material/Alignerr/Code Human Preference Project - Main Hub and Linked Notes.md",
     "3 - Main Notes/C++/C++ Standard Library.md",
@@ -294,7 +324,6 @@
     "3 - Main Notes/C++/C++ IO Libraries.md",
     "3 - Main Notes/C++/Date and Time using ctime in C++.md",
     "3 - Main Notes/C++/Structuring a C++ codebase.md",
-    "Tags/user-defined.md",
     "2 - Source Material/Alignerr",
     "2 - Source Material/Books/C++.Primer.5th.Edition_2013.pdf",
     "6 - Full Notes/Jan 2026",
