@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4.md",
+                "file": "2 - Source Material/Alignerr/task 4 checklist.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 4"
+              "title": "Outline of task 4 checklist"
             }
           },
           {
@@ -221,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4.md",
+                "file": "2 - Source Material/Alignerr/task 4 checklist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +232,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 4"
+              "title": "Backlinks for task 4 checklist"
             }
           }
         ]
@@ -247,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 4.md",
+                "file": "2 - Source Material/Alignerr/task 4 checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 4"
+              "title": "Outgoing links from task 4 checklist"
             }
           }
         ]
@@ -296,10 +297,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c5595e3f475aea83",
+  "active": "92a6f88c9a249186",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/task 4 checklist.md",
     "2 - Source Material/Alignerr/task 4.md",
+    "2 - Source Material/Alignerr/task 4 checklist.md",
     "2 - Source Material/Alignerr/task 3 saves.md",
     "2 - Source Material/Alignerr/Turn 1 Prompt.md",
     "5 - Templates/Task n saves.md",
