@@ -98,15 +98,12 @@ I think A is barely or Slightly better than Model B even-though both Model A and
 
 #### Model A
 ##### Pros
-- **Meets the primary requirement**: `ic` is a real function and remains a function (no reassignment afterward).
-    
-- Uses existing `IceCreamDebugger` logic and preserves call-site reporting via `_callFrame`.
-    
-- Keeps existing configuration methods available (`configureOutput`, `enable/disable`, `format`, `use_stdout`, `use_stderr`) by attaching them to the function.
-    
-- Adds a test that directly asserts `ic` is a function (`inspect.isfunction`, `types.FunctionType`), matching Prompt 2 precisely.
-    
-- Test also checks call-site context references the user test function, guarding against wrapper-frame regressions.
+- Model A meets the primary requirement of `ic` to be a real function and it remains a function is not reassigned later in code.
+- Existing `IceCreamDebugger` logic is used and also preserves call site location which is stored using `_callFrame` attribute 
+- Model A also keeps pre-existing configuration methods like `configureOutput`, `enable/disable`, `format`, `use_stdout`, `use_stderr` and others available. It does this by attaching them to the function which is a clever approach
+- Adds a test that directly asserts `ic` is a function namely `inspect.isfunction`, and `types.FunctionType`  matching our Prompt 2 precisely.
+- Test also checks call-site context references the user test function, guarding against wrapper-frame regressions
+  
 ##### Cons
 - Adds complex state syncing between function attributes and debugger (`_ic_func`, `_sync_attrs`, `__getattribute__` override). This is hard to maintain and easy to break.
     
