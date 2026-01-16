@@ -40,7 +40,6 @@ Add an optional timing mode to `ic` so users can see how long expressions take t
 	
 - Cons:
 
-
 #### Model B:
 - Pros:
 	
@@ -82,7 +81,6 @@ Add an optional timing mode to `ic` so users can see how long expressions take t
 
 #### Justification for best overall
 
-
 ---
 
 ## Turn 3
@@ -116,5 +114,3 @@ Add an optional timing mode to `ic` so users can see how long expressions take t
 - Cons:
 
 #### Justification for best overall
-
-
