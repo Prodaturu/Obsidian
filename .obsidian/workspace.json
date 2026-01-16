@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 5.md",
+                "file": "2 - Source Material/Alignerr/task 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task 5"
+              "title": "task 6"
             }
           }
         ]
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 5.md",
+                "file": "2 - Source Material/Alignerr/task 6.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 5"
+              "title": "Outline of task 6"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 5.md",
+                "file": "2 - Source Material/Alignerr/task 6.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +214,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 5"
+              "title": "Backlinks for task 6"
             }
           }
         ]
@@ -230,12 +230,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/task 5.md",
+                "file": "2 - Source Material/Alignerr/task 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 5"
+              "title": "Outgoing links from task 6"
             }
           }
         ]
@@ -281,8 +281,8 @@
   },
   "active": "c5595e3f475aea83",
   "lastOpenFiles": [
-    "2 - Source Material/Alignerr/task 6.md",
     "2 - Source Material/Alignerr/task 5.md",
+    "2 - Source Material/Alignerr/task 6.md",
     "task 6 checklist.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
     "5 - Templates/Task n saves.md",
