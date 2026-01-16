@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task 5 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 2 saves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +60,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "task 5 checklist"
+              "title": "task 2 saves"
             }
           }
         ]
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -153,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task 5 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 2 saves.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of task 5 checklist"
+              "title": "Outline of task 2 saves"
             }
           },
           {
@@ -237,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task 5 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 2 saves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +246,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for task 5 checklist"
+              "title": "Backlinks for task 2 saves"
             }
           }
         ]
@@ -263,12 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task 5 checklist.md",
+                "file": "2 - Source Material/Alignerr/task 2 saves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from task 5 checklist"
+              "title": "Outgoing links from task 2 saves"
             }
           }
         ]
@@ -314,17 +313,17 @@
   },
   "active": "a8aed04bbf426bdf",
   "lastOpenFiles": [
-    "task 5.md",
-    "task 5 checklist.md",
-    "2 - Source Material/Alignerr/task 4 checklist.md",
+    "2 - Source Material/Alignerr/task 1 saves.md",
     "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
+    "task 5 checklist.md",
+    "task 5.md",
+    "2 - Source Material/Alignerr/task 4 checklist.md",
     "5 - Templates/Task n saves.md",
     "2 - Source Material/Alignerr/task 4.md",
     "2 - Source Material/Alignerr/task 3 saves.md",
     "2 - Source Material/Alignerr/Turn 1 Prompt.md",
     "2 - Source Material/Alignerr/task 3 checklist.md",
     "2 - Source Material/Alignerr/task 2 saves.md",
-    "2 - Source Material/Alignerr/task 1 saves.md",
     "Indexes/C++.md",
     "5 - Templates/Alignerr checklist.md",
     "5 - Templates/Title.md",
