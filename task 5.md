@@ -139,6 +139,7 @@ Model A meets the headline requirement, but it likely isn’t PR-ready because t
 ---
 ## Turn 3 
 ### Turn 3 Prompt:
+The change work decently, but attributes are kept in sync between `ic` function and `IceCreamDebugger`, this is complex and is risky. Simplify it, so there is one single place where configuration exists, preferably to be on debugger instance. Keep `ic` a real function, and make sure existing usages like `ic.configureOutput(...)` still work. If setting attributes directly on `ic` are no longer supported, make it clear and remove any partial or confusing syncing code. If it is supported, make sure it works in a clear and reliable way without using `__getattribute__`. Do simple changes that make the behavior safe, clear, and easy to understand rather than using complex and new injections
 
 ### Turn 3 Eval Table:
 
