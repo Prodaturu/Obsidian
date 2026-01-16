@@ -141,27 +141,60 @@ Model A meets the headline requirement, but it likely isn’t PR-ready because t
 ### Turn 3 Prompt:
 The change work decently, but attributes are kept in sync between `ic` function and `IceCreamDebugger`, this is complex and is risky. Simplify it, so there is one single place where configuration exists, preferably to be on debugger instance. Keep `ic` a real function, and make sure existing usages like `ic.configureOutput(...)` still work. If setting attributes directly on `ic` are no longer supported, make it clear and remove any partial or confusing syncing code. If it is supported, make sure it works in a clear and reliable way without using `__getattribute__`. Do simple changes that make the behavior safe, clear, and easy to understand rather than using complex and new injections
 
-### Turn 3 Eval Table:
+## Evaluation table
 
-| Question of which is / has           | Answer Given | Justoification Why? |
-| ------------------------------------ | ------------ | ------------------- |
-| Overall Better Solution              |              |                     |
-| Better logic and correctness         |              |                     |
-| Better Naming and Clarity            |              |                     |
-| Better Organization and Clarity      |              |                     |
-| Better Interface Design              |              |                     |
-| Better error handling and robustness |              |                     |
-| Better comments and documentation    |              |                     |
-| Ready for review / merge             |              |                     |
+|Question of which is / has|Answer Given|Justoification Why?|
+|---|---|---|
+|Overall Better Solution|**A barely better than B**|Both meet the requirements and simplify configuration safely; A’s comments/docstring are slightly clearer about where configuration lives (`ic._debugger`) and how to use it.|
+|Better logic and correctness|**Tie (A barely better)**|Core mechanics are the same: `ic` captures caller frame, delegates to `IceCreamDebugger`, config methods are bound to the same debugger instance, and a targeted test was added. A has slightly clearer guidance reducing misuse.|
+|Better Naming and Clarity|**A slightly better than B**|A’s wording (“direct attribute access”) and comments make it a bit more obvious that `_default_ic` is the single source of truth and that `ic._debugger` is the intended attribute surface.|
+|Better Organization and Clarity|**Tie**|Both keep changes small, avoid new proxy layers, and use the existing debugger class. Same structure and same approach.|
+|Better Interface Design|**Tie**|Both preserve `ic.configureOutput(...)`, `ic.enable()/disable()`, `ic.format()`, etc., while making `ic` a real function. Both add `ic._debugger` as the explicit attribute/config access point.|
+|Better error handling and robustness|**Tie**|Neither adds new failure-prone reflection/magic; both rely on existing behavior. Remaining risk (user sets attributes on `ic` itself) exists in both, though A documents the preferred approach more clearly.|
+|Better comments and documentation|**A slightly better than B**|A’s docstring/comment set is marginally more explicit about direct attribute access and single source of truth.|
+|Ready for review / merge|**A slightly better than B**|Both look mergeable; A has a tiny edge due to clearer guidance that reduces confusion. Neither introduces complex syncing code.|
 
-### Pros and Cons
+---
 
-#### Model A
-##### Pros
+## Pros and cons
 
-##### Cons
+### Model A — Pros
 
-#### Model B
-##### Pros
+- Meets the primary requirement: **`ic` is a real function** (test enforces this).
+    
+- **Single source of truth** for configuration on `_default_ic`; no syncing complexity.
+    
+- Preserves existing usage: `ic.configureOutput`, `ic.enable/disable`, `ic.format`, stdout/stderr helpers.
+    
+- Preserves callsite behavior by passing `_callFrame` explicitly.
+    
+- Adds a small, focused test validating function-ness and call context.
+    
+- Slightly clearer docstring/comments about **using `ic._debugger`** for attribute-level access.
+    
 
-##### Cons
+### Model A — Cons
+
+- Still allows users to set arbitrary attributes on the `ic` function (e.g., `ic.prefix = ...`) that won’t affect output—this is a potential footgun (partially mitigated by the docstring).
+    
+- The callsite test is somewhat coarse (checks filename/function name, not line number), though acceptable for “focused test”.
+    
+
+### Model B — Pros
+
+- Same core wins as A: real function export, single debugger instance as source of truth, preserved config API, frame preservation, focused test.
+    
+- Avoids risky approaches (no `__getattribute__`, no attribute syncing layers).
+    
+
+### Model B — Cons
+
+- Slightly less explicit guidance about the “don’t set attributes on `ic`, use `ic._debugger`” mental model (still present, just marginally less emphasized).
+    
+- Same “user can set attributes on function that do nothing” footgun exists.
+    
+---
+## Overall choice
+
+**Model A (barely).**  
+Not because the implementation differs meaningfully (it doesn’t), but because A’s documentation and comments make the intended configuration surface slightly clearer, which matters given the prompt’s goal of making the behavior “safe, clear, and easy to understand.”
