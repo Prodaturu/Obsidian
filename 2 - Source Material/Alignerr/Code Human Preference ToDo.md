@@ -33,6 +33,9 @@
 ### Jan 16 2026
 - [[task 5]]
 
+- [[task 6]]
+
+
 ## [Furl](https://github.com/gruns/furl.git) based tasks
 
 ## interface password

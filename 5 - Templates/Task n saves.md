@@ -13,9 +13,11 @@ cc_agentic_coding
 ---
 # {{Title}} saves and eval-logs 
 
-**Turn 1 Prompt:**
+## Turn 1
 
-**Turn 1 Eval Table:**
+### Turn 1 Prompt:
+
+### Turn 1 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |
@@ -27,11 +29,29 @@ cc_agentic_coding
 | Better error handling and robustness |              |                     |
 | Better comments and documentation    |              |                     |
 | Ready for review / merge             |              |                     |
+
+### Pros and cons
+
+#### Model A:
+- Pros:
+	
+- Cons:
+
+
+#### Model B:
+- Pros:
+	
+- Cons:
+
+#### Justification for best overall
 
 ---
-**Turn 2 Prompt:**
 
-**Turn 2 Eval Table:**
+## Turn 2
+
+### Turn 2 Prompt:
+
+### Turn 2 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |
@@ -43,11 +63,30 @@ cc_agentic_coding
 | Better error handling and robustness |              |                     |
 | Better comments and documentation    |              |                     |
 | Ready for review / merge             |              |                     |
+
+### Pros and cons
+
+#### Model A:
+- Pros:
+	
+- Cons:
+
+
+#### Model B:
+- Pros:
+	
+- Cons:
+
+#### Justification for best overall
+
 
 ---
-**Turn 3 Prompt:**
 
-**Turn 3 Eval Table:**
+## Turn 3
+
+### Turn 3 Prompt:
+
+### Turn 3 Eval Table:
 
 | Question of which is / has           | Answer Given | Justoification Why? |
 | ------------------------------------ | ------------ | ------------------- |
@@ -60,7 +99,19 @@ cc_agentic_coding
 | Better comments and documentation    |              |                     |
 | Ready for review / merge             |              |                     |
 
+### Pros and cons
+
+#### Model A:
+- Pros:
+	
+- Cons:
 
 
-- 
+#### Model B:
+- Pros:
+	
+- Cons:
+
+#### Justification for best overall
+
 
