@@ -160,18 +160,12 @@ The change work decently, but attributes are kept in sync between `ic` function 
 
 ### Model A — Pros
 
-- Meets the primary requirement: **`ic` is a real function** (test enforces this).
-    
-- **Single source of truth** for configuration on `_default_ic`; no syncing complexity.
-    
-- Preserves existing usage: `ic.configureOutput`, `ic.enable/disable`, `ic.format`, stdout/stderr helpers.
-    
+- Meets the primary requirement: `ic` is a real function (test enforces this).
+- Single source of truth for configuration on `_default_ic`; no syncing complexity.
+- Preserves existing usage of `ic.configureOutput`, `ic.enable/disable`, `ic.format`, stdout/stderr helpers.
 - Preserves callsite behavior by passing `_callFrame` explicitly.
-    
 - Adds a small, focused test validating function-ness and call context.
-    
 - Slightly clearer docstring/comments about **using `ic._debugger`** for attribute-level access.
-    
 
 ### Model A — Cons
 
