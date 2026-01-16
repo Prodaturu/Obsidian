@@ -1,4 +1,4 @@
-# {{title}}
+# {{title}} checklist
 
 ## 0. Task Preparation
 

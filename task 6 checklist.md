@@ -1,4 +1,4 @@
-# {{title}}
+# task 6 checklist
 
 ## 0. Task Preparation
 

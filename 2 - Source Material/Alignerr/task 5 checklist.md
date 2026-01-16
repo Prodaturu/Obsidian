@@ -185,28 +185,28 @@
 
 ## 9. Final Diff Generation (After CLI)
 
-- [ ] Stage all changes
+- [x] Stage all changes
     
     `git add -A`
     
-- [ ] Generate final diff using **original commit hash**
+- [x] Generate final diff using **original commit hash**
     
     `git diff <original-commit-hash> > ~/uuid_final.diff`
     
-- [ ] Confirm diff applies cleanly at original commit
-- [ ] Submit final diff
+- [x] Confirm diff applies cleanly at original commit
+- [x] Submit final diff
     
 
 ---
 
 ## 10. Evaluation & Write-Up
 
-- [ ] Fill all evaluation axes independently
+- [x] Fill all evaluation axes independently
     
-- [ ] Provide evidence-based justifications
+- [x] Provide evidence-based justifications
     
-- [ ] Write **3–5+ sentences** for overall preference
+- [x] Write **3–5+ sentences** for overall preference
     
-- [ ] Avoid mentioning AI, prompts, or models
+- [x] Avoid mentioning AI, prompts, or models
     
-- [ ] Submit evaluation
+- [x] Submit evaluation
