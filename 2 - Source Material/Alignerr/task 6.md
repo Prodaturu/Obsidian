@@ -32,7 +32,6 @@ Add an optional timing mode to `ic` so users can see how long expressions take t
 | Better error handling and robustness |              |                     |
 | Better comments and documentation    |              |                     |
 | Ready for review / merge             |              |                     |
-|                                      |              |                     |
 
 ### Pros and cons
 
