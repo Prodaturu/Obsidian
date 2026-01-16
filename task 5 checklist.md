@@ -104,51 +104,51 @@
 
 ## 5. First-Turn Review & Feedback
 
-- [ ] Inspect file diffs in VS Code (both trajectories)
+- [x] Inspect file diffs in VS Code (both trajectories)
     
-- [ ]  Review control flow, correctness, and structure
+- [x]  Review control flow, correctness, and structure
     
-- [ ]  Submit required feedback in control terminal
+- [x]  Submit required feedback in control terminal
     
-- [ ] Winner’s changes synced to main repo automatically
+- [x] Winner’s changes synced to main repo automatically
     
 
 ---
 
 ## 6. Upload Codebase Snapshot (Once Only)
 
-- [ ] Copy codebase after first-turn feedback
+- [x] Copy codebase after first-turn feedback
     
     `cp -r . /tmp/<codebase-name>`
     
-- [ ] Navigate to copied codebase
+- [x] Navigate to copied codebase
     
     `cd /tmp/<codebase-name>`
     
-- [ ] Remove unnecessary directories
+- [x] Remove unnecessary directories
     
-    - [ ] node_modules
+    - [x] node_modules
         
-    - [ ] venv
+    - [x] venv
         
-	 - [ ] build artifacts
+	 - [x] build artifacts
         
-- [ ] Create tar archive
+- [x] Create tar archive
     
     `tar -cf <codebase-name>.tar ./<codebase-path>`
     
-- [ ] Upload tar file via submission form
+- [x] Upload tar file via submission form
     
 
 ---
 
 ## 7. Successive Turns (PR Reviewer Mode)
 
-- [ ]  Provide **specific, prescriptive feedback**
+- [x]  Provide **specific, prescriptive feedback**
     
-- [ ] No scope creep introduced
+- [x] No scope creep introduced
     
-- [ ] Feedback addresses:
+- [x] Feedback addresses:
     
     - [ ] Edge cases
         
@@ -158,24 +158,27 @@
         
 	- [ ] Error handling
         
-- [ ] Treat model as junior engineer, not expert
-- [ ] Complete **at least 2 user turns total**
-- [ ]  Continue until code is **PR-approvable**
+- [x] Treat model as junior engineer, not expert
+- [x] Complete **at least 2 user turns total**
+- [x]  Continue until code is **PR-approvable**
     
 
 ---
 
 ## 8. Definition of Done Check
 
-- [ ]  Code is production-ready by your judgment
+- [x] Ready to Submit
+	- [ ] Code is production-ready by your judgment
+			(or)
+	- [x] Or has a ignore-able changes like a README inclusion or very few lines of code to be changed
     
-- [ ]  No debug prints or commented-out code
+- [x]  No debug prints or commented-out code
     
-- [ ] Follows codebase style and conventions
+- [x] Follows codebase style and conventions
     
-- [ ] Tests pass and coverage is adequate
+- [x] Tests pass and coverage is adequate
     
-- [ ] No further feedback would be required in a real PR
+- [x] No further feedback would be required in a real PR
     
 
 ---
