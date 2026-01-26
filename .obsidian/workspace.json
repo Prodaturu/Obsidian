@@ -11,10 +11,24 @@
             "id": "56036f3bc8762c2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "{{title}} checklist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "{{title}} checklist"
             }
           }
         ]
@@ -89,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 211.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -171,6 +185,19 @@
             "id": "c20ba80a87ea2173",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c96f633407f98727",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -178,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "353b5826e8f5adba",
@@ -191,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "{{title}} checklist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +228,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for  checklist"
             }
           }
         ]
@@ -216,11 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "{{title}} checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from  checklist"
             }
           }
         ]
@@ -264,7 +293,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df1c8a0860a8a104",
+  "active": "56036f3bc8762c2a",
   "lastOpenFiles": [
     "2 - Source Material/Alignerr/task 6.md",
     "2 - Source Material/Alignerr/task 5.md",
