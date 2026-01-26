@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a091b8355ecb4e1b",
+        "id": "eb2f2fbc1e9b464a",
         "type": "tabs",
         "children": [
           {
-            "id": "a1a6c8a0349fc9a7",
+            "id": "56036f3bc8762c2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Code Human Preference ToDo"
+              "title": "New tab"
             }
           }
         ]
@@ -103,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 283.5
   },
   "right": {
     "id": "749b0604c60974f0",
@@ -112,7 +98,7 @@
       {
         "id": "1fe2ea7f18082816",
         "type": "tabs",
-        "dimension": 21.09704641350211,
+        "dimension": 21.097046413502106,
         "children": [
           {
             "id": "620fa379c273d379",
@@ -159,6 +145,19 @@
             "id": "4a6605c11fcc60bd",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d86d0237f721a6a",
+            "type": "leaf",
+            "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
@@ -166,12 +165,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "353b5826e8f5adba",
         "type": "tabs",
-        "dimension": 21.09704641350211,
+        "dimension": 21.097046413502106,
         "children": [
           {
             "id": "2294c04759ebe7ec",
@@ -179,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +187,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Code Human Preference ToDo"
+              "title": "Backlinks"
             }
           }
         ]
@@ -197,7 +195,7 @@
       {
         "id": "a7c9005ff83fbcf1",
         "type": "tabs",
-        "dimension": 21.09704641350211,
+        "dimension": 21.097046413502106,
         "children": [
           {
             "id": "dffa69b0e2fb67a7",
@@ -205,12 +203,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Source Material/Alignerr/Code Human Preference ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code Human Preference ToDo"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -254,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1a6c8a0349fc9a7",
+  "active": "df1c8a0860a8a104",
   "lastOpenFiles": [
     "2 - Source Material/Alignerr/task 6.md",
     "2 - Source Material/Alignerr/task 5.md",
