@@ -31,3 +31,7 @@ null*
 
 # Uncomment below to ignore ALL .obsidian (loses shared settings)
 # .obsidian/*
+
+# Ignore entire Obsidian config/cache directories and vault trash
+.obsidian/
+.trash/
