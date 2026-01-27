@@ -8,6 +8,7 @@
 .obsidian/appearance.json
 .obsidian/plugins/
 .obsidian/themes/
+.obsidian/****
 
 # Caches and binaries from your screenshot
 makefile.cache.md
@@ -30,3 +31,5 @@ null*
 
 # Uncomment below to ignore ALL .obsidian (loses shared settings)
 # .obsidian/*
+
+.gitignore
