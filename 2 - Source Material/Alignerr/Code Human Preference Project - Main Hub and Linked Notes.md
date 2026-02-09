@@ -3,7 +3,7 @@
 > **Purpose of this page**: This is your **main hub**. Use it to navigate to more detailed notes depending on the *type of task* you’re doing (Turn 1 prompting, follow‑up steering, rationale writing, submission, etc.).
 
 ---
-# [[Code Human Preference ToDo]]
+# [[ToDo Code Human Preference]]
 
 - `claude-hfi --vscode` for hfi setup
 - Pick a Repo to work with

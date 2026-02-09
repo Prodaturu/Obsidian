@@ -12,6 +12,8 @@
 ***Repo Name*** furl
 🔗***URL*** [furl github](https://github.com/gruns/furl.git)
 
+***Repo Name*** smallpond
+🔗***URL*** https://github.com/deepseek-ai/smallpond
 # Connecting A and B
 `tmux attach -t <uuid> <-a or -b>`
 
@@ -39,6 +41,15 @@
 
 
 ## [Furl](https://github.com/gruns/furl.git) based tasks
+
+## [SmallPond](https://github.com/deepseek-ai/smallpond) based tasks
+
+### Feb 1 2026
+- [[task 11]]
+
+
+### Feb 5 2026
+
 
 ## interface password
 cc_agentic_coding

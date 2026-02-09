@@ -126,7 +126,9 @@ Streams can be:
 - Performance optimization
 - Locale and internationalisation
 - System-level IO
+
 ---
+
 # References
 - ISO/IEC C++ Standard (IO library clauses)
 - [cppreference – IO library](https://en.cppreference.com/w/cpp/io)
