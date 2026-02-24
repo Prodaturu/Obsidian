@@ -1,5 +1,5 @@
 **Created:** *<span class ="color-green">08.01.26, 19:54</span>*
-
+[[Basic Mathematics Pre-Machine Learning]]
 **Note Type:**
 #map
 

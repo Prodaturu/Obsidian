@@ -1,4 +1,4 @@
-**Created:** *<span class ="color-green">{{date}}, {{time}}</span>*
+**Created:** <span class ="color-green">{{date}}, {{time}}</span>
 
 **UUID:**
 
