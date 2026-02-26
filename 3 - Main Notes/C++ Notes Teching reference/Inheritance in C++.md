@@ -150,8 +150,8 @@ Parent class content
 
 ### Structure
 
-- Class A            Class B
-    ↑                        ↑
+- Class A               Class B
+    ↑                       b.    ↑
     └── Class C ──┘
 
 ## Syntax
