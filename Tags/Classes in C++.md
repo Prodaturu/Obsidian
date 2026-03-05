@@ -5,8 +5,7 @@
 **Hashtags:**
 - #cpp
 - #classes
-- #oops
-- #map
+- #OOPS 
 
 **Links / Tags:** 
 - **Relevance Links:**
@@ -53,9 +52,9 @@ each of these is explained in its own note.
 
 ## Related concepts
 
-- object lifetime and copying → see *Canonical Forms*
-- behaviour exposure → see *Access Specifiers*
-- reusable designs → see *Class Templates*
+- object lifetime and copying → see *[[Canonical Forms in C++|Canonical Form]]*
+- behaviour exposure → see *[[Access Specifiers  in C++|Accesss Specifiers]]*
+- reusable designs → see *[[Class Templates]]*
 
 ---
 
