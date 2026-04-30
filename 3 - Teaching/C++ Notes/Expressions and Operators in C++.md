@@ -50,9 +50,23 @@ SEE MORE: [[Expressions in C++]]
 	- `+` -> Addition Operator
 	- `-` -> Subtraction Operator
 	- `/` -> Division Operator
-- So these operators say what should be done with the values around them
+- So these operators say what should be done with the values / Operands around them
 
 SEE MORE:  [[Operators in C++]]
+
+---
+
+# Synopsis
+
+- Expressions
+	- Something C++ can evaluate
+	  
+- operator
+	- symbol that tells C++ what operation to perform
+	  
+- Operands:
+	- Values the operator works on
+	
 
 ---
 # Related Notes
