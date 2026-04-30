@@ -21,7 +21,7 @@
     
 - **Topic Links:**
     - [[Expressions in C++]]
-    - [[Operators in C++]]    
+    - [[Operators in C++]]
     - [[Operator Precedence and Associativity]]    
     - [[Value Categories in C++]]    
     - [[Implicit and Explicit Conversions in Expressions]]
@@ -40,14 +40,21 @@
 	  -  `std::cout << x`
 	
   - All of the above examples are Expressions as they are valid things that can be evaluated by C++
+
+SEE MORE: [[Expressions in C++]]
+
 ## Operators
 
-- Symbols that does an operation on values
+- Symbols that do an operation on values
 - Examples:
 	- `+` -> Addition Operator
 	- `-` -> Subtraction Operator
 	- `/` -> Division Operator
-- So these operators give meaning of what we want to do 
+- So these operators say what should be done with the values around them
+
+SEE MORE:  [[Operators in C++]]
+
+---
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 
