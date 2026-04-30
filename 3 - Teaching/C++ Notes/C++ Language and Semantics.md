@@ -42,7 +42,6 @@ resource ownership concerns.
 ## Language core
 
 The language core defines the fundamental rules that govern:
-
 - program structure and syntax
 - expression formation and evaluation
 - function definition and invocation
@@ -54,10 +53,10 @@ The language core defines the fundamental rules that govern:
 
 - At this level
 	- C++ can be understood by separating the language into a small set of fundamental conceptual areas
-	- that together define how programs are
+	- together they define how programs are
 		- written
 		- evaluated
-		- translated.
+		- translated
 	
 - Language consists of the following conceptual components:
 	- ### Surface language structure
@@ -66,8 +65,10 @@ The language core defines the fundamental rules that govern:
 		- [[Functions and Callables in C++]]
 		- [[Control Flow in C++]]
 		- [[Compilation Model and Translation Units]]
+		   
 	- ### Abstraction mechanisms
 		- [[Generic Programming in C++]]
+		  
 	- ### Semantic foundations
 		- [[C++ Type System]]
 	

@@ -30,8 +30,24 @@
 
 # Expressions and Operators in C++
 
-- 
+## Expressions
 
+- Anything that produces some value or performs some action
+- So anything C++ can evaluate is an Expression
+- Examples:
+	  - `x + 3`
+	  - `x`
+	  -  `std::cout << x`
+	
+  - All of the above examples are Expressions as they are valid things that can be evaluated by C++
+## Operators
+
+- Symbols that does an operation on values
+- Examples:
+	- `+` -> Addition Operator
+	- `-` -> Subtraction Operator
+	- `/` -> Division Operator
+- So these operators give meaning of what we want to do 
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 

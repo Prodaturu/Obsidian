@@ -54,6 +54,7 @@ sticker: lucide//code
 - C++ emphasises performance, deterministic behavior, and explicit control
   over resources and object lifetimes
 
+---
 C++ can be understood by dividing the language and its ecosystem into the
 following major conceptual areas:
 
