@@ -72,8 +72,8 @@
 ## Expression Characteristics
 
 - Every C++ expression has 2 independent properties
-	- type
-	- [[Value Categories in C++|value category]]
+	- [[C++ Data Types|Type]]
+	- [[Value Categories in C++|Value category]]
 
 
 ---
