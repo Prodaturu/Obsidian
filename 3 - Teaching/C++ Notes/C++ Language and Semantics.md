@@ -36,11 +36,11 @@ resource ownership concerns.
 ## Language core
 
 The language core defines the fundamental rules that govern:
-- program structure and syntax
-- expression formation and evaluation
-- function definition and invocation
+- program [[C++ Syntax and Structure|structure and syntax]]
+- [[Expressions in C++|Expression]] formation and evaluation
+- [[Functions in C++|Function]] definition and invocation
 - control-flow constructs
-- generic abstraction mechanisms
+- Template mechanisms
 - the compilation model and translation units
 
 ## Conceptual Components
