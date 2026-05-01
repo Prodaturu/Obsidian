@@ -61,8 +61,13 @@
   Discussed in: [[Expression Evaluation in C++]]
 
 ---
-## Value Category
+## Expression Charecteristics
 
+- Every C++ expression can be charecterized by 2 independent properties
+	- type
+	- value category
+	  
+- 
 
 ---
 # Related Notes
