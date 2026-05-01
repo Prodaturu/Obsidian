@@ -1,5 +1,7 @@
 **Created:** *<span class ="color-green">10.01.26, 07:21</span>*
 
+#legacy
+
 **Note Type:** #map
 
 **Hashtags:**

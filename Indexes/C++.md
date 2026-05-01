@@ -17,12 +17,13 @@ sticker: lucide//code
 - **Relevance Links:**
 	- Programming Languages
 	- Systems Programming
+	- [[C vs C++]]
 	  
 - **Topic Links:**
 	- [[C++ Language and Semantics]]
 	- [[C++ Programming Paradigms]]
 	- [[Memory management and Object Lifetime in C++]]
-	- [[C++ Algorithms, Data Structures and Libraries]]
+	- [[C++ Libraries]]
 	- [[C++ Tooling and Project Structure]]
 	- [[Background and History of C++]]
 	
@@ -31,16 +32,22 @@ sticker: lucide//code
 # C++
 
 > Main hub for all C++ notes  
-> Links to second-level maps covering language semantics, object-oriented
-> programming, memory, libraries, tooling, and historical context.
+> Links to second-level maps covering language core, paradigms, memory and lifetime, libraries, tooling, and historical context.
 
 - C++ is a general-purpose programming language
+	- Not domain specific like HTML SQL etc.;
+	
 - C++ is a statically typed language  
 	- the type of a variable is determined during compilation
+	- expressions, objects, and functions have types
+	
 - C++ builds upon the features of C  
 	- it originated as an extension of the C programming language  
-	- historically described as “C with classes and inheritance”  
+	- historically described as “C with classes”  
 	- most C programs can be compiled and run with a C++ compiler
+	- C and C++ are related but not same language
+		- check [[C vs C++]] for more insights
+	
 - C++ supports multiple programming paradigms  
 	- procedural programming  
 	- object-oriented programming  
