@@ -11,7 +11,7 @@ sticker: lucide//code
 	- #cpp #programminglanguage 
 	
 - **Topic Tags:**
-	- #OOPS  #compiledlanguage #lowlevel #multiparadigm
+	- #compiledlanguage #lowlevel #multiparadigm #systemsprogramming
 	
 **Links / Tags:** 
 - **Relevance Links:**
