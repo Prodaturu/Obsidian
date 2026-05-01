@@ -38,7 +38,7 @@
 	  - `x`
 	  -  `std::cout << x`
 	
-  - All of the above examples are Expressions as they are valid things that can be evaluated by C++
+- All of the above examples are Expressions as they are valid things that can be evaluated by C++
 
 SEE MORE: [[Expressions in C++]]
 
