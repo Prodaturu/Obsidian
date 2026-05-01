@@ -27,7 +27,7 @@
 # Expressions in C++
 
 - Sequence of *operators* and / or *operands*, that specifies a computation
-- So anything C++ can evaluate as part of a computation is an Expression
+- Something C++ can evaluate as part of a computation is called an Expression
 - Examples:
 	  - `x + 3`
 	  - `x`
@@ -44,6 +44,7 @@
 - An expression can:
 	- Produce a value
 		- `3`
+		- `x`
 		- `x + 3`
 		  
 	- cause a [[Side effects in C++ Expressions|Side effect]]
@@ -52,7 +53,6 @@
 		  
 	- combine smaller expressions into a bigger expression
 		- `(x + 3) * (x + 2)`
-		- here `x`, `3`,`x + 3` etc.; are all valid expressions
 	
 
 ---
@@ -73,6 +73,8 @@
 - Every C++ expression has 2 independent properties
 	- [[C++ Data Types|Type]]
 	- [[Value Categories in C++|Value category]]
+	  
+- These properties effect how the expression can be used
 
 
 ---
