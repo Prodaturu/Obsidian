@@ -61,11 +61,11 @@
   Discussed in: [[Expression Evaluation in C++]]
 
 ---
-## Expression Charecteristics
+## Expression Characteristics
 
-- Every C++ expression can be charecterized by 2 independent properties
-	- type
-	- value category
+- Every C++ expression can be characterised by 2 independent properties
+	- non-reference type
+	- primary value category
 	  
 - 
 
