@@ -26,7 +26,7 @@
 
 # Expressions in C++
 
-- Anything that *produces a value* or *performs an action* is called an Expression
+- Anything that *produces a value* or *performs an action* is called an **expression**
 - So anything C++ can evaluate is an Expression
 - Examples:
 	  - `x + 3`
