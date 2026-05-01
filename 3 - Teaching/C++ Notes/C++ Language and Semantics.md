@@ -18,9 +18,9 @@
 	- [[C++ Type System]]
 	- [[Functions and Callables in C++]]
 	- [[Control Flow in C++]]
-	- [[Generic Programming in C++]]
+	- [[Templates in C++]]
 	- [[Compilation Model and Translation Units]]
-	  
+	
 ---
 
 # C++ Language and Semantics
