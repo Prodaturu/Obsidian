@@ -19,7 +19,7 @@
 	- [[Expressions vs Statements in C++]]
 	- [[Expression Evaluation in C++]]
 	- [[Value Categories in C++]]
-	- [[Side effects in Expressions in C++]]
+	- [[Side effects in C++ Expressions]]
 	- [[Implicit and Explicit Conversions in Expressions]]
 	  
 ---
@@ -46,16 +46,24 @@
 	- Produce a value
 		- `3`
 		- `x + 3`
-	- Perform an action
+		  
+	- cause a [[Side effects in C++ Expressions|Side effect]]
 		- `std::cout << x`
+		- `x = 5`
+		  
 	- combine smaller expressions into a bigger expression
 		- `(x + 3) * (x + 2)`
 		- here `x`, `3`,`x + 3` etc.; are all valid expressions
+	
 
 ---
 ## Expression Evaluation
 
-- Process of computing the value of an expression
+- Process of carrying out the computation described by an expression
+- This computation may:
+	- produce a result
+	- cause a [[Side effects in C++ Expressions|Side effect]]
+	- or both
 - C++ has its specific rules in evaluating an expression
   
   Discussed in: [[Expression Evaluation in C++]]
@@ -63,9 +71,9 @@
 ---
 ## Expression Characteristics
 
-- Every C++ expression can be characterised by 2 independent properties
-	- non-reference type
-	- primary [[Value Categories in C++|value category]]
+- Every C++ expression has 2 independent properties
+	- type
+	- [[Value Categories in C++|value category]]
 
 
 ---
