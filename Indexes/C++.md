@@ -21,7 +21,6 @@ sticker: lucide//code
 - **Topic Links:**
 	- [[C++ Language and Semantics]]
 	- [[C++ Programming Paradigms]]
-	- ~~[[OOPS in C++]]~~
 	- [[Memory management and Object Lifetime in C++]]
 	- [[C++ Algorithms, Data Structures and Libraries]]
 	- [[C++ Tooling and Project Structure]]
