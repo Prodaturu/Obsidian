@@ -14,7 +14,8 @@
 - **Topic Links:**
 	- [[C++ Syntax and Structure]]
 	- [[Expressions and Operators in C++]]
-	- [[Functions  and Callables in C++]]
+	- [[C++ Type System]]
+	- [[Functions and Callables in C++]]
 	- [[Control Flow in C++]]
 	- [[Generic Programming in C++]]
 	- [[Compilation Model and Translation Units]]
