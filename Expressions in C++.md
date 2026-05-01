@@ -20,7 +20,6 @@
 	- [[Expression Evaluation in C++]]
 	- [[Value Categories in C++]]
 	- [[Side effects in C++ Expressions]]
-	- [[Implicit and Explicit Conversions in Expressions]]
 	  
 ---
 
