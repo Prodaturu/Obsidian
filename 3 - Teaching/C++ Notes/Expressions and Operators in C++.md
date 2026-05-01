@@ -23,7 +23,6 @@
     
 	- Children Topics already aware of:
 	    - [[Operator Precedence and Associativity]]  -> should be in Operators in C++
-	    - [[Value Categories in C++]]  -> Should be in Expressions in C++
 	    - [[Implicit and Explicit Conversions in Expressions]] -> Should be in Expressions in C++
     
 ---
