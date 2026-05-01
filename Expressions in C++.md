@@ -52,7 +52,13 @@
 ---
 ## Expression Evaluation
 
-- 
+- Process of computing the value of an expression
+- C++ has its specific roles in evaluating an expression
+  
+  Discussed in: [[Expression Evaluation in C++]]
+
+---
+## 
 
 
 ---
