@@ -35,6 +35,22 @@
 	
   - All of the above examples are Expressions as they are valid things that can be evaluated by C++
 
+---
+
+## What can Expressions do?
+
+- An expression can:
+	- Produce a value
+		- `3`
+		- `x + 3`
+	- Perform an action
+		- `std::cout << x`
+	- combine smaller expressions into a bigger expression
+		- `(x + 3) * (x + 2)`
+		- here `x`, `3`,`x + 3` etc.; are all valid expressions
+
+
+---
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 
