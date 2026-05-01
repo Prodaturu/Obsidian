@@ -7,13 +7,10 @@
 - **Relevance Tags:**
     - #cpp
     - #language
-    - #expressions
     
 - **Topic Tags:**
-    - #operators        
-    - #evaluation   
-    - #precedence    
-    - #valuecategories
+    - #expressions
+    - #operators 
     
 **Links / Tags:**
 - **Relevance Links:**
