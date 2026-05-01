@@ -58,14 +58,14 @@ SEE MORE:  [[Operators in C++]]
 
 # Synopsis
 
-- Expressions
+- Expression:
 	- Something C++ can evaluate
 	  
-- operator
+- Operator
 	- symbol that tells C++ what operation to perform
 	  
-- Operands:
-	- Values the operator works on
+- Operand:
+	- Value the operator works on
 	
 
 ---
