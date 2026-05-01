@@ -22,9 +22,9 @@
 - **Topic Links:**
     - [[Expressions in C++]]
     - [[Operators in C++]]
-    - [[Operator Precedence and Associativity]]    
-    - [[Value Categories in C++]]    
-    - [[Implicit and Explicit Conversions in Expressions]]
+    - [[Operator Precedence and Associativity]]  -> should be in Operators in C++
+    - [[Value Categories in C++]]  -> Should be in Expressions in C++
+    - [[Implicit and Explicit Conversions in Expressions]] -> Should be in Expressions in C++
     
 ---
 
