@@ -58,7 +58,7 @@
   Discussed in: [[Expression Evaluation in C++]]
 
 ---
-## 
+## Value Category
 
 
 ---
