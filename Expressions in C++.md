@@ -49,6 +49,11 @@
 		- `(x + 3) * (x + 2)`
 		- here `x`, `3`,`x + 3` etc.; are all valid expressions
 
+---
+## Expression Evaluation
+
+- 
+
 
 ---
 # Related Notes
