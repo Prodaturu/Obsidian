@@ -4,14 +4,10 @@
 
 **Hashtags:**
 - **Relevance Tags:**
-	- #cpp
-	- #controlflow
-	- #languagefeatures
+	- #cpp #controlflow #languagefeatures
 - **Topic Tags:**
-	- #branches
-	- #loops
-	- #jumps
-
+	- #branches #loops #jumps
+	  
 **Links / Tags:**
 - **Relevance Links:**
 	- C++ Language Features          <!-- parent -->
