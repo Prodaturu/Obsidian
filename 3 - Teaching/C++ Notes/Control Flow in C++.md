@@ -28,7 +28,6 @@
 > How C++ decides **what runs next**.
 
 Control flow is about:
-
 - choosing between paths (branches)
 - repeating actions (loops)
 - exiting a block or function early (jumps / return)
