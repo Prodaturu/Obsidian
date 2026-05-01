@@ -65,9 +65,8 @@
 
 - Every C++ expression can be characterised by 2 independent properties
 	- non-reference type
-	- primary value category
-	  
-- 
+	- primary [[Value Categories in C++|value category]]
+
 
 ---
 # Related Notes
