@@ -3,18 +3,10 @@
 **Note Type:** #map
 
 **Hashtags:**
-- **Relevance Tags:**
-	- #cpp
-	- #language
-	- #semantics
-	
+- **Relevance Tags:** 
+	- #cpp #language #semantics
 - **Topic Tags:**
-	- #syntax
-	- #expressions
-	- #functions
-	- #controlflow
-	- #templates
-	- #compilationmodel
+	- #languagecore #semantics #syntax #compilationmodel #typesystem
 	  
 **Links / Tags:** 
 - **Relevance Links:**

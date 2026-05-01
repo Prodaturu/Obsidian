@@ -8,14 +8,10 @@ sticker: lucide//code
 
 **Hashtags:**
 - **Relevance Tags**
-	- #cpp
-	- #programminglanguage 
+	- #cpp #programminglanguage 
 	
 - **Topic Tags:**
-	- #OOPS 
-	- #compiledlanguage
-	- #lowlevel
-	- #multiparadigm
+	- #OOPS  #compiledlanguage #lowlevel #multiparadigm
 	
 **Links / Tags:** 
 - **Relevance Links:**
