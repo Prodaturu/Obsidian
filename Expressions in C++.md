@@ -71,7 +71,10 @@
 
 - Every C++ expression has 2 independent properties
 	- [[C++ Data Types|Type]]
+		- What kind of value the expression produce or refer to
+		  
 	- [[Value Categories in C++|Value category]]
+		- How does this expression behave when used
 	  
 - These properties effect how the expression can be used
 
