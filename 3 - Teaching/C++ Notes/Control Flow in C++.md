@@ -32,6 +32,9 @@ Control flow is about:
 - repeating actions (loops)
 - exiting a block or function early (jumps / return)
 
+
+---
+The down ones belong to control flow statements not control flow 
 ## Branching
 
 - [[If else in C++]]  
