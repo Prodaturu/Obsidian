@@ -32,7 +32,7 @@
 
 ## Expressions
 
-- Anything that produces some value or performs some action
+- Anything that *produces a value* or *performs an action* is called an Expression
 - So anything C++ can evaluate is an Expression
 - Examples:
 	  - `x + 3`
