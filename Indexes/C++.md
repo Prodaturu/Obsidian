@@ -13,10 +13,9 @@ sticker: lucide//code
 	
 - **Topic Tags:**
 	- #OOPS 
-	- #genericprogramming
-	- #systemsprogramming
 	- #compiledlanguage
 	- #lowlevel
+	- #multiparadigm
 	
 **Links / Tags:** 
 - **Relevance Links:**
