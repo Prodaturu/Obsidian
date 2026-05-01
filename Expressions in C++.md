@@ -35,7 +35,6 @@
 	
   - All of the above examples are Expressions as they are valid things that can be evaluated by C++
 
-
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 
