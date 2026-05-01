@@ -26,7 +26,7 @@
 
 # Expressions in C++
 
-- Sequence of *operators* and *operands*, 
+- Sequence of *operators* and *operands*, that specifies a computation
 - Anything that *produces a value* or *performs an action* is called an **expression**
 - So anything C++ can evaluate is an Expression
 - Examples:
