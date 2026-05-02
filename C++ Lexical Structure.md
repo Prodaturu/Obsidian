@@ -14,7 +14,8 @@
 	
 - **Topic Links:**
 	- [[C++ Tokens]]
-		- [[Keyboards in C++]]
+		- the ones below will be moved into Tokens note later on 
+		- [[Keywords in C++]]
 		- [[Identifiers in C++]]
 		- [[Literals in C++]]
 		- [[Operators and Punctuator Tokens in C++]]
@@ -25,8 +26,25 @@
 
 # C++ Lexical Structure
 
-- 
-  [[Operators in C++]]
+- C++ Lexical Structure describes how
+	- raw source code text is broken into meaningful pieces before the code is parsed
+	- These meaningful pieces are called [[C++ Tokens|tokens]]
+- Lexical Structure is the first layer of understanding C++ source code
+	- before C++ can understand expressions, statements, declarations, or functions
+	- It has to understand the basic pieces of source text first
+	  
+---
+
+## Core Idea
+
+- Source code is initially just plain text
+- The compiler processes that text and recognises meaningful units
+	- These units are [[C++ Tokens|tokens]]
+	  
+- Example:
+- ```cpp
+	int x = 5
+```
 
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
