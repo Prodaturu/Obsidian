@@ -48,7 +48,7 @@ The language core defines the fundamental rules that govern:
 
 - At this level
 	- C++ can be understood by separating the language into a small set of fundamental conceptual areas
-	- together they define how programs are
+	- together they define how programs are:
 		- written
 		- checked
 		- evaluated
