@@ -42,8 +42,8 @@
 	- These units are [[C++ Tokens|tokens]]
 	  
 - Example:
-- ```cpp
-	int x = 5
+```cpp
+int x = 5
 ```
 
 # Related Notes
