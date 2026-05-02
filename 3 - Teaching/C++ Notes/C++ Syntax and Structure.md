@@ -47,18 +47,22 @@
 		- [[Preprocessing in C++|Pre-Processing]] describes changes to source code before normal compilation begins
 		
 	- ### Program Layout
+		- Describes how C++ code is physically arranged inside source files
 		- [[C++ Program Structure]]
-			- translation units, headers, source files, linkage
+			- headers, source files, linkage
 			  
 		- [[Declarations and Definitions in C++]]
 			- introducing vs fully defining entities
 	  
-- ### Name Organisation
-	- [[Scopes in C++]]
-		- block, function, namespace, class and global scope and their rules
-		  
-	- [[Namespaces in C++]]
-		- Grouping names, `using` directives, nested namespaces
+	- ### Name Organisation
+		- Describes how names are introduced, grouped, and made visible in different parts of a program
+		- [[Scopes in C++]]
+			- block, function, namespace, class and global scope and their rules
+			  
+		- [[Namespaces in C++]]
+			- Grouping names, `using` directives, nested namespaces
+		
+	
 
 ---
 # Related Notes
