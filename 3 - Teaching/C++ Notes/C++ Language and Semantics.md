@@ -28,7 +28,7 @@
 > Map of Content for the C++ language core
 
 - C++ language semantics describe how valid C++ programs are formed and how meaning is assigned to source code
-	- independent of libraries, tooling, or resource ownership concerns.
+	- independent of libraries, tooling, or resource ownership concerns
 
 ---
 ## Conceptual Components
@@ -67,7 +67,7 @@
 - Compiler design
 - Type systems
 - Programming language theory
-- Generic Programming
+- Generic programming
 # References
 - ISO/IEC C++ Standard
 - [cppreference](https://cppreference.com/)
