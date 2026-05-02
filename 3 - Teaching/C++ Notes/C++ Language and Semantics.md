@@ -6,7 +6,7 @@
 - **Relevance Tags:** 
 	- #cpp #language #semantics
 - **Topic Tags:**
-	- #languagecore #semantics #syntax #compilationmodel #typesystem
+	- #languagecore #semantics #syntax #compilationmodel #typesystem #templates 
 	  
 **Links / Tags:** 
 - **Relevance Links:**
@@ -19,7 +19,7 @@
 	- [[Functions and Callables in C++]]
 	- [[Control Flow in C++]]
 	- [[Templates in C++]]
-	- [[Compilation Model and Translation Units]]
+	- [[Compilation Model and Translation Units in C++]]
 	
 ---
 
@@ -31,19 +31,6 @@
 	- independent of libraries, tooling, or resource ownership concerns.
 
 ---
-
-## Language core
-
-The language core defines the fundamental rules that govern:  
-- program [[C++ Syntax and Structure|structure and syntax]]
-- [[Expressions in C++|Expression]] formation and evaluation  
-- [[Statements in C++|Statement]] forms and execution  
-- [[C++ Type System|Type]] rules and type checking  
-- [[Functions and Callables in C++|function]] definition and invocation  
-- [[Control Flow in C++|control-flow]] constructs  
-- [[Templates in C++|template]] mechanisms  
-- the [[Compilation Model and Translation Units|compilation model and translation units]]
-
 ## Conceptual Components
 
 - At this level
@@ -54,13 +41,13 @@ The language core defines the fundamental rules that govern:
 		- evaluated
 		- translated
 	
-- Language consists of the following conceptual components:
+- C++ Language Core consists of the following conceptual components:
 	- ### Surface language structure
 		- [[C++ Syntax and Structure]]
 		- [[Expressions and Operators in C++]]
+		- [[Statements in C++]]
 		- [[Functions and Callables in C++]]
 		- [[Control Flow in C++]]
-		- [[Compilation Model and Translation Units]]
 		   
 	- ### Semantic foundations
 		- [[C++ Type System]]
@@ -68,6 +55,9 @@ The language core defines the fundamental rules that govern:
 	- ### Abstraction mechanisms
 		- [[Templates in C++]]
 		  
+	- ### Translation Model
+		- [[Compilation Model and Translation Units in C++]]
+	
 ---
 
 # Related Notes
@@ -77,7 +67,7 @@ The language core defines the fundamental rules that govern:
 - Compiler design
 - Type systems
 - Programming language theory
-
+- Generic Programming
 # References
 - ISO/IEC C++ Standard
 - [cppreference](https://cppreference.com/)
