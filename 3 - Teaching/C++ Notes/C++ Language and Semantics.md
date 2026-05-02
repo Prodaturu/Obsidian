@@ -63,7 +63,7 @@ The language core defines the fundamental rules that govern:
 		- [[Compilation Model and Translation Units]]
 		   
 	- ### Abstraction mechanisms
-		- [[Generic Programming in C++]]
+		- [[Templates in C++]]
 		  
 	- ### Semantic foundations
 		- [[C++ Type System]]
