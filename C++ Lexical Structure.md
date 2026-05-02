@@ -33,7 +33,7 @@
 	- these [[C++ Source Character Set|source characters]] are then grouped into [[C++ Tokens|tokens]]
 	- [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help making
 		- source code readable
-		- separating source code into [[C++ Tokens|tokens]]
+		- separate source code into [[C++ Tokens|tokens]]
 	- raw source code text is broken into meaningful pieces before the code is parsed
 	- These meaningful pieces are called [[C++ Tokens|tokens]]
 	- Example:
