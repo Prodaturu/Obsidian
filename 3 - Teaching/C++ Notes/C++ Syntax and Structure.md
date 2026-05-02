@@ -40,8 +40,6 @@
 ## Conceptual Components
 
 - C++ source syntax and structure can be broken into:
-	- how programs are physically laid out
-	- how names are introduced and scoped
 	- ### Lexical Structure
 		- [[C++ Lexical Structure|Lexical Structure]] describes how raw source text is broken into meaningful pieces (tokens) that compiler can understand
 		  
