@@ -56,7 +56,7 @@ sticker: lucide//code
 	  
 - C++ emphasises 
 	- performance
-	- deterministic behavior
+	- deterministic behaviour
 	- explicit control over resources
 	- object lifetimes
 	
