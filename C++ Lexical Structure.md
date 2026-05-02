@@ -32,11 +32,9 @@
 	- source code is treated like plain text
 	- this text is read as [[C++ Source Character Set|source characters]]
 	- these [[C++ Source Character Set|source characters]] are then grouped into [[C++ Tokens|tokens]]
-	- [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help making
-		- source code readable
-		- separate source code into [[C++ Tokens|tokens]]
-	- raw source code text is broken into meaningful pieces before the code is parsed
-	- These meaningful pieces are called [[C++ Tokens|tokens]]
+	- [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help:
+		- making source code readable
+		- separating source code into meaning pieces called [[C++ Tokens|tokens]]
 		- Example:
 	-  ```cpp
 int x = 5
@@ -56,10 +54,12 @@ int x = 5
 	- functions
 	
 ---
-## How Source Text Becomes tokens
+## Synopsis
 - C++ source code is written using readable [[C++ Source Character Set|source characters]]
 - from which meaningful units called  [[C++ Tokens|tokens]] are formed
-- while [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help in token separation and readability
+- while [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help with:
+	- readability
+	- token separation
 
 
 ---
