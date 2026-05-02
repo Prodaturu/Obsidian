@@ -5,33 +5,43 @@
 **Hashtags:**
 
 - **Relevance Tags:**
-    - #cpp
-    - #language
-    - #syntax
+    - #cpp #language #syntax
     
 - **Topic Tags:**
-    - #grammar
-    - #structure
-    - #namespaces
-    - #preprocessing
+    - #structure #namespaces #preprocessing #scope #namespaces 
     
 **Links / Tags:**
 - **Relevance Links:**
     - C++ Language and Semantics
     
 - **Topic Links:**
-    - [[C++ Tokens and Lexical Structure]]
-    - [[C++ Program Structure]]
-    - [[Namespaces in C++]]
-    - [[Preprocessing in C++]]
-    - [[Comments and Whitespace in C++]]
+	- [[C++ Tokens and Lexical Structure]]  
+	- [[Comments and Whitespace in C++]]  
+	- [[Preprocessing in C++]]  
+	- [[C++ Program Structure]]  
+	- [[Declarations and Definitions in C++]]  
+	- [[Scopes in C++]]  
+	- [[Namespaces in C++]]
       
 ---
 
 # C++ Syntax and Structure
 
-- 
+- Describes how C++ Source-Code is physically written and organised
+- This covers:
+	- basic pieces of source-code
+	- how source files and programs are arranged
+	- how declarations and definitions introduce program entities
+	- how scopes control where names are visible
+	- how namespaces organise names
+	- how pre-processing changes source code before compilation
+	  
+---
 
+## Conceptual Components
+
+
+---
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 
