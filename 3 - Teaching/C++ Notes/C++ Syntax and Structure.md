@@ -40,6 +40,7 @@
 ## Conceptual Components
 
 - C++ source syntax and structure can be broken into:
+	  
 	- ### Lexical Structure
 		- [[C++ Lexical Structure|Lexical Structure]] describes how raw source text is broken into meaningful pieces (tokens) that compiler can understand
 		  
@@ -48,19 +49,18 @@
 		
 	- ### Program Layout
 		- Describes how C++ code is physically arranged inside source files
-		- [[C++ Program Structure]]
-			- headers, source files, linkage
-			  
-		- [[Declarations and Definitions in C++]]
-			- introducing vs fully defining entities
+		- [[C++ Program Structure|Program Structure]] describes the physical shape of a C++ program  
+			- source files, includes, functions, blocks, and program entry point
+			
+		- [[Declarations and Definitions in C++|Declarations and Definitions]] describe how program entities are introduced and fully defined
 		
 	- ### Name Organisation
 		- Describes how names are introduced, grouped, and made visible in different parts of a program
-		- [[Scopes in C++]]
-			- block, function, namespace, class and global scope and their rules
+		- [[Scopes in C++|Scopes]] describe where names are visible and usable in a program
+			- block scope, function scope, namespace scope, class scope and global scope
 			  
-		- [[Namespaces in C++]]
-			- Grouping names, `using` directives, nested namespaces
+		- [[Namespaces in C++|Namespaces]] describe how names are grouped to avoid collisions and organise code  
+			- namespace blocks, nested namespaces, `using` declarations, and `using` directives
 		
 	
 
