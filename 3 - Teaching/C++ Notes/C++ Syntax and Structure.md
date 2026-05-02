@@ -15,7 +15,7 @@
     - C++ Language and Semantics
     
 - **Topic Links:**
-	- [[C++ Tokens and Lexical Structure]]
+	- [[C++ Lexical Structure]]
 	- [[Preprocessing in C++]]
 	- [[C++ Program Structure]]
 	- [[Declarations and Definitions in C++]]
@@ -40,27 +40,20 @@
 ## Conceptual Components
 
 - C++ source syntax and structure can be broken into:
-	- how raw text becomes tokens
-	- how pre processing alters the source
 	- how programs are physically laid out
 	- how names are introduced and scoped
-	  
-- ### Lexical Structure
-	- Describes how raw source text is broken into meaningful pieces that compiler can understand
-	- [[C++ Tokens and Lexical Structure]]
-		- smallest meaningful units (tokens) the compiler needs
-	
-- ### Pre-Processing
-	- 
-	- [[Preprocessing in C++]]
-		- macro replacement, file inclusion, conditional compilation
-	  
-- ### Program Layout
-	- [[C++ Program Structure]]
-		- translation units, headers, source files, linkage
+	- ### Lexical Structure
+		- [[C++ Lexical Structure|Lexical Structure]] describes how raw source text is broken into meaningful pieces (tokens) that compiler can understand
+		  
+	- ### Pre-Processing
+		- [[Preprocessing in C++|Pre-Processing]] describes changes to source code before normal compilation begins
 		
-	- [[Declarations and Definitions in C++]]
-		- introducing vs fully defining entities
+	- ### Program Layout
+		- [[C++ Program Structure]]
+			- translation units, headers, source files, linkage
+			  
+		- [[Declarations and Definitions in C++]]
+			- introducing vs fully defining entities
 	  
 - ### Name Organisation
 	- [[Scopes in C++]]
