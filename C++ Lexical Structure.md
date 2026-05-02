@@ -26,7 +26,12 @@
 
 # C++ Lexical Structure
 
-- C++ Lexical Structure describes how
+- C++ Lexical Structure describes the early reading stage of C++ surce code
+- At this stage:
+	- source code is treated like plain text
+	- this text is read as source characters
+	- these characters are then grouped into [[C++ Tokens|tokens]]
+	- 
 	- raw source code text is broken into meaningful pieces before the code is parsed
 	- These meaningful pieces are called [[C++ Tokens|tokens]]
 - Lexical Structure is the first layer of understanding C++ source code
