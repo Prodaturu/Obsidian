@@ -40,21 +40,36 @@
 
 ## Conceptual Components
 
-- 
+- C++ source syntax and structure can be broken into:
+	- how raw text becomes tokens
+	- how pre processing alters the source
+	- how programs are physically laid out
+	- how names are introduced and scoped
+	  
 - ### Lexical Structure
 	- [[C++ Tokens and Lexical Structure]]
+		- smallest meaningful units (tokens) the compiler needs
+		  
 	- [[Comments and Whitespace in C++]]
+		- how the tokeniser handles spacing and strips comments
 	
 - ### Pre-Processing
 	- [[Preprocessing in C++]]
+		- macro replacement, file inclusion, conditional compilation
 	  
 - ### Program Layout
 	- [[C++ Program Structure]]
+		- translation units, headers, source files, linkage
+		
 	- [[Declarations and Definitions in C++]]
+		- introducing vs fully defining entities
 	  
 - ### Name Organisation
 	- [[Scopes in C++]]
+		- block, function, namespace, class and global scope and their rules
+		  
 	- [[Namespaces in C++]]
+		- Grouping names, `using` directives, nested namespaces
 
 ---
 # Related Notes
@@ -64,3 +79,4 @@
 - C++ Type System
 ---
 # References
+- [cppreference.com](https://en.cppreference.com) – Lexical conventions, Preprocessor, Scope, Namespaces
