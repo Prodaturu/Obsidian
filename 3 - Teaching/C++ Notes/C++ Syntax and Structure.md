@@ -40,6 +40,20 @@
 
 ## Conceptual Components
 
+- ### Lexical Structure
+	- [[C++ Tokens and Lexical Structure]]
+	- [[Comments and Whitespace in C++]]
+	
+- ### Pre-Processing
+	- [[Preprocessing in C++]]
+	  
+- ### Program Layout
+	- [[C++ Program Structure]]
+	- [[Declarations and Definitions in C++]]
+	  
+- ### Name Organisation
+	- [[Scopes in C++]]
+	- [[Namespaces in C++]]
 
 ---
 # Related Notes
