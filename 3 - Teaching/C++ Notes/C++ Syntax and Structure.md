@@ -6,7 +6,6 @@
 
 - **Relevance Tags:**
     - #cpp #language #syntax
-    
 - **Topic Tags:**
     - #structure #namespaces #preprocessing #scope 
     
