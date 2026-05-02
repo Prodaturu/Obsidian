@@ -13,6 +13,7 @@
 	- C++ Syntax and Structure
 	
 - **Topic Links:**
+	- [[C++ Source Character Set]]
 	- [[C++ Tokens]]
 		- the ones below will be moved into Tokens note later on 
 		- [[Keywords in C++]]
@@ -36,22 +37,31 @@
 		- separate source code into [[C++ Tokens|tokens]]
 	- raw source code text is broken into meaningful pieces before the code is parsed
 	- These meaningful pieces are called [[C++ Tokens|tokens]]
-	- Example:
+		- Example:
 	-  ```cpp
 int x = 5
 		```
-	-  This can be understood as tokens like:
-		- `int` is a keyword
-		- `x` is a identifier
-		- `=` is an operator / punctuator token
-		- `5` is a literal
-		- `;` is a punctuator 
+		-  This can be understood as tokens like:
+			- `int` -> keyword
+			- `x` -> identifier
+			- `=` -> operator / punctuator token
+			- `5` -> literal
+			- `;` -> punctuator 
 	- See [[C++ Tokens]] for more in depth understanding
 	  
-- Lexical Structure is the first layer of understanding C++ source code
-	- before C++ can understand expressions, statements, declarations, or functions
-	- It has to understand the basic pieces of source text first
-	  
+- Lexical stage happens before C++ can understand higher level constructs like
+	- expressions
+	- statements
+	- declarations
+	- functions
+	
+---
+## How Source Text Becomes tokens
+- C++ source code is written using readable [[C++ Source Character Set|source characters]]
+- from which meaningful units called  [[C++ Tokens|tokens]] are formed
+- while [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help in token separation and readability
+
+
 ---
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
