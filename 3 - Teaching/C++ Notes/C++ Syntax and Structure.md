@@ -29,19 +29,18 @@
 
 - Describes how C++ Source-Code is physically written and organised
 - This covers:
-	- basic pieces of source-code
-	- how source files and programs are arranged
+	- basic lexical pieces (tokens, comments, whitespaces)
+	- how source files and programs are laid out
 	- how declarations and definitions introduce program entities
 	- how scopes control where names are visible
 	- how namespaces organise names
-	- how pre-processing changes source code before compilation
-	  
+	- how pre-processing alters / changes source code before compilation
+	
 ---
 
 ## Conceptual Components
 
 - ### Lexical Structure
-	- 
 	- [[C++ Tokens and Lexical Structure]]
 	- [[Comments and Whitespace in C++]]
 	
