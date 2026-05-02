@@ -57,7 +57,7 @@ int x = 5;
 ---
 ## Synopsis
 - C++ source code is written using readable [[C++ Source Character Set|source characters]]
-- from which meaningful units called  [[C++ Tokens|tokens]] are formed
+- from these characters, meaningful units called  [[C++ Tokens|tokens]] are formed
 - while [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help with:
 	- readability
 	- token separation
