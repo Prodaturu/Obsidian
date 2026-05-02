@@ -31,7 +31,7 @@
 	- source code is treated like plain text
 	- this text is read as source characters
 	- these characters are then grouped into [[C++ Tokens|tokens]]
-	- 
+	- [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help separate the source code into tokens 
 	- raw source code text is broken into meaningful pieces before the code is parsed
 	- These meaningful pieces are called [[C++ Tokens|tokens]]
 - Lexical Structure is the first layer of understanding C++ source code
