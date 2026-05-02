@@ -62,12 +62,12 @@ The language core defines the fundamental rules that govern:
 		- [[Control Flow in C++]]
 		- [[Compilation Model and Translation Units]]
 		   
+	- ### Semantic foundations
+		- [[C++ Type System]]
+		  
 	- ### Abstraction mechanisms
 		- [[Templates in C++]]
 		  
-	- ### Semantic foundations
-		- [[C++ Type System]]
-	
 ---
 
 # Related Notes
