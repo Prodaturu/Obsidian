@@ -65,7 +65,7 @@ sticker: lucide//code
 
 ## Major Conceptual Areas of C++
 
-C++ can be understood by dividing the language and its ecosystem into following:
+C++ can be understood by dividing the language and its ecosystem into following major areas:
 - [[C++ Language and Semantics|Language core and Semantics]]
 	- rules for syntax, expressions, statements, types etc.,
 	  
@@ -77,6 +77,7 @@ C++ can be understood by dividing the language and its ecosystem into following:
 	  
 - [[C++ Libraries|Libraries]]
 	- standard library facilities, STL, input / output etc.;
+	  
 - [[C++ Tooling and Project Structure|Tooling and project structure]]
 	- compilers, build systems, headers, source files etc.,
 	
