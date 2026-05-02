@@ -17,7 +17,7 @@ sticker: lucide//code
 - **Relevance Links:**
 	- Programming Languages
 	- Systems Programming
-	- [[C vs C++]]
+	- C vs C++
 	  
 - **Topic Links:**
 	- [[C++ Language and Semantics]]
