@@ -53,25 +53,43 @@ sticker: lucide//code
 	- object-oriented programming  
 	- generic programming  
 	- low-level and systems programming
-- C++ emphasises performance, deterministic behavior, and explicit control
-  over resources and object lifetimes
+	  
+- C++ emphasises 
+	- performance
+	- deterministic behavior
+	- explicit control over resources
+	- object lifetimes
+	
 
 ---
-C++ can be understood by dividing the language and its ecosystem into the
-following major conceptual areas:
 
+## Major Conceptual Areas of C++
+
+C++ can be understood by dividing the language and its ecosystem into following:
 - [[C++ Language and Semantics|Language core and Semantics]]
-- [[OOPS in C++|Object-oriented programming]]
-- [[Memory management and Object Lifetime in C++|Memory and lifetime]]
-- [[C++ Algorithms, Data Structures and Libraries|Algorithms and libraries]]
+	- rules for syntax, expressions, statements, types etc.,
+	  
+- [[C++ Programming Paradigms|Programming paradigms]]
+	- procedural, Object Oriented, Generic, system style etc.;
+	
+- [[Memory management and Object Lifetime in C++|Memory and Object lifetime]]
+	- storage, object lifetime, ownership, allocation etc.;
+	  
+- [[C++ Libraries|Libraries]]
+	- standard library facilities, STL, input / output etc.;
 - [[C++ Tooling and Project Structure|Tooling and project structure]]
+	- compilers, build systems, headers, source files etc.,
+	
 - [[Background and History of C++|Background and evolution]]
+	- history, language evolution, and C++ standards etc.;
+	
 
 ---
 
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 
+- C language
 - Compiler design
 - Operating systems
 - Computer architecture
