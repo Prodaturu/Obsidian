@@ -27,9 +27,8 @@
 
 > Map of Content for the C++ language core
 
-C++ language semantics describe how valid C++ programs are formed and how
-meaning is assigned to source code, independent of libraries, tooling, or
-resource ownership concerns.
+- C++ language semantics describe how valid C++ programs are formed and how meaning is assigned to source code
+	- independent of libraries, tooling, or resource ownership concerns.
 
 ---
 
@@ -51,6 +50,7 @@ The language core defines the fundamental rules that govern:
 	- C++ can be understood by separating the language into a small set of fundamental conceptual areas
 	- together they define how programs are
 		- written
+		- checked
 		- evaluated
 		- translated
 	
