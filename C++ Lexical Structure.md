@@ -1,6 +1,6 @@
 **Created:** *<span class ="color-green">02.05.26, 15:16</span>*
 
-**Note Type:**
+**Note Type:** #atomic 
 
 **Hashtags:**
 - **Relevance Tags:**
