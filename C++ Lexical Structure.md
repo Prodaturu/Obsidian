@@ -35,16 +35,17 @@
 	- [[Comments and Whitespaces in C++|Spaces, newlines, and comments]] help:
 		- making source code readable
 		- separating source code into meaning pieces called [[C++ Tokens|tokens]]
-		- Example:
+	
+- Example:
 	-  ```cpp
-int x = 5
+int x = 5;
 		```
-		-  This can be understood as tokens like:
-			- `int` -> keyword
-			- `x` -> identifier
-			- `=` -> operator / punctuator token
-			- `5` -> literal
-			- `;` -> punctuator 
+	-  This can be understood as tokens like:
+		- `int` -> keyword
+		- `x` -> identifier
+		- `=` -> operator / punctuator token
+		- `5` -> literal
+		- `;` -> punctuator 
 	- See [[C++ Tokens]] for more in depth understanding
 	  
 - Lexical stage happens before C++ can understand higher level constructs like
