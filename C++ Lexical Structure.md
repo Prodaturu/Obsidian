@@ -36,35 +36,22 @@
 		- separating source code into [[C++ Tokens|tokens]]
 	- raw source code text is broken into meaningful pieces before the code is parsed
 	- These meaningful pieces are called [[C++ Tokens|tokens]]
+	- Example:
+	-  ```cpp
+int x = 5
+		```
+	-  This can be understood as tokens like:
+		- `int` is a keyword
+		- `x` is a identifier
+		- `=` is an operator / punctuator token
+		- `5` is a literal
+		- `;` is a punctuator 
+	- See [[C++ Tokens]] for more in depth understanding
+	  
 - Lexical Structure is the first layer of understanding C++ source code
 	- before C++ can understand expressions, statements, declarations, or functions
 	- It has to understand the basic pieces of source text first
 	  
----
-
-## Core Idea
-
-- Source code is initially just plain text
-- The compiler processes that text and recognises meaningful units
-	- These units are [[C++ Tokens|tokens]]
-	  
-- Example:
-- ```cpp
-int x = 5
-```
-- This can be understood as tokens like:
-	- `int` is a keyword
-	- `x` is a identifier
-	- `=` is an operator / punctuator token
-	- `5` is a literal
-	- `;` is a punctuator
-- See [[C++ Tokens]] for more in depth understanding
-
----
-
-## What Lexical structure Covers
-
-
 ---
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
