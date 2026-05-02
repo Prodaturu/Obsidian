@@ -8,8 +8,7 @@
     - #cpp #language #syntax
     
 - **Topic Tags:**
-    - #structure #namespaces #preprocessing #scope #namespaces 
-    
+    - #structure #namespaces #preprocessing #scope 
 **Links / Tags:**
 - **Relevance Links:**
     - C++ Language and Semantics
@@ -41,6 +40,7 @@
 ## Conceptual Components
 
 - ### Lexical Structure
+	- 
 	- [[C++ Tokens and Lexical Structure]]
 	- [[Comments and Whitespace in C++]]
 	
