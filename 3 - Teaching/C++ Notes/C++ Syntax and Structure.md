@@ -53,7 +53,7 @@
 			  
 		- [[Declarations and Definitions in C++]]
 			- introducing vs fully defining entities
-	  
+		
 	- ### Name Organisation
 		- Describes how names are introduced, grouped, and made visible in different parts of a program
 		- [[Scopes in C++]]
