@@ -35,7 +35,7 @@ sticker: lucide//code
 > Links to second-level maps covering language core, paradigms, memory and lifetime, libraries, tooling, and historical context.
 
 - C++ is a general-purpose programming language
-	- Not domain specific like HTML SQL etc.;
+	- Not domain specific like HTML or SQL
 	
 - C++ is a statically typed language  
 	- the type of a variable is determined during compilation
