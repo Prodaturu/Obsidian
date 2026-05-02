@@ -46,13 +46,12 @@
 	- how names are introduced and scoped
 	  
 - ### Lexical Structure
+	- Describes how raw source text is broken into meaningful pieces that compiler can understand
 	- [[C++ Tokens and Lexical Structure]]
 		- smallest meaningful units (tokens) the compiler needs
-		  
-	- [[Comments and Whitespace in C++]]
-		- how the tokeniser handles spacing and strips comments
 	
 - ### Pre-Processing
+	- 
 	- [[Preprocessing in C++]]
 		- macro replacement, file inclusion, conditional compilation
 	  
