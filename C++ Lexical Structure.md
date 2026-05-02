@@ -42,10 +42,23 @@
 	- These units are [[C++ Tokens|tokens]]
 	  
 - Example:
-```cpp
+- ```cpp
 int x = 5
 ```
+- This can be understood as tokens like:
+	- `int` is a keyword
+	- `x` is a identifier
+	- `=` is an operator / punctuator token
+	- `5` is a literal
+	- `;` is a punctuator
+- See [[C++ Tokens]] for more in depth understanding
 
+---
+
+## What Lexical structure Covers
+
+
+---
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 
