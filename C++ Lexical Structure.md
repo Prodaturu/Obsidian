@@ -67,8 +67,9 @@ int x = 5;
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 
-- Compilation Model and Translation Units in C++
 - Expressions and Operators in C++
-- 
+- C++ Type System
+- Compiler Design
+- Parsing
 ---
 # References
