@@ -12,8 +12,9 @@
 - **Relevance Links:**
 	- C++ Lexical Structure
 - **Topic Links:**
-	- 
-	  
+	- [[Source File Encoding in C++]]
+		- [[MSVC source-charset Compiler option]]
+	
 ---
 
 # C++ Source Character Set
