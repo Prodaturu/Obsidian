@@ -13,13 +13,13 @@
 	- C++ Lexical Structure
 - **Topic Links:**
 	- [[Source File Encoding in C++]]
-		 
 	
 ---
 # C++ Source Character Set
 
-- Source Character Set describes the characters that C++ source code is understood as being made from
-- These characters are the raw material used before source code is grouped into [[C++ Tokens|tokens]] 
+- Set of Characters C++ source code is written and understood with is called as Source Character-set
+- Source characters are the character-level building blocks used before C++ Source text is grouped into [[C++ Tokens|tokens]]
+- 
 
 ---
 ## Why Source Characters Matter
