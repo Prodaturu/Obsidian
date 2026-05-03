@@ -20,14 +20,15 @@
 - Set of Characters C++ source code is written and understood with is called as Source Character-set
 - Source characters are the character-level building blocks
 	- used before C++ Source text is grouped into tokens
+	  
 ---
 ## Why Source Characters Fit
 
 - C++ source code starts as text
 	- Before C++ can recognise tokens, expressions, statements, or functions
 	- It first works with individual source characters
+	  
 ---
-
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
 
