@@ -16,10 +16,19 @@
 		- [[MSVC source-charset Compiler option]]
 	
 ---
-
 # C++ Source Character Set
 
-- Characters
+- Source Character Set describes the characters that C++ source code is understood as being made from
+- These characters are the raw material used before source code is grouped into [[C++ Tokens|tokens]] 
+
+---
+## Why Source Characters Matter
+
+- C++ source code starts as text
+- That text is read as source characters
+- Those source characters are then grouped into meaningful units called 
+
+---
 
 # Related Notes
 > Things you might want to think about alongside this note, but not because of it
