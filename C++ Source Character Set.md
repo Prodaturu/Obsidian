@@ -52,9 +52,13 @@
 			- so writing `u00FC` is same as writing `ü` in a context where it's allowed
 		- see [[Source File Encoding in C++]] for more on how
 			- physical bytes in a file map to these source characters
+		
+	
 ---
 # Related Notes
 
 > Things you might want to think about alongside this note, but not because of it
+
+
 ---
 # References
