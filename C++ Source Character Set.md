@@ -49,6 +49,8 @@
 		- portable way to write any Unicode character using only basic source characters
 		- `\uNNNN` or `\UNNNNNNNN` (where N are hex digits)
 		- UCNs are translated into the equivalent character inside the compiler
+			- so writing `u00FC` is same as writing `ü` in a context where it's allowed
+		- see [[Source File Encoding in C++]] for more on how 
 ---
 # Related Notes
 
