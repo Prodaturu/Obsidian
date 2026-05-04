@@ -43,7 +43,10 @@
 
 - If a character is not in the basic source character set like `ü` or an emoji
 - we have 2 options to use it in the source code
-	- 
+	- Rely on compiler's extended source character support
+		- platform dependent, not portable
+	- use a UCN (Universal Character Name)
+		- portable way to write any Unicode character using only basic source characters
 	  
 ---
 # Related Notes
