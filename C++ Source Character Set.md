@@ -50,7 +50,8 @@
 		- `\uNNNN` or `\UNNNNNNNN` (where N are hex digits)
 		- UCNs are translated into the equivalent character inside the compiler
 			- so writing `u00FC` is same as writing `ü` in a context where it's allowed
-		- see [[Source File Encoding in C++]] for more on how 
+		- see [[Source File Encoding in C++]] for more on how
+			- physical bytes in a file map to these source characters
 ---
 # Related Notes
 
