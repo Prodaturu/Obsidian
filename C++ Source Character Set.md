@@ -20,7 +20,9 @@
 - Set of characters allowed to use directly when writing C++ source code
 - These are the rawest building blocks:
 	- Before the compiler groups anything into tokens (like `int` or `42`)
-	- 
+	- Compiler looks at the file as a sequence of source characters
+	
+- 
 ---
 ## Why Source Characters Fit
 
