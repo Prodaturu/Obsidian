@@ -17,7 +17,7 @@
 ---
 # C++ Source Character Set
 
-- Set of Characters C++ source code is written and understood with is called as Source Character-set
+- Set of characters allowed to use directly when writing C++ source code
 - Source characters are the character-level building blocks
 	- used before C++ Source text is grouped into tokens
 	  
