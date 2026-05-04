@@ -48,7 +48,7 @@
 	- use a UCN (Universal Character Name)
 		- portable way to write any Unicode character using only basic source characters
 		- `\uNNNN` or `\UNNNNNNNN` (where N are hex digits).
-	  
+	
 ---
 # Related Notes
 
