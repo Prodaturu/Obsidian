@@ -22,17 +22,30 @@
 	- Before the compiler groups anything into tokens (like `int` or `42`)
 	- Compiler looks at the file as a sequence of source characters
 	
-- 
 ---
-## Why Source Characters Fit
+## What characters can you write?
 
-- C++ source code starts as text
-	- Before C++ can recognise tokens, expressions, statements, or functions
-	- It first works with individual source characters
+- The C++ standard defines a *basic source character set* that every conforming compiler must accept
+- It consists of
+	- 52 letters
+	- 10 digits
+	- 29 punctuation and special characters
+	- 5 whitespace characters
+	
+- These is everything needed to write
+	- keywords
+	- identifiers
+	- literals
+	- operators
+	
+---
+## What about characters not in the basic set?
+
+- If a character is not in the basic source character set
 	  
 ---
 # Related Notes
-> Things you might want to think about alongside this note, but not because of it
 
+> Things you might want to think about alongside this note, but not because of it
 ---
 # References
