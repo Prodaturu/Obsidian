@@ -18,9 +18,9 @@
 # C++ Source Character Set
 
 - Set of characters allowed to use directly when writing C++ source code
-- Source characters are the character-level building blocks
-	- used before C++ Source text is grouped into tokens
-	  
+- These are the rawest building blocks:
+	- Before the compiler groups anything into tokens (like `int` or `42`)
+	- 
 ---
 ## Why Source Characters Fit
 
