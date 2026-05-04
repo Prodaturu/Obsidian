@@ -41,7 +41,9 @@
 ---
 ## What about characters not in the basic set?
 
-- If a character is not in the basic source character set
+- If a character is not in the basic source character set like `ü` or an emoji
+- we have 2 options to use it in the source code
+	- 
 	  
 ---
 # Related Notes
