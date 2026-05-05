@@ -59,6 +59,7 @@
 
 > Things you might want to think about alongside this note, but not because of it
 
-
+- Unicode
+- Character encoding
 ---
 # References
