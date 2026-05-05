@@ -63,3 +63,4 @@
 - Character encoding
 ---
 # References
+[cpp reference](https://en.cppreference.com/cpp/language/charset)
