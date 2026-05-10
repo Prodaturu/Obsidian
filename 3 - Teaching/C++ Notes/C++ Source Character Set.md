@@ -26,7 +26,7 @@
 ## What characters can you write?
 
 - The C++ standard defines a *basic source character set* that every conforming compiler must accept
-- It consists of
+- It consists of (pre C++26)
 	- 52 letters
 	- 10 digits
 	- 29 punctuation and special characters
@@ -46,10 +46,10 @@
 	- Rely on compiler's extended source character support
 		- platform dependent, not portable
 	- use a UCN (Universal Character Name)
-		- portable way to write any Unicode character using only basic source characters
+		- portable way to write many Unicode characters using only basic source characters
 		- `\uNNNN` or `\UNNNNNNNN` (where N are hex digits)
 		- UCNs are translated into the equivalent character inside the compiler
-			- so writing `u00FC` is same as writing `ü` in a context where it's allowed
+			- - so writing `\u00FC` represents `ü` in a context where that character is allowed
 		- see [[Source File Encoding in C++]] for more on how
 			- physical bytes in a file map to these source characters
 		
