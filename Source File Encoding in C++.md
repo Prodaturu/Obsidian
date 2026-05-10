@@ -19,12 +19,13 @@
 # Source File Encoding in C++
 
 - Describes how the bytes stored in a C++ source file are interpreted as characters
+- A source file is physically stored as bytes
 - Before the compiler can work with source characters
-	- it must first read the file bytes correctly
+	- it must first read the file bytes as text
 - This matters when the source file contains characters outside the basic character set
 - The rough flow is:
 	- source file bytes
-	- source file encoding
+	- **source file encoding**
 	- source characters
 	- tokens
 	
