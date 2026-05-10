@@ -32,11 +32,12 @@
 	- 29 punctuation and special characters
 	- 5 whitespace characters
 	
-- These is everything needed to write
+- This is everything needed to write
 	- keywords
 	- identifiers
 	- literals
 	- operators
+	- punctuators
 	
 ---
 ## What about characters not in the basic set?
@@ -52,7 +53,6 @@
 			- - so writing `\u00FC` represents `ü` in a context where that character is allowed
 		- see [[Source File Encoding in C++]] for more on how
 			- physical bytes in a file map to these source characters
-		
 	
 ---
 # Related Notes
