@@ -37,7 +37,7 @@ sticker: lucide//code
 
 - C++ is a general-purpose programming language
 	- Cn be used for multiple purposes such as desktop applications, web applications etc.,
-	- Not domain specific like HTML or SQL which onl
+	- Not domain specific like HTML or SQL which onlx
 	
 - C++ is a statically typed language  
 	- the type of a variable is determined during compilation
