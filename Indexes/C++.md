@@ -32,12 +32,10 @@ sticker: lucide//code
 # C++
 
 > Main hub for all C++ notes  
-> Links to second-level maps covering 
-> 	language core, paradigms, memory and lifetime, libraries, tooling, and historical context.
+> Links to second-level maps covering language core, paradigms, memory and lifetime, libraries, tooling, and historical context.
 
 - C++ is a general-purpose programming language
-	- Cn be used for multiple purposes such as desktop applications, web applications etc.,
-	- Not domain specific like HTML or SQL that are only responsible for one particular domain
+	- Not domain specific like HTML or SQL
 	
 - C++ is a statically typed language  
 	- the type of a variable is determined during compilation
