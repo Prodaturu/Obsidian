@@ -20,6 +20,7 @@
 	- [[Control Flow in C++]]
 	- [[Templates in C++]]
 	- [[Compilation Model and Translation Units in C++]]
+	- [[C++ Error Handling]]
 	
 ---
 
@@ -57,6 +58,10 @@
 		  
 	- ### Translation Model
 		- [[Compilation Model and Translation Units in C++]]
+
+	- ### Failure and Error Handling
+		- [[C++ Error Handling]]
+			- Describes the kinds of failures a C++ program can encounter and the mechanisms used to detect, report, prevent, and recover from them
 	
 ---
 

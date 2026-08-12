@@ -18,7 +18,7 @@
 	- Constructors in C++        <!-- parent -->
 - **Topic Links:**
 	- [[Default Constructor in C++]]
-	- [[Parameterised Constructor]]
+	- [[Parameterised Constructor in C++]]
 	- [[Copy Constructor in C++]]
 	- [[Move Constructor in C++]]
 	- [[Delegating Constructors in C++]]
@@ -45,7 +45,7 @@ each type has (or will have) its own focused note.
 - takes parameters to initialise the object
 - most common constructor form
 
-→ [[Parameterised Constructor]]
+→ [[Parameterised Constructor in C++]]
 
 ## Copy and move semantics
 
